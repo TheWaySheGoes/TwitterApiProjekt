@@ -10,4 +10,5 @@
   - Socialt engagemang (Antalet favorites/retweets på ledamötens tweets)
   - Länk till twitter/riksdags profil
 * Direkt sökning efter tweets från viss ledamöt
+* Feed med senaste tweetsen från alla ledamöter
 * Sökning efter ledamötsprofil
