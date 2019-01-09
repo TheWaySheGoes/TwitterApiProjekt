@@ -1,0 +1,492 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:46:59",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "c1ffa305-73d1-4a84-bd77-78d7dca108b5",
+      "sourceid": "fff74c6c-fae3-4977-a472-cfe2b6ae257a",
+      "intressent_id": "0964730940415",
+      "hangar_id": "2343166",
+      "fodd_ar": "1961",
+      "kon": "man",
+      "efternamn": "Andersson",
+      "tilltalsnamn": "Johan",
+      "sorteringsnamn": "Andersson,Johan",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Östergötlands län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/fff74c6c-fae3-4977-a472-cfe2b6ae257a",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fff74c6c-fae3-4977-a472-cfe2b6ae257a_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fff74c6c-fae3-4977-a472-cfe2b6ae257a_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fff74c6c-fae3-4977-a472-cfe2b6ae257a_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "32",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "59",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "148",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "22",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-03-31",
+            "tom": "2017-12-31",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2019-10-31",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2017-09-28",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-09-29",
+            "tom": "2017-09-28",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2015-10-01",
+            "tom": "2016-09-29",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-07",
+            "tom": "2015-10-01",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 10-. Ledamot arbetsmarknadsutskottet 10-14 och trafikutskottet 14-. Suppleant trafikutskottet 10-14, arbetsmarknadsutskottet 14-, EU-nämnden 16- och Nordiska rådets svenska delegation 14-16. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Arbetsledaren Sture Andersson och leg. sjuksköterskan Dagmar Waller-Andersson, f. Waller."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Grundskola, Skolgårda skola i Motala, slutår 78. Gymnasieskola, 2-årig vårdlinje, Vätternskolan i Motala, slutår 80. Ett flertal fackliga utbildningar inom LO och Kommunalarbetareförbundet under åren 85-96. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Underskötare, Lasarettet i Motala 80-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Styrelseledamot, Länsstyrelsen i Östergötlands län 98. Ordförande, arbetsmarknadsrådet, Motala 01. Suppleant, socialförsäkringsnämnden 95. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Ordförande, kommunstyrelsen, Motala 96-06. Ledamot, regionförbundet Östsam 98-10. Ordförande revisionsberedning, Motala kommun."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ordförande, Motala Fontänhus. Ledamot Stiftelsen Medevi Brunns framtid. Ordförande, Motala Allmänna Idrottsförening."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "Korrumption, maktmissbruk och legitimitet (10, tillsammans med andra). "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Motala"
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "johan.andersson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.socialdemokraterna.se/johanandersson"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "65315"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Underskötare"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0964730940415",
+            "hangar_id": "2343166"
+          }
+        ]
+      }
+    }
+  }
+}

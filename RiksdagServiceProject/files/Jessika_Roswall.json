@@ -1,0 +1,519 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:06",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "155ebfe1-620b-47dc-b695-dc6faeabe833",
+      "sourceid": "5e09bf12-6f96-4a96-ac0c-27203aef4d2f",
+      "intressent_id": "0718034011110",
+      "hangar_id": "2369315",
+      "fodd_ar": "1972",
+      "kon": "kvinna",
+      "efternamn": "Roswall",
+      "tilltalsnamn": "Jessika",
+      "sorteringsnamn": "Roswall,Jessika",
+      "iort": null,
+      "parti": "M",
+      "valkrets": "Uppsala län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/5e09bf12-6f96-4a96-ac0c-27203aef4d2f",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5e09bf12-6f96-4a96-ac0c-27203aef4d2f_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5e09bf12-6f96-4a96-ac0c-27203aef4d2f_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5e09bf12-6f96-4a96-ac0c-27203aef4d2f_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "57",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "57",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "146",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-03-24",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2017-03-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "13",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2011-09-30",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "13",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2011-09-29",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "25",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-15",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "26",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2014-10-14",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "DN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2019-01-01",
+            "tom": "2022-12-31",
+            "uppgift": [
+              "Domarnämnden"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "21",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RS",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-02",
+            "tom": "2022-10-02",
+            "uppgift": [
+              "Riksdagsstyrelsen"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "DN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2015-01-01",
+            "tom": "2018-12-31",
+            "uppgift": [
+              "Domarnämnden"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "ÖN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2018-10-24",
+            "uppgift": [
+              "Riksdagens överklagandenämnd"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "ÖN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-14",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Riksdagens överklagandenämnd"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "13",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-01-16",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 10-. Ledamot skatteutskottet 10-11 och civilutskottet 11-. Suppleant näringsutskottet 14- och EU-nämnden 14-. Ledamot Riksdagens överklagandenämnd 14- och Domarnämnden 15-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Advokaten Anders Roswall och läraren Titti Roswall, f. Liljestrand."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasiskola, Avesta, slutår 91. Historia, Stockholms universitet 95-97. Jur.kand., Uppsala universitet 02."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Restaurangbiträde, Stockholm 94-95. Sekreterare, advokatfirman Arnstedt, Holmberg & Wiberg, Stockholm 96-99. Jurist/advokat, advokatfirman Wigert & Placht AB 02-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot, Domarnämnden 15-. Ledamot, Konsumentverkets insynsråd 15-. Ledamot, Länsstyrelsen i Uppsala läns insynsråd 16-. Ledamot, Överklagandenämnden för nämndemannauppdrag 15-. Ledamot, parlamentariska referensgruppen för 2014 års demokratiutredning. Ledamot, Integritetskommittén 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Enköping 02-, ordförande  06-10 och 2:e vice ordförande 14-. Ledamot, nämnden för förskola och grundskola 01-06. Ersättare, kommunstyrelsen 02-06. Ersättare, Regionförbundet Uppsala län 07-10. Ersättare, Uppsala läns landsting 09-10. Ersättare, Enköpings hyresbostäder 03-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ledamot, Citymoderaterna i Uppsala 98-00, ordförande 00-01. Ordförande, Enköpingsmoderaterna 03-05, ledamot 03-16 och sekreterare 07-. Ledamot, Enacom 08-12. Ledamot, Brottsofferjouren Enköping 15-. Ledamot, Länsförbundsstyrelsen Moderaterna i Uppsala län 06- och ordförande 14-.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Enköping"
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "jessika.roswall[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Advokat."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0718034011110",
+            "hangar_id": "2369315"
+          }
+        ]
+      }
+    }
+  }
+}

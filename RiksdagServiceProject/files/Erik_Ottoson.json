@@ -1,0 +1,276 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:16",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "f5e28124-4d9b-4a8a-80e8-97b66c4fa7e9",
+      "sourceid": "0f90ef03-a652-45a1-b697-39a33b32e512",
+      "intressent_id": "0832311880029",
+      "hangar_id": "3057136",
+      "fodd_ar": "1989",
+      "kon": "man",
+      "efternamn": "Ottoson",
+      "tilltalsnamn": "Erik",
+      "sorteringsnamn": "Ottoson,Erik",
+      "iort": null,
+      "parti": "M",
+      "valkrets": "Stockholms län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/0f90ef03-a652-45a1-b697-39a33b32e512",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0f90ef03-a652-45a1-b697-39a33b32e512_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0f90ef03-a652-45a1-b697-39a33b32e512_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0f90ef03-a652-45a1-b697-39a33b32e512_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "211",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "55",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2015-01-20",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Statsrådsersättare",
+            "ordningsnummer": "54",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2014-10-03",
+            "uppgift": [
+              "Ewa Björling"
+            ],
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-05-18",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2015-02-05",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 15- (statsrådsersättare 140929-141003). Suppleant trafikutskottet 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057136"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Civilingenjören Åke Ottoson och sekreteraren Karin Wallin."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057136"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Sjödalsgymnasiet, Huddinge, slutår 09. Studier i statsvetenskap och nationalekonomi, Stockholms universitet, ej avslutade. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057136"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Truckförare, Academic Work 09-10. Projektsekreterare med ansvar för valet, Moderaterna i Huddinge kommun 10. Lagerarbetare/truckförare, Academic Work 11. Trafiklandstingsrådssekreterare, Stockholms läns landsting 12-14. Finanslandstingsrådssekreterare, Stockholms läns landsting 15- (tjänstledig). "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057136"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Huddinge 10-. Ersättare, grundskolenämnden, Huddinge 08 och 1:e vice ordförande 11-14. Ledamot, gymnasienämnden, Huddinge 09-10. 1:e vice ordförande, natur- och byggnadsnämnden, Huddinge 15-. Ledamot, jämställdhetsrådet, Huddinge kommun 09-10. Ledamot, mångfalds- och demokratiberedningen, Huddinge kommun 11-14. Vice ordförande, partistöds- och arvodeskommittén, Huddinge kommun 14-. Ordförande, kommunens valberedning, Huddinge 14-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057136"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Styrelseledamot, Moderaterna i Huddinge 07. Vice föreningsordförande, Huddinge MUF 07. Styrelseordförande, Huddinge MUF 07-13. Styrelseersättare, Huddingemoderaternas kretsstyrelse 07. Styrelseledamot, Huddingemoderaternas kretsstyrelse 08-13. Styrelseledamot, Moderaterna i Stockholms län 11-. Styrelseledamot, MUF Stockholm 12-13. Föreningsordförande, Huddingemoderaternas kommunkrets 13-. Föreningsordförande, Friluftsföreningen Bofinken 14-. Styrelsesuppleant, Södertörns energi AB 15-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057136"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "erik.ottoson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64453"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Landstingsrådssekreterare."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0832311880029",
+            "hangar_id": "3057136"
+          }
+        ]
+      }
+    }
+  }
+}

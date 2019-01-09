@@ -1,0 +1,753 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:04",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "f02851a3-72ce-4826-b59b-b8701ce8a2ef",
+      "sourceid": "e7e41401-b4df-11d5-8079-0040ca16072a",
+      "intressent_id": "0363228965800",
+      "hangar_id": "2341833",
+      "fodd_ar": "1933",
+      "kon": "kvinna",
+      "efternamn": "Westerholm",
+      "tilltalsnamn": "Barbro",
+      "sorteringsnamn": "Westerholm,Barbro",
+      "iort": null,
+      "parti": "L",
+      "valkrets": "Stockholms län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/e7e41401-b4df-11d5-8079-0040ca16072a",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e41401-b4df-11d5-8079-0040ca16072a_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e41401-b4df-11d5-8079-0040ca16072a_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e41401-b4df-11d5-8079-0040ca16072a_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "6",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "25",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "110",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "84",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-02",
+            "tom": "2010-10-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "3",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "1998-10-05",
+            "tom": "1999-10-01",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "12",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "1994-10-03",
+            "tom": "1998-10-05",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "17",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "1991-09-30",
+            "tom": "1994-10-03",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "25",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "1988-10-03",
+            "tom": "1991-09-30",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "21",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "25",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-11-05",
+            "tom": "2016-09-28",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-10-01",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2012-09-30",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2009-09-03",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "18",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2009-09-03",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1998-10-13",
+            "tom": "1999-10-01",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1998-10-13",
+            "tom": "1999-10-01",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1998-10-13",
+            "tom": "1999-10-01",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1994-10-11",
+            "tom": "1998-10-04",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1998-01-01",
+            "tom": "1998-10-04",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1994-10-11",
+            "tom": "1995-01-15",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1991-09-30",
+            "tom": "1994-10-02",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1988-10-11",
+            "tom": "1991-09-29",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1988-10-11",
+            "tom": "1991-09-29",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuSoU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2008-01-29",
+            "tom": "2008-05-07",
+            "uppgift": [
+              "Sammansatta justitie- och socialutskottet"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "66",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-11-15",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "53",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-11-05",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2006-10-02",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 88-99 och 06-. Ledamot socialutskottet 94-98, 09-12 och 14- och utbildningsutskottet 98-99. Suppleant socialutskottet 88-94, 06-09 och 12-14, socialförsäkringsutskottet 94-95, 98-99, 06-10 och 14-, utbildningsutskottet 88-91, 98 och 14-16, konstitutionsutskottet 98-99, sammansatta justitie- och socialutskottet 08 och EU-nämnden 14-. Suppleant riksdagens valberedning 06-10 och 14-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Försäkringsaktuarien Helge Lagergren och kansliskrivaren Gunhild Lagergren, f. Werner."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Studentexamen 53. Med.kand., Karolinska Institutet 55. Med.lic. 59. Med.dr 65. Docent 66. Hedersdoktor, farmaceutiska fakulteten, Uppsala universitet 07. Jubeldoktor, Karolinska Institutet 15. Hedersdoktor, odontologiska fakulteten, Malmö högskola 16."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Amanuens, assistent och lärare vid farmakologiska institutionen, Karolinska Institutet 56-65 och doktorand 59-63. Stipendiat, London Toxicology Research Unit 66-67. Föredragande, Medicinalstyrelsen 63-66. Sekreterare, Läkemedelsbiverkningsnämnden 65-70. Medicinalråd, Socialstyrelsen 71-74. Medicinsk expert, Apoteksbolaget AB 74-79. Generaldirektör, Socialstyrelsen 79-85. Medicinsk chef, Apoteksbolaget AB 85-93. Sakkunnig, Socialdepartementet 85-88. Adjungerad professor i läkemedelsepidemiologi, Karolinska Institutet 86-89."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Styrelseledamot, Datainspektionen 74-79, Statshälsan 83-85, Statistiska centralbyrån 87-90, Världshälsoorganisationen 87-88, vice ordförande 88, Folkhälsoinstitutet 92-00, Prioriteringscentrum, Linköping 00-06 och Socialstyrelsens epidemiologiska centrum 04-. Ordförande, Statens institut för psykosocial miljömedicin 83-85, styrelsen för Växjö universitet 01-04. Ledamot, Medicinska forskningsrådet 76-85, Socialdepartementets sjukvårdsdelegation 79-83, Försvarsrådet 79-85, chefsnämnden 79-85, Naturvårdsverkets forskningsnämnd 79-85, Delegationen för social forskning 79-81, Nationalkommittén för de svenska förberedelserna inför Europarådets stadsförnyelsekampanj 79-82, Organisationskommittén för Socialstyrelsen 79-81, Rådgivande nämnden Livsmedelsverket 79-85, Sjukvårdens och socialvårdens planerings- och rationaliseringsinstitut 79-85, Statens miljömedicinska laboratorium 80-85, Socialstyrelsens barnomsorgsdelegation 80-81, Samordningsorganet för alkoholfrågor 80-82, Regionalpolitiska rådet 83-84, Hälso- och sjukvårdsberedningen 83-85, Aids-delegationen 85, Socialstyrelsens läkemedelsbiverkningskommitté 86-87, Statens livsmedelsverks vetenskapliga råd 86-96, Läkemedelsinformationsrådet 86-87 och Tema-rådet, Linköpings universitet 87-90, Uppsala universitets konsistorium 88-92, Jämställdhetsrådet 89-98, Genteknikberedningen 90-92, pensionsarbetsgruppen 91-94, Forskningsrådsnämnden 92-, vice ordförande 93-, Kommittén för förberedelser inför 1995 års världskvinnokonferens 93-95, Husläkardelegationen 93-94, Nationalkommittén för FN:s 50-årsjubileum 94-96, Gentekniknämnden 94-97, Pensionärskommittén 99-05, Nationellt råd för kvinnofrid 00-03, Socialstyrelsens forskningsetiska råd 04-07, Statens medicinsk-etiska råd 06- och Socialstyrelsens brukarråd (IMS) 06-07. Vice ordförande, Stiftelsen Institutet för framtidsstudier 87-97. Ordförande, Socialstyrelsens nämnd för hälsoupplysning 79-80, Partnerskapskommittén 91-93, Kommittén om forskningsetik 97-99, Forskningsrådsnämndens källagrupp 99-02 och Äldreboendedelegationen 06-08. Expert, Brottsförebyggande rådet 79-82 och Jämställdhetskommittén 79-80, Statistikutredningen 81-83. Ensamutredare i utredningen om jämställdhet som biståndsmål 95. Förbundsordförande Sveriges Pensionärsförbund 99-05. Konsument- och brukarråd, European Medicines Agency 09-. Senior Advisor, WHO:s Task Group on social determinants and the health divide in the WHO European Region.  Rättsmedicinalverkets insynsråd 09-16. Ledamot, referensgruppen, utredningen Olika vägar till föräldraskap 16. Ledamot, parlamentariska referensgruppen Utredningen om nationell kvalitetsplan för äldreomsorgen."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Styrelseledamot, Stockholms stadsteater 85-88. Styrelseledamot, TioHundra AB, 06-12. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ordförande, Folkpartiets kvinnoförbund 89-98. Ledamot, Folkpartiets partistyrelse 89-93 och 05-, adjungerad ledamot 93-98. Styrelseledamot, Svenska Handelsbanken 79, Noaks Ark 91-94 och Hälsoinvest 92-94. Ledamot, Stiftelsen WHO Collaborating Centre for International Drug Monitoring 85-86, Apoteksbolagets nämnd för rationell läkemedelssamverkan 87, Volvo Medical Advisory Board 87-89, rådgivande nämnden till Axel och Margaret A:son Johnsons Stiftelse för allmänna nyttiga ändamål 92-95, Ingenjörsvetenskapsakademien 90-, Samfundet äldre läkare 00- och Cancerfonden 04-. Vice ordförande, AGE - Older People's Platform 02-. Ordförande, Apoteksbolagets nämnd för information och statistik 80-86, Friluftsfrämjandet 86-92, Läkare mot Aids 87-90, Sveriges Pensionärsförbund 99-05, programstyrelsen för Ljudlandskap för bättre hälsa, Stiftelsen för miljöstrategisk forskning Mistra 99-, forskningsfonden Duchennes muskeldystrofi 00-, Trafikmedicinska forskningsfonden 03-06 och Börje Olhagens forskningsfond 03-. Huvudman, Nationalföreningen mot hjärt- och lungsjukdomar 79-82, Konung Gustaf V:s 80-årsfond 84-, Konung Oscar II:s jubileumsfond 84- och Stockholms sjukhem 89-. Vice ordförande Samfundet Äldre läkare 01-07, ordförande 07-11. Ordförande, nätverket Liberala Seniorer 05-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "Frisättning av histamin och 5-hyroxtryptamin in vitro - En djurexperimentell studie (64, doktorsavhandling), Etik i politiken (93) och Läkemedelsanvändning (94, tillsammans med andra). Dessutom artiklar i farmakologi och epidemiologi samt debattartiklar i olika hälsofrågor, jämställdhet, forskning, utbildning, etik i politiken och äldrefrågor."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.liberalerna.se/barbro-westerholm/"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Övriga webbsidor",
+            "uppgift": [
+              "http://westerholmbarbro.blogspot.com/"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Övriga webbsidor",
+            "uppgift": [
+              "http://www.facebook.com/people/barbro-westerholm/659447529"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "barbro.westerholm[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64581"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Leg. läkare/Docent/adjungerad Professor emerita."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0363228965800",
+            "hangar_id": "2341833"
+          }
+        ]
+      }
+    }
+  }
+}

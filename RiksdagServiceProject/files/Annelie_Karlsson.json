@@ -1,0 +1,420 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:46:50",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "fc3a6cf6-9f70-4bea-8d56-1514e0e03fcd",
+      "sourceid": "cbadd933-3375-4216-92fd-3d64a56b5a13",
+      "intressent_id": "0199751900210",
+      "hangar_id": "2369341",
+      "fodd_ar": "1965",
+      "kon": "kvinna",
+      "efternamn": "Karlsson",
+      "tilltalsnamn": "Annelie",
+      "sorteringsnamn": "Karlsson,Annelie",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Skåne läns norra och östra",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/cbadd933-3375-4216-92fd-3d64a56b5a13",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cbadd933-3375-4216-92fd-3d64a56b5a13_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cbadd933-3375-4216-92fd-3d64a56b5a13_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cbadd933-3375-4216-92fd-3d64a56b5a13_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "S",
+            "roll_kod": "Vice gruppledare",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2018-03-27",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Socialdemokraterna"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "S",
+            "roll_kod": "Vice gruppledare",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2018-10-09",
+            "tom": null,
+            "uppgift": [
+              "Socialdemokraterna"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "224",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "66",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "124",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "13",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-10",
+            "tom": "2022-10-10",
+            "uppgift": [
+              "Ledamotsrådet"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RS",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-02",
+            "tom": "2022-10-02",
+            "uppgift": [
+              "Riksdagsstyrelsen"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RAN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-01-01",
+            "tom": "2018-12-31",
+            "uppgift": [
+              "Riksdagens ansvarsnämnd"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-02",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Utrikesnämnden"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RS",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-04-10",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "Riksdagsstyrelsen"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 10-. Ledamot arbetsmarknadsutskottet 14-. Suppleant justitieutskottet 10-14 och socialförsäkringsutskottet 10-14. Ledamot valberedningen 14- och riksdagens ansvarsnämnd 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369341"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "2-årigt gymnasium."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369341"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Kapp Ahl i Kristianstad och Handelsanställdas förbund."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369341"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot, Statens ansvarsnämnd."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369341"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Kristianstad"
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369341"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "annelie.karlsson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.socialdemokraterna.se/anneliekarlsson"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "66503"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Ombudsman."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0199751900210",
+            "hangar_id": "2369341"
+          }
+        ]
+      }
+    }
+  }
+}

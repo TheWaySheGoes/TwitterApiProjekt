@@ -1,0 +1,267 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:28",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "62ea73f4-9199-42ee-8d7a-f0b62b1a7f57",
+      "sourceid": "8310e472-996b-4c8a-bce5-4d09fb20a66a",
+      "intressent_id": "0866055333028",
+      "hangar_id": "2369444",
+      "fodd_ar": "1974",
+      "kon": "kvinna",
+      "efternamn": "Anstrell",
+      "tilltalsnamn": "Alexandra",
+      "sorteringsnamn": "Anstrell,Alexandra",
+      "iort": null,
+      "parti": "M",
+      "valkrets": "Stockholms län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/8310e472-996b-4c8a-bce5-4d09fb20a66a",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8310e472-996b-4c8a-bce5-4d09fb20a66a_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8310e472-996b-4c8a-bce5-4d09fb20a66a_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8310e472-996b-4c8a-bce5-4d09fb20a66a_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "212",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Ersättare",
+            "ordningsnummer": "320",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2016-08-01",
+            "tom": "2017-01-31",
+            "uppgift": [
+              "Ida Drougge"
+            ],
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444",
+            "sortering": "45",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Statsrådsersättare",
+            "ordningsnummer": "55",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2014-10-03",
+            "uppgift": [
+              "Hillevi Engström"
+            ],
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "FöU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Försvarsutskottet"
+            ],
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Extra suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-08-01",
+            "tom": "2017-01-31",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444",
+            "sortering": "55",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-11-15",
+            "tom": "2018-12-05",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "24",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14 och 16- (statsrådsersättare 140929-141003 och ersättare 160801-). Extra suppleant utbildningsutskottet 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369444"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Karl Eliasson och Maud Lindell."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369444"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Åre Turist Hotell skola. Ekonomie kandidatexamen, Uppsala universitet. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369444"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Bykrogen, Åre. Brinkeboda Wärdshus, Mörsil. Lundsgården, Åre. Hummelstugan, Åre. Hotel Weisses Rössl, Sankt Wolfgang, Österrike. Linders resor. Ticket resebyråer AB. Ticket Travel Group AB."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369444"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Haninge. Ledamot, kommunstyrelsen, Haninge. 2:e vice ordförande, socialnämnden, Haninge. Ledamot, Haninge Holding AB. Ledamot, stiftelsen Tyrestaskogen. 2:e vice i beredningen för mänskliga rättigheter, Haninge. Representant, Kommunförbundet Stockholms Län (KSL) i Operation Kvinnofrid."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369444"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ordförande, Moderaterna i Haninge. Ledamot, Moderaternas förbundsstyrelse i Stockholms län. Ledamot, Moderatkvinnornas nationella styrelse. Ledamot, Vårljus AB. Ledamot, SRV återvinning AB."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369444"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "alexandra.anstrell[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Civilekonom."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0866055333028",
+            "hangar_id": "2369444"
+          }
+        ]
+      }
+    }
+  }
+}

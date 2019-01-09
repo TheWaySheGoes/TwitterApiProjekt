@@ -1,0 +1,402 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:25:59",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "bbf312fa-8bc2-47b4-b70a-877bad8ba6b5",
+      "sourceid": "b20fb574-b44c-42af-ae93-064dfabbffaf",
+      "intressent_id": "065105536026",
+      "hangar_id": "3057239",
+      "fodd_ar": "1974",
+      "kon": "man",
+      "efternamn": "Karlsson",
+      "tilltalsnamn": "Niklas",
+      "sorteringsnamn": "Karlsson,Niklas",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Skåne läns västra",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/b20fb574-b44c-42af-ae93-064dfabbffaf",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b20fb574-b44c-42af-ae93-064dfabbffaf_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b20fb574-b44c-42af-ae93-064dfabbffaf_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b20fb574-b44c-42af-ae93-064dfabbffaf_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "Systembolaget",
+            "roll_kod": "Revisorssuppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-03-16",
+            "tom": "2019-04-30",
+            "uppgift": [
+              "Systembolaget AB"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": null,
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "Systembolaget",
+            "roll_kod": "Revisorssuppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2015-03-25",
+            "tom": "2016-03-16",
+            "uppgift": [
+              "Systembolaget AB"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": null,
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "292",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "329",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "FöU",
+            "roll_kod": "Ordförande",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Försvarsutskottet"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "10",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FöU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "Försvarsutskottet"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-06-28",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2016-06-28",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Vice ordförande",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-11-15",
+            "tom": "2018-12-05",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "20",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-11-15",
+            "tom": "2018-11-15",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-02",
+            "tom": "2022-10-02",
+            "uppgift": [
+              "Utrikesnämnden"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "ER",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-11-01",
+            "tom": "2018-10-31",
+            "uppgift": [
+              "Europarådets svenska delegation"
+            ],
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Ledamot finansutskottet 16-. Suppleant finansutskottet 14-16. Ledamot Europarådets svenska delegation 14-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Vvs-montören Anders Karlsson och måltidsbiträdet Inga-Lill Karlsson, f. Sandberg."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, Landskrona, slutår 93. Sergeant, Kungl. Wendes Artilleriregemente, A3, Lunds universitet 93-94 ."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Landskrona kommun, Socialdemokraterna i Landskrona. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Revisorssuppleant, Systembolaget AB 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Landskrona 94-. Ledamot, kommunstyrelsen 94-98. Ordförande 02-06 och vice ordförande, kommunstyrelsen 06-12. Kommunalråd 02-12. Ordförande, barn-och utbildningsnämnden 99-02. Kommuninvests ekonomiska förening 07-. Vice ordförande, servicenämnden, Region Skåne 10-14. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ordförande, Lunds socialdemokratiska studentklubb 97. Styrelsen, Socialdemokraterna, Landskrona. Partistyrelsen, Socialdemokraterna 05-. Ordförande, Socialdemokraterna i Skåne 13-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "De radikala idéernas Lund (97, red. Magnus Wennerhag)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "niklas.karlsson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "65136"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Ombudman"
+            ],
+            "typ": "titlar",
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "065105536026",
+            "hangar_id": "3057239"
+          }
+        ]
+      }
+    }
+  }
+}

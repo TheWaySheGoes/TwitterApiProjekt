@@ -1,0 +1,528 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:08",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "99e58418-5b8d-4af5-920a-e3ceabda0d25",
+      "sourceid": "ea8bae0d-0db4-4c68-b59f-3ba83d5f445d",
+      "intressent_id": "0803753212716",
+      "hangar_id": "2369375",
+      "fodd_ar": "1969",
+      "kon": "man",
+      "efternamn": "Jomshof",
+      "tilltalsnamn": "Richard",
+      "sorteringsnamn": "Jomshof,Richard",
+      "iort": null,
+      "parti": "SD",
+      "valkrets": "Blekinge län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/ea8bae0d-0db4-4c68-b59f-3ba83d5f445d",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea8bae0d-0db4-4c68-b59f-3ba83d5f445d_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea8bae0d-0db4-4c68-b59f-3ba83d5f445d_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea8bae0d-0db4-4c68-b59f-3ba83d5f445d_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "SD",
+            "roll_kod": "Partisekreterare",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2015-02-26",
+            "tom": null,
+            "uppgift": [
+              "Sverigedemokraterna"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "35",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "37",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "13",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "200",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "MJU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "23",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-16",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Miljö- och jordbruksutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "18",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2017-12-01",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-11-28",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Försvarsutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "26",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-12-10",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "24",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-01-25",
+            "tom": "2013-02-21",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "MJU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "22",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-01-25",
+            "tom": "2013-02-21",
+            "uppgift": [
+              "Miljö- och jordbruksutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2012-11-27",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "39",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "27",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-14",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2017-09-28",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-09-29",
+            "tom": "2017-09-28",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-04-08",
+            "tom": "2016-09-29",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2015-10-01",
+            "tom": "2016-04-08",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-07",
+            "tom": "2015-10-01",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 10-. Ledamot utbildningsutskottet 10-12 och justitieutskottet 12-14. Suppleant försvarsutskottet 10-14, kulturutskottet 12-13, miljö-och jordbruksutskottet 12-13, utbildningsutskottet 12- och justitieutskottet 14-. Ledamot Nordiska rådets svenska delegation 14-16 och krigsdelegationen 14-. Suppleant Nordiska rådets svenska delegation 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369375"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "SO-lärarexamen, Malmö lärarhögskola/Lunds universitet 97. Fördjupning i geografi och historia, Lunds universitet 97-99."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369375"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Butiksbiträde, Obs! Stormarknad i Helsingborg 88-91. Värnplikt, F 17 Kallinge 91. Klasslärare, år 4, Lerbäckskolan i Lund 99/00. SO-lärare, år 7 och 8, Magnus Stenbocksskolan, Helsingborg 01. Lärare, geografi, filosofi och psykologi, gymnasieskolan Pro Civitas, Växjö 02-05. Politisk sekreterare, Karlskrona kommun 06-10. Politisk sekreterare, landstinget Blekinge 06-10."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369375"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Karlskrona 02-10. Ledamot, kommunstyrelsen, Karlskrona 06-10. Ledamot, barn- och ungdomsnämnden 06-10 och utbildningsnämnden 06-10. Landstingsfullmäktig, Blekinge län 06-10. Ledamot, landstingsstyrelsen 06-10. Ledamot, Blekinge läns regionfullmäktige 06-10."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369375"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "20 röster om 20 år - Sverigedemokraterna 1988-2008 (08)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369375"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Karlskrona "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369375"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "richard.jomshof[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "66504"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "SO-lärare."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0803753212716",
+            "hangar_id": "2369375"
+          }
+        ]
+      }
+    }
+  }
+}

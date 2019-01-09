@@ -1,0 +1,528 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:46:59",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "bc6b4709-4af9-4b6e-be5a-f6af06b4a0b7",
+      "sourceid": "eec523be-f85c-43d5-83b0-e734e43905d1",
+      "intressent_id": "0409540163215",
+      "hangar_id": "2343162",
+      "fodd_ar": "1961",
+      "kon": "man",
+      "efternamn": "Rothenberg",
+      "tilltalsnamn": "Hans",
+      "sorteringsnamn": "Rothenberg,Hans",
+      "iort": null,
+      "parti": "M",
+      "valkrets": "Göteborgs kommun",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/eec523be-f85c-43d5-83b0-e734e43905d1",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eec523be-f85c-43d5-83b0-e734e43905d1_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eec523be-f85c-43d5-83b0-e734e43905d1_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eec523be-f85c-43d5-83b0-e734e43905d1_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "99",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "226",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "263",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "299",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-02",
+            "tom": "2010-10-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "UU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Utrikesutskottet"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "22",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-11-17",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-11-15",
+            "tom": "2018-12-05",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "27",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "24",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-15",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "25",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2014-10-14",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-10-07",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "ÖN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Riksdagens överklagandenämnd"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RJ",
+            "roll_kod": "Personlig suppleant",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-11-01",
+            "tom": "2020-10-31",
+            "uppgift": [
+              "Styrelsen för Stiftelsen Riksbankens Jubileumsfond"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "48",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "ÖN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-14",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Riksdagens överklagandenämnd"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "ÖN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-10-19",
+            "tom": "2014-10-14",
+            "uppgift": [
+              "Riksdagens överklagandenämnd"
+            ],
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 06-. Ledamot näringsutskottet 06- och EU-nämnden 10-. Suppleant kulturutskottet 06-10 och finansutskottet 10-14. Ledamot riksdagens överklagandenämnd 14-. Suppleant Riksdagens överklagandenämnd 10-14 och Överklagandenämnden för nämndemän 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Claes Rothenberg och Git Rothenberg."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, 4-årig teknisk linje, Polhemsgymnasiet i Göteborg, slutår 81. Samhällsvetenskap och ekonomi, Göteborgs universitet 81-85."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Väktare, Argus Vakt, Göteborg 83-90. Säljare, Svensk Publikreklam, Göteborg 85-87. Projektledare/marknadschef/chef affärsutveckling, Svenska Mässan i Göteborg 87-. Egen verksamhet: Musicon Production HB 88-04."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Referensgruppen i Utredningen om vissa villkor för statsråd och statssekreterare 16-17."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Ledamot, bostadsförmedlingsnämnden 86-91 och byggnadsnämnden 92-98, Göteborgs kommun. Medborgarvittne 85-87. Revisor, Göteborgs Egnahems AB 86-96. Styrelseledamot, Göteborgs Spårvagnar AB 89-92 och Business Region Göteborg AB 03-. Regionfullmäktig, Västra Götalandsregionen 98-02. Ledamot, regionutvecklingsnämnden 98-02. Styrelseledamot, Musik i Väst 95-99, ordförande 99- 00, vice ordförande 01-06. Ledamot, Västsvenska Turistrådet AB 03-07."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Vice distriktsordförande, MUF i Göteborg 84-86. Styrelseledamot/vice ordförande, HTF-klubben på Svenska Mässan 90-98. Styrelseledamot, Medborgarskolan i Göteborg 94-98. Ordförande, Linnéstadens Moderater 94-99. Vice förbundsordförande, Moderaterna i Göteborg 00-11. Styrelseledamot, Uppdragshuset ekonomisk förening 07-13. Styrelseledamot, Sveriges Bussresearrangörer 13-. Ordförande, Egenanställningsföretagens Auktorisationsnämnd 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "Jubileumsskrift - Moderata ungdomsförbundet i Göteborg (05)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Göteborg"
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "hans.rothenberg[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Övriga webbsidor",
+            "uppgift": [
+              "http://www.hansrothenberg.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64749"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Affärsutvecklare"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0409540163215",
+            "hangar_id": "2343162"
+          }
+        ]
+      }
+    }
+  }
+}

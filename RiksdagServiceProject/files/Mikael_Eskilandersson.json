@@ -1,0 +1,276 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:09",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "cb8335ed-3ad5-4c50-ab0a-18dc68b5d3f3",
+      "sourceid": "cf98df89-2103-40cc-8524-b2df33125a3f",
+      "intressent_id": "0468956880528",
+      "hangar_id": "2858134",
+      "fodd_ar": "1977",
+      "kon": "man",
+      "efternamn": "Eskilandersson",
+      "tilltalsnamn": "Mikael",
+      "sorteringsnamn": "Eskilandersson,Mikael",
+      "iort": null,
+      "parti": "SD",
+      "valkrets": "Skåne läns norra och östra",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/cf98df89-2103-40cc-8524-b2df33125a3f",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cf98df89-2103-40cc-8524-b2df33125a3f_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cf98df89-2103-40cc-8524-b2df33125a3f_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cf98df89-2103-40cc-8524-b2df33125a3f_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "296",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "107",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "13",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "MJU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Miljö- och jordbruksutskottet"
+            ],
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CKrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-03-13",
+            "tom": "2018-05-24",
+            "uppgift": [
+              "Sammansatta civil- och kulturutskottet"
+            ],
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RB",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Riksbanksfullmäktige"
+            ],
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2017-01-11",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Riksbanksfullmäktige"
+            ],
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Ledamot civilutskottet 14-. Suppleant miljö-och jordbruksutskottet 14-. Suppleant Riksbanksfullmäktige 17-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2858134"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Lantbrukaren Evald Eskilandersson och lantbrukaren Laila Eskilandersson, f. Johansson."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2858134"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Naturbruksgymnasium, Osby slutår 96. Skoglig maskinförarutbildning, Värnamo 97. PC-tekniker/Webbdesign, Klippan 98.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2858134"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Skogsmaskinsförare, Åsbo skogsentreprenad 96-00. Skogsmaskinsförare/övrigt skogsarbete, Göran Långström 00-13. Valsamordnare, Sverigedemokraterna Syd, 13-14.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2858134"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Sverigedemokraternas representant i politisk referensgrupp för Vårdnadsutredningen. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2858134"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Örkelljunga 10-. Ordinarie ledamot, kommunstyrelsen, Örkelljunga 10-14. Ersättare, utbildningsnämnden, Örkelljunga 10-14. Ersättare, regionala tillväxtnämnden, Skåne 08-14. Ersättare, regionfullmäktig Skåne 10-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2858134"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ordförande, SD Örkelljunga 08-. Valberedningen, SD distrikt Syd 15-. Ordförande, SD distrikt Syd 11-15. Gruppledare, kommunfullmäktige för SD Örkelljunga 10-14. Sekreterare, SD distrikt Syd, 10-11. Ledamot, SD distrikt Syd 08-10. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2858134"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "mikael.eskilandersson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Skogsmaskinsförare."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0468956880528",
+            "hangar_id": "2858134"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,393 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:09",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "94c565b0-51a1-43f5-af9f-879b2f37d0c7",
+      "sourceid": "4c6f215d-de3a-452d-83b5-f472b8668b7e",
+      "intressent_id": "0339894357417",
+      "hangar_id": "2343505",
+      "fodd_ar": "1972",
+      "kon": "kvinna",
+      "efternamn": "Nilsson",
+      "tilltalsnamn": "Jennie",
+      "sorteringsnamn": "Nilsson,Jennie",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Hallands län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/4c6f215d-de3a-452d-83b5-f472b8668b7e",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c6f215d-de3a-452d-83b5-f472b8668b7e_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c6f215d-de3a-452d-83b5-f472b8668b7e_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c6f215d-de3a-452d-83b5-f472b8668b7e_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "18",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "188",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "126",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "188",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-02",
+            "tom": "2010-10-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Vice ordförande",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "20",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Ordförande",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "10",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-02-24",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Vice ordförande",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2011-04-14",
+            "tom": "2012-02-23",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "20",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2011-04-13",
+            "tom": "2011-04-14",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2011-04-12",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "40",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "28",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-14",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 06-. Ledamot finansutskottet 10-11, skatteutskottet 11 och vice ordförande skatteutskottet 11-12. Ledamot näringsutskottet 12-14 och ordförande näringsutskottet 14-. Suppleant arbetsmarknadsutskottet 06-10. Ledamot krigsdelegationen 14-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Fabriksarbetaren Gösta Nilsson och förrådsarbeterskan Leny Nilsson, f. Tholin."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, social linje i Halmstad, slutår 90."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Personlig assistent 90-91. Vårdbiträde, Hylte kommun 91-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Hylte 94-06. Ledamot, kommunstyrelsen 95-06, ordförande 01-06. Ersättare/ledamot, barn- och ungdomsnämnden 93-01 och ordförande, arbetsförmedlingsnämnden 01-07 och handikapprådet 01-06. Ledamot, regionfullmäktige och regionstyrelsen, Region Halland 03-06."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ordförande, arbetarekommunens styrelse. Ersättare, Socialdemokraternas distriktsstyrelse. Ledamot, Kommunals sektionsstyrelse i Hylte. Ordförande, Kommunals äldreomsorgsklubb i Hylte. Ungdoms- och studieansvarig i Hylte, Kommunal Halland. Ledamot, ABF:s lokalstyrelse. Ordförande, ABF Halland 09-.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.socialdemokraterna.se/jennienilsson"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "jennie.nilsson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64508"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Vårdbiträde."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0339894357417",
+            "hangar_id": "2343505"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,339 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:01",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "b1038f9a-3aba-4e6d-a88c-9b8e5fc543e9",
+      "sourceid": "6aa5f2eb-568a-4853-a925-65fee736b037",
+      "intressent_id": "0545733815610",
+      "hangar_id": "2343453",
+      "fodd_ar": "1970",
+      "kon": "man",
+      "efternamn": "Reslow",
+      "tilltalsnamn": "Patrick",
+      "sorteringsnamn": "Reslow,Patrick",
+      "iort": null,
+      "parti": "SD",
+      "valkrets": "Värmlands län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/6aa5f2eb-568a-4853-a925-65fee736b037",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6aa5f2eb-568a-4853-a925-65fee736b037_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6aa5f2eb-568a-4853-a925-65fee736b037_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6aa5f2eb-568a-4853-a925-65fee736b037_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "45",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "93",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "63",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "18",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-06-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-06-21",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-11-15",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2017-06-14",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "13",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "23",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-11-17",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 10-. Ledamot justitieutskottet 10-14 och konstitutionsutskottet 14-. Suppleant utbildningsutskottet 10-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Inköpschefen Bert Jönsson och kanslisten Elsie Jönsson, f. Nilsson."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, Ystad 86-90. Wooster High School, Ohio, USA 87-88. Jur.kand., Lunds universitet, 96. Erasmusstudier, Universität Trier, Tyskland 95. Pol.mag., Lunds universitet 97. Master of European Affairs, Lunds universitet 98."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Forskarstuderande, Lunds universitet 00-. Eslövs folkhögskola 02-10. Politisk sekreterare, Malmö kommun 06-10."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Burlöv 98-00. Kommunfullmäktig, Malmö 02-. Ersättare, kommunstyrelsen, Malmö 02-10 och Södra innerstadens stadsdelsnämnd 00-02. Ledamot, barn- och utbildningsnämnden, Burlöv 94-00 och vice ordförande 97-98. 1:e vice ordförande, utbildningsnämnden, Malmö 02-10. Ledamot, Malmöhus läns landsting 91-98. Ledamot, utbildningsnämnden, Malmöhus läns landsting 91-98. 2.e vice ordförande, arbetsmarknads-, gymnasie- och vuxenutbildningsnämnden, Malmö stad 14-. Ersättare, Skolstyrelsen Sjöbo 88-90. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ledamot, Moderata ungdomsförbund, Sjöbo 85-87. Ordförande, Moderata ungdomsförbund Sjöbo 87-92, 94-99. Vice ordförande, Moderata ungdomsförbund, Malmö 92-94, 99. Ledamot, Moderata ungdomsförbundets distriktsstyrelse, Malmöhus 90-92, 98-99, 1:e vice ordförande, Moderata ungdomsförbundets distriktsstyrelse, Malmöhus 92-94. Ordförande, Moderata ungdomsförbund Malmö 99-01. Vice ordförande, Lunds doktorandkår 03-04. Ordförande, Lunds doktorandkår 04-05. Ledamot, förbundsstyrelsen, Moderaterna i Skåne 09-13. Ordförande, Moderaterna i Malmö 13-. Ordförande, Samfällighetsföreningen Skytteltrafiken, Klagshamn 12-.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "\"Rättspolitik och judiciell kontroll\" i: Rättslig integration och pluralism. Nordisk rättskultur i omvandling. Rättshistoriska skrifter. Tredje bandet. Stockholm (01). \"Juridik och politik i tidigmodern tid. En komparativ analys av revisionsinstitutet\" i: Patrick Reslow & Elsa Trolle Önnerfors (red.): Från Schlyters lustgård. Rättshistoriska uppsatser (01). \"Konfederation eller federation. Några historiska reflektioner kring den pågående diskussionen om Europas framtid\" : Patrick Reslow (red.), Från Schlyters lustgård. Rättshistoriska uppsatser (02). \"Centralisering och effektivisering. Några betraktelser rörande den tidigmoderna statsapparaten och dess organisation av den högsta domsmakten\" i: Ivo Asmus, Heiko Droste & Jens E. Olesen (Hg.), Gemeinsame Bekannte. Schweden und Deutschland in der frühen Neuzeit. Münster (03). \"Die Visitation des Tribunals\" i: Nils Jörn, Bernhard Distelkamp & Kjell Å Modéer (Hg.), Integration durch Recht: das Wismarer Tribunal (1653-1806). Böhlau (03)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "patrick.reslow[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "66434"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Jur.kand./Pol.mag./Master of European Affairs"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0545733815610",
+            "hangar_id": "2343453"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:25",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "a48b95c9-f0c2-42fd-a5eb-a7635bc47133",
+      "sourceid": "cebc9890-55f1-41ff-acc7-af2de3e4320e",
+      "intressent_id": "0506482805418",
+      "hangar_id": "2369382",
+      "fodd_ar": "1967",
+      "kon": "man",
+      "efternamn": "From",
+      "tilltalsnamn": "Isak",
+      "sorteringsnamn": "From,Isak",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Västerbottens län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/cebc9890-55f1-41ff-acc7-af2de3e4320e",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cebc9890-55f1-41ff-acc7-af2de3e4320e_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cebc9890-55f1-41ff-acc7-af2de3e4320e_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cebc9890-55f1-41ff-acc7-af2de3e4320e_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "S",
+            "roll_kod": "Kvittningsman",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2017-03-14",
+            "tom": null,
+            "uppgift": [
+              "Socialdemokraterna"
+            ],
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382",
+            "sortering": null,
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "139",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "138",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "203",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "MJU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Miljö- och jordbruksutskottet"
+            ],
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "MJU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Miljö- och jordbruksutskottet"
+            ],
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 10-. Ledamot kulturutskottet 10-14 och miljö-och jordbruksutskottet 14-. Suppleant utbildningsutskottet 10-14 och näringsutskottet 14-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Jordbrukaren/bergarbetaren Helmer Frohm och programmeraren May Frohm, f. Norberg."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, drifts- och underhållsteknisk linje, Sven Winqvists gymnasium, Göteborg, slutår 85. AMU Gällivare, modul utbildning, tunga fordon 93. Fackliga och politiska utbildningar och konferenser under 15 år."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Montör, Volvo Personvagnar AB 85-88. Varierande drift- och borrningsarbeten, TGB- koncernen 88-00. Bergarbetare, Renfors åkeri 00-03. Driftstekniker, Extena 03-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot, Fastighetsdomstolen i Västerbotten 06-10.  Ersättare, Gentekniknämnden."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Norsjö 02-. Ersättare, kommunstyrelsen 99-06. Ordförande, bygg- och miljönämnden 03-06 och utbildnings- och kulturnämnden 07-10. Vice ordförande, kommunstyrelsens tekniska utskott 99-02. 1:e ersättare, landstingsfullmäktige 06-10. Ledamot, nämnden för regional utveckling i Västerbottens läns landsting 07-10. Regionfullmäktig, Västerbotten 08-10. Ledamot, folkhälsonämnden för Skellefteå-Norsjö 07-10."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "FFM lagbas, Byggnads avd. 12 95-99. Avdelningsombud, Metall avd. 49 01-02, Industrifacket 03-06. Skyddsombud, Industrifacket 03-06. Huvudskyddsombud, IF Metall avd. 3 06-10, avdelningsombud 06-12. Försäkringsrådgivare, LO 03-10. Ledamot, Avdelningsstyrelsen avd. 3. Politiskt ansvarig, IF Metall Norra Västerbotten avd. 3. Medlem, Socialdemokraterna 95-. Ordförande, Norsjö S, 98-03. Ledamot, Norsjö arbetarekommuns styrelse 01-, ordförande 02-07. Kassör, IF Metall-sossen. Kongressombud.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Norsjö"
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "isak.from[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.socialdemokraterna.se/isakfrom"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "65682"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Driftstekniker. "
+            ],
+            "typ": "titlar",
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0506482805418",
+            "hangar_id": "2369382"
+          }
+        ]
+      }
+    }
+  }
+}

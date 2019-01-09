@@ -1,0 +1,294 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:18",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "5e3c59ac-ebca-47d6-8ea9-41d7f1fa94c3",
+      "sourceid": "ae37cc33-2580-4221-aa93-4dd4621ecb98",
+      "intressent_id": "0628870165823",
+      "hangar_id": "3057192",
+      "fodd_ar": "1988",
+      "kon": "kvinna",
+      "efternamn": "Hult",
+      "tilltalsnamn": "Emma",
+      "sorteringsnamn": "Hult,Emma",
+      "iort": null,
+      "parti": "MP",
+      "valkrets": "Jönköpings län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/ae37cc33-2580-4221-aa93-4dd4621ecb98",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae37cc33-2580-4221-aa93-4dd4621ecb98_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae37cc33-2580-4221-aa93-4dd4621ecb98_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae37cc33-2580-4221-aa93-4dd4621ecb98_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "289",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "327",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ordförande",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192",
+            "sortering": "10",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "20",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "21",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2015-02-12",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CKrU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-03-13",
+            "tom": "2018-05-24",
+            "uppgift": [
+              "Sammansatta civil- och kulturutskottet"
+            ],
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Ledamot civilutskottet 14-. Suppleant kulturutskottet 14- och utbildningsutskottet 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057192"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, teknikprogrammet, Söderslättsgymnasiet i Trelleborg 04-07. Kandidatexamen/Högskoleingenjör, byggteknik, Tekniska högskolan i Jönköping 07-11. Arkitektur, Deakin University 10."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057192"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Bygglovshandläggare, Halmstad kommun 11. Bygglovshandläggare, Mullsjö Kommun 11-12. Utvecklingsingenjör, Jönköpings kommun 12-14. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057192"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Ledamot, stadsbyggnadsnämnden, Jönköping 10-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057192"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Språkrör, Gröna Studenter, Miljöpartiets studentförbund 13-15. Distriktsordförande, Miljöpartiet de gröna i Jönköpings län 14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057192"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "emma.hult[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Byggnadsingenjör."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0628870165823",
+            "hangar_id": "3057192"
+          }
+        ]
+      }
+    }
+  }
+}

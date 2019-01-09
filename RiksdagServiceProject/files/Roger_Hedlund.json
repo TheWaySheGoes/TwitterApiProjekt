@@ -1,0 +1,321 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:15",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "59922ea3-65b5-46c1-b028-2e76b8419d00",
+      "sourceid": "dd0d47ea-5e71-4ec9-b987-3261320ac857",
+      "intressent_id": "0773497241728",
+      "hangar_id": "3057125",
+      "fodd_ar": "1979",
+      "kon": "man",
+      "efternamn": "Hedlund",
+      "tilltalsnamn": "Roger",
+      "sorteringsnamn": "Hedlund,Roger",
+      "iort": null,
+      "parti": "SD",
+      "valkrets": "Gävleborgs län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/dd0d47ea-5e71-4ec9-b987-3261320ac857",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd0d47ea-5e71-4ec9-b987-3261320ac857_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd0d47ea-5e71-4ec9-b987-3261320ac857_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd0d47ea-5e71-4ec9-b987-3261320ac857_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "310",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "284",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "18",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CKrU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-03-13",
+            "tom": "2018-05-24",
+            "uppgift": [
+              "Sammansatta civil- och kulturutskottet"
+            ],
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "65",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-05-04",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "66",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-06-14",
+            "tom": "2017-05-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "67",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2015-11-03",
+            "tom": "2016-06-13",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Ledamot civilutskottet 14-. Suppleant konstitutionsutskottet 14-. Suppleant EU-nämnden 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Ingenjören Sam Hedlund och kontoristen Berit Hedlund, f. Larsson. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Industriprogrammet Parkskolan, Sandviken 95-98. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Industrirobotoperatör, Sandvik AB, Sandviken 98-10 och 12-13. Politisk sekreterare, Riksdagen, Stockholm 10-11. Politisk sekreterare, Landstinget Gävleborg, Gävle 13-14.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot, Bostadsplaneringskommittén 14-15.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Gävle 06-. Landstingsfullmäktig, 10-14. Nämndeman, Gävle tingsrätt  07-10. Ledamot, Skattenämnden i Gävle 11-12. Regionfullmäktig, Gävleborg 07-14. Ledamot, Region Gävleborg 14-. Ledamot, Gävlefastigheter, Gävle 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ordförande, Sverigedemokraterna i Gävle 02-11. Ordförande, Sverigedemokraterna i Gävleborg 03-. Ledamot, valberedningen Sverigedemokraterna riks 04-05, ordförande 06-09. Vice ordförande, Sverigedemokraternas medlemsutskott 13-. Suppleant, partistyrelsen Sverigedemokraterna 13-15, ledamot 15-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "roger.hedlund[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64364"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Industrirobotoperatör."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0773497241728",
+            "hangar_id": "3057125"
+          }
+        ]
+      }
+    }
+  }
+}

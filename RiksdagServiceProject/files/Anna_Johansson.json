@@ -1,0 +1,285 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:02",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "0b3d3e27-17e5-4bf9-a0af-98a99d1811fe",
+      "sourceid": "9fd034bc-17ce-471b-b78c-94e03b34f7a0",
+      "intressent_id": "0691264514114",
+      "hangar_id": "3057296",
+      "fodd_ar": "1971",
+      "kon": "kvinna",
+      "efternamn": "Johansson",
+      "tilltalsnamn": "Anna",
+      "sorteringsnamn": "Johansson,Anna",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Göteborgs kommun",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/9fd034bc-17ce-471b-b78c-94e03b34f7a0",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9fd034bc-17ce-471b-b78c-94e03b34f7a0_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9fd034bc-17ce-471b-b78c-94e03b34f7a0_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9fd034bc-17ce-471b-b78c-94e03b34f7a0_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "N",
+            "roll_kod": "Statsråd",
+            "ordningsnummer": "13",
+            "status": null,
+            "typ": "Departement",
+            "from": "2016-05-25",
+            "tom": "2017-07-27",
+            "uppgift": [
+              "Näringsdepartementet"
+            ],
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296",
+            "sortering": "100",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "N",
+            "roll_kod": "Statsråd",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "Departement",
+            "from": "2014-10-03",
+            "tom": "2016-05-25",
+            "uppgift": [
+              "Näringsdepartementet"
+            ],
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296",
+            "sortering": "100",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "158",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "299",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2017-07-28",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "299",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2014-10-03",
+            "tom": "2017-07-27",
+            "uppgift": [
+              "Shadiye Heydari 2014-10-03 - 2017-07-27  Statsråd"
+            ],
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "299",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2014-10-02",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ordförande",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296",
+            "sortering": "10",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-09-22",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Statsråd (infrastrukturminister), Näringsdepartementet 141003-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057296"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Göran Johansson och Elisabeth Johansson."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057296"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Komvux med inriktning samhälle och ekonomi 95-96."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057296"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Projektanställd/projektledare i olika arbetsmarknadsanknutna LO-drivna projekt 97-02.  Informations- och opinionsbildningsansvarig ombudsman på LO, Göteborg 03-09."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057296"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig 98-14. Nämndordförande, stadsdelsnämnden (SDN), Bergsjön 03-09. Ansvarsområde storstad och integration, nationella minoriteter, stadsdelsnämnden (SDN), samordning 09-10. Nämndordförande, Idrotts- och föreningsnämnden 11-14. Biträdande kommunalråd, Göteborg 09-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057296"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Styrelseledamot, Bostadsbolaget 99-14 och ordförande 07-11. Styrelseledamot, Chalmers tekniska högskola 11-14. Styrelseordförande, Got Event 11-14. Ersättare, Socialdemokraternas partistyrelse 11-. Styrelseledamot, Alfons Åbergs kulturhus 12-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057296"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "anna.johansson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0691264514114",
+            "hangar_id": "3057296"
+          }
+        ]
+      }
+    }
+  }
+}

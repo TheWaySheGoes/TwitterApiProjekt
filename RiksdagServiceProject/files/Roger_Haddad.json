@@ -1,0 +1,429 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:11",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "8017fc97-5cc7-4361-8214-b2c27f9c6823",
+      "sourceid": "521898f1-51de-46ff-8701-d28b8a0e651d",
+      "intressent_id": "0308306375022",
+      "hangar_id": "2343661",
+      "fodd_ar": "1978",
+      "kon": "man",
+      "efternamn": "Haddad",
+      "tilltalsnamn": "Roger",
+      "sorteringsnamn": "Haddad,Roger",
+      "iort": null,
+      "parti": "L",
+      "valkrets": "Västmanlands län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/521898f1-51de-46ff-8701-d28b8a0e651d",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/521898f1-51de-46ff-8701-d28b8a0e651d_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/521898f1-51de-46ff-8701-d28b8a0e651d_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/521898f1-51de-46ff-8701-d28b8a0e651d_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "75",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "308",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "272",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Vice ordförande",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "20",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "20",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2015-03-06",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "24",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-11-05",
+            "tom": "2017-11-09",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "24",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-11-05",
+            "tom": "2016-09-28",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2015-03-05",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "13",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-10-01",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "18",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-19",
+            "tom": "2012-09-30",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2012-09-30",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "50",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-11-05",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 10-. Ledamot utbildningsutskottet 12-14, arbetsmarknadsutskottet 14-15 och justitieutskottet 15-. Suppleant utbildningsutskottet 10-, justitieutskottet 10-14, socialförsäkringsutskottet 10-12, kulturutskottet 14-, trafikutskottet 14-16 och EU-nämnden 14-. Medlem av parlamentariska vänföreningen för Frankrike samt sammankallade parlamentariska vänföreningen för Libanon. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Möbelsnickaren Adib Haddad och frisören/sömmerskan Chamma Kastoun Haddad."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, Europaprogrammet, Carlforsska gymnasiet i Västerås 94-97. Samhällsvetenskapliga programmet inriktning statsvetenskap, Mitthögskolan i Sundsvall 98-02. Institutionen för freds-och konfliktkunskap, Uppsala universitet ht 02."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Praktik, länsstyrelsen i Västmanland våren 98. Arbete (feriearbete) på ambassader i Stockholm 98-02. Studentinformatör (deltid), Mitthögskolan 00-02. Politisk sekreterare, Västerås stadshus samt Landstinget Västmanland 02-06. Kommunalråd, Västerås 06-10."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot, Rikspolisstyrelsen 11-15. Ordförande, Arbetsförmedlingens arbetsmarknadsråd, Västerås 08-10. Ledamot, Bokpriskommissionen, Kulturdepartementet 02-05. Ledamot, Mitthögskolans styrelse och disciplinnämnd 00-01. Ledamot, parlamentariska referensgruppen i polisutbildningsutredningen 15-16."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Västerås 05-, ersättare 02-05, vice gruppledare 06-09, gruppledare 10. Ledamot, kommunstyrelsen 06-10. Ordförande, demokratigruppen 06-10, utbildnings- och arbetsmarknadsnämnden 06-10, ledamot 02-06 och lärande- och arbetsmarknadsberedningen, Västmanlands Kommuner och Landsting 07-11. Ledamot, grundskolenämnden 09-10 och nämnden för funktionshindrade 02-06."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ledamot, Folkpartiet liberalernas partistyrelse 07-. Styrelseledamot, S:t Eliyo församling, Västerås 04-11. Ordförande, Svenska Burmakommittén 06-07, styrelseledamot 03-06. Styrelseledamot, Sveriges Förenade Studentkårer 00-01 och Studentkåren i Sundsvall 98-00. Heltidsarvoderad vice kårordförande, Sundsvall 00-01. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "roger.haddad[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "65898"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Pol.mag."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0308306375022",
+            "hangar_id": "2343661"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,456 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:46:55",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "cedbc9aa-6e45-4e7d-b195-570fd90cfbbb",
+      "sourceid": "66c12cfb-4888-443a-9e31-f64671296908",
+      "intressent_id": "0363721826713",
+      "hangar_id": "2343332",
+      "fodd_ar": "1966",
+      "kon": "man",
+      "efternamn": "Lodenius",
+      "tilltalsnamn": "Per",
+      "sorteringsnamn": "Lodenius,Per",
+      "iort": null,
+      "parti": "C",
+      "valkrets": "Stockholms län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/66c12cfb-4888-443a-9e31-f64671296908",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c12cfb-4888-443a-9e31-f64671296908_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c12cfb-4888-443a-9e31-f64671296908_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c12cfb-4888-443a-9e31-f64671296908_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "29",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "114",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "212",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "318",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-02",
+            "tom": "2010-10-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "22",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-16",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "29",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-02-01",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "22",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2011-10-14",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "22",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-19",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2011-10-13",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2009-02-11",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2009-02-11",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CKrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-03-13",
+            "tom": "2018-05-24",
+            "uppgift": [
+              "Sammansatta civil- och kulturutskottet"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "60",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-16",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 06-. Ledamot civilutskottet 10-11 och kulturutskottet 11-. Suppleant utbildningsutskottet 06-, trafikutskottet 06-09, kulturutskottet 09-10 och socialutskottet 17-. Medlem, riksdagens forum för handikappfrågor. Vice ordförande, riksdagens nykterhetgrupp och Svensk-brittiska parlamentariska gruppen. Ordförande, Svensk-åländska parlamentariska vänföreningen."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "F.d. kommunalrådet Kurt Lodenius och banktjänstemannen Gunbritt Lodenius, f. Sundström."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, samhällsvetenskapligt program, Norrtälje 82-85. Pedagog i svensk folkdans, Väddö folkhögskola 85-86. Grundskollärare SV/SO 1-7, Lärarhögskolan i Stockholm 88-91, 97."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Försäljare, AB Georg Sörman Herrekipering, Stockholm 87-88. Danspedagog (egenföretagare) 92-97. Lärare, Länna skola, Norrtälje kommun 97-98, gymnasiesärskolan, Rodengymnasiet 98-05. Controller för elevstöd, utbildnings- och kulturkontoret, Danderyds kommun 05-06."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot, Insynsrådet för Myndigheten för yrkeshögskolan 10-13."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Norrtälje 95-, ersättare 91-94. Ersättare, miljö- och hälsoskyddsnämnden 88-90. Ledamot, kultur- och fritidsnämnden 91-94 och 00-06, utbildningsnämnden 95-98 och barn- och skolnämnden 99."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Styrelseledamot, Centerpartiets kretsstyrelse, Norrtälje. Ordförande, Centerpartiet i Stockholms läns distriktsstyrelse 11-15 och ledamot 07-11. Huvudman, Roslagens Sparbank 03-. Styrelsemedlem, IOGT-NTO:s förbundsstyrelse 09-11. Ordförande, IOGT-NTO Roslagens Hopp, Norrtälje 10-13, ledamot 13-. Ledamot, Bygdegårdarnas Riksförbunds programråd 10- samt deras konst- och kulturråd 10-. Styrelseledamot, Studieförbundet, Vuxenskolans förbundsstyrelse 13-. Vice ordförande, Erik Sahlström Institutet, Tobo stiftelse och AB 15-. Styrelseledamot, Hemslöjdens riksförbunds styrelse 13- . "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.centerpartiet.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "per.lodenius[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64566"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Lärare."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0363721826713",
+            "hangar_id": "2343332"
+          }
+        ]
+      }
+    }
+  }
+}

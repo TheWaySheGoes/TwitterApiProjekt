@@ -1,0 +1,267 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:25:59",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "41d60213-696e-4ebb-99f3-3038bfc25328",
+      "sourceid": "8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a",
+      "intressent_id": "0655028250417",
+      "hangar_id": "3057238",
+      "fodd_ar": "1957",
+      "kon": "kvinna",
+      "efternamn": "Emilsson",
+      "tilltalsnamn": "Lena",
+      "sorteringsnamn": "Emilsson,Lena",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Skåne läns västra",
+      "status": "Tjänstgörande ersättare",
+      "person_url_xml": "http://data.riksdagen.se/person/8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Ersättare",
+            "ordningsnummer": "293",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2018-11-25",
+            "tom": "2019-06-24",
+            "uppgift": [
+              "Yasmine Larsson"
+            ],
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238",
+            "sortering": "45",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "292",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Extra suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-11-27",
+            "tom": "2019-06-24",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238",
+            "sortering": "55",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Försvarsutskottet"
+            ],
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UbU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Utbildningsutskottet"
+            ],
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "DN",
+            "roll_kod": "Personlig ersättare",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2015-01-01",
+            "tom": "2018-12-31",
+            "uppgift": [
+              "Domarnämnden"
+            ],
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238",
+            "sortering": null,
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NATO",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-28",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Riksdagens delegation till Natos parlamentariska församling"
+            ],
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Suppleant försvarsutskottet 14- och utbildningsutskottet 14-. Suppleant riksdagens delegation till Natos parlamentariska församling 14- och personlig ersättare Domarnämnden 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Rederiinspektören Berndt Eriksson och internationella sekreteraren Elsa Emilsson, f. Wahlström. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Grundskola i Saltsjöbaden, slutår 74. Naturvetenskaplig gymnasieskola i Saltsjöbaden, slutår 76. Fil.kand. i Lund. Magisterutbildning i Lund och Umeå. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Tullverket."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Länsstyrelsens insynsråd 16-18."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Eslöv 92-. Kommunstyrelsens arbetsutskott ca 01-14. Ordförande, barn- och familjenämnden 01-14. Ordförande, gymnasie- och vuxenutbildningsutskottet i två år. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Styrelsesuppleant, Lunds Energi/Kraftringen 10-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "lena.emilsson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "65446"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Tulltjänsteman"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0655028250417",
+            "hangar_id": "3057238"
+          }
+        ]
+      }
+    }
+  }
+}

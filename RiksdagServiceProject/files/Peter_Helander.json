@@ -1,0 +1,285 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:09",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "a334c32b-0078-42ba-beb3-2cad66ac86f7",
+      "sourceid": "3234a755-70b3-40db-b414-d5afb960ed4e",
+      "intressent_id": "0681030112815",
+      "hangar_id": "3057412",
+      "fodd_ar": "1961",
+      "kon": "man",
+      "efternamn": "Helander",
+      "tilltalsnamn": "Peter",
+      "sorteringsnamn": "Helander,Peter",
+      "iort": null,
+      "parti": "C",
+      "valkrets": "Dalarnas län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/3234a755-70b3-40db-b414-d5afb960ed4e",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3234a755-70b3-40db-b414-d5afb960ed4e_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3234a755-70b3-40db-b414-d5afb960ed4e_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3234a755-70b3-40db-b414-d5afb960ed4e_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "309",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "134",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2016-01-11",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-01-13",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "27",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-04-20",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Försvarsutskottet"
+            ],
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-01-13",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RB",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Riksbanksfullmäktige"
+            ],
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 16-. Suppleant finansutskottet 16-, försvarsutskottet 16- och näringsutskottet 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Leif Helander och Eila Helander, f. Tervo."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Tekniskt gymnasium 77-80, 81-82. Fallskärmsjägarskolan 80-81. Polishögskolan 82. Flygvapnets officershögskola 83-84. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Flygförare i flygvapnet 83-88. Reservofficer i flygvapnet 88-93. Pilot i SAS 88-12. Egen företagare 94-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot i den parlamentariska kommittén En kommunallag för framtiden 14-15.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Mora 02-. Ordförande, kommunfullmäktige 14-. Kommunstyrelseledamot 02-12. Kommunstyrelseordförande 06-10. Kommunalråd, Mora 10-12. Ordförande, byggnadsnämnden 12-14. Ledamot, Region Dalarna 06-10."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Kretsordförande, Centerpartiet Mora 06-16. Vice ordförande, Centerpartiet Dalarna 11-15. Ordförande, Centerpartiet Dalarna 14-. Ledamot, SKL:s demokratiberedning 07-15. Vice ordförande, SKL:s demokratiberedning 11-15. Ledamot, Stiftelsen Zornsamlingarna 07-. Ordförande, IFK Mora Skidklubb 14-15. Ledamot, IFK Mora Skidklubb 12-. Ledamot, riksdagens idrottsklubb 16-. Vd, Siljansringen AB 12-. Ordförande, Siljan Turism AB 12-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "peter.helander[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64390"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Egen företagare/Flygkapten."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0681030112815",
+            "hangar_id": "3057412"
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,447 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:46:54",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "5d467ce1-5e8b-44ca-b902-1d2b2852d0ad",
+      "sourceid": "2d7334ea-9a6f-4381-b6ec-3c46d744cb9a",
+      "intressent_id": "0559925283228",
+      "hangar_id": "2343590",
+      "fodd_ar": "1974",
+      "kon": "kvinna",
+      "efternamn": "Lindberg",
+      "tilltalsnamn": "Teres",
+      "sorteringsnamn": "Lindberg,Teres",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Stockholms kommun",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/2d7334ea-9a6f-4381-b6ec-3c46d744cb9a",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d7334ea-9a6f-4381-b6ec-3c46d744cb9a_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d7334ea-9a6f-4381-b6ec-3c46d744cb9a_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d7334ea-9a6f-4381-b6ec-3c46d744cb9a_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "170",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "278",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2017-09-25",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Statsrådsersättare",
+            "ordningsnummer": "280",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2017-05-29",
+            "tom": "2017-09-24",
+            "uppgift": [
+              "Stefan Löfven"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Statsrådsersättare",
+            "ordningsnummer": "50",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2015-10-01",
+            "tom": "2017-05-28",
+            "uppgift": [
+              "Anders Ygeman"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Statsrådsersättare",
+            "ordningsnummer": "81",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2014-10-03",
+            "tom": "2015-09-30",
+            "uppgift": [
+              "Ylva Johansson"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "24",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2013-01-01",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "24",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2012-07-15",
+            "tom": "2012-12-31",
+            "uppgift": [
+              "Sven Britton 2012-07-15 - 2012-12-31  Föräldraledighet"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "24",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2011-04-01",
+            "tom": "2012-07-14",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "13",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-06-09",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Försvarsutskottet"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-09-27",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2011-04-13",
+            "tom": "2012-09-27",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-01-01",
+            "tom": "2018-01-01",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2013-01-16",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "IPU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-24",
+            "tom": "2022-10-24",
+            "uppgift": [
+              "Riksdagens delegation till Interparlamentariska unionen"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "IPU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-28",
+            "tom": "2018-10-24",
+            "uppgift": [
+              "Riksdagens delegation till Interparlamentariska unionen"
+            ],
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 11- (statsrådsersättare 141003-). Suppleant socialutskottet 11-12, skatteutskottet 12-14, EU-nämnden 13-14, trafikutskottet 14- och försvarsutskottet 16-. Ledamot riksdagens delegation till Interparlamentariska unionen 14-.   "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343590"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Runö folkhögskola 95-96. Arbetsmarknadskunskap, Stockholms universitet 98-99."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343590"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Paketsorterare, Posten 92-02. Samordnare, Seko Stockholm 96-97. Projektledare, SSU-förbundet 97-98. Projektledare, Seko 00-01. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343590"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Stockholm 99-10, ersättare 98-99 och 10-11. Ledamot, kommunstyrelsen 06-10 och ersättare 05-06. Ersättare, kommunstyrelsens ekonomiutskott 05-06. Styrelseledamot, Stockholm Entreprenad 96-98 och Skärgårdsstiftelsen i Stockholms län 99-02. Ledamot, gatu- och fastighetsnämnden 00-02. Borgarråd, Stockholms kommun 02-06. Ordförande integrationsnämnden 02-04. Suppleant, Stockholms Stadshus AB 03-11. Ordförande, arbetsmarknadsnämnden i Stockholm 03-05. Ordförande, styrelsen för Stockholms Stads Bostadsförmedling AB 03-05. Ordförande, arbetsmarknads- och integrationsberedning 03-06.Ordförande, AB Svenska Bostäder 05-06. Ordförande, AB Stadsholmen 05-06. Ledamot, personal- och jämställdhetsutskottet 06-10. Vice ordförande, AB Svenska Bostäder 06-11. Vice ordförande, AB Stadsholmen 06-11. Vice ordförande, stadsbyggnadsnämnden 07-10. Ersättare, miljö- och hälsoskyddsnämnden 11. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343590"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ledamot, Stockholms arbetarekommun 98-14. Vice ordförande, Stockholms arbetarekommun 11-14. Ordförande, ABF Stockholm 11-. Ordförande, ABF Stockholms län 12-. Ledamot, ABF förbundsstyrelse 14-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343590"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "teres.lindberg[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64645"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0559925283228",
+            "hangar_id": "2343590"
+          }
+        ]
+      }
+    }
+  }
+}

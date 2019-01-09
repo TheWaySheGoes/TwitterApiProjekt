@@ -1,0 +1,339 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:18",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "58ba2395-9050-4cb0-a641-8e6263a3dcc5",
+      "sourceid": "a1d94b24-2d7f-4d84-99fb-ca161ba77f78",
+      "intressent_id": "0652497579621",
+      "hangar_id": "3057193",
+      "fodd_ar": "1980",
+      "kon": "kvinna",
+      "efternamn": "Haraldsson",
+      "tilltalsnamn": "Johanna",
+      "sorteringsnamn": "Haraldsson,Johanna",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Jönköpings län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/a1d94b24-2d7f-4d84-99fb-ca161ba77f78",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a1d94b24-2d7f-4d84-99fb-ca161ba77f78_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a1d94b24-2d7f-4d84-99fb-ca161ba77f78_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a1d94b24-2d7f-4d84-99fb-ca161ba77f78_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "288",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "326",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-04-11",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "28",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-11-25",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-05-08",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-04-11",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2017-05-07",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CKrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-03-13",
+            "tom": "2018-05-24",
+            "uppgift": [
+              "Sammansatta civil- och kulturutskottet"
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Ledamot civilutskottet 14-. Suppleant socialförsäkringsutskottet 14- och arbetsmarknadsutskottet 14-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Byggnadssnickaren/lastbilschauffören Dag Haraldsson och administratören Mona Neij Haraldsson."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Njudungsgymnasiet, Vetlanda, examen 99. Linnéuniversitetet, enstaka kurser 99-00. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Maskinoperatör, Swedish Match Industries AB, Vetlanda 00-14.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot i SCB:s insynsråd 14-16."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Vetlanda 10-14. Ersättare, kommunfullmäktige, Vetlanda 02-10. Ledamot, barn- och utbildningsnämnden, Vetlanda 05-10 och ordförande 11-14. Ersättare, socialnämnden, Vetlanda 99-01. Ersättare, barn- och utbildningsnämnden, Vetlanda 03-05. Ersättare, gymnasienämnden, Höglandets kommunalförbund 11-14.   "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ledamot, styrelsen SSU i Jönköpings län 97-00 Ledamot, IF-Metallklubben vid Swedish Match Industries, Vetlanda 04-08. Ledamot, styrelsen för IF-Metall, Höglandet 05-06. Ordförande, IF-Metallklubben vid Swedish Match Industries, Vetlanda 08-11. Ordförande, Vetlanda Socialdemokratiska förening 12-13. Ledamot, Vetlanda Arbetarekommuns styrelse 12-. Ledamot, distriktsstyrelsen Socialdemokraterna i Jönköpings län 13-14 och 16-.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "johanna.haraldsson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.socialdemokraternajonkopingslan.se/foretradare/johanna-haraldsson/"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Industriarbetare."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0652497579621",
+            "hangar_id": "3057193"
+          }
+        ]
+      }
+    }
+  }
+}

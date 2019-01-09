@@ -1,0 +1,357 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:27",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "5d72f124-b7fa-4dd4-92ca-7dd959b46378",
+      "sourceid": "f65cb6f1-7001-4e8e-8d32-89d534577ab0",
+      "intressent_id": "0619928872229",
+      "hangar_id": "2343714",
+      "fodd_ar": "1982",
+      "kon": "kvinna",
+      "efternamn": "Naraghi",
+      "tilltalsnamn": "Laila",
+      "sorteringsnamn": "Naraghi,Laila",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Kalmar län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/f65cb6f1-7001-4e8e-8d32-89d534577ab0",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f65cb6f1-7001-4e8e-8d32-89d534577ab0_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f65cb6f1-7001-4e8e-8d32-89d534577ab0_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f65cb6f1-7001-4e8e-8d32-89d534577ab0_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "35",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "61",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2016-09-12",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-09-12",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-09-12",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NATO",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-24",
+            "tom": "2022-10-24",
+            "uppgift": [
+              "Riksdagens delegation till Natos parlamentariska församling"
+            ],
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NATO",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-10-18",
+            "tom": "2018-10-24",
+            "uppgift": [
+              "Riksdagens delegation till Natos parlamentariska församling"
+            ],
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 16-. Ledamot konstitutionsutskottet 16-. Suppleant skatteutskottet 16-. Suppleant Riksdagens delegation till Natos parlamentariska församling 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 16-. Ledamot konstitutionsutskottet 16-. Suppleant skatteutskottet 16-. Suppleant Riksdagens delegation till Natos parlamentariska församling 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Läkaren Massud Naraghi och översättaren/informatören Anna-Lena Naraghi, f. Walther."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Läkaren Massud Naraghi och översättaren/informatören Anna-Lena Naraghi, f. Walther."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Samvetenskapliga programmet, Oscarsgymnasiet, Oskarshamn. Fil.kand., statsvetenskap med inriktning mot krishantering och internationell samverkan, Försvarshögskolan."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Samvetenskapliga programmet, Oscarsgymnasiet, Oskarshamn. Fil.kand., statsvetenskap med inriktning mot krishantering och internationell samverkan, Försvarshögskolan."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Sommarguide, SKB (Svensk Kärnbränslehantering AB) 03 och 04. Brevsvarare hos socialminister Berit Andnor 04. Medarbetare till biträdande partisekreteraren och partikassören, Socialdemokraterna 05. Ombudsman, kommunikationsavdelningen, Socialdemokraterna 05-07. Programansvarig, Folk och Försvar 08-09. Analytiker, Crismart (Nationellt centrum för krishanteringsstudier) vid Försvarshögskolan 08-09. Opinionsbildnings- och pressansvarig, Olof Palmes Internationella Center 09-14. Politiskt sakkunnig hos utrikesministern, Utrikesdepartementet 14-16. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Sommarguide, SKB (Svensk Kärnbränslehantering AB) 03 och 04. Brevsvarare hos socialminister Berit Andnor 04. Medarbetare till biträdande partisekreteraren och partikassören, Socialdemokraterna 05. Ombudsman, kommunikationsavdelningen, Socialdemokraterna 05-07. Programansvarig, Folk och Försvar 08-09. Analytiker, Crismart (Nationellt centrum för krishanteringsstudier) vid Försvarshögskolan 08-09. Opinionsbildnings- och pressansvarig, Olof Palmes Internationella Center 09-14. Politiskt sakkunnig hos utrikesministern, Utrikesdepartementet 14-16. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Oskarshamn 03-04. Ordförande, kommunfullmäktiges internationella utskott 03-04. Ledamot, kommunstyrelsen, Oskarshamn 14. Ordförande, bildningsnämnden 14. Nämndeman, migrationsdomstolen, Förvaltningsrätten i Stockholm, 12-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Oskarshamn 03-04. Ordförande, kommunfullmäktiges internationella utskott, Oskarshamn 03-04. Ledamot, kommunstyrelsen, Oskarshamn 14. Ordförande, bildningsnämnden, Oskarshamn 14. Nämndeman, Förvaltningsrätten i Stockholm, migrationsdomstolen 12-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Vice ordförande, Oscarsgymnasiets elevkår, Oskarshamn 98-99. Ersättare och sedan ledamot, styrelsen för Socialdemokraterna, Oskarshamns kommun 99-05. Ordförande, Kalmar läns SSU-distrikt 01-04. Ledamot, Landsrådet för Sveriges Ungdomsorganisationer (LSU) utskott för påverkan och ungdomspolitik 06. Delegat till FN:s generalförsamling 2006, utsedd av LSU 06-07. Ledamot, internationellt ansvarig, SSU:s förbundsstyrelse 03-07. Vice president i Europeiska unga socialdemokraters gemenskapsorganisation (ECOSY) 05-09. Ledamot, Socialdemokraternas rådslagsgrupp om världen/utrikespolitik som leddes av Jan Eliasson och Margot Wallström 07-09. Ordförande, Stockholms Kristna Socialdemokrater (Stockholms Broderskapsdistrikt) 08-10. Ledamot, Olof Palmes Minnesfonds styrelse 10-. Ledamot, FN-förbundets styrelse 12-. Vice ordförande, Socialdemokraterna, Oskarshamns kommun 17-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Vice ordförande, Oscarsgymnasiets elevkår, Oskarshamn 98-99. Ersättare och sedan ledamot, styrelsen för Socialdemokraterna, Oskarshamns kommun 99-05. Ordförande, Kalmar läns SSU-distrikt 01-04. Ledamot, LSU:s utskott för Påverkan och ungdomspolitik 06. Delegat till FN:s generalförsamling 2006, utsedd av Landsrådet för Sveriges Ungdomsorganisationer (LSU) 06-07. Ledamot, SSU:s förbundsstyrelse, internationellt ansvarig 03-07. Vice president i ECOSY - Young European Socialists 05-09. Ledamot, Socialdemokraternas rådslagsgrupp om världen/utrikespolitik som leddes av Jan Eliasson och Margot Wallström 07-09.  Ordförande, Stockholms Kristna Socialdemokrater (Stockholms Broderskapsdistrikt) 08-10. Ledamot, Olof Palmes Minnesfonds styrelse 10-. Ledamot, FN-förbundets styrelse 12-. Vice ordförande, Socialdemokraterna, Oskarshamns kommun 17-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "Wild'n Fresh! - Fungerar fackets kriskommunikation? Arbetarrörelsens tankesmedja (08), Kroppslig autonomi i antologin Äga rum, bokförlaget Tiden (08), Carnegiekrisen - Kriskommunikation i politik och finans: på lika villkor? Crismart, Försvarshögskolan (08), Säkerhet och solidaritet - Socialdemokratisk debatt om framtidens säkerhet och försvar (redaktör till antologin, 09), Kan kriser krypa? - En begreppsanalys av \"krypande kris\", Crismart, Försvarshögskolan (09), Att våga drömmen, Socialdemokratin i krig och fred - Ingvar Carlsson 75 år (10)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "Wild'n Fresh! - Fungerar fackets kriskommunikation? Arbetarrörelsens tankesmedja (08), Kroppslig autonomi i antologin Äga rum, bokförlaget Tiden (08), Carnegiekrisen - Kriskommunikation i politik och finans: på lika villkor? Crismart, Försvarshögskolan (08), Säkerhet och solidaritet - Socialdemokratisk debatt om framtidens säkerhet och försvar (redaktör till antologin, 09), Kan kriser krypa? - En begreppsanalys av \"krypande kris\", Crismart, Försvarshögskolan (09), Att våga drömmen, Socialdemokratin i krig och fred - Ingvar Carlsson 75 år (10)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "laila.naraghi[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Politiskt sakkunnig."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Politiskt sakkunnig."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0619928872229",
+            "hangar_id": "2343714"
+          }
+        ]
+      }
+    }
+  }
+}

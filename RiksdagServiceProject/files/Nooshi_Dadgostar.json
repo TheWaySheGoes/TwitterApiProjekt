@@ -1,0 +1,285 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:15",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "f7a9046f-f6ef-4212-a0c3-1ac0e6a87d8f",
+      "sourceid": "78d79a96-956f-4ac3-bbf7-2b15b3d86ce7",
+      "intressent_id": "0721509806321",
+      "hangar_id": "3057124",
+      "fodd_ar": "1985",
+      "kon": "kvinna",
+      "efternamn": "Dadgostar",
+      "tilltalsnamn": "Nooshi",
+      "sorteringsnamn": "Dadgostar,Nooshi",
+      "iort": null,
+      "parti": "V",
+      "valkrets": "Stockholms kommun",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/78d79a96-956f-4ac3-bbf7-2b15b3d86ce7",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/78d79a96-956f-4ac3-bbf7-2b15b3d86ce7_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/78d79a96-956f-4ac3-bbf7-2b15b3d86ce7_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/78d79a96-956f-4ac3-bbf7-2b15b3d86ce7_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "207",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "318",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "21",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CKrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-03-13",
+            "tom": "2018-05-24",
+            "uppgift": [
+              "Sammansatta civil- och kulturutskottet"
+            ],
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "64",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-16",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "45",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Ledamot civilutskottet 14-. Suppleant konstitutionsutskottet 14-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Arkitekten Parviz Dadgostar och sjuksköterskan Mitra Sivand. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Schillerska, Göteborg 05. Stockholms universitet, Stockholm 09-15."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Vårdbiträde, Göteborgs kommun 04-06. Förbundskassör, Ung Vänster, Stockholm 06-09."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot i Rättshjälpsnämnden -16. Ledamot i Gentekniknämnden -16."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Botkyrka, 14- och ersättare 10-13. Ersättare, utbildningsnämnden 09-13. Ersättare, samhällsbyggnadsnämnden 15-. Ledamot, AB Alfågeln, Botkyrka 09-13. Ledamot, AB Botkyrkabyggen 09-13. Vice ordförande, dialogforum Tumba-Storvreten 09-13."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Förbundskassör, Ung Vänster 06-09. Vice ordförande, Ung Vänster. Ersättare, partistyrelsen Vänsterpartiet 14-16 och ledamot 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "nooshi.dadgostar[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "65991"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Ombudsman"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0721509806321",
+            "hangar_id": "3057124"
+          }
+        ]
+      }
+    }
+  }
+}

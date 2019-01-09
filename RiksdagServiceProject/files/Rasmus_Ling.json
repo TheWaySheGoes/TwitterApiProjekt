@@ -1,0 +1,438 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:25:58",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "179edcd7-965b-4dc0-b3e3-e6794d4450ba",
+      "sourceid": "8af2f4df-6c44-4844-89af-c0fd142e4eed",
+      "intressent_id": "0744139167426",
+      "hangar_id": "3057221",
+      "fodd_ar": "1984",
+      "kon": "man",
+      "efternamn": "Ling",
+      "tilltalsnamn": "Rasmus",
+      "sorteringsnamn": "Ling,Rasmus",
+      "iort": null,
+      "parti": "MP",
+      "valkrets": "Malmö kommun",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/8af2f4df-6c44-4844-89af-c0fd142e4eed",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8af2f4df-6c44-4844-89af-c0fd142e4eed_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8af2f4df-6c44-4844-89af-c0fd142e4eed_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8af2f4df-6c44-4844-89af-c0fd142e4eed_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "153",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "153",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "20",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2015-02-18",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "20",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-10",
+            "tom": "2022-10-10",
+            "uppgift": [
+              "Ledamotsrådet"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "18",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2019-10-31",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2018-11-20",
+            "uppgift": [
+              "Riksbanksfullmäktige"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-11-09",
+            "tom": "2018-10-10",
+            "uppgift": [
+              "Ledamotsrådet"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2017-09-28",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-09-29",
+            "tom": "2017-09-28",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2015-10-01",
+            "tom": "2016-09-29",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-07",
+            "tom": "2015-10-01",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Ledamot skatteutskott 14-. Suppleant konstitutionsutskottet 14-, finansutskottet 14- och civilutskottet 15-. Suppleant valberedningen 14-18 och Nordiska rådets svenska delegation 14-16."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057221"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Personalsekreteraren Rolf Ling, f. Andersson och socionomen Birgitta Ling."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057221"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, naturvetenskaplig linje, Söderhamn, slutår 03. Kurser, Malmö högskola och Lunds universitet 04-08."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057221"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Vårdbiträde, Söderhamn och Svedala 03-05. Politisk sekreterare, Malmö 08 och 10-14.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057221"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot, Kronofogdens insynsråd 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057221"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Söderhamn 02-04. Regionfullmäktig, Skåne 10-14. Ledamot, servicenämnden, Malmö stad 06-10. Ledamot, regionala tillväxtnämnden, Skåne 10-14. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057221"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ledamot, Miljöpartiets riksvalberedning 07-13 och sekreterare 10-13. Ledamot, Miljöpartiets partistyrelse 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057221"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "rasmus.ling[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0744139167426",
+            "hangar_id": "3057221"
+          }
+        ]
+      }
+    }
+  }
+}

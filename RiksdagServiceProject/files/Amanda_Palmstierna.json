@@ -1,0 +1,132 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:31",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "198086d9-fd7e-425a-8543-1c2d76b34149",
+      "sourceid": "d12313ba-680b-4784-b858-5c9e6db692e7",
+      "intressent_id": "0999976269027",
+      "hangar_id": "5003719",
+      "fodd_ar": "1977",
+      "kon": "kvinna",
+      "efternamn": "Palmstierna",
+      "tilltalsnamn": "Amanda",
+      "sorteringsnamn": "Palmstierna,Amanda",
+      "iort": null,
+      "parti": "MP",
+      "valkrets": "Stockholms län",
+      "status": "Tjänstgörande statsrådsersättare",
+      "person_url_xml": "http://data.riksdagen.se/person/d12313ba-680b-4784-b858-5c9e6db692e7",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d12313ba-680b-4784-b858-5c9e6db692e7_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d12313ba-680b-4784-b858-5c9e6db692e7_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d12313ba-680b-4784-b858-5c9e6db692e7_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Statsrådsersättare",
+            "ordningsnummer": "27",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Gustav Fridolin"
+            ],
+            "intressent_id": "0999976269027",
+            "hangar_id": "5003719",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "27",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-12-05",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0999976269027",
+            "hangar_id": "5003719",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "MJU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "21",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Miljö- och jordbruksutskottet"
+            ],
+            "intressent_id": "0999976269027",
+            "hangar_id": "5003719",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0999976269027",
+            "hangar_id": "5003719",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0999976269027",
+            "hangar_id": "5003719",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "amanda.palmstierna[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0999976269027",
+            "hangar_id": "5003719"
+          }
+        ]
+      }
+    }
+  }
+}

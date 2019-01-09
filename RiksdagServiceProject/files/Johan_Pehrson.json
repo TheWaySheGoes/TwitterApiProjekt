@@ -1,0 +1,969 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:16",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "3a61fcf1-bb26-4ce0-89b8-4722af4e9c86",
+      "sourceid": "d7c327f8-83e4-11d4-ae60-0050040c9b55",
+      "intressent_id": "0224712677012",
+      "hangar_id": "2343398",
+      "fodd_ar": "1968",
+      "kon": "man",
+      "efternamn": "Pehrson",
+      "tilltalsnamn": "Johan",
+      "sorteringsnamn": "Pehrson,Johan",
+      "iort": null,
+      "parti": "L",
+      "valkrets": "Örebro län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/d7c327f8-83e4-11d4-ae60-0050040c9b55",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c327f8-83e4-11d4-ae60-0050040c9b55_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c327f8-83e4-11d4-ae60-0050040c9b55_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c327f8-83e4-11d4-ae60-0050040c9b55_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "FP",
+            "roll_kod": "Gruppledare",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2014-09-29",
+            "tom": "2014-10-04",
+            "uppgift": [
+              "Folkpartiet liberalerna"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "25",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FP",
+            "roll_kod": "Gruppledare",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Folkpartiet liberalerna"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "25",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FP",
+            "roll_kod": "Gruppledare",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2006-10-11",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Folkpartiet liberalerna"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "25",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "163",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "196",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2015-04-19",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "197",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "197",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-02",
+            "tom": "2010-10-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "275",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2002-09-30",
+            "tom": "2006-10-02",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "279",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "1998-10-05",
+            "tom": "2002-09-30",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "21",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2015-03-05",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "25",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-11-05",
+            "tom": "2015-03-05",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "14",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2014-11-19",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-19",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "20",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-19",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2008-10-22",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "20",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2008-11-13",
+            "tom": "2010-02-05",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "20",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2007-10-04",
+            "tom": "2008-10-21",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2007-10-03",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "20",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-24",
+            "tom": "2007-10-03",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ordförande",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2002-10-08",
+            "tom": "2006-10-02",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "10",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2003-10-03",
+            "tom": "2004-04-01",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2000-02-15",
+            "tom": "2002-09-30",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2001-09-25",
+            "tom": "2002-09-29",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1998-10-13",
+            "tom": "2001-09-27",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1998-10-13",
+            "tom": "2001-09-25",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1999-10-01",
+            "tom": "2000-02-15",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KUU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2003-10-07",
+            "tom": "2003-11-20",
+            "uppgift": [
+              "Sammansatta konstitutions- och utrikesutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1998-10-20",
+            "tom": "1999-10-01",
+            "uppgift": [
+              "Lagutskottet"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "165",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "69",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-11-15",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "46",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-11-05",
+            "tom": "2015-03-10",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RJ",
+            "roll_kod": "Personlig suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-11-01",
+            "tom": "2014-10-31",
+            "uppgift": [
+              "Styrelsen för Stiftelsen Riksbankens Jubileumsfond"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "48",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-10-19",
+            "tom": "2014-10-14",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RS",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-10-12",
+            "tom": "2014-10-07",
+            "uppgift": [
+              "Riksdagsstyrelsen"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-10-12",
+            "tom": "2014-10-07",
+            "uppgift": [
+              "Utrikesnämnden"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RJ",
+            "roll_kod": "Personlig suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2006-11-01",
+            "tom": "2010-10-31",
+            "uppgift": [
+              "Styrelsen för Stiftelsen Riksbankens Jubileumsfond"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "48",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "34",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2006-10-17",
+            "tom": "2010-10-19",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RS",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2006-10-10",
+            "tom": "2010-10-12",
+            "uppgift": [
+              "Riksdagsstyrelsen"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2006-10-10",
+            "tom": "2010-10-12",
+            "uppgift": [
+              "Utrikesnämnden"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2006-10-17",
+            "tom": "2008-11-11",
+            "uppgift": [
+              "Riksbanksfullmäktige"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "ER",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2003-01-01",
+            "tom": "2005-03-17",
+            "uppgift": [
+              "Europarådets svenska delegation"
+            ],
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 98-15. Ledamot skatteutskottet 98-01, justitieutskottet 01-02 och 08-15 och ordförande 02-06. Ledamot socialutskottet 06-07 och finansutskottet 07-08. Suppleant justitieutskottet 98-01, lagutskottet 98-99, konstitutionsutskottet 99-00, 03-04 och 10-15, socialförsäkringsutskottet 00-02, sammansatta konstitutions- och utrikesutskottet 03, finansutskottet 06-10 och 10-14, civilutskottet 14 och EU-nämnden 14-15. Ledamot riksdagsstyrelsen 06-14, Utrikesnämnden 06-14, krigsdelegationen 06-14 och riksdagsgruppens förtroenderåd 06-14. Personlig suppleant i styrelsen för Stiftelsen Riksbankens Jubileumsfond 06-14. Suppleant Europarådets svenska delegation 03-05 och riksbanksfullmäktige 06-08. Gruppledare 06-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Tjänstemannen Bengt Pehrson och silversmeden Margareta Berndtsson."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Ekonomisk gymnasieskola, Risbergska skolan, Örebro 85-87. Juristlinjen, Uppsala universitet 90-96. Diploma in Legal Studies, King`s College, London 94-95. Ekonomisk historia, Uppsala universitet 93-96."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Banktjänsteman, Götabanken 89-90. Politiskt sakkunnig, Finansdepartementet 92-93 och Socialdepartementet 93-94. Jurist, Gota Bank Fonder AB 93-94. Ledarskribent, Nerikes Allehanda 94. Politisk sekreterare, Folkpartiet liberalerna 96-97. Tingsnotarie, Örebro tingsrätt 97-98. Partisekreterare, Folkpartiet 01-02."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot, Kommittén om barnmisshandel och därmed sammanhängande frågor 98- och Kommittén mot barnmisshandel 99-01. Ledamot, Jämställdhetsrådet 99-02 och Anhörigkommittén 00-02. Ledamot, Parlamentariska socialförsäkringsutredningen 10-14 och Polisorganisationskommittén 10-15. Polisens nationella insynsråd 14-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Örebro 98, 02 och 06. Ersättare, miljönämnden 89-91 och service- och arbetsmarknadsnämnden 98."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Styrelseledamot, Örebro läns distrikt av FPU, ordförande 88-90. Styrelseledamot, LUF 91-95 och 2:e vice ordförande 91-93. Styrelseledamot, Örebro kommunförening av Folkpartiet (FP) 97-01 och Örebro läns länsförbund av FP 98-16. Partisekreterare, Folkpartiet 01-02. Styrelseledamot, Folkpartiets partistyrelse 01-15 och Folkpartiets partiledning 01-15. Styrelseledamot, Karlslunds IF 98-00.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "Nytt ljus över miljöfrågan (97, tillsammans med andra)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.folkpartiet.se/pehrson"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "johan.pehrson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "Övriga webbsidor",
+            "uppgift": [
+              "http://www.johanpehrson.blogspot.com"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Jur.kand. "
+            ],
+            "typ": "titlar",
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              "LLB"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0224712677012",
+            "hangar_id": "2343398"
+          }
+        ]
+      }
+    }
+  }
+}

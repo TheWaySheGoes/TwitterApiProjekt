@@ -1,0 +1,330 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:03",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "8417b8da-e562-459b-9158-9ecd4294b1ac",
+      "sourceid": "45bd9e8b-22f0-4cb7-9cfe-b40847e9715f",
+      "intressent_id": "0667220767927",
+      "hangar_id": "3057358",
+      "fodd_ar": "1986",
+      "kon": "man",
+      "efternamn": "Ezelius",
+      "tilltalsnamn": "Erik",
+      "sorteringsnamn": "Ezelius,Erik",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Västra Götalands läns östra",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/45bd9e8b-22f0-4cb7-9cfe-b40847e9715f",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/45bd9e8b-22f0-4cb7-9cfe-b40847e9715f_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/45bd9e8b-22f0-4cb7-9cfe-b40847e9715f_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/45bd9e8b-22f0-4cb7-9cfe-b40847e9715f_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "S",
+            "roll_kod": "Kvittningsman",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2017-03-14",
+            "tom": null,
+            "uppgift": [
+              "Socialdemokraterna"
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": null,
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "304",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Talmansersättare",
+            "ordningsnummer": "18",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2016-01-01",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Urban Ahlin"
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Talmansersättare",
+            "ordningsnummer": "18",
+            "status": "Ledig Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2015-10-12",
+            "tom": "2015-12-31",
+            "uppgift": [
+              "Urban Ahlin   Föräldraledighet"
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Talmansersättare",
+            "ordningsnummer": "18",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2015-10-11",
+            "uppgift": [
+              "Urban Ahlin"
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "13",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "23",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-02-02",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Talmansersättare 14-. Suppleant skatteutskottet 14-, kulturutskottet 14- och EU-nämnden 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057358"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Projektledaren Peter Ezelius och undersköterskan Lena Ezelius , f. Karlsson."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057358"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Naturvetenskapligt program, Rudbecksgymnasiet, Tidaholm slutår 02. Officersexamen, Försvarshögskolan 12."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057358"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Lärarvikarie, Tidaholm 05-06. Timanställd på ungdomscafé, Tidaholm 05-, Vitvaruförsäljare, Tidaholm 06-09. Plutonchef, Skaraborgs regemente, Skövde 12-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057358"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Nämndeman, Skaraborgs tingsrätt 06-14. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057358"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig 06-. Ordförande, kommunfullmäktig 14-. Gruppledare, kommunfullmäktig 13-14. Ledamot, kommunstyrelsen 06-14. Ledamot, kommunstyrelsens arbetsutskott 13-14. Ledamot, budgetberedningen 13-14. Ersättare, tekniska nämnden 04-06. Ersättare, social- och omvårdnadsnämnden 04-06. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057358"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Styrelseledamot, Tidaholms arbetarekommun 03-14. Distriktsordförande, SSU Skaraborg 05-08 och 12-14. Ledamot, Socialdemokraterna i Skaraborg 12-.  Ordförande, Tidaholms arbetarekommun 14-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057358"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "erik.ezelius[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Yrkesofficer."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0667220767927",
+            "hangar_id": "3057358"
+          }
+        ]
+      }
+    }
+  }
+}

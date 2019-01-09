@@ -1,0 +1,402 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:13",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "3a69f020-15d9-4827-8638-70aa632a8766",
+      "sourceid": "acdaa4aa-20f2-49a0-b929-0862f4bd6826",
+      "intressent_id": "0992420223820",
+      "hangar_id": "2369307",
+      "fodd_ar": "1987",
+      "kon": "kvinna",
+      "efternamn": "Rosencrantz",
+      "tilltalsnamn": "Jessica",
+      "sorteringsnamn": "Rosencrantz,Jessica",
+      "iort": null,
+      "parti": "M",
+      "valkrets": "Stockholms kommun",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/acdaa4aa-20f2-49a0-b929-0862f4bd6826",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acdaa4aa-20f2-49a0-b929-0862f4bd6826_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acdaa4aa-20f2-49a0-b929-0862f4bd6826_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acdaa4aa-20f2-49a0-b929-0862f4bd6826_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "141",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "243",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "243",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-19",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Statsrådsersättare",
+            "ordningsnummer": "51",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2010-10-18",
+            "uppgift": [
+              "Fredrik Reinfeldt"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Vice ordförande",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-12-19",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "20",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-12-18",
+            "tom": "2014-12-18",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2014-12-17",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-03-19",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2012-03-29",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2012-03-20",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "75",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-12-05",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "35",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-03-19",
+            "tom": "2014-10-07",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 10- (statsrådsersättare 101004-101018). Ledamot trafikutskottet 12-14 och vice ordförande 14-. Suppleant finansutskottet 10-12, civilutskottet 10-12 och EU-nämnden 12-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Egenföretagaren Sven Andersson och försäljningschefen Susanne Rosencrantz."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, Enskilda Gymnasiet 06. Civilekonomexamen, Handelshögskolan i Stockholm 11."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Servitris, McDonalds 04-06. Servitris, A-concept 06. Marknadsassistent, Netigate 06-07. Landstingsrådssekreterare, Stockholms läns landsting 07-09. Administrativ assistent, Handelshögskolan 09. Politisk assistent, Europaparlamentet i Bryssel 09-10."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Täby 06-10, ersättare 05-06. Vice ordförande, barn- och grundskolenämnden 06-10 och ersättare, kommunstyrelsen 07-10."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Föreningsordförande, MUF i Täby 05-07. Suppleant, Safe Hygiene & Security SHS Consult AB 06-11. 2:e vice distriktsordförande, MUF, Stockholm 07-08, 1:e vice distriktsordförande 08-11 och distriktsordförande 11-15. Styrelseledamot, Norrmalmsmoderaterna 11-. Ledamot, Moderaterna i Stockholms stads förbundsstyrelse 15-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Stockholm"
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "jessica.rosencrantz[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "Övriga webbsidor",
+            "uppgift": [
+              "http://www.jessicarosencrantz.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "66340"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Civilekonom"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0992420223820",
+            "hangar_id": "2369307"
+          }
+        ]
+      }
+    }
+  }
+}

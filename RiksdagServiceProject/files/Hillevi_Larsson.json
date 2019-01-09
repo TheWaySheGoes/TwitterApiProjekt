@@ -1,0 +1,744 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:46:54",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "b5c6fa28-8aa2-4109-b697-0b9ed2434fef",
+      "sourceid": "d7c329b4-83e4-11d4-ae60-0050040c9b55",
+      "intressent_id": "0878075468027",
+      "hangar_id": "2343586",
+      "fodd_ar": "1974",
+      "kon": "kvinna",
+      "efternamn": "Larsson",
+      "tilltalsnamn": "Hillevi",
+      "sorteringsnamn": "Larsson,Hillevi",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Malmö kommun",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/d7c329b4-83e4-11d4-ae60-0050040c9b55",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c329b4-83e4-11d4-ae60-0050040c9b55_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c329b4-83e4-11d4-ae60-0050040c9b55_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c329b4-83e4-11d4-ae60-0050040c9b55_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "92",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "37",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "14",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2012-01-01",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "14",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2011-11-01",
+            "tom": "2011-12-31",
+            "uppgift": [
+              "Rose-Marie Carlsson 2011-11-01 - 2011-12-31  Föräldraledighet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "14",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2011-07-01",
+            "tom": "2011-10-31",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "14",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2010-12-01",
+            "tom": "2011-06-30",
+            "uppgift": [
+              "Luciano Astudillo 2010-12-01 - 2011-06-30  Föräldraledighet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "14",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2010-11-30",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "92",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2009-10-17",
+            "tom": "2010-10-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "92",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2009-09-14",
+            "tom": "2009-10-16",
+            "uppgift": [
+              "Rose-Marie Carlsson 2009-09-14 - 2009-10-16"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "92",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2009-01-02",
+            "tom": "2009-09-13",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "92",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2008-06-09",
+            "tom": "2009-01-01",
+            "uppgift": [
+              "Rose-Marie Carlsson 2008-06-09 - 2009-01-01"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "92",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-02",
+            "tom": "2008-06-08",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "146",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2004-11-01",
+            "tom": "2006-10-02",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Statsrådsersättare",
+            "ordningsnummer": "0",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2002-09-30",
+            "tom": "2004-10-31",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Ersättare",
+            "ordningsnummer": "143",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "1998-11-23",
+            "tom": "2002-09-30",
+            "uppgift": [
+              "Lars-Erik Lövdén"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "45",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-07-01",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Vice ordförande",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-03-02",
+            "tom": "2017-06-30",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "20",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-01-01",
+            "tom": "2017-03-02",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Vice ordförande",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2015-09-18",
+            "tom": "2015-12-31",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "20",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2015-09-18",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1998-12-18",
+            "tom": "2002-09-30",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CKrU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-03-13",
+            "tom": "2018-05-24",
+            "uppgift": [
+              "Sammansatta civil- och kulturutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2002-10-08",
+            "tom": "2006-10-02",
+            "uppgift": [
+              "Lagutskottet"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "30",
+            "organ_sortering": "165",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2009-01-14",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2002-10-08",
+            "tom": "2006-10-10",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 98- (statsrådsersättare 981123-041031). Ledamot lagutskottet 02-06, civilutskottet 06-15 och 16- och vice ordförande 15. Ledamot EU-nämnden 02-06. Suppleant kulturutskottet 98-02, justitieutskottet 06-10 och skatteutskottet 10-. Suppleant EU-nämnden 06-09."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Yrkesinspektören Gunnar Larsson och bibliotekarien Birgitta Strandsjö."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, musikinriktning 91-92. Statsvetenskaplig-humanistisk linje, Komvux 93-94. Journalistlinjen, Skurups folkhögskola 98."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "EU-informatör/debattör 94. Politisk sekreterare, Malmö kommun 96-98."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Styrelseledamot, Ungdomsstyrelsen 00-02. Ledamot, EU 2004-kommittén 02-06. Ordförande, expertgruppen för miljöstudier 06-07. Styrelseledamot, Teracom 06-07. Ledamot, parlamentarisk referensgrupp till 2014 års vårdnadsutredning 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Ledamot, biblioteksnämnden, Malmö 94-95. Stadsdelsfullmäktig, Västra innerstaden 95-98."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ordförande, Republikanska föreningen 05-08, valberedningen 08-10. Ordförande, S-kvinnor Malmö 08-. Ordförande, Global (s) internationella förening 05-07, suppleant 07-11. Suppleant, Malmö arbetarekommuns styrelse (Socialdemokraterna i Malmö). Suppleant, Broderskaps styrelse Malmö 09-11. Suppleant, S-kvinnors förbundsstyrelse 07-09, ledamot 09-. Tidigare ledamot, EU-utskottet och internationella utskottet, Socialdemokraterna i Skåne. Tidigare suppleant Västra innerstadens s-förening. Suppleant, ESP (Europeiska Socialdemokraters Parti) Skåne 10-. Ledamot, Radio A stödförening Malmö 09-11. Adjungerad, Fosie socialdemokratiska förening 06-. Ledamot, riksdagens hbt-grupp 98-06, suppleant 06-. Sammankallande, RRS (Riksdagens Republikanska Sällskap) 05-. Sammankallande, Riksdagens nätverk för Västsahara 98-11. Valberedningen, Avantgarde Skåne 08-. Revisor, s-kvinnoklubben KARL Malmö 08-. Revisorsersättare, Västra innerstadens s-förening 09-. Revisorsersättare, Unga sossars-förening 10-. Adjungerad, Skånes S-kvinnor 11- och vice ordförande S-kvinnor 11-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "Riskera allt för en dröm (04), För Sverige - Nuförtiden. En antologi om Carl XVI Gustaf (06, tillsammans med andra), Eureka! vägar ut ur krisen (06, tillsammans med andra) och Oböjligt: kvinnor om reumatism (06, tillsammans med andra)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.socialdemokraterna.se/Riksdagsgruppen/?pid=291254"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "hillevi.larsson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Övriga webbsidor",
+            "uppgift": [
+              "http://hillevilarsson.blogspot.se/"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64399"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Politisk sekreterare"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              "Political Adviser"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0878075468027",
+            "hangar_id": "2343586"
+          }
+        ]
+      }
+    }
+  }
+}

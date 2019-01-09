@@ -1,0 +1,285 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:17",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "17f620b4-b38b-4993-a3de-03bce2d54dc0",
+      "sourceid": "3d764cf6-705b-460b-8226-df8f1226b27b",
+      "intressent_id": "0315499690028",
+      "hangar_id": "3057174",
+      "fodd_ar": "1984",
+      "kon": "kvinna",
+      "efternamn": "Carvalho",
+      "tilltalsnamn": "Teresa",
+      "sorteringsnamn": "Carvalho,Teresa",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Östergötlands län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/3d764cf6-705b-460b-8226-df8f1226b27b",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3d764cf6-705b-460b-8226-df8f1226b27b_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3d764cf6-705b-460b-8226-df8f1226b27b_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3d764cf6-705b-460b-8226-df8f1226b27b_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "118",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "180",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2017-01-02",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "180",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2016-04-18",
+            "tom": "2017-01-01",
+            "uppgift": [
+              "Eva Lindh 2016-04-18 - 2017-01-01  Föräldraledighet"
+            ],
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "180",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2016-04-17",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-04-06",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2016-04-17",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Ledamot socialförsäkringsutskottet 14-. Ledamot EU-nämnden 14-16."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Fernando Carvalho och Ulla Petterson Carvalho."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Hagagymnasiet, Norrköping, slutår 03. Pol.mag. examen, Linköpings universitet 09. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Informatör, Byrån mot diskriminering 09-11. Informations- och föreningssamordnare, Riksbyggen 11-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Norrköping 06-. Kommunstyrelsen, Norrköping 10-14 och 1:e vice ordförande 12-14. Gymnasienämnden, Norrköping 07-10. Ordförande, arbetsmarknads- och vuxenutbildningsnämnden, Norrköping 11-14.   "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ordförande, Socialdemokraterna i Norrköping 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "En svårslagen själ, om Norrköping - socialdemokratin och framtiden (13, tillsammans med Lars Stjernkvist, Eva Andersson och Olle Johansson).  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "teresa.carvalho[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64546"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Pol.mag"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0315499690028",
+            "hangar_id": "3057174"
+          }
+        ]
+      }
+    }
+  }
+}

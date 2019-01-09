@@ -1,0 +1,456 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:12",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "de65f08f-1620-40fc-8b91-e2f8984e0b76",
+      "sourceid": "5b7ac02c-0819-426d-bc5d-41b8c21ca4dd",
+      "intressent_id": "0216534495014",
+      "hangar_id": "2369301",
+      "fodd_ar": "1971",
+      "kon": "man",
+      "efternamn": "Holm",
+      "tilltalsnamn": "Jens",
+      "sorteringsnamn": "Holm,Jens",
+      "iort": null,
+      "parti": "V",
+      "valkrets": "Stockholms kommun",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/5b7ac02c-0819-426d-bc5d-41b8c21ca4dd",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5b7ac02c-0819-426d-bc5d-41b8c21ca4dd_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5b7ac02c-0819-426d-bc5d-41b8c21ca4dd_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5b7ac02c-0819-426d-bc5d-41b8c21ca4dd_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "110",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "207",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "316",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ordförande",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "10",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "MJU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "25",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-16",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Miljö- och jordbruksutskottet"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "MJU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Miljö- och jordbruksutskottet"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "21",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "MJU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Miljö- och jordbruksutskottet"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "24",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-12-20",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-01-26",
+            "tom": "2014-10-07",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "32",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-26",
+            "tom": "2012-01-25",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-15",
+            "tom": "2018-10-10",
+            "uppgift": [
+              "Ledamotsrådet"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2012-03-22",
+            "tom": "2014-10-15",
+            "uppgift": [
+              "Ledamotsrådet"
+            ],
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 10-. Ledamot miljö- och jordbruksutskottet 10- och EU-nämnden 14-. Suppleant justitieutskottet 10-, näringsutskottet 10-14 och EU-nämnden 10-14. Ledamot GLOBE, internationellt miljöpolitikernätverk. EU-parlamentariker 06-09. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Ingenjören Bertil Holm och ingenjören Birgitta Holm."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, Sundsvall, slutår 90. Språkstudier spanska, Salamanca ht 90. Magisterexamen i sociologi, Uppsala universitet, slutår 96. Språkstudier franska, Paris ht 99."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Simon community, Dundalk, Irland 92-93. Djurens Rätt, Stockholm, pressekreterare och journalist 97-02. Pressekreterare, Socialroteln, Stockholms stad 02-06. EU-parlamentariker 06-09."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ersättare, Gentekniknämnden. Ledamot, Miljömålsberedningen 15-. Medlem, parlamentariska kommittén för EU-frågor."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "Litteratur",
+            "uppgift": [
+              "För vår rätt och värdighet - Ungdomar om vardagen i Colombia och Sverige (99), Mat, miljö, rättvisa - Köttkonsumtionens påverkan på miljön och den globala livsmedelsförsörjningen (00), Djurindustrin och klimatet - EU blundar och förvärrar (tillsammans med Toivo Jokkala) och EU inifrån - berättelser från EU-parlamentet 06-09 (09), kom ut som e-bok (14)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Enskede"
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "jens.holm[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "Övriga webbsidor",
+            "uppgift": [
+              "http://www.jensholm.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "65733"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Sociolog/Journalist."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0216534495014",
+            "hangar_id": "2369301"
+          }
+        ]
+      }
+    }
+  }
+}

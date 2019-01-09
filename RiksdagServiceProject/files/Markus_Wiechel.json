@@ -1,0 +1,474 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-23 14:26:13",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "4ce134dd-74c3-4c63-abf4-4fc1f89ada58",
+      "sourceid": "8a9f3c8c-8ce8-4a17-9e57-0109af47efcc",
+      "intressent_id": "0204240926023",
+      "hangar_id": "2369429",
+      "fodd_ar": "1988",
+      "kon": "man",
+      "efternamn": "Wiechel",
+      "tilltalsnamn": "Markus",
+      "sorteringsnamn": "Wiechel,Markus",
+      "iort": null,
+      "parti": "SD",
+      "valkrets": "Östergötlands län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/8a9f3c8c-8ce8-4a17-9e57-0109af47efcc",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a9f3c8c-8ce8-4a17-9e57-0109af47efcc_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a9f3c8c-8ce8-4a17-9e57-0109af47efcc_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a9f3c8c-8ce8-4a17-9e57-0109af47efcc_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "58",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "266",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "27",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2012-12-03",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "UU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Utrikesutskottet"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-09-27",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Utrikesutskottet"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-10-11",
+            "tom": "2017-11-14",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2016-09-27",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2013-02-22",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "23",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2013-02-22",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-05-15",
+            "tom": "2018-06-14",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "43",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-09",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "63",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-05-04",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "64",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-06-14",
+            "tom": "2017-05-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "65",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2015-11-03",
+            "tom": "2016-06-13",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "ER",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-11-01",
+            "tom": "2022-10-31",
+            "uppgift": [
+              "Europarådets svenska delegation"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-02",
+            "tom": "2022-10-02",
+            "uppgift": [
+              "Utrikesnämnden"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "ER",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-04-05",
+            "tom": "2018-10-31",
+            "uppgift": [
+              "Europarådets svenska delegation"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2013-09-17",
+            "tom": "2014-06-15",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 12-. Ledamot civilutskottet 13-14, socialförsäkringsutskottet 14-16 och utrikesutskottet 16-. Suppleant justitieutskottet 13-14, civilutskottet 14-, arbetsmarknadsutskottet 14-,  EU-nämnden 15- och socialförsäkringsutskottet 16-. Ledamot Nordiska rådets svenska delegation 13-14. Suppleant Europarådets svenska delegation 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369429"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Veterinären Sten Wiechel och professorn Kristina Narfström."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369429"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Diverse studier vid Columbia Career Center (Columbia, Missouri USA) 03-05. High School Diploma från David H. Hickman High School (Columbia, Missouri USA) 03-07. Distansstudier i svenska A och B samt statsvetenskap vid Värmdö gymnasium 05-07. Studier vid socionomprogrammet, Linköpings universitet 07-08 och studier i statsvetenskap 08-09. Diverse internutbildningar (främst inom sälj, kommunikation och rekrytering) vid olika företag och föreningar 08-12. Kurs i sorgbearbetning/krishantering i Vibynäs 14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369429"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Kyrkogårdsvaktmästare (sommarjobb) 03-06. Telefonförsäljare 08. Rekryterare och försäljare 08. Kundbokare och rådgivare 09. Lagerarbetare 09. Regional valorganisatör 09-10. Politisk sekreterare, Norrköpings kommun 10-13."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369429"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Suppleant, Committee on Migration, Refugees and Displaced Persons (Europarådet) 16-.  Ledamot, Committee on Social Affairs, Health and Sustainable Development (Europarådet) 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369429"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, gruppledare, Norrköping 10-13 och ledamot 10-. Ledamot, valberedningen 10-13."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369429"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Kommanditdelägare Retvet KB 07-. Ledamot, Boråd Gripen i Norrköping 07-09. Ordförande för SD Norrköping 09-11. Ordförande för SD Östergötland 09-15. Revisorssuppleant, SDU 10-11. Ledamot, SD Mjölbys valberedning 10-12. Ledamot, SD Linköpings valberedning 10-13. Ledamot, SDU Östergötlands valberedning 11-12. Ledamot i SDU Norrköpings valberedning 11-12. Ledamot i SD Vadstenas valberedning 11-12. Ledamot i SD Motalas valberedning 11-12. Suppleant, Sverigedemokraternas partistyrelse 11-. Vice ordförande, SD Norrköping 12-13. Revisorssuppleant, SD Motala/Vadstena 12-13. Ledamot för SD Norrköpings valberedning 12-15. Ledamot för SD Åtvidabergs valberedning 13-. Ledamot, SD Motala/Vadstenas valberedning 14-15. Redaktör för SD-kuriren 14-15. Ledamot, SD Valdemarsviks valberedning 14-. Ledamot i SD Kindas valberedning 14-. Ledamot i SD Östergötlands valberedning 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369429"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "markus.wiechel[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0204240926023",
+            "hangar_id": "2369429"
+          }
+        ]
+      }
+    }
+  }
+}

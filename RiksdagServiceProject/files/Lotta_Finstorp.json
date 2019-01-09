@@ -1,0 +1,402 @@
+{
+  "personlista": {
+    "@systemdatum": "2018-12-30 15:47:13",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "9bfb7c4a-e9ad-4bb9-b9a9-697ca7a67928",
+      "sourceid": "61e74c12-dab8-4117-8b4e-ffd41c21dbda",
+      "intressent_id": "0750518623913",
+      "hangar_id": "2343049",
+      "fodd_ar": "1958",
+      "kon": "kvinna",
+      "efternamn": "Finstorp",
+      "tilltalsnamn": "Lotta",
+      "sorteringsnamn": "Finstorp,Lotta",
+      "iort": null,
+      "parti": "M",
+      "valkrets": "Södermanlands län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/61e74c12-dab8-4117-8b4e-ffd41c21dbda",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/61e74c12-dab8-4117-8b4e-ffd41c21dbda_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/61e74c12-dab8-4117-8b4e-ffd41c21dbda_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/61e74c12-dab8-4117-8b4e-ffd41c21dbda_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "286",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "250",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "287",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-11-18",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2016-11-18",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-04-20",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SoU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2012-06-04",
+            "uppgift": [
+              "Socialutskottet"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "76",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-12-05",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-10",
+            "tom": "2022-10-10",
+            "uppgift": [
+              "Ledamotsrådet"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RS",
+            "roll_kod": "Ersättare",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-02",
+            "tom": "2022-10-02",
+            "uppgift": [
+              "Riksdagsstyrelsen"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "45",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2017-03-22",
+            "tom": "2018-10-10",
+            "uppgift": [
+              "Ledamotsrådet"
+            ],
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 10-. Ledamot socialförsäkringsutskottet 14-. Suppleant trafikutskottet 10- socialutskottet 10-12 och arbetsmarknadsutskottet 12-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Företagare Tore Jonsson och lärare Eva Pedersén Jonsson."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, humanistisk linje, Stålhagsskolan i Hultsfred 74-77. Socialhögskolan/Örebro högskola, Örebro 79-82."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Feriejobb och kortare anställningar som simlärare och turistvärdinna i Vimmerby kommun, badvaktmästare, lärarvikarie och ridlärare på Finntorps Gård i Flens kommun 73-82. Skolkurator, Tranås kommun 83-84. Socialsekreterare, Strängnäs kommun 84-85. Skolkurator, Katrineholms kommun 85-89. Kurator, Ungdomsmottagningen samt lärare vid Komvux i Flen 90-95. Socialsekreterare, Flens socialförvaltning 95-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Styrelseledamot, Länsstyrelsen i Södermanlands län 00-02 och 05-10. Ledamot, parlamentariska socialförsäkringsutredningen 10-15. Ledamot Bostadsplaneringskommittén 13-15 och Socialstyrelsens rättsliga råd 15-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Oppositionsråd, Flens kommun 99-02 och landstinget Sörmland 8-10. Kommunfullmäktig, Flen 14-. Ordförande, kommunstyrelsen 02-06. Ordförande, landstingsstyrelsen, Sörmland 07-08. Landstingsfullmäktig, Sörmland 10-14 och ledamot, landstinget Sörmlands demokratiberedning. Vigselförrättare, utsedd av länsstyrelsen i Sörmland 01-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ledamot, Svenska Ridsportförbundets distriktsstyrelse, Sörmland 92-93. Ledamot samt 2:e vice ordförande, Moderata förbundsstyrelsen i Södermanlands län 95-11, adjungerad 11-. Ordförande, Flens Moderatförening 04-06. Ledamot, Flens Golfklubb 10-12. Ordförande Flens Hockeyklubb 00-02. Suppleant, Civilförsvarsförbundets förbundsstyrelse 14-15. Ordförande, Svenska Ridsportförbundets dressyrkommitté 12-16. Ledamot, Svensk-bosniska, Svensk-engelska och Svensk- japanska parlamentarikerföreningen."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Mellösa"
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "lotta.finstorp[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "66292"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Socionom"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0750518623913",
+            "hangar_id": "2343049"
+          }
+        ]
+      }
+    }
+  }
+}
