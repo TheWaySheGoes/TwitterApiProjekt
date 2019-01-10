@@ -46,9 +46,9 @@
 
 			<div class="col-md-3">
 				<h3>Partier</h3>
-				<div class="list-group">
-					<a href="parti.html?parti=s" class="list-group-item">Socialdemokraterna</a>
-					<a href="parti.html?parti=m" class="list-group-item">Moderaterna</a>
+				<div class="list-group" id="partyList">
+					<!--<a href="parti.html?parti=s" class="list-group-item">Socialdemokraterna</a>
+					<a href="parti.html?parti=m" class="list-group-item">Moderaterna</a>-->
 				</div>
 			</div>
 
@@ -66,9 +66,27 @@
 		</div>
 	</div>
 
-	<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+	<br>
+	<br>
+	<br>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
 </body>
+
+<script type="text/javascript">
+	let api = "http://localhost:5000/party";
+
+	$.getJSON(api, function(data) {
+		console.log(data);
+
+		for (var index in data) {
+			let party = data[index];
+			$("#partyList").append("<a href=\"parti.html?parti=" + party["förkortning"] + "\" class=\"list-group-item\">" + party["namn"] + "</a>");
+		}
+
+	});
+</script>
 
 </html>

@@ -45,7 +45,15 @@
       </div>
 
       <div class="col-md-4">
-        <p id="description">Kort beskrivning</p>
+        <p id="mandat">Antal mandat: </p>
+        <p id="partiledare">Partiledare: </p>
+        <p id="gruppledare">Gruppledare: </p>
+        <p id="vice gruppledare">Vice gruppledare: </p>
+        <p id="partisekreterare">Partisekreterare: </p>
+        <p id="telefon">telefon</p>
+        <p id="e-post">e-post</p>
+        <a id="twitter" target="_blank" rel="noopener noreferrer" href="#">@twitter</a>
+        <p></p>
         <a id="website" target="_blank" rel="noopener noreferrer" href="#">Hemsida</a>
       </div>
 
@@ -75,33 +83,39 @@
     </div>
   </div>
 
+  <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+
 </body>
 
 <script type="text/javascript">
   let params = (new URL(document.location)).searchParams;
   let parti = params.get("parti");
-  console.log(parti);
 
-  let name, image, description, website;
-
-  // For testing only. Need to get info from backend later.
   if (parti != null) {
-    if (parti == "s") {
-      name = "Socialdemokraterna (S)";
-      image = "https://www.socialdemokraterna.se/globalassets/vart-parti/press/logotyper/staende_rgb_png.png";
-      description = "Socialdemokraternas beskrivning";
-      website = "https://www.socialdemokraterna.se/";
-    } else if (parti == "m") {
-      name = "Moderaterna (M)";
-      image = "http://moderaterna.se/sites/default/files/page_attachments/2017-11/huvudlogotyp_farg.png";
-      description = "Moderaternas beskrivning";
-      website = "https://moderaterna.se/";
-    }
 
-    document.getElementById("name").textContent = name;
-    document.getElementById("image").src = image;
-    document.getElementById("description").textContent = description;
-    document.getElementById("website").href = website;
+    let api = "http://localhost:5000/party/" + parti;
+
+    $.getJSON( api, function( data ) {
+
+      document.getElementById("name").textContent = data["namn"] + "(" + data["förkortning"] + ")";
+      document.getElementById("image").src = data["bild"];
+
+      document.getElementById("mandat").textContent += data["mandat"];
+
+      document.getElementById("partiledare").textContent += data["partiledare"];
+      document.getElementById("gruppledare").textContent += data["gruppledare"];
+      document.getElementById("vice gruppledare").textContent += data["vice gruppledare"];
+      document.getElementById("partisekreterare").textContent += data["partisekreterare"];
+
+      document.getElementById("telefon").textContent = data["telefon"];
+      document.getElementById("e-post").textContent = data["e-post"];
+
+      document.getElementById("twitter").textContent = data["twitterHandle"];
+      document.getElementById("twitter").href = data["twitterLink"];
+
+      document.getElementById("website").href = data["hemsida"];
+    });
+
   }
 
 </script>
