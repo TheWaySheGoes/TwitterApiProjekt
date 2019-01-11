@@ -2,10 +2,14 @@ package api;
 
 import static spark.Spark.*;
 
+import spark.Spark;
+
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
-import spark.Spark;
+
+import org.json.JSONArray;
+import org.json.JSONObject;
 
 /**
  * The API endpoints.
@@ -22,60 +26,71 @@ public class Api {
 
 	public void start() {
 		port(5000);
-
+		
+		after((request, response) -> {
+		    response.header("Access-Control-Allow-Methods", "GET");
+			response.header("Access-Control-Allow-Origin", "*");
+			response.header("Content-Type", "application/json");
+		});
+		
 		get("/hello", (req, res) -> {
 			ui.log("/hello from ip: " + req.ip());
 			return "Hello spark!!!";
 		});
 
-		get("/parti", (req, res) -> {
-			res.header("Content-Type", "application/json");
-			
-			ui.log("/parti from ip: " + req.ip());
+		get("/party", (req, res) -> {
+			ui.log("/party from ip: " + req.ip());
 
-			return "Alla partier";
+			return readFile("files/party/party.json");
 		});
 
-		get("/parti/:p", (req, res) -> {
-			res.header("Content-Type", "application/json");
+		get("/party/:p", (req, res) -> {
 			String parti = req.params(":p");
-			
-			ui.log("/parti/" + parti +" from ip: " + req.ip());
 
-			if (parti.equals("s") || parti.equals("S")) {
-				return "Socialdemokraterna";
-			} else if (parti.equals("m") || parti.equals("M")) {
-				return "Moderaterna";
-			} else {
-				res.status(400);
-				return null;
+			ui.log("/party/" + parti + " from ip: " + req.ip());
+
+			String jsonString = readFile("files/party/party.json");
+
+			JSONArray jsonArray = null;
+
+			try {
+				jsonArray = new JSONArray(jsonString);
+			} catch (Exception e) {
+				e.printStackTrace();
 			}
+
+			for (Object object : jsonArray) {
+				JSONObject party = (JSONObject) object;
+
+				if (party.get("förkortning").equals(parti)) {
+					return party;
+				}
+			}
+
+			res.status(404);
+			return "Party not found";
 		});
 
 		get("/parliamentMembers", (req, res) -> {
-			res.header("Content-Type", "application/json");
-			
 			ui.log("/parliamentMembers from ip: " + req.ip());
-			
-			return readFile("files/jumbo.json");
+
+			return readFile("files/parliamentList.json");
 		});
 
 		get("/parliamentMember/:id", (req, res) -> {
-			res.header("Content-Type", "application/json");
 			String id = req.params(":id");
-			
+
 			ui.log("/parliamentMember/" + id + " from ip: " + req.ip());
-			
+
 			return "Ledarmöte med id " + id;
 		});
 
 		get("/tweets/:amount/:id", (req, res) -> {
-			res.header("Content-Type", "application/json");
 			String amount = req.params(":amount");
 			String id = req.params(":id");
-			
+
 			ui.log("/tweets/" + amount + "/" + id + " from ip: " + req.ip());
-			
+
 			return amount + " st Tweets från ledarmöte med id " + id;
 		});
 
