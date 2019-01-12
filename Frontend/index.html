@@ -4,6 +4,15 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>Riksdagsledamöter</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+	<style>
+		#membersList{
+			max-height: 400px;
+			overflow:scroll;
+			-webkit-overflow-scrolling: touch;
+		}
+	</style>
+
 </head>
 
 <body>
@@ -54,12 +63,8 @@
 
 			<div class="col-md-4">
 				<h3>Ledarmöten</h3>
-				<div class="list-group">
-					<a href="#" class="list-group-item">Förnamn Efternamn (Parti)</a>
-					<a href="#" class="list-group-item">Dapibus ac facilisis in</a>
-					<a href="#" class="list-group-item">Morbi leo risus</a>
-					<a href="#" class="list-group-item">Porta ac consectetur ac</a>
-					<a href="#" class="list-group-item">Vestibulum at eros</a>
+				<div class="list-group" id="membersList">
+					<!--<a href="profil.html?id=12345" class="list-group-item">Förnamn Efternamn (Parti)</a>-->
 				</div>
 			</div>
 
@@ -76,17 +81,23 @@
 </body>
 
 <script type="text/javascript">
-	let api = "http://localhost:5000/party";
 
-	$.getJSON(api, function(data) {
-		console.log(data);
-
+	let partyUrl = "http://localhost:5000/party";
+	$.getJSON(partyUrl, function(data) {
 		for (var index in data) {
 			let party = data[index];
 			$("#partyList").append("<a href=\"parti.html?parti=" + party["förkortning"] + "\" class=\"list-group-item\">" + party["namn"] + "</a>");
 		}
-
 	});
+
+	let membersUrl = "http://localhost:5000/parliamentMembers";
+	$.getJSON(membersUrl, function(data){
+		for (var index in data) {
+			let member = data[index];
+			$("#membersList").append("<a href=\"profil.html?id=" + member["id"] + "\" class=\"list-group-item\">" + member["firstName"] + " " + member["lastName"] + " (" + member["party"] + ")" + "</a>");
+		}
+	});
+
 </script>
 
 </html>

@@ -4,35 +4,44 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Parti</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+  <style>
+    #membersList{
+			max-height: 400px;
+			overflow:scroll;
+			-webkit-overflow-scrolling: touch;
+		}
+	</style>
+
 </head>
 
 <body>
 
   <nav class="navbar navbar-expand-lg navbar-light " style="background-color: #7bbeee;">
-		<a class="navbar-brand" href="index.html">Riksdagsledamöter</a>
-		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-			<span class="navbar-toggler-icon"></span>
-		</button>
-		<div class="collapse navbar-collapse" id="navbarNavDropdown">
-			<ul class="navbar-nav">
-				<li class="nav-item active">
-					<a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-				</li>
-				<li class="nav-item active">
-					<a class="nav-link" href="parti.html">Partier</a>
-				</li>
-				<li class="nav-item active">
-					<a class="nav-link" href="profil.html">Ledarmöten</a>
-				</li>
-				<li class="nav-item">
-					<a class="nav-link" href="#">API</a>
-				</li>
-				<li class="nav-item active">
-					<a class="nav-link" href="http://81.170.225.32:16543">Server<span class="sr-only">(current)</span></a>
-				</li>
-			</ul>
-		</div>
-	</nav>
+    <a class="navbar-brand" href="index.html">Riksdagsledamöter</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav">
+        <li class="nav-item active">
+          <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="parti.html">Partier</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="profil.html">Ledarmöten</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">API</a>
+        </li>
+        <li class="nav-item active">
+          <a class="nav-link" href="http://81.170.225.32:16543">Server<span class="sr-only">(current)</span></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
 
   <div class="container">
 
@@ -48,10 +57,10 @@
         <p id="mandat">Antal mandat: </p>
         <p id="partiledare">Partiledare: </p>
         <p id="gruppledare">Gruppledare: </p>
-        <p id="vice gruppledare">Vice gruppledare: </p>
+        <p id="vice_gruppledare">Vice gruppledare: </p>
         <p id="partisekreterare">Partisekreterare: </p>
-        <p id="telefon">telefon</p>
-        <p id="e-post">e-post</p>
+        <p id="telefon">Telefon: </p>
+        <p id="e-post">E-post: </p>
         <a id="twitter" target="_blank" rel="noopener noreferrer" href="#">@twitter</a>
         <p></p>
         <a id="website" target="_blank" rel="noopener noreferrer" href="#">Hemsida</a>
@@ -67,12 +76,8 @@
 
       <div class="col-md-4">
         <h3>Ledarmöten</h3>
-        <div class="list-group">
-          <a href="#" class="list-group-item">Förnamn Efternamn</a>
-          <a href="#" class="list-group-item">Dapibus ac facilisis in</a>
-          <a href="#" class="list-group-item">Morbi leo risus</a>
-          <a href="#" class="list-group-item">Porta ac consectetur ac</a>
-          <a href="#" class="list-group-item">Vestibulum at eros</a>
+        <div class="list-group" id="membersList">
+          <!--<a href="profil.html?id=12345" class="list-group-item">Förnamn Efternamn (Parti)</a>-->
         </div>
       </div>
 
@@ -82,6 +87,10 @@
 
     </div>
   </div>
+
+  <br>
+  <br>
+  <br>
 
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 
@@ -95,29 +104,39 @@
 
     let api = "http://localhost:5000/party/" + parti;
 
-    $.getJSON( api, function( data ) {
+    $.getJSON(api, function(data) {
 
-      document.getElementById("name").textContent = data["namn"] + "(" + data["förkortning"] + ")";
-      document.getElementById("image").src = data["bild"];
+      $("#name").text(data["namn"] + "(" + data["förkortning"] + ")");
+      $("#image").attr("src", data["bild"]);
 
-      document.getElementById("mandat").textContent += data["mandat"];
+      $("#mandat").append(data["mandat"]);
 
-      document.getElementById("partiledare").textContent += data["partiledare"];
-      document.getElementById("gruppledare").textContent += data["gruppledare"];
-      document.getElementById("vice gruppledare").textContent += data["vice gruppledare"];
-      document.getElementById("partisekreterare").textContent += data["partisekreterare"];
+      $("#partiledare").append(data["partiledare"]);
+      $("#gruppledare").append(data["gruppledare"]);
+      $("#vice_gruppledare").append(data["vice gruppledare"]);
+      $("#partisekreterare").append(data["partisekreterare"]);
 
-      document.getElementById("telefon").textContent = data["telefon"];
-      document.getElementById("e-post").textContent = data["e-post"];
+      $("#telefon").append(data["telefon"]);
 
-      document.getElementById("twitter").textContent = data["twitterHandle"];
-      document.getElementById("twitter").href = data["twitterLink"];
+      let mail = data["e-post"];
 
-      document.getElementById("website").href = data["hemsida"];
+      $("#e-post").append("<a href=\"mailto:" + mail + "\">" + mail + "</a>");
+
+      $("#twitter").text(data["twitterHandle"]);
+      $("#twitter").attr("href", data["twitterLink"]);
+
+      $("#website").attr("href", data["hemsida"]);
+    });
+
+    let membersUrl = "http://localhost:5000/parliamentMembers/" + parti;
+    $.getJSON(membersUrl, function(data){
+      for (var index in data) {
+        let member = data[index];
+        $("#membersList").append("<a href=\"profil.html?id=" + member["id"] + "\" class=\"list-group-item\">" + member["firstName"] + " " + member["lastName"] + " (" + member["party"] + ")" + "</a>");
+      }
     });
 
   }
-
 </script>
 
 </html>

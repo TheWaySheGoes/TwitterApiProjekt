@@ -68,8 +68,8 @@
 						Statistik
 					</div>
 					<ul class="list-group list-group-flush">
-						<li class="list-group-item" id="memberRole">Ålder: 57</li>
-						<li class="list-group-item" id="memberRole">Valkrets: Stockholms län</li>
+						<li class="list-group-item" id="memberAge">Ålder: </li>
+						<li class="list-group-item" id="valkrets">Valkrets: </li>
 						<li class="list-group-item" id="memberRole">Följare: 57601</li>
 						<li class="list-group-item" id="memberRole">Tweets: 217</li>
 						<li class="list-group-item" id="memberRole">Tweets/dag: 0.17</li>
@@ -103,7 +103,48 @@
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
-	<script type="text/javascript" src="main.js"></script>
+	<!--<script type="text/javascript" src="main.js"></script>-->
 </body>
+
+<script type="text/javascript">
+  let params = (new URL(document.location)).searchParams;
+  let id = params.get("id");
+
+  if (id != null) {
+
+    let memberUrl = "http://localhost:5000/parliamentMember/" + id;
+
+    $.getJSON( memberUrl, function( data ) {
+
+      $("#memberName").text(data["tilltalsnamn"] + " " + data["efternamn"] + " (" + data["parti"] + ")");
+      $("#memberPicture").attr("src", data["bild_url_max"]);
+
+
+			let currentYear = new Date().getFullYear();
+
+      $("#memberAge").append(currentYear - data["fodd_ar"]);
+
+
+      $("#valkrets").append(data["valkrets"]);
+
+      $("#gruppledare").append(data["gruppledare"]);
+      $("#vice_gruppledare").append(data["vice gruppledare"]);
+      $("#partisekreterare").append(data["partisekreterare"]);
+
+      $("#telefon").append(data["telefon"]);
+
+      let mail = data["e-post"];
+
+      $("#e-post").append("<a href=\"mailto:" + mail + "\">" + mail + "</a>");
+
+      $("#twitter").text(data["twitterHandle"]);
+      $("#twitter").attr("href", data["twitterLink"]);
+
+      $("#website").attr("href", data["hemsida"]);
+    });
+
+  }
+
+</script>
 
 </html>

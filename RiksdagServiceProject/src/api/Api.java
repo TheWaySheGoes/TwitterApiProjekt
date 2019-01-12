@@ -74,15 +74,72 @@ public class Api {
 		get("/parliamentMembers", (req, res) -> {
 			ui.log("/parliamentMembers from ip: " + req.ip());
 
-			return readFile("files/parliamentList.json");
+			return readFile("files/parliamentMembers/parliamentList.json");
+		});
+		
+		get("/parliamentMembers/:party", (req, res) -> {
+			String party = req.params(":party");
+
+			ui.log("/parliamentMembers/" + party + " from ip: " + req.ip());
+			
+			String jsonString = readFile("files/parliamentMembers/parliamentList.json");
+
+			JSONArray jsonArray = null;
+
+			try {
+				jsonArray = new JSONArray(jsonString);
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+			
+			JSONArray members = new JSONArray();
+			
+			for (Object object : jsonArray) {
+				JSONObject member = (JSONObject) object;
+
+				if (member.get("party").equals(party)) {
+					members.put(member);
+				}
+			}
+
+			return members;
 		});
 
 		get("/parliamentMember/:id", (req, res) -> {
 			String id = req.params(":id");
 
 			ui.log("/parliamentMember/" + id + " from ip: " + req.ip());
+			
+			String jsonString = readFile("files/parliamentMembers/parliamentList.json");
 
-			return "Ledarmöte med id " + id;
+			JSONArray jsonArray = null;
+
+			try {
+				jsonArray = new JSONArray(jsonString);
+			} catch (Exception e) {
+				e.printStackTrace();
+			}
+			
+			System.out.println("jsonArray: " + jsonArray);
+
+			for (Object object : jsonArray) {
+				JSONObject member = (JSONObject) object;
+
+				if (member.get("id").equals(id)) {
+					JSONObject person = new JSONObject(readFile("files/" + member.getString("firstName") + "_" + member.getString("lastName") + ".json"));
+					
+					System.out.println("Person: " + person);
+					
+					JSONObject personList = person.getJSONObject("personlista");
+					
+					System.out.println("PersonList: " + personList);
+					
+					return personList.get("person");
+				}
+			}
+
+			res.status(404);
+			return "Member not found";
 		});
 
 		get("/tweets/:amount/:id", (req, res) -> {
