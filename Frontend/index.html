@@ -11,6 +11,14 @@
 			overflow:scroll;
 			-webkit-overflow-scrolling: touch;
 		}
+		#memberSearchField {
+			border-bottom-left-radius: 0; 
+			border-bottom-right-radius: 0;
+		}
+		#membersList > .list-group-item:first-of-type {
+			border-top-right-radius: 0;
+			border-top-left-radius: 0;
+		}
 	</style>
 
 </head>
@@ -63,6 +71,7 @@
 
 			<div class="col-md-4">
 				<h3>Ledarmöten</h3>
+				<input class="form-control my-0 shadow-none py-1 rounded-top" id="memberSearchField" type="text" placeholder="Sök efter ledamot" aria-label="Search">
 				<div class="list-group" id="membersList">
 					<!--<a href="profil.html?id=12345" class="list-group-item">Förnamn Efternamn (Parti)</a>-->
 				</div>
@@ -90,13 +99,34 @@
 		}
 	});
 
+	var memberNames = [];
 	let membersUrl = "http://localhost:5000/parliamentMembers";
 	$.getJSON(membersUrl, function(data){
 		for (var index in data) {
 			let member = data[index];
-			$("#membersList").append("<a href=\"profil.html?id=" + member["id"] + "\" class=\"list-group-item\">" + member["firstName"] + " " + member["lastName"] + " (" + member["party"] + ")" + "</a>");
+			let fullName = member["firstName"] + " " + member["lastName"];
+			
+			$("#membersList").append("<a href=\"profil.html?id=" + member["id"] + "\" id='" + member["id"] + "' class=\"list-group-item\">" + fullName + " (" + member["party"] + ")" + "</a>");
+			memberNames.push(fullName);					
 		}
 	});
+	
+	$("#memberSearchField").bind("change keyup input",function() { 
+		let input = $("#memberSearchField").val();
+		$("#membersList").children().hide();
+		
+		if(input){
+			$.each([memberNames], function(index, value){
+				$.each(value, function(key, cell){
+					if ((cell.toLowerCase()).includes(input.toLowerCase())){
+						$("#" + $("#membersList a:nth-child(" + (key+1)  + ")").attr("id")).show();
+					}
+				});
+			});
+		} else {			
+			$("#membersList").children().show();
+		}
+	});	
 
 </script>
 
