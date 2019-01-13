@@ -32,11 +32,6 @@ public class Api {
 			response.header("Access-Control-Allow-Origin", "*");
 			response.header("Content-Type", "application/json");
 		});
-		
-		get("/hello", (req, res) -> {
-			ui.log("/hello from ip: " + req.ip());
-			return "Hello spark!!!";
-		});
 
 		get("/party", (req, res) -> {
 			ui.log("/party from ip: " + req.ip());
@@ -120,27 +115,47 @@ public class Api {
 				e.printStackTrace();
 			}
 			
-			System.out.println("jsonArray: " + jsonArray);
-
 			for (Object object : jsonArray) {
 				JSONObject member = (JSONObject) object;
 
 				if (member.get("id").equals(id)) {
-					JSONObject person = new JSONObject(readFile("files/" + member.getString("firstName") + "_" + member.getString("lastName") + ".json"));
+//					JSONObject person = new JSONObject(readFile("files/" + member.getString("firstName") + "_" + member.getString("lastName") + ".json"));
+//										
+//					JSONObject personList = person.getJSONObject("personlista");
+//										
+//					return personList.get("person");
 					
-					System.out.println("Person: " + person);
-					
-					JSONObject personList = person.getJSONObject("personlista");
-					
-					System.out.println("PersonList: " + personList);
-					
-					return personList.get("person");
+					JSONObject person = new JSONObject(readFile("files/parliamentMembers/minimal/" + member.getString("firstName") + "_" + member.getString("lastName") + ".json"));
+
+					return person;
 				}
 			}
 
 			res.status(404);
 			return "Member not found";
 		});
+		
+		
+		get("/votes", (req, res) -> {
+			ui.log("/votes/ from ip: " + req.ip());
+			return readFile("files/votes/voteList.json");
+		});
+		
+		get("/votes/:id", (req, res) -> {
+			String id = req.params(":id");
+			
+			ui.log("/votes/" + id + " from ip: " + req.ip());
+			
+			String jsonFile = readFile("files/votes/full/" + id + ".json");
+			
+			if(jsonFile != null) {
+				return jsonFile;
+			} else {
+				res.status(404);
+				return "Votes not found";
+			}
+		});
+		
 
 		get("/tweets/:amount/:id", (req, res) -> {
 			String amount = req.params(":amount");
@@ -170,6 +185,7 @@ public class Api {
 
 		} catch (FileNotFoundException e) {
 			e.printStackTrace();
+			return null;
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

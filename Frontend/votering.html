@@ -1,0 +1,177 @@
+<html>
+
+<head>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Votering</title>
+	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+	<style>
+		#membersList{
+			max-height: 400px;
+			overflow:scroll;
+			-webkit-overflow-scrolling: touch;
+		}
+		#memberSearchField {
+			border-bottom-left-radius: 0;
+			border-bottom-right-radius: 0;
+		}
+		#membersList > .list-group-item:first-of-type {
+			border-top-right-radius: 0;
+			border-top-left-radius: 0;
+		}
+	</style>
+
+</head>
+
+<body>
+
+	<nav class="navbar navbar-expand-lg navbar-light " style="background-color: #7bbeee;">
+		<a class="navbar-brand" href="index.html">Riksdagsledamöter</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<ul class="navbar-nav">
+				<li class="nav-item active">
+					<a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="parti.html">Partier</a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="profil.html">Ledarmöten</a>
+				</li>
+				<li class="nav-item">
+					<a class="nav-link" href="#">API</a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="http://81.170.225.32:16543">Server<span class="sr-only">(current)</span></a>
+				</li>
+			</ul>
+		</div>
+	</nav>
+
+
+	<div class="container">
+
+    <h1 id="title">Title</h1>
+
+    <p id="date">Datum: </p>
+    <a href="#" id="pdf">PDF</a>
+    <br>
+    <br>
+
+
+		<div class="row">
+
+			<div class="col-md-3">
+				<h3>Resultat</h3>
+				<div class="list-group" id="resultList">
+          <p class="list-group-item" id="ja">Ja: </p>
+          <p class="list-group-item" id="nej">Nej: </p>
+          <p class="list-group-item" id="avstår">Avstår: </p>
+          <p class="list-group-item" id="frånvarande">Frånvarande: </p>
+				</div>
+			</div>
+
+			<div class="col-md-4">
+				<h3>Ledarmöten</h3>
+				<input class="form-control my-0 shadow-none py-1 rounded-top" id="memberSearchField" type="text" placeholder="Sök efter ledamot" aria-label="Search">
+				<div class="list-group" id="membersList">
+					<!--<a href="profil.html?id=12345" class="list-group-item">Förnamn Efternamn (Parti): röst</a>-->
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<br>
+	<br>
+	<br>
+
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+</body>
+
+<script type="text/javascript">
+
+  let params = (new URL(document.location)).searchParams;
+  let id = params.get("id");
+
+
+  if (id != null) {
+    let votesUrl = "http://localhost:5000/votes/" + id;
+  	$.getJSON(votesUrl, function(data) {
+
+      console.log(data);
+
+      let title = data.votering.dokument["titel"];
+      let date = data.votering.dokument["datum"];
+      date = date.split(" ")[0]; // Remove time
+      let pdf = data.votering.dokbilaga.bilaga["fil_url"];
+
+      $("#title").text(title);
+      $("#date").append(date);
+      $("#pdf").attr("href", pdf);
+
+      let votesArray = data.votering.dokvotering["votering"];
+      console.log(votesArray);
+
+      var memberNames = [];
+      var ja = 0;
+      var nej = 0;
+      var avstår = 0;
+      var frånvarande = 0;
+
+      for (var index in votesArray) {
+      	let member = votesArray[index];
+        console.log(member);
+      	let name = member["namn"];
+        let id = member["intressent_id"];
+        let vote = member["rost"];
+        let party = member["parti"];
+
+        if(vote == "Ja"){
+          ja++;
+        } else if(vote == "Nej"){
+          nej++;
+        } else if (vote == "Avstår"){
+          avstår++;
+        } else if (vote == "Frånvarande"){
+          frånvarande++;
+        }
+
+    		$("#membersList").append("<a href=\"profil.html?id=" + id + "\" id='" + id + "' class=\"list-group-item\">" + name + " (" + party + "): " + vote + "</a>");
+    		memberNames.push(name);
+    	}
+
+      $("#ja").append(ja);
+      $("#nej").append(nej);
+      $("#avstår").append(avstår);
+      $("#frånvarande").append(frånvarande);
+
+      $("#memberSearchField").bind("change keyup input",function() {
+        let input = $("#memberSearchField").val();
+        $("#membersList").children().hide();
+
+        if(input){
+          $.each([memberNames], function(index, value){
+            $.each(value, function(key, cell){
+              if ((cell.toLowerCase()).includes(input.toLowerCase())){
+                $("#" + $("#membersList a:nth-child(" + (key+1)  + ")").attr("id")).show();
+              }
+            });
+          });
+        } else {
+          $("#membersList").children().show();
+        }
+      });
+
+
+  	});
+  }
+
+</script>
+
+</html>

@@ -5,7 +5,17 @@
 	<title>Profil</title>
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
+
+	<style>
+		#votesList{
+		max-height: 400px;
+		overflow:scroll;
+		-webkit-overflow-scrolling: touch;
+	}
+	</style>
+
 </head>
+
 <body>
 
 	<nav class="navbar navbar-expand-lg navbar-light " style="background-color: #7bbeee;">
@@ -39,13 +49,16 @@
 		<div class="row justify-content-md-center mt-5">
 
 			<div class="col-md-auto">
-				<div class="card" id="parliamentMember" style="width: 18rem; height: 27rem;">
+				<div class="card" id="parliamentMember" style="width: 18rem;">
 					<img class="card-img-top" id="memberPicture" style="max-height: 250px; object-fit: cover;" src="https://newsvoice.se/wp-content/uploads/2016/11/Stefan-Lofven-foto-Kristian-Pohl-Regeringskansliet.png" alt="Card image cap">
 					<div class="card-body">
 						<h5 class="card-title mb-0" id="memberName">Stefan Löfven (S)</h5>
 					</div>
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item" id="memberRole">Statsminister</li>
+					</ul>
+					<ul class="list-group list-group-flush">
+						<li class="list-group-item" id="email">E-post: </li>
 					</ul>
 					<div class="card-body">
 						<a href="https://twitter.com/swedishpm" class="card-link"><i class="fab fa-twitter"></i> Twitterprofil</a>
@@ -58,7 +71,8 @@
 					<div class="card-header">
 						Senaste tweets
 					</div>
-					<a class="twitter-timeline" href="https://twitter.com/SwedishPM?ref_src=twsrc%5Etfw" data-chrome="nofooter noheader">Tweets by SwedishPM</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+					<a class="twitter-timeline" href="https://twitter.com/SwedishPM?ref_src=twsrc%5Etfw" data-chrome="nofooter noheader">Tweets by SwedishPM</a>
+					<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 				</div>
 			</div>
 
@@ -70,9 +84,9 @@
 					<ul class="list-group list-group-flush">
 						<li class="list-group-item" id="memberAge">Ålder: </li>
 						<li class="list-group-item" id="valkrets">Valkrets: </li>
-						<li class="list-group-item" id="memberRole">Följare: 57601</li>
-						<li class="list-group-item" id="memberRole">Tweets: 217</li>
-						<li class="list-group-item" id="memberRole">Tweets/dag: 0.17</li>
+						<li class="list-group-item" id="followers">Följare: </li>
+						<li class="list-group-item" id="tweets">Tweets: </li>
+						<li class="list-group-item" id="tweetsPerDay">Tweets/dag: </li>
 					</ul>
 				</div>
 			</div>
@@ -88,10 +102,22 @@
 					<div class="card-header">
 						Voteringar
 					</div>
+					<ul class="list-group list-group-flush" id="votesList">
+						<!--<a href="votering.html?id=12345" class="list-group-item">Title</a>-->
+					</ul>
+				</div>
+			</div>
+
+			<div class="col-md-auto">
+				<div class="card" style="width: 18rem; max-height: 27rem;">
+					<div class="card-header">
+						Voterings statistik
+					</div>
 					<ul class="list-group list-group-flush">
-						<li class="list-group-item" id="memberRole">Deltagit: 70 (70%)</li>
-						<li class="list-group-item" id="memberRole">Avstått: 15 (15%)</li>
-						<li class="list-group-item" id="memberRole">Frånvarande: 15 (15%)</li>
+						<li class="list-group-item" id="ja">Ja: </li>
+						<li class="list-group-item" id="nej">Nej: </li>
+						<li class="list-group-item" id="avstår">Avstår: </li>
+						<li class="list-group-item" id="frånvarande">Frånvarande: </li>
 					</ul>
 				</div>
 			</div>
@@ -100,6 +126,9 @@
 
 	</div>
 
+	<br>
+	<br>
+
 	<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
 	<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
@@ -107,44 +136,73 @@
 </body>
 
 <script type="text/javascript">
-  let params = (new URL(document.location)).searchParams;
-  let id = params.get("id");
+	let params = (new URL(document.location)).searchParams;
+	let id = params.get("id");
 
-  if (id != null) {
+	if (id != null) {
 
-    let memberUrl = "http://localhost:5000/parliamentMember/" + id;
+		let memberUrl = "http://localhost:5000/parliamentMember/" + id;
 
-    $.getJSON( memberUrl, function( data ) {
+		$.getJSON(memberUrl, function(data) {
 
-      $("#memberName").text(data["tilltalsnamn"] + " " + data["efternamn"] + " (" + data["parti"] + ")");
-      $("#memberPicture").attr("src", data["bild_url_max"]);
+			let firstName = data["firstName"];
+			let lastName = data["lastName"];
+			let party = data["party"];
+			let image = data["image"];
+			let birthYear = data["birthYear"];
+			let constituency = data["constituency"];
+			let email = data["email"];
+			let status = data["status"];
 
+			$("#memberName").text(firstName + " " + lastName + " (" + party + ")");
+			$("#memberPicture").attr("src", image);
 
 			let currentYear = new Date().getFullYear();
+			$("#memberAge").append(currentYear - birthYear);
 
-      $("#memberAge").append(currentYear - data["fodd_ar"]);
+			$("#memberRole").text(status);
 
+			$("#valkrets").append(constituency);
 
-      $("#valkrets").append(data["valkrets"]);
+			$("#email").append("<a href=\"mailto:" + email + "\">" + email + "</a>");
 
-      $("#gruppledare").append(data["gruppledare"]);
-      $("#vice_gruppledare").append(data["vice gruppledare"]);
-      $("#partisekreterare").append(data["partisekreterare"]);
+			$("#twitter").text(data["twitterHandle"]);
+			$("#twitter").attr("href", data["twitterLink"]);
 
-      $("#telefon").append(data["telefon"]);
+			var ja = 0;
+			var nej = 0;
+			var avstår = 0;
+			var frånvarande = 0;
 
-      let mail = data["e-post"];
+			let votesArray = data["votes"];
 
-      $("#e-post").append("<a href=\"mailto:" + mail + "\">" + mail + "</a>");
+			for (var index in votesArray) {
+				let aVote = votesArray[index];
 
-      $("#twitter").text(data["twitterHandle"]);
-      $("#twitter").attr("href", data["twitterLink"]);
+				let id = aVote["id"];
+				let vote = aVote["vote"];
 
-      $("#website").attr("href", data["hemsida"]);
-    });
+				$("#votesList").append("<a href=\"votering.html?id=" + id + "\" class=\"list-group-item\">" + id + ": " + vote + "</a>");
 
-  }
+				if (vote == "Ja") {
+					ja++;
+				} else if (vote == "Nej") {
+					nej++;
+				} else if (vote == "Avstår") {
+					avstår++;
+				} else if (vote == "Frånvarande") {
+					frånvarande++;
+				}
+			}
 
+			$("#ja").append(ja);
+			$("#nej").append(nej);
+			$("#avstår").append(avstår);
+			$("#frånvarande").append(frånvarande);
+
+		});
+
+	}
 </script>
 
 </html>
