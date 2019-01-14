@@ -1,0 +1,951 @@
+{
+  "personlista": {
+    "@systemdatum": "2019-01-11 22:00:45",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "827b23aa-54d0-4ae7-9691-222e914c6ca4",
+      "sourceid": "f03ff45a-c476-11d4-ae40-006008578ce8",
+      "intressent_id": "0860429409414",
+      "hangar_id": "2343060",
+      "fodd_ar": "1959",
+      "kon": "kvinna",
+      "efternamn": "Pethrus",
+      "tilltalsnamn": "Désirée",
+      "sorteringsnamn": "Pethrus,Désirée",
+      "iort": null,
+      "parti": "KD",
+      "valkrets": "Stockholms kommun",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/f03ff45a-c476-11d4-ae40-006008578ce8",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff45a-c476-11d4-ae40-006008578ce8_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff45a-c476-11d4-ae40-006008578ce8_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff45a-c476-11d4-ae40-006008578ce8_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "EMPA",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-11-17",
+            "tom": "2011-03-16",
+            "uppgift": [
+              "Riksdagens delegation till den parlamentariska församlingen för Europa-Medelhavsområdet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "30",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "111",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2019-01-01",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "111",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2018-12-31",
+            "uppgift": [
+              "Christian Carlsson 2018-09-24 - 2018-12-31  Sjukledighet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "111",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2018-02-05",
+            "tom": "2018-09-23",
+            "uppgift": [
+              "Erik Slottner 2018-02-05 - 2018-09-24  Sjukledighet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "111",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-02-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "115",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Statsrådsersättare",
+            "ordningsnummer": "80",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-06",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Göran Hägglund"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": null,
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Ersättare",
+            "ordningsnummer": "0",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2003-11-11",
+            "tom": "2003-12-31",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "45",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Ersättare",
+            "ordningsnummer": "0",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2001-09-18",
+            "tom": "2002-07-31",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "45",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Ersättare",
+            "ordningsnummer": "21",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2000-10-09",
+            "tom": "2001-01-14",
+            "uppgift": [
+              "Stefan Attefall"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "45",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Ersättare",
+            "ordningsnummer": "0",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "1999-05-01",
+            "tom": "2000-05-31",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "45",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2019-01-14",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "22",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Utrikesutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "29",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-03-13",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "27",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-12-20",
+            "tom": "2012-02-23",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "25",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2007-03-16",
+            "tom": "2009-02-09",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2003-11-11",
+            "tom": "2003-12-31",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2003-11-11",
+            "tom": "2003-12-31",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2001-09-18",
+            "tom": "2002-07-31",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2001-09-18",
+            "tom": "2002-07-31",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2000-10-26",
+            "tom": "2001-01-14",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2000-10-18",
+            "tom": "2001-01-14",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2000-02-01",
+            "tom": "2000-05-31",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1999-05-06",
+            "tom": "2000-05-31",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "1999-05-04",
+            "tom": "2000-01-31",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-04-15",
+            "tom": "2014-06-12",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2013-11-26",
+            "tom": "2013-12-17",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2013-04-23",
+            "tom": "2013-06-18",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2013-02-21",
+            "tom": "2013-03-06",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-11-27",
+            "tom": "2012-12-19",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2011-11-24",
+            "tom": "2011-12-14",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2011-09-20",
+            "tom": "2011-09-21",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2011-06-16",
+            "tom": "2011-06-17",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2011-03-31",
+            "tom": "2011-04-01",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UFöU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-11-23",
+            "tom": "2010-12-15",
+            "uppgift": [
+              "Sammansatta utrikes- och försvarsutskottet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "15",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-10-07",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-11-22",
+            "tom": "2010-10-12",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "PA-UfM",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2011-03-16",
+            "tom": "2014-10-28",
+            "uppgift": [
+              "Riksdagens delegation till den parlamentariska församlingen för Unionen för Medelhavet"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-10-12",
+            "tom": "2014-10-07",
+            "uppgift": [
+              "Utrikesnämnden"
+            ],
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 99-00 (ersättare 990501-000531), 00-01 (ersättare 001009-010114), 01-02 (ersättare 010918-020731), 03 (ersättare 031111-031231) och 06-10 (statsrådsersättare 061006-101004) och 10-. Ledamot skatteutskottet 00, arbetsmarknadsutskottet 06-10 och 14-, utrikesutskottet 10-14, EU-nämnden 10- och sammansatta utrikes- och försvarsutskottet 11, 13 och 14. Suppleant socialförsäkringsutskottet 99-00, 00-01, 01-02, 03, 07-09 och 14-, skatteutskottet 99-00 och 01-02, arbetsmarknadsutskottet 00-01, 03 och 10-14, justitieutskottet 06-10, EU-nämnden 06-10, sammansatta utrikes- och försvarsutskottet 10, 11, 12 och 13 och försvarsutskottet 14-. Ledamot riksdagens delegation till den parlamentariska församlingen för Europa för Unionen för Medelhavet 10-14. Suppleant Utrikesnämnden 10-14. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Egenföretagaren Knut Pethrus och Marianne Pethrus, f. Lindqvist."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, samhällsvetenskaplig linje, Bromma gymnasium 74-77. Socionom, Högskolan i Östersund 81. Grundkurs, Poppius journalistskola 99."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Mellanstadielärare, Sundbyberg 81-82. Kurator, Karolinska sjukhuset 82-83 och 86-87. Kurator, behandlingshem för kvinnor 83-86. Personalkonsulent, Stockholms tingsrätt 87-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot, regeringens jämställdhetsråd 02-. Ledamot, referensgrupp till arbetsgruppen med uppgift att utarbeta en nationell handlingsplan för mänskliga rättigheter 01-02. Ledamot, Kommittén för cirkulär migration och utveckling 09-11. Ledamot, Krigsmaterielexportöversynskommittén (KEX) 12-15. Utsedd till särskild utredare för att se över assistansersättningen i socialförsäkringsbalken och delar av lagen om stöd och service (LSS), direktiv 2016:40, 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Stockholm 02-06. Ledamot, Äldreberedningen 98-02 och Jämställdhetsberedningen 02-06. Gruppledare, socialtjänstnämnden 02-06 och Bromma stadsdelsnämnd 99-06. Landstingsfullmäktig, Stockholms läns landsting 91-94. Gruppledare för sjukvårdsfrågor i hälso- och sjukvårdsnämnden 91-94. Vice ordförande, kvalitetsutskottet 91-94."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Vice ordförande, KDU 84-87. Styrelseledamot, Kristdemokraterna i Bromma och distriktsstyrelsen. Ledamot, Kristdemokraternas partistyrelse 94-98 och 02-09. Ordförande, Kristdemokratiska kvinnoförbundet 02-09. Ledamot, Landsrådet för Sveriges ungdomsorganisationer 86-94 och RIA Quintea i Bromma 93-02. Ordförande, Svenska Migränförbundet 96-00. Styrelseledamot, Unicef Sverige 98-05. Suppleant, Stiftelsen Isaak Hirsch 99. Förbundsordförande, Kristdemokratiska kvinnoförbundet 02-09. Styrelseledamot, Familjebostäder 06 och Isak Hirsch 11. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.kristdemokraterna.se/desiree"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "desiree.pethrus[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Socionom/Personalkonsulent."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0860429409414",
+            "hangar_id": "2343060"
+          }
+        ]
+      }
+    }
+  }
+}
