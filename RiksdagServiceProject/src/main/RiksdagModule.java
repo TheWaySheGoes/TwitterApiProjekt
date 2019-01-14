@@ -92,7 +92,7 @@ public class RiksdagModule implements Runnable {
 		this.sleepTime*= timeInterva;
 	}
 	
-	
+	ManageJson mJ = new ManageJson();
 
 	@Override
 	public void run() {
@@ -102,7 +102,7 @@ public class RiksdagModule implements Runnable {
 				writeJumboFile(getJumbo());
 	//			makeBulkPersonalFiles();
 				try {
-					new ManageJson().processJSON();
+					mJ.processJSON();
 				} catch (SAXException | IOException e1) { }
 				try {
 					Thread.sleep(sleepTime); // must sleep to for riksdagens server not to crush
