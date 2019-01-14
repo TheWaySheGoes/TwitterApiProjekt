@@ -41,6 +41,7 @@ public class RiksdagModule implements Runnable {
 	Thread T = null;
 	ModuleGui riksdagModuleGui;
 	int sleepTime = 3600000;
+	TwitterModule twitterModule;
 
 	public enum DataType {
 		JUMBO, BULK
@@ -96,7 +97,8 @@ public class RiksdagModule implements Runnable {
 			switch (command) {
 			case JUMBO:
 				writeJumboFile(getJumbo());
-				makeBulkPersonalFiles();
+	//			makeBulkPersonalFiles();
+				//manage!!!!!!!!!!!!!!!!!!!
 				try {
 					Thread.sleep(sleepTime); // must sleep to for riksdagens server not to crush
 				} catch (InterruptedException e) {

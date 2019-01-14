@@ -43,7 +43,7 @@ public class TwitterModule implements Runnable{
 		   .setOAuthAccessTokenSecret("yeCHE02JJOC9wsFUh36rORG5gPzvPEO4YpJoddELBKHkB");
 		tf = new TwitterFactory(cb.build());
 		  twitter = tf.getInstance();
-	 
+	 this.riksdagModuleGui=riksdagModuleGui;
 	 }
 	
 		public void setTimeInterval(int timeInterva) {
