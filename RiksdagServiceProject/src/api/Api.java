@@ -161,6 +161,8 @@ public class Api {
 			
 			String name = req.params(":name");
 			
+			ui.log("/tweets/" + name + " from ip: " + req.ip());
+			
 			String jsonFile = readFile("files/twitter/" + name + ".json");
 			
 			if(jsonFile != null) {
@@ -169,15 +171,6 @@ public class Api {
 				res.status(404);
 				return "Tweets not found";
 			}			
-		});
-
-		get("/tweets/:amount/:id", (req, res) -> {
-			String amount = req.params(":amount");
-			String id = req.params(":id");
-
-			ui.log("/tweets/" + amount + "/" + id + " from ip: " + req.ip());
-
-			return amount + " st Tweets från ledarmöte med id " + id;
 		});
 
 	}

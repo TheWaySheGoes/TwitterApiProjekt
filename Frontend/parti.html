@@ -19,6 +19,11 @@
       border-top-right-radius: 0;
       border-top-left-radius: 0;
     }
+    #timeline{
+			height: 440px !important;
+			overflow:scroll;
+			-webkit-overflow-scrolling: touch;
+		}
 	</style>
 
 </head>
@@ -26,33 +31,23 @@
 <body>
 
   <nav class="navbar navbar-expand-lg navbar-light " style="background-color: #7bbeee;">
-    <a class="navbar-brand" href="index.html">Riksdagsledamöter</a>
-    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-      <ul class="navbar-nav">
-        <li class="nav-item active">
-          <a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="parti.html">Partier</a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="profil.html">Ledarmöten</a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="stats.html">Statistik</a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="api.html">API</a>
-        </li>
-        <li class="nav-item active">
-          <a class="nav-link" href="http://81.170.225.32:16543">Server<span class="sr-only">(current)</span></a>
-        </li>
-      </ul>
-    </div>
-  </nav>
+		<a class="navbar-brand" href="index.html">Riksdagsledamöter</a>
+		<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+			<span class="navbar-toggler-icon"></span>
+		</button>
+		<div class="collapse navbar-collapse" id="navbarNavDropdown">
+			<ul class="navbar-nav">
+				<li class="nav-item active">
+					<a class="nav-link" href="index.html">Home <span class="sr-only">(current)</span></a>
+				<li class="nav-item active">
+					<a class="nav-link" href="api.html">API</a>
+				</li>
+				<li class="nav-item active">
+					<a class="nav-link" href="http://81.170.225.32:16543">Server<span class="sr-only">(current)</span></a>
+				</li>
+			</ul>
+		</div>
+	</nav>
 
   <div class="container">
 
@@ -93,8 +88,14 @@
         </div>
       </div>
 
-      <div class="col-md-4">
-        <h3>Twitter / Statistik</h3>
+      <div class="col-md-auto" id="latestTweets">
+        <h3>Senaste tweets</h3>
+        <div class="card" style="width: 18rem;">
+
+          <div id="timeline">
+          </div>
+
+        </div>
       </div>
 
     </div>
@@ -138,6 +139,16 @@
       $("#twitter").attr("href", data["twitterLink"]);
 
       $("#website").attr("href", data["hemsida"]);
+
+      $("#timeline").append("<a class=\"twitter-timeline\" href=\"https://twitter.com/" + data["twitterHandle"] + "\" data-chrome=\"nofooter noheader\">Tweets by " + data["twitterHandle"] + "</a>");
+
+      var s = document.createElement('script');
+      s.setAttribute('type', 'text/javascript');
+      s.async = true;
+      s.src = 'https://platform.twitter.com/widgets.js';
+      s.charset = 'utf-8';
+      document.getElementById('timeline').appendChild(s);
+
     });
 
     var memberNames = [];
