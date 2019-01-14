@@ -58,6 +58,10 @@ public class Main implements Runnable{
 	
 	
 
+	public Main(DataType jumbo, RiksdagModuleGui riksdagModuleGui) {
+		// TODO Auto-generated constructor stub
+	}
+
 	/**
 	 * works in IDE or when compiled, it works in console with argument JUMBO or BULK
 	 * @param args
@@ -308,6 +312,26 @@ public class Main implements Runnable{
 			e.printStackTrace();
 		}
 		return false;
+	}
+
+	public void stop() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void exit() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void start() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	public void setInterval(int parseInt) {
+		// TODO Auto-generated method stub
+		
 	}
 
 
