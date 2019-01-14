@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
 "tweets": 
 	[
 		{"user": "@marhallander", "tweet": "VÄNTA! VÄNTA! VÄNTA! Jan Björklund sa precis att det är okej att budgetförhandla med Vänsterpartiet by proxy. Så länge de…"},
@@ -13,10 +12,4 @@
 		{"user": "@Ivarpi", "tweet": "Okej, trodde ändå inte att Liberalerna skulle be Vänsterpartiet om hjälp mot M och KD. Jan Björklund vädjar nu till Jonas Sjöst…"},
 		{"user": "@PontusPersson5", "tweet": "Jan Björklund: Kristersson menar på att Alliansen är död. Det känns förhastat. Ni har bara huggit M/KD i ryggen, rös…"}
 	]
-=======
-"tweetes":[
-{"user": "@pnn72", "tweete": "VÄNTA! VÄNTA! VÄNTA! Jan Björklund sa precis att det är okej att budgetförhandla med Vänsterpartiet by proxy. Så länge de"},
-{"user": "@WhateverSpicey",  "tweet": "Per Ahlmark: "Gör inga dumheter medan jag är död."Jan Björklund: "Håll min halmhatt!"},
-]
->>>>>>> 528401f951cb37eff6ceecd0837afd1a414d11d2
 }
