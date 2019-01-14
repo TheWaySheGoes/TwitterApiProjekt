@@ -20,6 +20,7 @@ public class Api {
 
 	private UI ui;
 
+
 	public Api(UI ui) {
 		this.ui = ui;
 	}
@@ -208,6 +209,10 @@ public class Api {
 
 	public void stop() {
 		Spark.stop();
+	}
+	
+	public static void main(String[] args) {
+		new UI();
 	}
 
 }

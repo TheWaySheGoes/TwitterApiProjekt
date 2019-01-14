@@ -17,6 +17,14 @@
 			overflow:scroll;
 			-webkit-overflow-scrolling: touch;
 		}
+		#votesSearchField {
+			border-bottom-left-radius: 0;
+			border-bottom-right-radius: 0;
+		}
+		#votesSearchField > .list-group-item:first-of-type {
+			border-top-right-radius: 0;
+			border-top-left-radius: 0;
+		}
 	</style>
 
 </head>
@@ -112,6 +120,7 @@
 					<div class="card-header">
 						Voteringar
 					</div>
+					<input class="form-control my-0 shadow-none py-1 rounded-top" id="votesSearchField" type="text" placeholder="Sök efter votering" aria-label="Search">
 					<ul class="list-group list-group-flush" id="votesList">
 						<!--<a href="votering.html?id=12345" class="list-group-item">Title</a>-->
 					</ul>
@@ -225,6 +234,8 @@
 
 			let votesArray = data["votes"];
 
+			var votesTitles = [];
+
 			for (var index in votesArray) {
 				let aVote = votesArray[index];
 
@@ -232,7 +243,8 @@
 				let title = aVote["title"]
 				let vote = aVote["vote"];
 
-				$("#votesList").append("<a href=\"votering.html?id=" + id + "\" class=\"list-group-item\">" + title + ": " + vote + "</a>");
+				$("#votesList").append("<a href=\"votering.html?id=" + id + "\" id='" + id + "' class=\"list-group-item\">" + title + ": " + vote + "</a>");
+				votesTitles.push(title);
 
 				if (vote == "Ja") {
 					ja++;
@@ -249,6 +261,23 @@
 			$("#nej").append(nej);
 			$("#avstår").append(avstår);
 			$("#frånvarande").append(frånvarande);
+
+			$("#votesSearchField").bind("change keyup input",function() {
+				let input = $("#votesSearchField").val();
+				$("#votesList").children().hide();
+
+				if(input){
+					$.each([votesTitles], function(index, value){
+						$.each(value, function(key, cell){
+							if ((cell.toLowerCase()).includes(input.toLowerCase())){
+								$("#" + $("#votesList a:nth-child(" + (key+1)  + ")").attr("id")).show();
+							}
+						});
+					});
+				} else {
+					$("#votesList").children().show();
+				}
+			});
 
 		});
 
