@@ -1,6 +1,11 @@
 {
  "date": "2018-09-24 00:00:00",
+ "no": "153",
+ "refrains": "48",
  "pdfFile": "data.riksdagen.se/fil/6D9A8981-BD3A-4469-965D-6FAB274180CA",
+ "yes": "141",
  "docId": "H601FiU1",
+ "absent": "7",
+ "id": "6D9A8981-BD3A-4469-965D-6FAB274180CA",
  "title": "Statens budget 2019 Rambeslutet"
 }

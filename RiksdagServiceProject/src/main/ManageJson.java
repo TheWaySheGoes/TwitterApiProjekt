@@ -11,6 +11,8 @@ import java.net.URL;
 import java.nio.file.Files;
 import java.nio.file.Paths;
 import java.nio.file.StandardCopyOption;
+import java.util.Map;
+import java.util.TreeMap;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -56,6 +58,15 @@ public class ManageJson {
 		JSONArray voteList = new JSONArray();
 		JSONObject vote;
 		String parameterName = "";
+		Map<String, String> map = new TreeMap<String, String>() {
+			{ 
+				put("Nej", "no");			
+				put("Ja", "yes");			
+				put("Avstår", "refrains");			
+				put("votering_id", "id");			
+				put("Frånvarande", "absent");			
+			};
+		};
 
 		public void startDocument() {}
 		public void endDocument() {
@@ -79,7 +90,7 @@ public class ManageJson {
 					parameterValue += ch[i];
 				}
 				if(!parameterValue.contains("\n")) {
-					vote.put(parameterName, parameterValue);
+					vote.put(map.get(parameterName), parameterValue);
 				}				
 			}			
 		}
@@ -131,20 +142,23 @@ public class ManageJson {
 	 */
 	public void getAllVotes() throws MalformedURLException, IOException {
 		JSONArray voteList = new JSONArray(readFile("files/votes/voteList.json"));
+		JSONArray voteNewList = new JSONArray();
 		for (int i = 0; i < voteList.length(); i++) {			
-			String voteId = voteList.getJSONObject(i).getString("votering_id");		
+			String voteId = voteList.getJSONObject(i).getString("id");		
 			writeFileFromURL("files/votes/full/" + voteId + ".json", "http://data.riksdagen.se/votering/" + voteId + "/json");
 
 			JSONObject voteFile = new JSONObject(readFile("files/votes/full/" + voteId + ".json"));
 			JSONObject voteInfo = voteFile.getJSONObject("votering").getJSONObject("dokument");
 
-			JSONObject voteShortInfo = new JSONObject();
+			JSONObject voteShortInfo = voteList.getJSONObject(i);
 			voteShortInfo.put("docId", voteInfo.get("dok_id"));
 			voteShortInfo.put("title", voteInfo.get("titel"));
 			voteShortInfo.put("date", voteInfo.get("datum"));
 			voteShortInfo.put("pdfFile", "data.riksdagen.se/fil/" +  voteId);
 			writeFile("votes/minimal/" + voteId, voteShortInfo.toString(INDENT_FACTOR));
-		}		
+			voteNewList.put(voteShortInfo);
+		}
+		writeFile("votes/voteListDetailed", voteNewList.toString(INDENT_FACTOR));
 		
 	}
 	
@@ -160,11 +174,12 @@ public class ManageJson {
 			parliamentMembers.put(parliamentMember.getString("id"), parliamentMember);			
 		}
 		
-		JSONArray voteList = new JSONArray(readFile("files/votes/voteList.json"));
+		JSONArray voteList = new JSONArray(readFile("files/votes/voteListDetailed.json"));
 		for(int i = 0; i < voteList.length(); i++) {
 			JSONObject vote = voteList.getJSONObject(i);
-			vote = new JSONObject(readFile("files/votes/full/" + vote.getString("votering_id") + ".json"));
-			JSONArray votes = vote.getJSONObject("votering").getJSONObject("dokvotering").getJSONArray("votering");
+			String voteTitle = vote.getString("title");
+			vote = new JSONObject(readFile("files/votes/full/" + vote.getString("id") + ".json"));
+			JSONArray votes = vote.getJSONObject("votering").getJSONObject("dokvotering").getJSONArray("votering");			
 			
 			for(int k = 0; k < votes.length(); k++) {
 				vote = votes.getJSONObject(k);
@@ -172,6 +187,7 @@ public class ManageJson {
 				voteShortInfo.put("id", vote.get("votering_id"));
 				voteShortInfo.put("vote", vote.get("rost"));
 				voteShortInfo.put("date", vote.get("datum"));
+				voteShortInfo.put("title", voteTitle);
 				if(parliamentMembers.has(vote.getString("intressent_id"))) { //If not off duty or similar
 					parliamentMembers.getJSONObject(vote.getString("intressent_id")).getJSONArray("votes").put(voteShortInfo);	
 				}							

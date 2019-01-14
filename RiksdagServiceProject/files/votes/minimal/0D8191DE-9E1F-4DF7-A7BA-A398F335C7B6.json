@@ -1,6 +1,11 @@
 {
  "date": "2018-11-30 00:00:00",
+ "no": "61",
+ "refrains": "25",
  "pdfFile": "data.riksdagen.se/fil/0D8191DE-9E1F-4DF7-A7BA-A398F335C7B6",
+ "yes": "238",
  "docId": "H601UU4",
+ "absent": "25",
+ "id": "0D8191DE-9E1F-4DF7-A7BA-A398F335C7B6",
  "title": "Kommissionens arbetsprogram 2019"
 }
