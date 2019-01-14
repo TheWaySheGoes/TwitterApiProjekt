@@ -1,0 +1,321 @@
+{
+  "personlista": {
+    "@systemdatum": "2019-01-14 11:03:02",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "e648b0e4-769f-419a-b11e-9283749655a4",
+      "sourceid": "ed3399e1-7bce-4ea4-baf6-587f722710f5",
+      "intressent_id": "0412148992926",
+      "hangar_id": "2369528",
+      "fodd_ar": "1981",
+      "kon": "kvinna",
+      "efternamn": "Westerén",
+      "tilltalsnamn": "Hanna",
+      "sorteringsnamn": "Westerén,Hanna",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Gotlands län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/ed3399e1-7bce-4ea4-baf6-587f722710f5",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ed3399e1-7bce-4ea4-baf6-587f722710f5_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ed3399e1-7bce-4ea4-baf6-587f722710f5_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ed3399e1-7bce-4ea4-baf6-587f722710f5_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "13",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "33",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-07-16",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "33",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2017-10-09",
+            "tom": "2018-07-15",
+            "uppgift": [
+              "David Lindvall 2017-10-09 - 2018-07-15  Föräldraledighet"
+            ],
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "33",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2015-02-01",
+            "tom": "2017-10-08",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "MJU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Miljö- och jordbruksutskottet"
+            ],
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "17",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-04-12",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-04-27",
+            "tom": "2018-04-12",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2015-02-01",
+            "tom": "2017-04-27",
+            "uppgift": [
+              "Näringsutskottet"
+            ],
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2015-10-31",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "18",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 15-. Suppleant näringsutskottet 15- och  EU-nämnden 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Revisorn Gunder Nyman och undersköterskan Inga-Maj Nyman, f. Samuelsson."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, Visby, slutår 00. Filosofie magisterexamen i europeisk historia, Högskolan på Gotland 07."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Försäkringskassan 01-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ledamot, Länsstyrelsen Gotlands insynsråd 11-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Gotland 06-. Kommunstyrelsen, Gotland 06-14. Vice ordförande, regionstyrelsen, Gotland 10-14. Suppleant, barn- och utbildningsnämnden, Gotland 05-06, ledamot 06-10. Ledamot, gymnasie- och vuxenutbildningsnämnden, Gotland 09-10. Ordförande, socialnämnden, Gotland 11-14. Ordförande, Tryggare Gotland 11-14. Ordförande, Finsam Gotland 11-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Vice ordförande, Socialdemokraterna Gotland 11-. Ledamot, partistyrelsen Socialdemokraterna 14-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "hanna.westeren[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "65160"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Utredare"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0412148992926",
+            "hangar_id": "2369528"
+          }
+        ]
+      }
+    }
+  }
+}
