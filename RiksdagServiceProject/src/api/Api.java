@@ -138,7 +138,7 @@ public class Api {
 		
 		get("/votes", (req, res) -> {
 			ui.log("/votes/ from ip: " + req.ip());
-			return readFile("files/votes/voteList.json");
+			return readFile("files/votes/voteListDetailed.json");
 		});
 		
 		get("/votes/:id", (req, res) -> {
@@ -156,6 +156,19 @@ public class Api {
 			}
 		});
 		
+		get("/tweets/:name", (req, res) -> {
+			
+			String name = req.params(":name");
+			
+			String jsonFile = readFile("files/twitter/" + name + ".json");
+			
+			if(jsonFile != null) {
+				return jsonFile;
+			} else {
+				res.status(404);
+				return "Tweets not found";
+			}			
+		});
 
 		get("/tweets/:amount/:id", (req, res) -> {
 			String amount = req.params(":amount");
