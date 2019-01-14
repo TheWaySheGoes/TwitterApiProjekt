@@ -2,14 +2,14 @@ package api;
 
 import static spark.Spark.*;
 
-import spark.Spark;
-
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
+
+import spark.Spark;
 
 /**
  * The API endpoints.
