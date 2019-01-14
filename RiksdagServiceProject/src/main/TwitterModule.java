@@ -24,7 +24,7 @@ public class TwitterModule {
 	ConfigurationBuilder cb;
 	TwitterFactory tf;
 	 Twitter twitter;
-	 String filesFolder="files";
+	 String filesFolder="files/twitter";
 	 String[] people= {"Annie_Lööf.json", "Ebba_BuschThor.json","Jan_Björklund.json","Ulf_Kristersson.json"
 			 ,"Jonas_Sjöstedt.json"};
 	
@@ -128,7 +128,7 @@ public class TwitterModule {
 	                tweets = result.getTweets();
 
 	                for (Status tweet : tweets) {
-	                	returnString.append("{"+tweet +"},");
+	                	returnString.append("{"+"@" + tweet.getUser().getScreenName() + " - " + tweet.getText() +"},");
 	                    System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
 	                    
 	                }
@@ -137,7 +137,7 @@ public class TwitterModule {
 	                
 	            } while ((query = result.nextQuery()) != null);
 
-	            System.exit(0);
+	           // System.exit(0);
 
 	        } catch (TwitterException te) {
 
@@ -153,7 +153,8 @@ public class TwitterModule {
 	}
 	
 	public void run() {
-		
+		String backString =getTwitts("Jan + Björklund");
+		writePersonalFile("Jan", "Björklund", backString);
 	}
 	
 	public static void main(String[] args) {
