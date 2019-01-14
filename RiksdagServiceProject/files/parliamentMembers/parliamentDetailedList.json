@@ -1485,6 +1485,17 @@
   "status": "Tjänstgörande riksdagsledamot"
  },
  {
+  "firstName": "Kalle",
+  "lastName": "Olsson",
+  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f8d1d1b6-f008-446e-a7f8-dd324fbb71d4_max.jpg",
+  "constituency": "Jämtlands län",
+  "birthYear": "1984",
+  "id": "0472349361027",
+  "party": "S",
+  "email": "kalle.olsson@riksdagen.se",
+  "status": "Tjänstgörande riksdagsledamot"
+ },
+ {
   "firstName": "Birger",
   "lastName": "Lahti",
   "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a2c4e9f3-6d4a-4994-9351-66ce4c752905_max.jpg",
@@ -1845,17 +1856,6 @@
   "id": "0204240926023",
   "party": "SD",
   "email": "markus.wiechel@riksdagen.se",
-  "status": "Tjänstgörande riksdagsledamot"
- },
- {
-  "firstName": "Johan",
-  "lastName": "Hedin",
-  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6014c0f6-d3b6-4ed4-ae63-ace3af71dc86_max.jpg",
-  "constituency": "Stockholms kommun",
-  "birthYear": "1969",
-  "id": "0204443909416",
-  "party": "C",
-  "email": "johan.hedin@riksdagen.se",
   "status": "Tjänstgörande riksdagsledamot"
  },
  {
@@ -3476,14 +3476,14 @@
   "status": "Tjänstgörande ersättare"
  },
  {
-  "firstName": "Maria",
-  "lastName": "Jacobsson",
-  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/97349353-a71b-4f48-909a-333cf048417f_max.jpg",
-  "constituency": "Jämtlands län",
-  "birthYear": "1961",
-  "id": "0342890774415",
-  "party": "S",
-  "email": "maria.jakobsson@riksdagen.se",
+  "firstName": "Abir",
+  "lastName": "Al-Sahlani",
+  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/af17bc5e-c6e0-4092-99e9-7e6464f2af37_max.jpg",
+  "constituency": "Stockholms kommun",
+  "birthYear": "1976",
+  "id": "0895706637124",
+  "party": "C",
+  "email": "abir.al-sahlani@riksdagen.se",
   "status": "Tjänstgörande ersättare"
  },
  {

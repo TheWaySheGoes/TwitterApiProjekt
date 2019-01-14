@@ -945,6 +945,13 @@
   "party": "SD"
  },
  {
+  "firstName": "Kalle",
+  "lastName": "Olsson",
+  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f8d1d1b6-f008-446e-a7f8-dd324fbb71d4_max.jpg",
+  "id": "0472349361027",
+  "party": "S"
+ },
+ {
   "firstName": "Birger",
   "lastName": "Lahti",
   "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a2c4e9f3-6d4a-4994-9351-66ce4c752905_max.jpg",
@@ -1174,13 +1181,6 @@
   "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a9f3c8c-8ce8-4a17-9e57-0109af47efcc_max.jpg",
   "id": "0204240926023",
   "party": "SD"
- },
- {
-  "firstName": "Johan",
-  "lastName": "Hedin",
-  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6014c0f6-d3b6-4ed4-ae63-ace3af71dc86_max.jpg",
-  "id": "0204443909416",
-  "party": "C"
  },
  {
   "firstName": "Anders",
@@ -2212,11 +2212,11 @@
   "party": "S"
  },
  {
-  "firstName": "Maria",
-  "lastName": "Jacobsson",
-  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/97349353-a71b-4f48-909a-333cf048417f_max.jpg",
-  "id": "0342890774415",
-  "party": "S"
+  "firstName": "Abir",
+  "lastName": "Al-Sahlani",
+  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/af17bc5e-c6e0-4092-99e9-7e6464f2af37_max.jpg",
+  "id": "0895706637124",
+  "party": "C"
  },
  {
   "firstName": "Lars",

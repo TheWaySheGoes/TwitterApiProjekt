@@ -14,6 +14,7 @@ import java.net.URL;
 
 import org.json.JSONArray;
 import org.json.JSONObject;
+import org.xml.sax.SAXException;
 
 /**
  * This Module can do 2 things. 1. Get all data at once from riksdags api called
@@ -91,7 +92,7 @@ public class RiksdagModule implements Runnable {
 		this.sleepTime*= timeInterva;
 	}
 	
-	
+	ManageJson mJ = new ManageJson();
 
 	@Override
 	public void run() {
@@ -100,7 +101,9 @@ public class RiksdagModule implements Runnable {
 			case JUMBO:
 				writeJumboFile(getJumbo());
 	//			makeBulkPersonalFiles();
-				//manage!!!!!!!!!!!!!!!!!!!
+				try {
+					mJ.processJSON();
+				} catch (SAXException | IOException e1) { }
 				try {
 					Thread.sleep(sleepTime); // must sleep to for riksdagens server not to crush
 				} catch (InterruptedException e) {

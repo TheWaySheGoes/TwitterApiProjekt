@@ -15,6 +15,8 @@ import java.nio.file.StandardCopyOption;
 import java.util.Map;
 import java.util.TreeMap;
 
+import javax.swing.SwingUtilities;
+
 import org.json.JSONArray;
 import org.json.JSONObject;
 import org.xml.sax.InputSource;
@@ -34,15 +36,14 @@ import java.time.temporal.ChronoUnit;
  */
 public class ManageJson {
 
-	public static ManageJson jsonHandler = new ManageJson();
 	public static final int INDENT_FACTOR = 1;
-
-	public static void main(String[] args) throws MalformedURLException, SAXException, IOException {
-		//jsonHandler.getParliamentVotes();
-		//jsonHandler.createParliamentMembersList();
-		//jsonHandler.getAllVotes();
-		//jsonHandler.createParliamentMemberFiles();
-		jsonHandler.addTwitterInfo();
+	
+	public void processJSON() throws MalformedURLException, SAXException, IOException {
+		getParliamentVotes();
+		createParliamentMembersList();
+		getAllVotes();
+		createParliamentMemberFiles();
+		addTwitterInfo();
 	}
 
 	/*
@@ -209,7 +210,6 @@ public class ManageJson {
 	public void addTwitterInfo() {
 		JSONArray twitterProfiles = new JSONObject(readFile("files/twitter/twitterUsers.json")).getJSONArray("users");
 		
-		int count = 0;
 		for(int i = 0; i < twitterProfiles.length(); i++) {
 			JSONObject profile = twitterProfiles.getJSONObject(i);
 			String name = profile.getString("name");
