@@ -8,10 +8,23 @@
 
 	<style>
 		#votesList{
-		max-height: 400px;
-		overflow:scroll;
-		-webkit-overflow-scrolling: touch;
-	}
+			max-height: 400px;
+			overflow:scroll;
+			-webkit-overflow-scrolling: touch;
+		}
+		#timeline{
+			height: 450px !important;
+			overflow:scroll;
+			-webkit-overflow-scrolling: touch;
+		}
+		#votesSearchField {
+			border-bottom-left-radius: 0;
+			border-bottom-right-radius: 0;
+		}
+		#votesSearchField > .list-group-item:first-of-type {
+			border-top-right-radius: 0;
+			border-top-left-radius: 0;
+		}
 	</style>
 
 </head>
@@ -64,18 +77,20 @@
 						<li class="list-group-item" id="email">E-post: </li>
 					</ul>
 					<div class="card-body">
-						<a href="https://twitter.com/swedishpm" class="card-link"><i class="fab fa-twitter"></i> Twitterprofil</a>
+						<a href="https://twitter.com/swedishpm" class="card-link" id="twitterProfil"><i class="fab fa-twitter"></i> Twitterprofil</a>
 					</div>
 				</div>
 			</div>
 
 			<div class="col-md-auto">
-				<div class="card" style="width: 18rem; max-height: 27rem;">
+				<div class="card" style="width: 18rem;">
 					<div class="card-header">
 						Senaste tweets
 					</div>
-					<a class="twitter-timeline" href="https://twitter.com/SwedishPM?ref_src=twsrc%5Etfw" data-chrome="nofooter noheader">Tweets by SwedishPM</a>
-					<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+					<div id="timeline">
+					</div>
+
 				</div>
 			</div>
 
@@ -105,6 +120,7 @@
 					<div class="card-header">
 						Voteringar
 					</div>
+					<input class="form-control my-0 shadow-none py-1 rounded-top" id="votesSearchField" type="text" placeholder="Sök efter votering" aria-label="Search">
 					<ul class="list-group list-group-flush" id="votesList">
 						<!--<a href="votering.html?id=12345" class="list-group-item">Title</a>-->
 					</ul>
@@ -157,10 +173,52 @@
 			let email = data["email"];
 			let status = data["status"];
 
+			let currentDate = new Date();
+
+			let twitter = data["twitter"];
+
+			if (twitter == undefined) {
+
+				$("#twitterProfil").remove();
+				$("#timeline").remove();
+				$("#followers").remove();
+				$("#tweets").remove();
+				$("#tweetsPerDay").remove();
+
+			} else {
+				let twitterLink = "https://twitter.com/" + twitter;
+				let followers = data["followers"];
+				let following = data["following"];
+				let likes = data["likes"];
+				let nrOfTweets = data["tweets"]
+
+				let createdAt = data["createdAt"];
+				let createdAtDate = new Date(createdAt);
+
+				let diff = Math.floor((currentDate.getTime() - createdAtDate.getTime()) / 86400000);
+				let tweetsPerDay = nrOfTweets / diff;
+
+				$("#twitterProfil").attr("href", twitterLink);
+
+				$("#timeline").append("<a class=\"twitter-timeline\" href=\"https://twitter.com/" + twitter + "\" data-chrome=\"nofooter noheader\">Tweets by " + twitter + "</a>");
+
+				var s = document.createElement('script');
+				s.setAttribute('type', 'text/javascript');
+				s.async = true;
+				s.src = 'https://platform.twitter.com/widgets.js';
+				s.charset = 'utf-8';
+				document.getElementById('timeline').appendChild(s);
+
+				$("#followers").append(followers);
+				$("#tweets").append(nrOfTweets);
+
+				$("#tweetsPerDay").append(tweetsPerDay);
+			}
+
 			$("#memberName").text(firstName + " " + lastName + " (" + party + ")");
 			$("#memberPicture").attr("src", image);
 
-			let currentYear = new Date().getFullYear();
+			let currentYear = currentDate.getFullYear();
 			$("#memberAge").append(currentYear - birthYear);
 
 			$("#memberRole").text(status);
@@ -169,9 +227,6 @@
 
 			$("#email").append("<a href=\"mailto:" + email + "\">" + email + "</a>");
 
-			$("#twitter").text(data["twitterHandle"]);
-			$("#twitter").attr("href", data["twitterLink"]);
-
 			var ja = 0;
 			var nej = 0;
 			var avstår = 0;
@@ -179,13 +234,17 @@
 
 			let votesArray = data["votes"];
 
+			var votesTitles = [];
+
 			for (var index in votesArray) {
 				let aVote = votesArray[index];
 
 				let id = aVote["id"];
+				let title = aVote["title"]
 				let vote = aVote["vote"];
 
-				$("#votesList").append("<a href=\"votering.html?id=" + id + "\" class=\"list-group-item\">" + id + ": " + vote + "</a>");
+				$("#votesList").append("<a href=\"votering.html?id=" + id + "\" id='" + id + "' class=\"list-group-item\">" + title + ": " + vote + "</a>");
+				votesTitles.push(title);
 
 				if (vote == "Ja") {
 					ja++;
@@ -202,6 +261,23 @@
 			$("#nej").append(nej);
 			$("#avstår").append(avstår);
 			$("#frånvarande").append(frånvarande);
+
+			$("#votesSearchField").bind("change keyup input",function() {
+				let input = $("#votesSearchField").val();
+				$("#votesList").children().hide();
+
+				if(input){
+					$.each([votesTitles], function(index, value){
+						$.each(value, function(key, cell){
+							if ((cell.toLowerCase()).includes(input.toLowerCase())){
+								$("#" + $("#votesList a:nth-child(" + (key+1)  + ")").attr("id")).show();
+							}
+						});
+					});
+				} else {
+					$("#votesList").children().show();
+				}
+			});
 
 		});
 
