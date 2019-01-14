@@ -94,6 +94,7 @@ public class ModuleGui implements ListSelectionListener, ActionListener, Runnabl
 				+ "SET INTERVAL - Sets how often data gets updated \n" );
 	}
 
+	
 	@Override
 	public void run() {
 		frame = new JFrame();
