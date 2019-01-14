@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2019-01-14 11:03:03",
+    "@systemdatum": "2019-01-14 16:02:09",
     "@hits": "1",
     "person": {
       "hangar_guid": "c834da0b-1534-44bc-b71f-f3da08467822",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Pettersson,Marianne",
       "iort": null,
       "parti": "S",
-      "valkrets": "Skåne läns södra",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "SkÃ¥ne lÃ¤ns sÃ¶dra",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/d9f971a1-12ab-4a01-8cb6-2d2d6a9e0791",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d9f971a1-12ab-4a01-8cb6-2d2d6a9e0791_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d9f971a1-12ab-4a01-8cb6-2d2d6a9e0791_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "125",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -42,9 +42,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "124",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2014-10-03",
             "tom": "2018-09-24",
@@ -67,7 +67,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0341628241813",
             "hangar_id": "2369563",
@@ -103,7 +103,7 @@
             "from": "2014-10-07",
             "tom": "2018-09-24",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0341628241813",
             "hangar_id": "2369563",
@@ -137,7 +137,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14- (statsrådsersättare 141003-). Ledamot miljö-och jordbruksutskottet 14-. Suppleant utbildningsutskottet 14-."
+              "Riksdagsledamot 14- (statsrÃ¥dsersÃ¤ttare 141003-). Ledamot miljÃ¶-och jordbruksutskottet 14-. Suppleant utbildningsutskottet 14-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -146,7 +146,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              " Ledamot, Gentekniknämnden 15-."
+              " Ledamot, GentekniknÃ¤mnden 15-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -155,7 +155,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "marianne.pettersson[på]riksdagen.se"
+              "marianne.pettersson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0341628241813",

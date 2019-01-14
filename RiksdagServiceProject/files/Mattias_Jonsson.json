@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:07",
+    "@systemdatum": "2019-01-14 15:55:15",
     "@hits": "1",
     "person": {
       "hangar_guid": "3f012e9a-ee4d-4f6a-87f2-c5016357d677",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Jonsson,Mattias",
       "iort": null,
       "parti": "S",
-      "valkrets": "Göteborgs kommun",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "GÃ¶teborgs kommun",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/9ae916dd-799d-4d2b-80c4-f00bc5a7344d",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9ae916dd-799d-4d2b-80c4-f00bc5a7344d_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9ae916dd-799d-4d2b-80c4-f00bc5a7344d_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "129",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "263",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "336",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -85,7 +85,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0499755198526",
             "hangar_id": "2369353",
@@ -95,7 +95,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "6",
             "status": null,
@@ -103,7 +103,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0499755198526",
             "hangar_id": "2369353",
@@ -121,7 +121,7 @@
             "from": "2017-04-27",
             "tom": "2018-09-24",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0499755198526",
             "hangar_id": "2369353",
@@ -175,7 +175,7 @@
             "from": "2014-10-07",
             "tom": "2017-04-27",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0499755198526",
             "hangar_id": "2369353",
@@ -211,7 +211,7 @@
             "from": "2010-10-12",
             "tom": "2014-09-29",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0499755198526",
             "hangar_id": "2369353",
@@ -222,7 +222,7 @@
           },
           {
             "organ_kod": "RS",
-            "roll_kod": "Ersättare",
+            "roll_kod": "ErsÃ¤ttare",
             "ordningsnummer": "1",
             "status": null,
             "typ": "Riksdagsorgan",
@@ -240,7 +240,7 @@
           },
           {
             "organ_kod": "RS",
-            "roll_kod": "Ersättare",
+            "roll_kod": "ErsÃ¤ttare",
             "ordningsnummer": "5",
             "status": null,
             "typ": "Riksdagsorgan",
@@ -263,7 +263,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 10-. Ledamot näringsutskottet 14-. Suppleant justitieutskottet 10-, näringsutskottet 10-14 och trafikutskottet 14-. Suppleant riksdagsstyrelsen 14-."
+              "Riksdagsledamot 10-. Ledamot nÃ¤ringsutskottet 14-. Suppleant justitieutskottet 10-, nÃ¤ringsutskottet 10-14 och trafikutskottet 14-. Suppleant riksdagsstyrelsen 14-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -279,9 +279,9 @@
             "hangar_id": "2369353"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "PLM, Lysekil 93. Marinverkstan 94. Volvo Cars, Uddevalla 96-03. Ombudsman, IF Metall, Göteborg 03-10."
+              "PLM, Lysekil 93. Marinverkstan 94. Volvo Cars, Uddevalla 96-03. Ombudsman, IF Metall, GÃ¶teborg 03-10."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -290,16 +290,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Lysekil 91-97. Ersättare/ledamot, socialnämnden, Lysekil 91-97. Kommunfullmäktig, Stenungsund 02-05. Ersättare, Majornas distriktsstyrelse, Göteborg 06-10. Ersättare, byggnadsnämnden, Göteborg 08-10."
+              "KommunfullmÃ¤ktig, Lysekil 91-97. ErsÃ¤ttare/ledamot, socialnÃ¤mnden, Lysekil 91-97. KommunfullmÃ¤ktig, Stenungsund 02-05. ErsÃ¤ttare, Majornas distriktsstyrelse, GÃ¶teborg 06-10. ErsÃ¤ttare, byggnadsnÃ¤mnden, GÃ¶teborg 08-10."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2369353"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ordförande, Metallklubben, Volvo Cars, Uddevalla 98-03. Ordförande, IF Metall, Göteborgs socialdemokratiska förening 05-. Ledamot, socialdemokratiska distriktsstyrelsen, Göteborg 06-. Ersättare, LO, Göteborg 04-. Ersättare, Folkets Hus styrelse, Göteborg 06-.  "
+              "OrdfÃ¶rande, Metallklubben, Volvo Cars, Uddevalla 98-03. OrdfÃ¶rande, IF Metall, GÃ¶teborgs socialdemokratiska fÃ¶rening 05-. Ledamot, socialdemokratiska distriktsstyrelsen, GÃ¶teborg 06-. ErsÃ¤ttare, LO, GÃ¶teborg 04-. ErsÃ¤ttare, Folkets Hus styrelse, GÃ¶teborg 06-.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -308,7 +308,7 @@
           {
             "kod": "Bostadsort",
             "uppgift": [
-              "Göteborg"
+              "GÃ¶teborg"
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -317,7 +317,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "mattias.jonsson[på]riksdagen.se"
+              "mattias.jonsson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0499755198526",

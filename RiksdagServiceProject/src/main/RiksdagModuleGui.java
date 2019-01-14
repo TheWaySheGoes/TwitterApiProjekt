@@ -43,7 +43,7 @@ public class RiksdagModuleGui implements ListSelectionListener, ActionListener, 
 
 	
 	private void initializeGUI() {
-		
+		main=new Main(DataType.JUMBO,this,1);
 
 		tableList = new JList<String>();
 		tableList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
@@ -107,20 +107,20 @@ public class RiksdagModuleGui implements ListSelectionListener, ActionListener, 
 		frame.setResizable(false);
 		frame.setLocationRelativeTo(null);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		main=new Main(DataType.JUMBO,this);
+		
 		
 	
 }
-
+	
 		
 	public void displayTxt(String txt) {
-		txtOutput.setText(txtOutput.getText()+"\n"+txt);
+		txtOutput.setText(txtOutput.getText()+"\n"+txt+"\n");
 	}
 	@Override
 	public void actionPerformed(ActionEvent e) {
 
 		if (e.getSource() == this.btnSetInterval) {
-			main.setInterval(Integer.parseInt(txtInput.getText()));
+			main.setTimeInterval(Integer.parseInt(txtInput.getText()));
 
 		}
 		

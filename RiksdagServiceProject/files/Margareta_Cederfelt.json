@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:13",
+    "@systemdatum": "2019-01-14 15:55:28",
     "@hits": "1",
     "person": {
       "hangar_guid": "011150d5-c71d-4601-b1a9-e457a5b8dfdb",
@@ -15,7 +15,7 @@
       "iort": null,
       "parti": "M",
       "valkrets": "Stockholms kommun",
-      "status": "Tjänstgörande riksdagsledamot",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/d7c329da-83e4-11d4-ae60-0050040c9b55",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c329da-83e4-11d4-ae60-0050040c9b55_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c329da-83e4-11d4-ae60-0050040c9b55_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "25",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "110",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -60,9 +60,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "51",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2010-10-26",
             "tom": "2014-09-29",
@@ -78,9 +78,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "80",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2010-10-19",
             "tom": "2010-10-25",
@@ -96,9 +96,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "141",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2010-10-18",
@@ -114,9 +114,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "81",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2008-05-07",
             "tom": "2010-10-04",
@@ -132,9 +132,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "110",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2007-09-18",
             "tom": "2008-05-07",
@@ -150,9 +150,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "206",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2006-10-26",
             "tom": "2007-09-17",
@@ -170,7 +170,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "11",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2000-05-01",
             "tom": "2002-09-30",
@@ -186,9 +186,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Ersättare",
+            "roll_kod": "ErsÃ¤ttare",
             "ordningsnummer": "2",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "1999-09-14",
             "tom": "2000-04-30",
@@ -373,7 +373,7 @@
             "from": "2000-05-01",
             "tom": "2002-09-30",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -419,7 +419,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -427,7 +427,7 @@
             "from": "2018-11-15",
             "tom": "2018-12-05",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -437,7 +437,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -445,7 +445,7 @@
             "from": "2018-05-15",
             "tom": "2018-06-14",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -455,7 +455,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -463,7 +463,7 @@
             "from": "2017-11-14",
             "tom": "2017-12-15",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -473,7 +473,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -481,7 +481,7 @@
             "from": "2017-05-02",
             "tom": "2017-06-14",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -491,7 +491,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -499,7 +499,7 @@
             "from": "2016-11-15",
             "tom": "2016-12-14",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -509,7 +509,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -517,7 +517,7 @@
             "from": "2016-04-12",
             "tom": "2016-05-25",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -527,7 +527,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -535,7 +535,7 @@
             "from": "2015-11-17",
             "tom": "2015-12-16",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -545,7 +545,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -553,7 +553,7 @@
             "from": "2015-04-14",
             "tom": "2015-06-16",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -563,7 +563,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -571,7 +571,7 @@
             "from": "2014-11-20",
             "tom": "2014-12-17",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -607,7 +607,7 @@
             "from": "2014-10-15",
             "tom": "2018-10-02",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -625,7 +625,7 @@
             "from": "2014-10-14",
             "tom": "2014-10-14",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -643,7 +643,7 @@
             "from": "2010-11-17",
             "tom": "2014-10-07",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -661,7 +661,7 @@
             "from": "2006-11-15",
             "tom": "2010-10-12",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0970259744617",
             "hangar_id": "2343087",
@@ -672,7 +672,7 @@
           },
           {
             "organ_kod": "OSSE",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "2",
             "status": null,
             "typ": "Riksdagsorgan",
@@ -708,7 +708,7 @@
           },
           {
             "organ_kod": "OSSE",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "2",
             "status": null,
             "typ": "Riksdagsorgan",
@@ -767,16 +767,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 99-02 (ersättare 990914-000501) och 06- (statsrådsersättare 061026-140929). Ledamot trafikutskottet 06-08, konstitutionsutskottet 08-10, civilutskottet 10-14 och utrikesutskottet 14-. Suppleant skatteutskottet 99-00, socialförsäkringsutskottet 00-02, bostadsutskottet 01-02, socialutskottet 02, EU-nämnden 06-, konstitutionsutskottet 07-08 och sammansatta utrikes-och försvarsutskottet 14-15. Ledamot OSSE- delegationen 14 och vice ordförande 14-. Suppleant OSSE-delegationen 10-14 och OSCE PA, (Organization for Security and Cooperation) Rapporteur General Committee on Political Affairs and Security 15-."
+              "Riksdagsledamot 99-02 (ersÃ¤ttare 990914-000501) och 06- (statsrÃ¥dsersÃ¤ttare 061026-140929). Ledamot trafikutskottet 06-08, konstitutionsutskottet 08-10, civilutskottet 10-14 och utrikesutskottet 14-. Suppleant skatteutskottet 99-00, socialfÃ¶rsÃ¤kringsutskottet 00-02, bostadsutskottet 01-02, socialutskottet 02, EU-nÃ¤mnden 06-, konstitutionsutskottet 07-08 och sammansatta utrikes-och fÃ¶rsvarsutskottet 14-15. Ledamot OSSE- delegationen 14 och vice ordfÃ¶rande 14-. Suppleant OSSE-delegationen 10-14 och OSCE PA, (Organization for Security and Cooperation) Rapporteur General Committee on Political Affairs and Security 15-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343087"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Ingenjören Arne Olsson och Zelly Zöller."
+              "IngenjÃ¶ren Arne Olsson och Zelly ZÃ¶ller."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -785,16 +785,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, vårdlinjen i Malmö, slutår 79. Sophiahemmets sjuksköterskehögskola, leg. sjuksköterska 82. Fil.mag. socialvetenskap, Uppsala universitet 94."
+              "Gymnasieskola, vÃ¥rdlinjen i MalmÃ¶, slutÃ¥r 79. Sophiahemmets sjukskÃ¶terskehÃ¶gskola, leg. sjukskÃ¶terska 82. Fil.mag. socialvetenskap, Uppsala universitet 94."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343087"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Sjuksköterska, Ersta sjukhus 82-87. Klinikföreståndare, Långbro sjukhus 87-89. Klinikföreståndare, Karolinska sjukhuset 89-93. Högskoleadjunkt, Sophiahemmets sjuksköterskehögskola 94-99. Chefssjuksköterska, Karolinska universitetssjukhuset 03-04. Projektledare, Karolinska universitetssjukhuset 05-06."
+              "SjukskÃ¶terska, Ersta sjukhus 82-87. KlinikfÃ¶restÃ¥ndare, LÃ¥ngbro sjukhus 87-89. KlinikfÃ¶restÃ¥ndare, Karolinska sjukhuset 89-93. HÃ¶gskoleadjunkt, Sophiahemmets sjukskÃ¶terskehÃ¶gskola 94-99. ChefssjukskÃ¶terska, Karolinska universitetssjukhuset 03-04. Projektledare, Karolinska universitetssjukhuset 05-06."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -803,7 +803,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Ersättare, Presstödsnämnden 09-14. "
+              "ErsÃ¤ttare, PresstÃ¶dsnÃ¤mnden 09-14. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -812,16 +812,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Stockholms kommun 06-. Ledamot, Hägerstens stadsdelsnämnd 95-98 och 02-06, gruppledare 02-06. Ersättare, socialdistriktsnämnd Skärholmen, Stockholms kommun 91-94. Landstingsfullmäktig, Stockholms läns landsting 94-00 och 02-06. Styrelseledamot, Sydvästra sjukvårdsområdet 94-98. Ledamot, landstingsstyrelsen 98-00 och 02-06. Ordförande, tandvårdsnämnden 98-00. Ledamot, personalutskottet 98-00. Vice ordförande, medicinsk programberedning 02-06. Ledamot, ägarutskottet 02-06. Styrelseledamot, Landstingshuset AB."
+              "KommunfullmÃ¤ktig, Stockholms kommun 06-. Ledamot, HÃ¤gerstens stadsdelsnÃ¤mnd 95-98 och 02-06, gruppledare 02-06. ErsÃ¤ttare, socialdistriktsnÃ¤mnd SkÃ¤rholmen, Stockholms kommun 91-94. LandstingsfullmÃ¤ktig, Stockholms lÃ¤ns landsting 94-00 och 02-06. Styrelseledamot, SydvÃ¤stra sjukvÃ¥rdsomrÃ¥det 94-98. Ledamot, landstingsstyrelsen 98-00 och 02-06. OrdfÃ¶rande, tandvÃ¥rdsnÃ¤mnden 98-00. Ledamot, personalutskottet 98-00. Vice ordfÃ¶rande, medicinsk programberedning 02-06. Ledamot, Ã¤garutskottet 02-06. Styrelseledamot, Landstingshuset AB."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343087"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Styrelseledamot, Moderat skolungdom i Malmö 86-89. Ledamot, Moderaternas lokalförening i Skärholmen 92-96, Moderaternas lokalförening i Hägersten 97-05, ordförande 99, vice ordförande 00-04 och Moderaternas lokalförening i Brännkyrka 07-. Ledamot, Moderaternas förbundsstyrelse, Stockholms stad 97-07. Studeranderepresentant, Sophiahemmets sjuksköterskehögskolas styrelse 81 och stipendienämnd 81. Styrelseledamot 84, Fria moderata studentföreningen i Stockholm, ordförande 85. Styrelseledamot, bostadsrättsföreningen Kettingen 84-87. Studeranderepresentant, sociologiska institutionens styrelse, Uppsala universitet 86. Styrelseledamot, Föreningen Skärholmens gård 91-93 och Skärholmens civilförsvarsförening 91-93. Ombud, Lärarnas riksförbund, Sophiahemmets sjuksköterskeskola 97-99. Ordförande, Forum för Uppfinningar och Innovationer 06-10, Ordförande, Parliamentarians for Global Action, Sverige 10-, Treasure, Parliamentarians for Global Action, Executive Board 11-15. Parliamentarians for Global Action, Executive Board 15-. Vice Chair, European Women Union, Healthcommission 02-06. Ordförande, Europeiska Kvinnounionen, Hälsokommissionen, Sverige 00-06 och Rotary Älvsjö, styrelseledamot 09-12. Öppna Moderater, ledamot förbundsstyrelse 14-.    "
+              "Styrelseledamot, Moderat skolungdom i MalmÃ¶ 86-89. Ledamot, Moderaternas lokalfÃ¶rening i SkÃ¤rholmen 92-96, Moderaternas lokalfÃ¶rening i HÃ¤gersten 97-05, ordfÃ¶rande 99, vice ordfÃ¶rande 00-04 och Moderaternas lokalfÃ¶rening i BrÃ¤nnkyrka 07-. Ledamot, Moderaternas fÃ¶rbundsstyrelse, Stockholms stad 97-07. Studeranderepresentant, Sophiahemmets sjukskÃ¶terskehÃ¶gskolas styrelse 81 och stipendienÃ¤mnd 81. Styrelseledamot 84, Fria moderata studentfÃ¶reningen i Stockholm, ordfÃ¶rande 85. Styrelseledamot, bostadsrÃ¤ttsfÃ¶reningen Kettingen 84-87. Studeranderepresentant, sociologiska institutionens styrelse, Uppsala universitet 86. Styrelseledamot, FÃ¶reningen SkÃ¤rholmens gÃ¥rd 91-93 och SkÃ¤rholmens civilfÃ¶rsvarsfÃ¶rening 91-93. Ombud, LÃ¤rarnas riksfÃ¶rbund, Sophiahemmets sjukskÃ¶terskeskola 97-99. OrdfÃ¶rande, Forum fÃ¶r Uppfinningar och Innovationer 06-10, OrdfÃ¶rande, Parliamentarians for Global Action, Sverige 10-, Treasure, Parliamentarians for Global Action, Executive Board 11-15. Parliamentarians for Global Action, Executive Board 15-. Vice Chair, European Women Union, Healthcommission 02-06. OrdfÃ¶rande, Europeiska Kvinnounionen, HÃ¤lsokommissionen, Sverige 00-06 och Rotary Ã„lvsjÃ¶, styrelseledamot 09-12. Ã–ppna Moderater, ledamot fÃ¶rbundsstyrelse 14-.    "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -848,14 +848,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "margareta.cederfelt[på]riksdagen.se"
+              "margareta.cederfelt[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0970259744617",
             "hangar_id": "2343087"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "64282"
             ],
@@ -866,7 +866,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Leg. sjuksköterska"
+              "Leg. sjukskÃ¶terska"
             ],
             "typ": "titlar",
             "intressent_id": "0970259744617",

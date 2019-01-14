@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:58",
+    "@systemdatum": "2019-01-14 16:02:14",
     "@hits": "1",
     "person": {
       "hangar_guid": "bc9ed594-9cc9-4673-8fd2-6bf56d014305",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Engblom,Annicka",
       "iort": null,
       "parti": "M",
-      "valkrets": "Blekinge län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Blekinge lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/23c1d1cc-f2a2-47f1-b144-0d52a464791a",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/23c1d1cc-f2a2-47f1-b144-0d52a464791a_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/23c1d1cc-f2a2-47f1-b144-0d52a464791a_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "36",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "10",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "34",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "14",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2006-10-02",
             "tom": "2010-10-04",
@@ -113,7 +113,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "17",
             "status": null,
@@ -121,7 +121,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -149,7 +149,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -157,7 +157,7 @@
             "from": "2014-10-07",
             "tom": "2018-09-24",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -203,7 +203,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Ledamot",
             "ordningsnummer": "5",
             "status": null,
@@ -211,7 +211,7 @@
             "from": "2010-10-12",
             "tom": "2014-09-29",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -239,7 +239,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "18",
             "status": null,
@@ -247,7 +247,7 @@
             "from": "2006-10-24",
             "tom": "2010-10-04",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -257,7 +257,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Deputerad",
             "ordningsnummer": "13",
             "status": null,
@@ -265,7 +265,7 @@
             "from": "2014-04-15",
             "tom": "2014-06-12",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -275,7 +275,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "3",
             "status": null,
@@ -283,7 +283,7 @@
             "from": "2013-11-26",
             "tom": "2013-12-17",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -293,7 +293,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Deputerad",
             "ordningsnummer": "13",
             "status": null,
@@ -301,7 +301,7 @@
             "from": "2013-04-23",
             "tom": "2013-06-18",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -311,7 +311,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Deputerad",
             "ordningsnummer": "7",
             "status": null,
@@ -319,7 +319,7 @@
             "from": "2013-02-21",
             "tom": "2013-03-06",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -329,7 +329,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Deputerad",
             "ordningsnummer": "7",
             "status": null,
@@ -337,7 +337,7 @@
             "from": "2012-11-27",
             "tom": "2012-12-19",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -347,7 +347,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "1",
             "status": null,
@@ -355,7 +355,7 @@
             "from": "2011-11-24",
             "tom": "2011-12-14",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -365,7 +365,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "3",
             "status": null,
@@ -373,7 +373,7 @@
             "from": "2011-06-16",
             "tom": "2011-06-17",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -383,7 +383,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Deputerad",
             "ordningsnummer": "7",
             "status": null,
@@ -391,7 +391,7 @@
             "from": "2011-03-31",
             "tom": "2011-04-01",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -401,7 +401,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "3",
             "status": null,
@@ -409,7 +409,7 @@
             "from": "2010-11-23",
             "tom": "2010-12-15",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -427,7 +427,7 @@
             "from": "2018-11-01",
             "tom": "2022-10-31",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -445,7 +445,7 @@
             "from": "2018-10-24",
             "tom": "2022-10-24",
             "uppgift": [
-              "Riksdagens delegation till Natos parlamentariska församling"
+              "Riksdagens delegation till Natos parlamentariska fÃ¶rsamling"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -463,7 +463,7 @@
             "from": "2017-03-30",
             "tom": "2018-10-31",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -481,7 +481,7 @@
             "from": "2015-10-01",
             "tom": "2015-11-05",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -499,7 +499,7 @@
             "from": "2014-10-07",
             "tom": "2015-10-01",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -517,7 +517,7 @@
             "from": "2010-11-17",
             "tom": "2014-10-28",
             "uppgift": [
-              "Riksdagens delegation till Natos parlamentariska församling"
+              "Riksdagens delegation till Natos parlamentariska fÃ¶rsamling"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -535,7 +535,7 @@
             "from": "2013-09-17",
             "tom": "2014-09-29",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -553,7 +553,7 @@
             "from": "2012-10-04",
             "tom": "2013-09-16",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0590042760718",
             "hangar_id": "2343368",
@@ -569,16 +569,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 06-. Ledamot skatteutskottet 06-10, försvarsutskottet 10-14 och sammansatta utrikes- och försvarsutskottet 11, 12, 13 och 14 och konstitutionsutskottet 14-. Suppleant försvarsutskottet 06-10 och 14- och sammansatta utrikes- och försvarsutskottet 10, 11 och 13. Ledamot Nordiska rådets svenska delegation 12-15. Suppleant Riksdagens delegation till Natos parlamentariska församling 10-14."
+              "Riksdagsledamot 06-. Ledamot skatteutskottet 06-10, fÃ¶rsvarsutskottet 10-14 och sammansatta utrikes- och fÃ¶rsvarsutskottet 11, 12, 13 och 14 och konstitutionsutskottet 14-. Suppleant fÃ¶rsvarsutskottet 06-10 och 14- och sammansatta utrikes- och fÃ¶rsvarsutskottet 10, 11 och 13. Ledamot Nordiska rÃ¥dets svenska delegation 12-15. Suppleant Riksdagens delegation till Natos parlamentariska fÃ¶rsamling 10-14."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343368"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Driftingenjören Jenö Berényi och kartteknikern Kerstin Engblom-Berényi."
+              "DriftingenjÃ¶ren JenÃ¶ BerÃ©nyi och kartteknikern Kerstin Engblom-BerÃ©nyi."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -587,16 +587,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, 4-årig teknisk linje, Wenströmska skolan i Västerås, slutår 88. Universitetsstudier i tyska vid Universität Wien 88 och franska, historia och samhällskunskap vid L'université Sorbonne, Paris 89. Marinens officershögskola 92-94. Engelska, Högskolan i Karlskrona/Ronneby 93 och ryska, Lunds universitet 99-01."
+              "Gymnasieskola, 4-Ã¥rig teknisk linje, WenstrÃ¶mska skolan i VÃ¤sterÃ¥s, slutÃ¥r 88. Universitetsstudier i tyska vid UniversitÃ¤t Wien 88 och franska, historia och samhÃ¤llskunskap vid L'universitÃ© Sorbonne, Paris 89. Marinens officershÃ¶gskola 92-94. Engelska, HÃ¶gskolan i Karlskrona/Ronneby 93 och ryska, Lunds universitet 99-01."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343368"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Lärarvikarie, Västerås kommun 87-90. Lärare, Student Travel Schools (STS), Brighton 90. Lärare, Sambandsskolan, Karlskrona örlogsskolor 93. Underrättelseinhämtare och analytiker, Försvarets radioanstalt (FRA) 94-03. Alumnkoordinator, Blekinge tekniska högskola 04-."
+              "LÃ¤rarvikarie, VÃ¤sterÃ¥s kommun 87-90. LÃ¤rare, Student Travel Schools (STS), Brighton 90. LÃ¤rare, Sambandsskolan, Karlskrona Ã¶rlogsskolor 93. UnderrÃ¤ttelseinhÃ¤mtare och analytiker, FÃ¶rsvarets radioanstalt (FRA) 94-03. Alumnkoordinator, Blekinge tekniska hÃ¶gskola 04-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -605,7 +605,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Ledamot, Exportkontrollrådet 06-. Ledamot, Nordiska rådet och ordförande, nordiska rådets medborgar- och konsumentutskott 13-16. Ledamot, Luftförsvarsutredningen 12-14."
+              "Ledamot, ExportkontrollrÃ¥det 06-. Ledamot, Nordiska rÃ¥det och ordfÃ¶rande, nordiska rÃ¥dets medborgar- och konsumentutskott 13-16. Ledamot, LuftfÃ¶rsvarsutredningen 12-14."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -614,16 +614,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Karlskrona 98-. Ledamot, kommunstyrelsen 98-02, ersättare 02-06. Ledamot, barn- och ungdomsnämnden 98-02, 2:e vice ordförande 02-06. Ersättare, fastighetsutskottet 02-06. Ledamot, nämnden för utbildning, forskning och kompetensförsörjning, region Blekinge 02-06. Ersättare, Telenor Arena Rosenholms styrelse 04-06."
+              "KommunfullmÃ¤ktig, Karlskrona 98-. Ledamot, kommunstyrelsen 98-02, ersÃ¤ttare 02-06. Ledamot, barn- och ungdomsnÃ¤mnden 98-02, 2:e vice ordfÃ¶rande 02-06. ErsÃ¤ttare, fastighetsutskottet 02-06. Ledamot, nÃ¤mnden fÃ¶r utbildning, forskning och kompetensfÃ¶rsÃ¶rjning, region Blekinge 02-06. ErsÃ¤ttare, Telenor Arena Rosenholms styrelse 04-06."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343368"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Vice ordförande, Rödeby Moderatförening 01-03, ordförande 03-14. 2:e vice förbundsordförande Blekinge distrikt 01-12, förbundsordförande 12-13. Ledamot, Stiftelsen Barometern. Ledamot, Kungliga Örlogsmannasällskapet 09-. Ledamot, Sjövärnskårens riksstyrelse 15-. Ordförande, Moderatkvinnorna 15-.  "
+              "Vice ordfÃ¶rande, RÃ¶deby ModeratfÃ¶rening 01-03, ordfÃ¶rande 03-14. 2:e vice fÃ¶rbundsordfÃ¶rande Blekinge distrikt 01-12, fÃ¶rbundsordfÃ¶rande 12-13. Ledamot, Stiftelsen Barometern. Ledamot, Kungliga Ã–rlogsmannasÃ¤llskapet 09-. Ledamot, SjÃ¶vÃ¤rnskÃ¥rens riksstyrelse 15-. OrdfÃ¶rande, Moderatkvinnorna 15-.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -632,7 +632,7 @@
           {
             "kod": "Bostadsort",
             "uppgift": [
-              "Rödeby"
+              "RÃ¶deby"
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -641,7 +641,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "annicka.engblom[på]riksdagen.se"
+              "annicka.engblom[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0590042760718",
@@ -657,7 +657,7 @@
             "hangar_id": "2343368"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "64641"
             ],
@@ -668,7 +668,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Kommunikatör."
+              "KommunikatÃ¶r."
             ],
             "typ": "titlar",
             "intressent_id": "0590042760718",

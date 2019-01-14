@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:03",
+    "@systemdatum": "2019-01-14 16:02:20",
     "@hits": "1",
     "person": {
       "hangar_guid": "902bae16-039b-424d-931a-b9eb281ca470",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Karkiainen,Ida",
       "iort": null,
       "parti": "S",
-      "valkrets": "Norrbottens län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Norrbottens lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/7891a68a-bcbd-43a3-bd8b-90bdbb040f45",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7891a68a-bcbd-43a3-bd8b-90bdbb040f45_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7891a68a-bcbd-43a3-bd8b-90bdbb040f45_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "312",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -42,9 +42,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "312",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2016-04-05",
             "tom": "2018-09-24",
@@ -60,14 +60,14 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "312",
-            "status": "Ledig Ersättare",
+            "status": "Ledig ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2015-09-01",
             "tom": "2016-04-04",
             "uppgift": [
-              "Sven-Erik Bucht   Föräldraledighet"
+              "Sven-Erik Bucht   FÃ¶rÃ¤ldraledighet"
             ],
             "intressent_id": "0509830681123",
             "hangar_id": "3057459",
@@ -78,9 +78,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "312",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2014-10-03",
             "tom": "2015-08-31",
@@ -216,9 +216,9 @@
             "hangar_id": "3057459"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Vårdaren Nils Karkiainen och administratören Kerstin Hedlund. "
+              "VÃ¥rdaren Nils Karkiainen och administratÃ¶ren Kerstin Hedlund. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -227,16 +227,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, naturvetenskapliga programmet med inriktning miljövetenskap, Tornedalsskolan, Haparanda 03-06. Politices Magister, Luleå tekniska universitet 06-10. "
+              "Gymnasieskola, naturvetenskapliga programmet med inriktning miljÃ¶vetenskap, Tornedalsskolan, Haparanda 03-06. Politices Magister, LuleÃ¥ tekniska universitet 06-10. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057459"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Butiksbiträde, Ica Supermarket samt  Ica Maxi 05-10. Fritidsledare, Station - Ungdomens Hus, Haparanda stad 07-10. Projektledare, kommunledningen, Haparanda 10-11. Strateg, Norrbottens läns landsting 11-. "
+              "ButiksbitrÃ¤de, Ica Supermarket samt  Ica Maxi 05-10. Fritidsledare, Station - Ungdomens Hus, Haparanda stad 07-10. Projektledare, kommunledningen, Haparanda 10-11. Strateg, Norrbottens lÃ¤ns landsting 11-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -245,7 +245,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Ledamot, insynsrådet, Länsstyrelsen i Norrbotten 15-. Styrelseledamot, Stiftelsen arbetarrörelsens arkiv och bibliotek 16-. Ungdomsdelegat, Världshälsoorganisationen, Socialstyrelsen 06-10. "
+              "Ledamot, insynsrÃ¥det, LÃ¤nsstyrelsen i Norrbotten 15-. Styrelseledamot, Stiftelsen arbetarrÃ¶relsens arkiv och bibliotek 16-. Ungdomsdelegat, VÃ¤rldshÃ¤lsoorganisationen, Socialstyrelsen 06-10. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -254,16 +254,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Haparanda 10-. Kommunstyrelsen, Haparanda 11-14. Vice ordförande, barn-och ungdomsnämnden, Haparanda 11-14."
+              "KommunfullmÃ¤ktig, Haparanda 10-. Kommunstyrelsen, Haparanda 11-14. Vice ordfÃ¶rande, barn-och ungdomsnÃ¤mnden, Haparanda 11-14."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057459"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Vice ordförande, Rädda Barnen, Haparanda 09-12. Styrelseledamot, Rädda Barnen, Norrbottens distrikt 10-12. Ordförande, Haparanda arbetarekommun 16-, vice ordförande 10-12. Styrelseledamot, FN-föreningen, Haparanda 16-. "
+              "Vice ordfÃ¶rande, RÃ¤dda Barnen, Haparanda 09-12. Styrelseledamot, RÃ¤dda Barnen, Norrbottens distrikt 10-12. OrdfÃ¶rande, Haparanda arbetarekommun 16-, vice ordfÃ¶rande 10-12. Styrelseledamot, FN-fÃ¶reningen, Haparanda 16-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -272,7 +272,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "ida.karkiainen[på]riksdagen.se"
+              "ida.karkiainen[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0509830681123",

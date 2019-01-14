@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:14",
+    "@systemdatum": "2019-01-14 15:55:30",
     "@hits": "1",
     "person": {
       "hangar_guid": "d841375b-7eae-4913-9c4a-24ae4911e071",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Stenkvist,Robert",
       "iort": null,
       "parti": "SD",
-      "valkrets": "Stockholms län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Stockholms lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/0cb27c59-4f9e-4d84-a8e2-f45325b5a93c",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0cb27c59-4f9e-4d84-a8e2-f45325b5a93c_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0cb27c59-4f9e-4d84-a8e2-f45325b5a93c_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "176",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "131",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-30",
             "tom": "2018-09-24",
@@ -95,7 +95,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "6",
             "status": null,
@@ -103,7 +103,7 @@
             "from": "2014-10-07",
             "tom": "2018-09-24",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0955748436811",
             "hangar_id": "3057117",
@@ -131,7 +131,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "13",
             "status": null,
@@ -139,7 +139,7 @@
             "from": "2018-05-15",
             "tom": "2018-06-14",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0955748436811",
             "hangar_id": "3057117",
@@ -157,7 +157,7 @@
             "from": "2018-10-09",
             "tom": "2022-10-04",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0955748436811",
             "hangar_id": "3057117",
@@ -173,16 +173,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Ledamot utbildningsutskottet 15-. Suppleant försvarsutskottet 14- och utbildningsutskottet 14-15."
+              "Riksdagsledamot 14-. Ledamot utbildningsutskottet 15-. Suppleant fÃ¶rsvarsutskottet 14- och utbildningsutskottet 14-15."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057117"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Stig Stenkvist och Ingdrid Löfström."
+              "Stig Stenkvist och Ingdrid LÃ¶fstrÃ¶m."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -198,9 +198,9 @@
             "hangar_id": "3057117"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Fritidspedagog, Östersunds kommun och Botkyrka kommun. Arbete som vårdbiträde, vid flyttfirma, m.m. "
+              "Fritidspedagog, Ã–stersunds kommun och Botkyrka kommun. Arbete som vÃ¥rdbitrÃ¤de, vid flyttfirma, m.m. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -209,7 +209,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              " Ledamot, Polisens insynsråd. Suppleant, Kommuninvests styrelse."
+              " Ledamot, Polisens insynsrÃ¥d. Suppleant, Kommuninvests styrelse."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -218,16 +218,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Botkyrka."
+              "KommunfullmÃ¤ktig, Botkyrka."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057117"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ledamot, Sverigedemokraterna i Botkyrka. Ordförande, kommunförening, Södertälje 16. Valberedare, Sverigedemokraterna. Ledamot Rifos styrelse."
+              "Ledamot, Sverigedemokraterna i Botkyrka. OrdfÃ¶rande, kommunfÃ¶rening, SÃ¶dertÃ¤lje 16. Valberedare, Sverigedemokraterna. Ledamot Rifos styrelse."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -236,14 +236,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "robert.stenkvist[på]riksdagen.se"
+              "robert.stenkvist[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0955748436811",
             "hangar_id": "3057117"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "66390"
             ],

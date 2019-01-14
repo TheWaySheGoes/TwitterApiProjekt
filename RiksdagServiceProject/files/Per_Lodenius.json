@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:55",
+    "@systemdatum": "2019-01-14 16:02:13",
     "@hits": "1",
     "person": {
       "hangar_guid": "cedbc9aa-6e45-4e7d-b195-570fd90cfbbb",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Lodenius,Per",
       "iort": null,
       "parti": "C",
-      "valkrets": "Stockholms län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Stockholms lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/66c12cfb-4888-443a-9e31-f64671296908",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c12cfb-4888-443a-9e31-f64671296908_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c12cfb-4888-443a-9e31-f64671296908_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "29",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "114",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "212",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "318",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2006-10-02",
             "tom": "2010-10-04",
@@ -319,7 +319,7 @@
             "from": "2018-10-16",
             "tom": "2022-10-04",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0363721826713",
             "hangar_id": "2343332",
@@ -335,16 +335,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 06-. Ledamot civilutskottet 10-11 och kulturutskottet 11-. Suppleant utbildningsutskottet 06-, trafikutskottet 06-09, kulturutskottet 09-10 och socialutskottet 17-. Medlem, riksdagens forum för handikappfrågor. Vice ordförande, riksdagens nykterhetgrupp och Svensk-brittiska parlamentariska gruppen. Ordförande, Svensk-åländska parlamentariska vänföreningen."
+              "Riksdagsledamot 06-. Ledamot civilutskottet 10-11 och kulturutskottet 11-. Suppleant utbildningsutskottet 06-, trafikutskottet 06-09, kulturutskottet 09-10 och socialutskottet 17-. Medlem, riksdagens forum fÃ¶r handikappfrÃ¥gor. Vice ordfÃ¶rande, riksdagens nykterhetgrupp och Svensk-brittiska parlamentariska gruppen. OrdfÃ¶rande, Svensk-Ã¥lÃ¤ndska parlamentariska vÃ¤nfÃ¶reningen."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343332"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "F.d. kommunalrådet Kurt Lodenius och banktjänstemannen Gunbritt Lodenius, f. Sundström."
+              "F.d. kommunalrÃ¥det Kurt Lodenius och banktjÃ¤nstemannen Gunbritt Lodenius, f. SundstrÃ¶m."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -353,16 +353,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, samhällsvetenskapligt program, Norrtälje 82-85. Pedagog i svensk folkdans, Väddö folkhögskola 85-86. Grundskollärare SV/SO 1-7, Lärarhögskolan i Stockholm 88-91, 97."
+              "Gymnasieskola, samhÃ¤llsvetenskapligt program, NorrtÃ¤lje 82-85. Pedagog i svensk folkdans, VÃ¤ddÃ¶ folkhÃ¶gskola 85-86. GrundskollÃ¤rare SV/SO 1-7, LÃ¤rarhÃ¶gskolan i Stockholm 88-91, 97."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343332"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Försäljare, AB Georg Sörman Herrekipering, Stockholm 87-88. Danspedagog (egenföretagare) 92-97. Lärare, Länna skola, Norrtälje kommun 97-98, gymnasiesärskolan, Rodengymnasiet 98-05. Controller för elevstöd, utbildnings- och kulturkontoret, Danderyds kommun 05-06."
+              "FÃ¶rsÃ¤ljare, AB Georg SÃ¶rman Herrekipering, Stockholm 87-88. Danspedagog (egenfÃ¶retagare) 92-97. LÃ¤rare, LÃ¤nna skola, NorrtÃ¤lje kommun 97-98, gymnasiesÃ¤rskolan, Rodengymnasiet 98-05. Controller fÃ¶r elevstÃ¶d, utbildnings- och kulturkontoret, Danderyds kommun 05-06."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -371,7 +371,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Ledamot, Insynsrådet för Myndigheten för yrkeshögskolan 10-13."
+              "Ledamot, InsynsrÃ¥det fÃ¶r Myndigheten fÃ¶r yrkeshÃ¶gskolan 10-13."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -380,16 +380,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Norrtälje 95-, ersättare 91-94. Ersättare, miljö- och hälsoskyddsnämnden 88-90. Ledamot, kultur- och fritidsnämnden 91-94 och 00-06, utbildningsnämnden 95-98 och barn- och skolnämnden 99."
+              "KommunfullmÃ¤ktig, NorrtÃ¤lje 95-, ersÃ¤ttare 91-94. ErsÃ¤ttare, miljÃ¶- och hÃ¤lsoskyddsnÃ¤mnden 88-90. Ledamot, kultur- och fritidsnÃ¤mnden 91-94 och 00-06, utbildningsnÃ¤mnden 95-98 och barn- och skolnÃ¤mnden 99."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343332"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Styrelseledamot, Centerpartiets kretsstyrelse, Norrtälje. Ordförande, Centerpartiet i Stockholms läns distriktsstyrelse 11-15 och ledamot 07-11. Huvudman, Roslagens Sparbank 03-. Styrelsemedlem, IOGT-NTO:s förbundsstyrelse 09-11. Ordförande, IOGT-NTO Roslagens Hopp, Norrtälje 10-13, ledamot 13-. Ledamot, Bygdegårdarnas Riksförbunds programråd 10- samt deras konst- och kulturråd 10-. Styrelseledamot, Studieförbundet, Vuxenskolans förbundsstyrelse 13-. Vice ordförande, Erik Sahlström Institutet, Tobo stiftelse och AB 15-. Styrelseledamot, Hemslöjdens riksförbunds styrelse 13- . "
+              "Styrelseledamot, Centerpartiets kretsstyrelse, NorrtÃ¤lje. OrdfÃ¶rande, Centerpartiet i Stockholms lÃ¤ns distriktsstyrelse 11-15 och ledamot 07-11. Huvudman, Roslagens Sparbank 03-. Styrelsemedlem, IOGT-NTO:s fÃ¶rbundsstyrelse 09-11. OrdfÃ¶rande, IOGT-NTO Roslagens Hopp, NorrtÃ¤lje 10-13, ledamot 13-. Ledamot, BygdegÃ¥rdarnas RiksfÃ¶rbunds programrÃ¥d 10- samt deras konst- och kulturrÃ¥d 10-. Styrelseledamot, StudiefÃ¶rbundet, Vuxenskolans fÃ¶rbundsstyrelse 13-. Vice ordfÃ¶rande, Erik SahlstrÃ¶m Institutet, Tobo stiftelse och AB 15-. Styrelseledamot, HemslÃ¶jdens riksfÃ¶rbunds styrelse 13- . "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -407,14 +407,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "per.lodenius[på]riksdagen.se"
+              "per.lodenius[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0363721826713",
             "hangar_id": "2343332"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "64566"
             ],
@@ -425,7 +425,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Lärare."
+              "LÃ¤rare."
             ],
             "typ": "titlar",
             "intressent_id": "0363721826713",

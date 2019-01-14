@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:17",
+    "@systemdatum": "2019-01-14 15:55:33",
     "@hits": "1",
     "person": {
       "hangar_guid": "b2041705-96c9-46d5-bdef-65eff43e055e",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Dioukarev,Dennis",
       "iort": null,
       "parti": "SD",
-      "valkrets": "Göteborgs kommun",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "GÃ¶teborgs kommun",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/13a59e93-95fe-45fb-b7b5-a76f8181cb4f",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/13a59e93-95fe-45fb-b7b5-a76f8181cb4f_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/13a59e93-95fe-45fb-b7b5-a76f8181cb4f_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "192",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "328",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -139,7 +139,7 @@
             "from": "2017-09-28",
             "tom": "2018-10-09",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0344222203323",
             "hangar_id": "3057190",
@@ -157,7 +157,7 @@
             "from": "2016-09-29",
             "tom": "2017-09-28",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0344222203323",
             "hangar_id": "3057190",
@@ -175,7 +175,7 @@
             "from": "2015-10-01",
             "tom": "2016-09-29",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0344222203323",
             "hangar_id": "3057190",
@@ -193,7 +193,7 @@
             "from": "2014-10-07",
             "tom": "2015-10-01",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0344222203323",
             "hangar_id": "3057190",
@@ -211,7 +211,7 @@
             "from": "2014-10-14",
             "tom": "2014-10-23",
             "uppgift": [
-              "Riksbanksfullmäktige"
+              "RiksbanksfullmÃ¤ktige"
             ],
             "intressent_id": "0344222203323",
             "hangar_id": "3057190",
@@ -227,7 +227,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Ledamot finansutskottet 14-. Suppleant skatteutskottet 14-. Suppleant Nordiska rådets svenska delegation 14-16 och Riksbanksfullmäktige 14."
+              "Riksdagsledamot 14-. Ledamot finansutskottet 14-. Suppleant skatteutskottet 14-. Suppleant Nordiska rÃ¥dets svenska delegation 14-16 och RiksbanksfullmÃ¤ktige 14."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -236,7 +236,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "dennis.dioukarev[på]riksdagen.se"
+              "dennis.dioukarev[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0344222203323",

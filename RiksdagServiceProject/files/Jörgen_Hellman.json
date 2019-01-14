@@ -1,6 +1,582 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:14",
-    "@hits": "0"
+    "@systemdatum": "2019-01-14 15:55:30",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "d57d5ca9-14cf-413e-a30c-ea36d8dfbbb4",
+      "sourceid": "26eb9dcc-8638-445e-8356-ba8fdeb6d742",
+      "intressent_id": "0781520322912",
+      "hangar_id": "2343235",
+      "fodd_ar": "1963",
+      "kon": "man",
+      "efternamn": "Hellman",
+      "tilltalsnamn": "Jörgen",
+      "sorteringsnamn": "Hellman,Jörgen",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Västra Götalands läns norra",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/26eb9dcc-8638-445e-8356-ba8fdeb6d742",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26eb9dcc-8638-445e-8356-ba8fdeb6d742_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26eb9dcc-8638-445e-8356-ba8fdeb6d742_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/26eb9dcc-8638-445e-8356-ba8fdeb6d742_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "Systembolaget",
+            "roll_kod": "Revisor",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-03-16",
+            "tom": "2019-04-30",
+            "uppgift": [
+              "Systembolaget AB"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": null,
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "S",
+            "roll_kod": "Kvittningsman",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2014-09-29",
+            "tom": "2017-03-13",
+            "uppgift": [
+              "Socialdemokraterna"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": null,
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "Systembolaget",
+            "roll_kod": "Revisor",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2015-03-25",
+            "tom": "2016-03-16",
+            "uppgift": [
+              "Systembolaget AB"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": null,
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "Systembolaget",
+            "roll_kod": "Revisor",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2015-02-18",
+            "tom": "2015-03-25",
+            "uppgift": [
+              "Systembolaget AB"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": null,
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "100",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "195",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "264",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "338",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-02",
+            "tom": "2010-10-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ordförande",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "10",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Vice ordförande",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-09-15",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "20",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "23",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-06-26",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2016-06-28",
+            "tom": "2016-09-15",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2016-06-28",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2016-06-28",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2013-03-21",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "23",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RRPR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Riksrevisionens parlamentariska råd"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RRPR",
+            "roll_kod": "Ordförande",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-24",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Riksrevisionens parlamentariska råd"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "10",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "32",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-11-09",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "RRPR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-14",
+            "tom": "2014-10-24",
+            "uppgift": [
+              "Riksrevisionens parlamentariska råd"
+            ],
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 06-. Ledamot finansutskottet 10-16, skatteutskottet 16 och vice ordförande 16-. Suppleant finansutskottet 06-10, skatteutskottet 06-10 och 14-16 och kulturutskottet 10-13. Kvittningsman Socialdemokraterna 14-. Ledamot Riksrevisionens parlamentariska råd 14 och ordförande 14-. Ledamot krigsdelegationen 16-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Sigvard Hellman och Anita Hellman."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, Trollhättan 79-82. Ek. mag., Göteborgs universitet 01."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Kommunalråd, Lilla Edet 91-02. Kommunsekreterare, Socialdemokraterna 02-06."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "F.d. styrelseledamot, Brottsförebyggande rådet och Länsstyrelsen i Älvsborgs län. Ledamot, Utjämningskommittén 08. Kommittén om översyn av målet för den offentliga sektorns finansiella sparande. Revisor, Systembolaget AB 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Lilla Edet 88-02. Revisor, Lilla Edet 06-. Ersättare, regionfullmäktige och kulturnämnden, Västra Götalandsregionen 02-06. Styrelseordförande, Natur- och kulturarvsstyrelsen i Västra Götaland 02-06. Ordförande, Vänersborgsbostäder 16-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Styrelseledamot, Socialdemokraterna i Fuxerna och Lilla Edets arbetarekommun. Styrelseledamot, Socialdemokraterna i Norra Älvsborg. Styrelseordförande, Bohusläns museum och Västergötlands museum 02-06. Vice ordförande, Bohusläns museum 10-14. Ordförande, Socialdemokraterna i Norra Älvsborg, Vice ordförande, Dal/Väst S-Förening i Vänersborg.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.socialdemokraterna.se/jorgenhellman"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "jorgen.hellman[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64832"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Ekonomie magister."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0781520322912",
+            "hangar_id": "2343235"
+          }
+        ]
+      }
+    }
   }
 }

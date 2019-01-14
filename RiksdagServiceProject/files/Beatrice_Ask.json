@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:11",
+    "@systemdatum": "2019-01-14 15:55:25",
     "@hits": "1",
     "person": {
       "hangar_guid": "17629296-d1a8-4cf3-a635-d5e6467818b4",
@@ -15,7 +15,7 @@
       "iort": null,
       "parti": "M",
       "valkrets": "Stockholms kommun",
-      "status": "Tjänstgörande riksdagsledamot",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/d7c31ae1-83e4-11d4-ae60-0050040c9b55",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c31ae1-83e4-11d4-ae60-0050040c9b55_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c31ae1-83e4-11d4-ae60-0050040c9b55_192.jpg",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "4",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "24",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-10-04",
             "tom": "2018-09-24",
@@ -85,7 +85,7 @@
             "from": "2014-09-29",
             "tom": "2014-10-03",
             "uppgift": [
-              "Gustav Blix 2014-09-29 - 2014-10-03  Statsråd"
+              "Gustav Blix 2014-09-29 - 2014-10-03  StatsrÃ¥d"
             ],
             "intressent_id": "0262017901513",
             "hangar_id": "2342917",
@@ -103,7 +103,7 @@
             "from": "2010-10-04",
             "tom": "2014-09-29",
             "uppgift": [
-              "Amir Adan 2010-10-04 - 2010-10-18, Margareta Cederfelt 2010-10-19 - 2010-10-25, Cecilia Brinck 2010-10-26 - 2014-09-29  Statsråd"
+              "Amir Adan 2010-10-04 - 2010-10-18, Margareta Cederfelt 2010-10-19 - 2010-10-25, Cecilia Brinck 2010-10-26 - 2014-09-29  StatsrÃ¥d"
             ],
             "intressent_id": "0262017901513",
             "hangar_id": "2342917",
@@ -134,7 +134,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "110",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2006-10-02",
             "tom": "2006-10-05",
@@ -152,7 +152,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "6",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2002-09-30",
             "tom": "2006-10-02",
@@ -170,7 +170,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "12",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "1998-10-05",
             "tom": "2002-09-30",
@@ -188,7 +188,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "21",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "1994-10-08",
             "tom": "1998-10-05",
@@ -224,7 +224,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "0",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "1988-10-04",
             "tom": "1988-10-28",
@@ -239,15 +239,15 @@
             "uppdrag_statussortering": "10"
           },
           {
-            "organ_kod": "FöU",
-            "roll_kod": "Vice ordförande",
+            "organ_kod": "FÃ¶U",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "2",
             "status": null,
             "typ": "uppdrag",
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0262017901513",
             "hangar_id": "2342917",
@@ -257,7 +257,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Ledamot",
             "ordningsnummer": "2",
             "status": null,
@@ -265,7 +265,7 @@
             "from": "2018-10-02",
             "tom": "2018-10-02",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0262017901513",
             "hangar_id": "2342917",
@@ -275,7 +275,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Ledamot",
             "ordningsnummer": "4",
             "status": null,
@@ -283,7 +283,7 @@
             "from": "2018-01-19",
             "tom": "2018-09-24",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0262017901513",
             "hangar_id": "2342917",
@@ -312,7 +312,7 @@
           },
           {
             "organ_kod": "KU",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "4",
             "status": null,
             "typ": "uppdrag",
@@ -348,7 +348,7 @@
           },
           {
             "organ_kod": "JuU",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "2",
             "status": null,
             "typ": "uppdrag",
@@ -402,7 +402,7 @@
           },
           {
             "organ_kod": "UbU",
-            "roll_kod": "Andre vice ordförande",
+            "roll_kod": "Andre vice ordfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
@@ -420,7 +420,7 @@
           },
           {
             "organ_kod": "UbU",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
@@ -438,7 +438,7 @@
           },
           {
             "organ_kod": "UbU",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
@@ -509,7 +509,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Deputerad",
             "ordningsnummer": "2",
             "status": null,
@@ -517,7 +517,7 @@
             "from": "2018-11-15",
             "tom": "2018-12-05",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0262017901513",
             "hangar_id": "2342917",
@@ -527,7 +527,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Deputerad",
             "ordningsnummer": "7",
             "status": null,
@@ -535,7 +535,7 @@
             "from": "2018-05-15",
             "tom": "2018-06-14",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0262017901513",
             "hangar_id": "2342917",
@@ -571,7 +571,7 @@
             "from": "2004-09-23",
             "tom": "2006-10-10",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0262017901513",
             "hangar_id": "2342917",
@@ -589,7 +589,7 @@
             "from": "2002-10-08",
             "tom": "2004-09-23",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0262017901513",
             "hangar_id": "2342917",
@@ -607,7 +607,7 @@
             "from": "2018-10-24",
             "tom": "2022-10-24",
             "uppgift": [
-              "Riksdagens delegation till Natos parlamentariska församling"
+              "Riksdagens delegation till Natos parlamentariska fÃ¶rsamling"
             ],
             "intressent_id": "0262017901513",
             "hangar_id": "2342917",
@@ -726,7 +726,7 @@
           },
           {
             "organ_kod": "VB",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "Riksdagsorgan",
@@ -801,7 +801,7 @@
       "personuppgift": {
         "uppgift": [
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
               "Sven Ask och Ann Marie Mattsson."
             ],
@@ -819,9 +819,9 @@
             "hangar_id": "2342917"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Distriktsombudsman, MUF 75-78. Bitr. borgarrådssekreterare, Stockholm 80-84. Borgarråd, Stockholm 88-91. "
+              "Distriktsombudsman, MUF 75-78. Bitr. borgarrÃ¥dssekreterare, Stockholm 80-84. BorgarrÃ¥d, Stockholm 88-91. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -830,7 +830,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Styrelseledamot, Skolöverstyrelsen 89-91 och Rikspolisstyrelsen 03-06. Styrelseordförande, Linköpings universitet 05-06. Ledamot, Statens ungdomsråd 84-85, Jämställdhetsrådet t.o.m. 01 och Registernämnden 03. Ersättare, Statens ansvarsnämnd 02-. Ledamot, kommittén om ett nationellt kunskapslyft för vuxna 95-99. Ledamot, Säkerhetspolisens insynsråd 01-."
+              "Styrelseledamot, SkolÃ¶verstyrelsen 89-91 och Rikspolisstyrelsen 03-06. StyrelseordfÃ¶rande, LinkÃ¶pings universitet 05-06. Ledamot, Statens ungdomsrÃ¥d 84-85, JÃ¤mstÃ¤lldhetsrÃ¥det t.o.m. 01 och RegisternÃ¤mnden 03. ErsÃ¤ttare, Statens ansvarsnÃ¤mnd 02-. Ledamot, kommittÃ©n om ett nationellt kunskapslyft fÃ¶r vuxna 95-99. Ledamot, SÃ¤kerhetspolisens insynsrÃ¥d 01-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -839,16 +839,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Stockholm 91. Ledamot, kommunstyrelsens planeringsberedning 89-91. Ordförande, skolstyrelsen 88-91, kommittén för Stockholmsforskning 89-91, Skolfastigheter i Stockholm AB 90-91 och City polisnämnd, Stockholm 99-. "
+              "KommunfullmÃ¤ktig, Stockholm 91. Ledamot, kommunstyrelsens planeringsberedning 89-91. OrdfÃ¶rande, skolstyrelsen 88-91, kommittÃ©n fÃ¶r Stockholmsforskning 89-91, Skolfastigheter i Stockholm AB 90-91 och City polisnÃ¤mnd, Stockholm 99-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2342917"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ledamot, MUF:s förbundsstyrelse 78-88, 2:e vice ordförande 79-84, ordförande 84-88. Ordförande, Moderatkvinnorna 97-01. Ledamot, Moderaternas partistyrelse 99-. Styrelseledamot, Trygg-Hansa Försäkrings AB 99-06.   "
+              "Ledamot, MUF:s fÃ¶rbundsstyrelse 78-88, 2:e vice ordfÃ¶rande 79-84, ordfÃ¶rande 84-88. OrdfÃ¶rande, Moderatkvinnorna 97-01. Ledamot, Moderaternas partistyrelse 99-. Styrelseledamot, Trygg-Hansa FÃ¶rsÃ¤krings AB 99-06.   "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -857,7 +857,7 @@
           {
             "kod": "Litteratur",
             "uppgift": [
-              "Att försvara friheten (81, tillsammans med andra), Ett friare Sverige (83, tillsammans med andra), Spjutspets mot framtiden (97, tillsammans med andra) och Erfarenheter av ett regimskifte (97). "
+              "Att fÃ¶rsvara friheten (81, tillsammans med andra), Ett friare Sverige (83, tillsammans med andra), Spjutspets mot framtiden (97, tillsammans med andra) och Erfarenheter av ett regimskifte (97). "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -866,7 +866,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 88 (881003-881027), 94-. Ledamot justitieutskottet 02-06, EU-nämnden 04-06 och ordförande 14-. Vice ordförande utbildningsutskottet 94-98 och 98-02, 2:e vice ordförande 98-02. Suppleant konstitutionsutskottet 88 och 03, utbildningsutskottet 88 och sammansatta konstitutions- och utrikesutskottet 03. Ledamot riksdagens valberedning 99-06 och vice ordförande 02-06. Ledamot krigsdelegationen 99-10 och 14-. Suppleant riksdagens valberedning 98-99, EU-nämnden 02-04 och riksdagsstyrelsen 00-06. Statsråd, Utbildningsdepartementet 911004-941007. Statsråd och chef (justitieminister), Justitiedepartementet 061006-140310. "
+              "Riksdagsledamot 88 (881003-881027), 94-. Ledamot justitieutskottet 02-06, EU-nÃ¤mnden 04-06 och ordfÃ¶rande 14-. Vice ordfÃ¶rande utbildningsutskottet 94-98 och 98-02, 2:e vice ordfÃ¶rande 98-02. Suppleant konstitutionsutskottet 88 och 03, utbildningsutskottet 88 och sammansatta konstitutions- och utrikesutskottet 03. Ledamot riksdagens valberedning 99-06 och vice ordfÃ¶rande 02-06. Ledamot krigsdelegationen 99-10 och 14-. Suppleant riksdagens valberedning 98-99, EU-nÃ¤mnden 02-04 och riksdagsstyrelsen 00-06. StatsrÃ¥d, Utbildningsdepartementet 911004-941007. StatsrÃ¥d och chef (justitieminister), Justitiedepartementet 061006-140310. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -875,14 +875,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "beatrice.ask[på]riksdagen.se"
+              "beatrice.ask[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0262017901513",
             "hangar_id": "2342917"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65577"
             ],

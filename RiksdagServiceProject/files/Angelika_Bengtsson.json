@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:10",
+    "@systemdatum": "2019-01-14 15:55:24",
     "@hits": "1",
     "person": {
       "hangar_guid": "30fd387d-b7cf-48f2-8dbc-979e4fad8120",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Bengtsson,Angelika",
       "iort": null,
       "parti": "SD",
-      "valkrets": "Blekinge län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Blekinge lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/9d68c0c3-2102-402d-998f-dc56a410d19d",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9d68c0c3-2102-402d-998f-dc56a410d19d_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9d68c0c3-2102-402d-998f-dc56a410d19d_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "63",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "317",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -121,7 +121,7 @@
             "from": "2018-10-09",
             "tom": "2019-10-31",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0138741628520",
             "hangar_id": "3057093",
@@ -139,7 +139,7 @@
             "from": "2018-11-01",
             "tom": "2018-12-14",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0138741628520",
             "hangar_id": "3057093",
@@ -157,7 +157,7 @@
             "from": "2017-09-28",
             "tom": "2018-10-09",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0138741628520",
             "hangar_id": "3057093",
@@ -175,7 +175,7 @@
             "from": "2016-09-29",
             "tom": "2017-09-28",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0138741628520",
             "hangar_id": "3057093",
@@ -198,9 +198,9 @@
             "hangar_id": "3057093"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Socionomen Christer Bengtsson och dans- och idrottsläraren Zofia Chaszkies."
+              "Socionomen Christer Bengtsson och dans- och idrottslÃ¤raren Zofia Chaszkies."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -209,16 +209,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Malmö 14-15."
+              "KommunfullmÃ¤ktig, MalmÃ¶ 14-15."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057093"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Suppleant, Sverigedemokraterna i Malmö 11-16. Suppleant, Sverigedemokraterna Syd 13-16. Ledamot, Sverigedemokraterna Härryda 16-. Suppleant, Sverigedemokraterna Västra Götaland Västra 16-.  "
+              "Suppleant, Sverigedemokraterna i MalmÃ¶ 11-16. Suppleant, Sverigedemokraterna Syd 13-16. Ledamot, Sverigedemokraterna HÃ¤rryda 16-. Suppleant, Sverigedemokraterna VÃ¤stra GÃ¶taland VÃ¤stra 16-.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -234,9 +234,9 @@
             "hangar_id": "3057093"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Frilansande dansare 09-11. Reseledare och platschef 11-12. Danslärare 11-14."
+              "Frilansande dansare 09-11. Reseledare och platschef 11-12. DanslÃ¤rare 11-14."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -245,7 +245,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "angelika.bengtsson[på]riksdagen.se"
+              "angelika.bengtsson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0138741628520",

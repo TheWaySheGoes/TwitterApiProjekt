@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:11",
+    "@systemdatum": "2019-01-14 15:55:27",
     "@hits": "1",
     "person": {
       "hangar_guid": "6a0d0260-0a41-4620-b5e5-54bae0436c3d",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Anefur,Michael",
       "iort": null,
       "parti": "KD",
-      "valkrets": "Skåne läns västra",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "SkÃ¥ne lÃ¤ns vÃ¤stra",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/0e4e69c7-d657-47e6-be67-e8a3003084fd",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e4e69c7-d657-47e6-be67-e8a3003084fd_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e4e69c7-d657-47e6-be67-e8a3003084fd_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "294",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "15",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2009-07-14",
             "tom": "2010-10-04",
@@ -173,7 +173,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "michael.anefur[på]riksdagen.se"
+              "michael.anefur[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0892978334516",
@@ -182,7 +182,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "VD renhållning"
+              "VD renhÃ¥llning"
             ],
             "typ": "titlar",
             "intressent_id": "0892978334516",

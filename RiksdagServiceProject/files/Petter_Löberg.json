@@ -1,6 +1,294 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:00",
-    "@hits": "0"
+    "@systemdatum": "2019-01-14 16:02:17",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "a471cb43-f50d-4ebc-a3ea-5b68a92f5b21",
+      "sourceid": "7826c819-d0da-4e4a-a16b-ffa3d8e9b155",
+      "intressent_id": "0274462857213",
+      "hangar_id": "2343410",
+      "fodd_ar": "1968",
+      "kon": "man",
+      "efternamn": "Löberg",
+      "tilltalsnamn": "Petter",
+      "sorteringsnamn": "Löberg,Petter",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Västra Götalands läns södra",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/7826c819-d0da-4e4a-a16b-ffa3d8e9b155",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7826c819-d0da-4e4a-a16b-ffa3d8e9b155_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7826c819-d0da-4e4a-a16b-ffa3d8e9b155_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7826c819-d0da-4e4a-a16b-ffa3d8e9b155_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "43",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "340",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Ersättare",
+            "ordningsnummer": "303",
+            "status": "Ersättare",
+            "typ": "kammaruppdrag",
+            "from": "2010-02-16",
+            "tom": "2010-03-31",
+            "uppgift": [
+              "Phia Andersson"
+            ],
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410",
+            "sortering": "45",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "20"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Extra suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-02-16",
+            "tom": "2010-03-31",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410",
+            "sortering": "55",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Extra suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-02-16",
+            "tom": "2010-03-31",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410",
+            "sortering": "55",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14- (ersättare 100216-100331). Ledamot justitieutskottet 14-. Extra suppleant konstitutionsutskottet 10 och finansutskottet 10. Suppleant konstitutionsutskottet 14-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343410"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Mentalskötaren Jan-Erik Löberg och psykiatrisjuksköterskan Britt-Marie Rundberg."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343410"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Bäckängsgymnasiet, Borås, slutår 87. Ämneslärarexamen, Göteborgs universitet 96. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343410"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Bäckängsgymnasiet, 90-14."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343410"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "2014 års sexualbrottskommitté 14-16. Rättshjälpsnämnden 16-. Kriminalvårdens insynsråd 16-.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343410"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Borås 91-14. Ledamot i kommunstyrelsen, Borås. Vice ordförande i gatunämnden, Borås. Vice ordförande, stadsdelsnämnd Öster. Ledamot, Borås Energi och Miljö.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343410"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "petter.loberg[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "64775"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Gymnasielärare"
+            ],
+            "typ": "titlar",
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0274462857213",
+            "hangar_id": "2343410"
+          }
+        ]
+      }
+    }
   }
 }

@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:57",
+    "@systemdatum": "2019-01-14 16:02:14",
     "@hits": "1",
     "person": {
       "hangar_guid": "2bbf7542-cb62-4788-b6e4-7d4998985d2d",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Carlsson,Gunilla",
       "iort": null,
       "parti": "S",
-      "valkrets": "Göteborgs kommun",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "GÃ¶teborgs kommun",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/11d950d5-e41f-4e94-af86-ae8a1996d81b",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/11d950d5-e41f-4e94-af86-ae8a1996d81b_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/11d950d5-e41f-4e94-af86-ae8a1996d81b_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "98",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "191",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "261",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "262",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2006-10-02",
             "tom": "2010-10-04",
@@ -98,7 +98,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "216",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2002-09-30",
             "tom": "2006-10-02",
@@ -150,7 +150,7 @@
           },
           {
             "organ_kod": "KrU",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "1",
             "status": null,
             "typ": "uppdrag",
@@ -168,7 +168,7 @@
           },
           {
             "organ_kod": "KrU",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "2",
             "status": null,
             "typ": "uppdrag",
@@ -311,7 +311,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "0",
             "status": null,
@@ -319,7 +319,7 @@
             "from": "2002-10-08",
             "tom": "2006-10-02",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0875221317013",
             "hangar_id": "2343340",
@@ -355,7 +355,7 @@
             "from": "2018-11-01",
             "tom": "2022-10-31",
             "uppgift": [
-              "Styrelsen för Stiftelsen Riksbankens Jubileumsfond"
+              "Styrelsen fÃ¶r Stiftelsen Riksbankens Jubileumsfond"
             ],
             "intressent_id": "0875221317013",
             "hangar_id": "2343340",
@@ -366,14 +366,14 @@
           },
           {
             "organ_kod": "NR",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "1",
             "status": null,
             "typ": "Riksdagsorgan",
             "from": "2018-10-10",
             "tom": "2019-10-31",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0875221317013",
             "hangar_id": "2343340",
@@ -391,7 +391,7 @@
             "from": "2018-10-09",
             "tom": "2018-10-10",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0875221317013",
             "hangar_id": "2343340",
@@ -445,7 +445,7 @@
             "from": "2011-10-12",
             "tom": "2012-02-23",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0875221317013",
             "hangar_id": "2343340",
@@ -463,7 +463,7 @@
             "from": "2010-10-19",
             "tom": "2011-09-15",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0875221317013",
             "hangar_id": "2343340",
@@ -477,9 +477,9 @@
       "personuppgift": {
         "uppgift": [
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Affärsbiträde 85-95. Projektanställd 95-00. Enhetsledare, ABF 00."
+              "AffÃ¤rsbitrÃ¤de 85-95. ProjektanstÃ¤lld 95-00. Enhetsledare, ABF 00."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -488,7 +488,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Styrelseledamot, Arbetarrörelsens arkiv- och bibliotek och Statens ljud- och bildarkiv. Ledamot, Migrationsverket 05-07. Taltidningsnämnden 06-. Ledamot, Förvaltningsstiftelsen 16-."
+              "Styrelseledamot, ArbetarrÃ¶relsens arkiv- och bibliotek och Statens ljud- och bildarkiv. Ledamot, Migrationsverket 05-07. TaltidningsnÃ¤mnden 06-. Ledamot, FÃ¶rvaltningsstiftelsen 16-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -497,16 +497,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Ersättare, stadsdelsnämnden, Hisings-Backa. Ledamot, skattenämnden, Hisingen 99-02. Ledamot, Liseberg AB 07-11. Ordförande, Liseberg AB 15-. Ledamot, Göteborgs hamn AB 11-15."
+              "ErsÃ¤ttare, stadsdelsnÃ¤mnden, Hisings-Backa. Ledamot, skattenÃ¤mnden, Hisingen 99-02. Ledamot, Liseberg AB 07-11. OrdfÃ¶rande, Liseberg AB 15-. Ledamot, GÃ¶teborgs hamn AB 11-15."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343340"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ledamot, Socialdemokraterna Hisings-Backa 98-02. Ledamot, förtroenderådet, Socialdemokraterna i Göteborgs distrikt. Ledamot, Handels socialdemokratiska fackklubb i Göteborg. Ledamot, Föreningen Norden 03-05, ABF Göteborg, Folkteatern i Göteborg och Länsteatrarna i Sverige.  "
+              "Ledamot, Socialdemokraterna Hisings-Backa 98-02. Ledamot, fÃ¶rtroenderÃ¥det, Socialdemokraterna i GÃ¶teborgs distrikt. Ledamot, Handels socialdemokratiska fackklubb i GÃ¶teborg. Ledamot, FÃ¶reningen Norden 03-05, ABF GÃ¶teborg, Folkteatern i GÃ¶teborg och LÃ¤nsteatrarna i Sverige.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -515,16 +515,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 02-. Ledamot kulturutskottet 02-10 och 12, trafikutskottet 10-12. Suppleant försvarsutskottet 02-06, skatteutskottet 06-10, socialutskottet 07-10 och utbildningsutskottet 10-12. Ordförande kulturutskottet 12-14 och vice ordförande 14-. Ledamot, krigsdelegationen 12-. Suppleant Nordiska rådets svenska delegation 10-12."
+              "Riksdagsledamot 02-. Ledamot kulturutskottet 02-10 och 12, trafikutskottet 10-12. Suppleant fÃ¶rsvarsutskottet 02-06, skatteutskottet 06-10, socialutskottet 07-10 och utbildningsutskottet 10-12. OrdfÃ¶rande kulturutskottet 12-14 och vice ordfÃ¶rande 14-. Ledamot, krigsdelegationen 12-. Suppleant Nordiska rÃ¥dets svenska delegation 10-12."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343340"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Industriarbetaren Curt Carlsson och vårdbiträdet Ulla Britt Carlsson, f. Ottosson."
+              "Industriarbetaren Curt Carlsson och vÃ¥rdbitrÃ¤det Ulla Britt Carlsson, f. Ottosson."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -533,7 +533,7 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, ekonomisk linje, slutår 85."
+              "Gymnasieskola, ekonomisk linje, slutÃ¥r 85."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -551,14 +551,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "gunilla.c.carlsson[på]riksdagen.se"
+              "gunilla.c.carlsson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0875221317013",
             "hangar_id": "2343340"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65320"
             ],
@@ -569,7 +569,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Funktionär ABF."
+              "FunktionÃ¤r ABF."
             ],
             "typ": "titlar",
             "intressent_id": "0875221317013",

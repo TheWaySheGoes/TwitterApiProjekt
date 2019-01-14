@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2019-01-14 11:03:05",
+    "@systemdatum": "2019-01-14 15:55:02",
     "@hits": "1",
     "person": {
       "hangar_guid": "6921425c-19ed-44d8-9c63-0bd88aab9bac",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Widegren,John",
       "iort": null,
       "parti": "M",
-      "valkrets": "Östergötlands län",
-      "status": "Tjänstgörande talmansersättare",
+      "valkrets": "Ã–stergÃ¶tlands lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande talmansersÃ¤ttare",
       "person_url_xml": "http://data.riksdagen.se/person/5d1ac61d-4464-41a4-bae0-42ea3782cba8",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5d1ac61d-4464-41a4-bae0-42ea3782cba8_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5d1ac61d-4464-41a4-bae0-42ea3782cba8_192.jpg",
@@ -24,14 +24,14 @@
         "uppdrag": [
           {
             "organ_kod": "kam",
-            "roll_kod": "Talmansersättare",
+            "roll_kod": "TalmansersÃ¤ttare",
             "ordningsnummer": "31",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
             "uppgift": [
-              "Andreas Norlén"
+              "Andreas NorlÃ©n"
             ],
             "intressent_id": "025877594729",
             "hangar_id": "3057182",
@@ -42,14 +42,14 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Ersättare",
+            "roll_kod": "ErsÃ¤ttare",
             "ordningsnummer": "30",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2017-09-11",
             "tom": "2017-12-31",
             "uppgift": [
-              "Andreas Norlén"
+              "Andreas NorlÃ©n"
             ],
             "intressent_id": "025877594729",
             "hangar_id": "3057182",
@@ -101,7 +101,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "john.widegren[på]riksdagen.se"
+              "john.widegren[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "025877594729",

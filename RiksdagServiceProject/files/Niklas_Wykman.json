@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:15",
+    "@systemdatum": "2019-01-14 15:55:30",
     "@hits": "1",
     "person": {
       "hangar_guid": "9cc94adf-f6f7-4d76-bd79-4b4ee0bd16f1",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Wykman,Niklas",
       "iort": null,
       "parti": "M",
-      "valkrets": "Stockholms l‰n",
-      "status": "Tj‰nstgˆrande riksdagsledamot",
+      "valkrets": "Stockholms l√§n",
+      "status": "Tj√§nstg√∂rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/ab589436-528b-42c5-8e0c-28849b0d2294",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ab589436-528b-42c5-8e0c-28849b0d2294_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ab589436-528b-42c5-8e0c-28849b0d2294_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "144",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "285",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -157,7 +157,7 @@
             "from": "2014-10-07",
             "tom": "2015-01-27",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0493288854424",
             "hangar_id": "3057123",
@@ -173,16 +173,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Ledamot EU-n‰mnden 14-15, skatteutskottet 15-16 och arbetsmarknadsutskottet 16-. Suppleant finansutskottet 14-15."
+              "Riksdagsledamot 14-. Ledamot EU-n√§mnden 14-15, skatteutskottet 15-16 och arbetsmarknadsutskottet 16-. Suppleant finansutskottet 14-15."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057123"
           },
           {
-            "kod": "Fˆr‰ldrar",
+            "kod": "F√∂r√§ldrar",
             "uppgift": [
-              "Fˆrs‰ljaren Anders Wykman och vÂrdbitr‰det Irene Wykman, f. Olsson."
+              "F√∂rs√§ljaren Anders Wykman och v√•rdbitr√§det Irene Wykman, f. Olsson."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -191,16 +191,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Grundskola, Barkestorpsskolan 88-97. Naturvetenskapligt program med samh‰llsinriktning, Jenny Nystrˆmsskolan 97-00. Studier i bl.a. nationalekonomi, matematik och matematisk statistik, Stockholms universitet 02-12. Fil.mag. nationalekonomi, ÷rebro universitet 11-13. Forskarutbildning i nationalekonomi, ÷rebro universitet 13-. "
+              "Grundskola, Barkestorpsskolan 88-97. Naturvetenskapligt program med samh√§llsinriktning, Jenny Nystr√∂msskolan 97-00. Studier i bl.a. nationalekonomi, matematik och matematisk statistik, Stockholms universitet 02-12. Fil.mag. nationalekonomi, √ñrebro universitet 11-13. Forskarutbildning i nationalekonomi, √ñrebro universitet 13-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057123"
           },
           {
-            "kod": "Anst‰llningar",
+            "kod": "Anst√§llningar",
             "uppgift": [
-              "Politisk sekreterare, Upplands V‰sby kommun 01-02. Personlig assistent, Danderyds kommun 02-04. Teamledare, Teleperformance 04-06. Fˆrbundsordfˆrande, MUF 06-10. Politiskt sakkunnig, Finansdepartementet 10-14.  "
+              "Politisk sekreterare, Upplands V√§sby kommun 01-02. Personlig assistent, Danderyds kommun 02-04. Teamledare, Teleperformance 04-06. F√∂rbundsordf√∂rande, MUF 06-10. Politiskt sakkunnig, Finansdepartementet 10-14.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -209,7 +209,7 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullm‰ktig, Solna. 1:e vice ordfˆrande, barn- och utbildningsn‰mnden, Solna."
+              "Kommunfullm√§ktig, Solna. 1:e vice ordf√∂rande, barn- och utbildningsn√§mnden, Solna."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -218,7 +218,7 @@
           {
             "kod": "Litteratur",
             "uppgift": [
-              "L‰ngtar efter Sverige."
+              "L√§ngtar efter Sverige."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -227,7 +227,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "niklas.wykman[pÂ]riksdagen.se"
+              "niklas.wykman[p√•]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0493288854424",

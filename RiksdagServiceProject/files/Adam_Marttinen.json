@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:08",
+    "@systemdatum": "2019-01-14 15:55:22",
     "@hits": "1",
     "person": {
       "hangar_guid": "569eb153-76c1-4e21-9193-c5ea5bfeafe2",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Marttinen,Adam",
       "iort": null,
       "parti": "SD",
-      "valkrets": "Sˆdermanlands l‰n",
-      "status": "Tj‰nstgˆrande riksdagsledamot",
+      "valkrets": "S√∂dermanlands l√§n",
+      "status": "Tj√§nstg√∂rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/db2ca6ff-5620-4ece-8d31-97777f2efb48",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db2ca6ff-5620-4ece-8d31-97777f2efb48_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db2ca6ff-5620-4ece-8d31-97777f2efb48_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "287",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "245",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -60,9 +60,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Ers‰ttare",
+            "roll_kod": "Ers√§ttare",
             "ordningsnummer": "271",
-            "status": "Ers‰ttare",
+            "status": "Ers√§ttare",
             "typ": "kammaruppdrag",
             "from": "2013-05-02",
             "tom": "2013-08-25",
@@ -193,7 +193,7 @@
             "from": "2018-10-09",
             "tom": "2022-10-04",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0831039938224",
             "hangar_id": "2824487",
@@ -211,7 +211,7 @@
             "from": "2017-05-04",
             "tom": "2018-10-02",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0831039938224",
             "hangar_id": "2824487",
@@ -229,7 +229,7 @@
             "from": "2016-06-14",
             "tom": "2017-05-04",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0831039938224",
             "hangar_id": "2824487",
@@ -247,7 +247,7 @@
             "from": "2015-11-03",
             "tom": "2016-06-13",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0831039938224",
             "hangar_id": "2824487",
@@ -263,7 +263,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 13 och 14- (ers‰ttare 130502-130825). Ledamot justitieutskottet 14-. Extra suppleant socialutskottet 13 och kulturutskottet 13. Suppleant trafikutskottet 14- och EU-n‰mnden 15-.  "
+              "Riksdagsledamot 13 och 14- (ers√§ttare 130502-130825). Ledamot justitieutskottet 14-. Extra suppleant socialutskottet 13 och kulturutskottet 13. Suppleant trafikutskottet 14- och EU-n√§mnden 15-.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -272,7 +272,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "adam.marttinen[pÂ]riksdagen.se"
+              "adam.marttinen[p√•]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0831039938224",

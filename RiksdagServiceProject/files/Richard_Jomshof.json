@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:08",
+    "@systemdatum": "2019-01-14 15:55:21",
     "@hits": "1",
     "person": {
       "hangar_guid": "99e58418-5b8d-4af5-920a-e3ceabda0d25",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Jomshof,Richard",
       "iort": null,
       "parti": "SD",
-      "valkrets": "Blekinge l‰n",
-      "status": "Tj‰nstgˆrande riksdagsledamot",
+      "valkrets": "Blekinge l√§n",
+      "status": "Tj√§nstg√∂rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/ea8bae0d-0db4-4c68-b59f-3ba83d5f445d",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea8bae0d-0db4-4c68-b59f-3ba83d5f445d_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea8bae0d-0db4-4c68-b59f-3ba83d5f445d_192.jpg",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "37",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "13",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "200",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -121,7 +121,7 @@
             "from": "2018-10-16",
             "tom": "2022-09-26",
             "uppgift": [
-              "Miljˆ- och jordbruksutskottet"
+              "Milj√∂- och jordbruksutskottet"
             ],
             "intressent_id": "0803753212716",
             "hangar_id": "2369375",
@@ -203,7 +203,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FˆU",
+            "organ_kod": "F√∂U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "16",
             "status": null,
@@ -211,7 +211,7 @@
             "from": "2010-10-12",
             "tom": "2014-09-29",
             "uppgift": [
-              "Fˆrsvarsutskottet"
+              "F√∂rsvarsutskottet"
             ],
             "intressent_id": "0803753212716",
             "hangar_id": "2369375",
@@ -265,7 +265,7 @@
             "from": "2012-01-25",
             "tom": "2013-02-21",
             "uppgift": [
-              "Miljˆ- och jordbruksutskottet"
+              "Milj√∂- och jordbruksutskottet"
             ],
             "intressent_id": "0803753212716",
             "hangar_id": "2369375",
@@ -337,7 +337,7 @@
             "from": "2017-09-28",
             "tom": "2018-10-09",
             "uppgift": [
-              "Nordiska rÂdets svenska delegation"
+              "Nordiska r√•dets svenska delegation"
             ],
             "intressent_id": "0803753212716",
             "hangar_id": "2369375",
@@ -355,7 +355,7 @@
             "from": "2016-09-29",
             "tom": "2017-09-28",
             "uppgift": [
-              "Nordiska rÂdets svenska delegation"
+              "Nordiska r√•dets svenska delegation"
             ],
             "intressent_id": "0803753212716",
             "hangar_id": "2369375",
@@ -373,7 +373,7 @@
             "from": "2016-04-08",
             "tom": "2016-09-29",
             "uppgift": [
-              "Nordiska rÂdets svenska delegation"
+              "Nordiska r√•dets svenska delegation"
             ],
             "intressent_id": "0803753212716",
             "hangar_id": "2369375",
@@ -391,7 +391,7 @@
             "from": "2015-10-01",
             "tom": "2016-04-08",
             "uppgift": [
-              "Nordiska rÂdets svenska delegation"
+              "Nordiska r√•dets svenska delegation"
             ],
             "intressent_id": "0803753212716",
             "hangar_id": "2369375",
@@ -409,7 +409,7 @@
             "from": "2014-10-07",
             "tom": "2015-10-01",
             "uppgift": [
-              "Nordiska rÂdets svenska delegation"
+              "Nordiska r√•dets svenska delegation"
             ],
             "intressent_id": "0803753212716",
             "hangar_id": "2369375",
@@ -425,7 +425,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 10-. Ledamot utbildningsutskottet 10-12 och justitieutskottet 12-14. Suppleant fˆrsvarsutskottet 10-14, kulturutskottet 12-13, miljˆ-och jordbruksutskottet 12-13, utbildningsutskottet 12- och justitieutskottet 14-. Ledamot Nordiska rÂdets svenska delegation 14-16 och krigsdelegationen 14-. Suppleant Nordiska rÂdets svenska delegation 16-."
+              "Riksdagsledamot 10-. Ledamot utbildningsutskottet 10-12 och justitieutskottet 12-14. Suppleant f√∂rsvarsutskottet 10-14, kulturutskottet 12-13, milj√∂-och jordbruksutskottet 12-13, utbildningsutskottet 12- och justitieutskottet 14-. Ledamot Nordiska r√•dets svenska delegation 14-16 och krigsdelegationen 14-. Suppleant Nordiska r√•dets svenska delegation 16-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -434,16 +434,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "SO-l‰rarexamen, Malmˆ l‰rarhˆgskola/Lunds universitet 97. Fˆrdjupning i geografi och historia, Lunds universitet 97-99."
+              "SO-l√§rarexamen, Malm√∂ l√§rarh√∂gskola/Lunds universitet 97. F√∂rdjupning i geografi och historia, Lunds universitet 97-99."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2369375"
           },
           {
-            "kod": "Anst‰llningar",
+            "kod": "Anst√§llningar",
             "uppgift": [
-              "Butiksbitr‰de, Obs! Stormarknad i Helsingborg 88-91. V‰rnplikt, F 17 Kallinge 91. Klassl‰rare, Âr 4, Lerb‰ckskolan i Lund 99/00. SO-l‰rare, Âr 7 och 8, Magnus Stenbocksskolan, Helsingborg 01. L‰rare, geografi, filosofi och psykologi, gymnasieskolan Pro Civitas, V‰xjˆ 02-05. Politisk sekreterare, Karlskrona kommun 06-10. Politisk sekreterare, landstinget Blekinge 06-10."
+              "Butiksbitr√§de, Obs! Stormarknad i Helsingborg 88-91. V√§rnplikt, F 17 Kallinge 91. Klassl√§rare, √•r 4, Lerb√§ckskolan i Lund 99/00. SO-l√§rare, √•r 7 och 8, Magnus Stenbocksskolan, Helsingborg 01. L√§rare, geografi, filosofi och psykologi, gymnasieskolan Pro Civitas, V√§xj√∂ 02-05. Politisk sekreterare, Karlskrona kommun 06-10. Politisk sekreterare, landstinget Blekinge 06-10."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -452,7 +452,7 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullm‰ktig, Karlskrona 02-10. Ledamot, kommunstyrelsen, Karlskrona 06-10. Ledamot, barn- och ungdomsn‰mnden 06-10 och utbildningsn‰mnden 06-10. Landstingsfullm‰ktig, Blekinge l‰n 06-10. Ledamot, landstingsstyrelsen 06-10. Ledamot, Blekinge l‰ns regionfullm‰ktige 06-10."
+              "Kommunfullm√§ktig, Karlskrona 02-10. Ledamot, kommunstyrelsen, Karlskrona 06-10. Ledamot, barn- och ungdomsn√§mnden 06-10 och utbildningsn√§mnden 06-10. Landstingsfullm√§ktig, Blekinge l√§n 06-10. Ledamot, landstingsstyrelsen 06-10. Ledamot, Blekinge l√§ns regionfullm√§ktige 06-10."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -461,7 +461,7 @@
           {
             "kod": "Litteratur",
             "uppgift": [
-              "20 rˆster om 20 Âr - Sverigedemokraterna 1988-2008 (08)."
+              "20 r√∂ster om 20 √•r - Sverigedemokraterna 1988-2008 (08)."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -479,14 +479,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "richard.jomshof[pÂ]riksdagen.se"
+              "richard.jomshof[p√•]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0803753212716",
             "hangar_id": "2369375"
           },
           {
-            "kod": "Tj‰nstetelefon",
+            "kod": "Tj√§nstetelefon",
             "uppgift": [
               "66504"
             ],
@@ -497,7 +497,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "SO-l‰rare."
+              "SO-l√§rare."
             ],
             "typ": "titlar",
             "intressent_id": "0803753212716",

@@ -155,6 +155,19 @@ public class TwitterModule {
 	public void run() {
 		String backString =getTwitts("Jan + Björklund");
 		writePersonalFile("Jan", "Björklund", backString);
+		
+		backString =getTwitts("Annie + Lööf");
+		writePersonalFile("Annie", "Lööf", backString);
+		
+		backString =getTwitts("Ebba + Busch + Thor");
+		writePersonalFile("Ebba", "BuschThor", backString);
+		
+		backString =getTwitts("Ulf + Kristersson");
+		writePersonalFile("Ulf", "Kristersson", backString);
+		
+		backString =getTwitts("Jonas + Sjöstedt");
+		writePersonalFile("Jonas", "Sjöstedt", backString);
+		
 	}
 	
 	public static void main(String[] args) {
