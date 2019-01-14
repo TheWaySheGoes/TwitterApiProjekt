@@ -2,51 +2,62 @@ package main;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;
+import java.util.List;
 
+import twitter4j.Query;
+import twitter4j.QueryResult;
 import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
 import twitter4j.auth.AccessToken;
 import twitter4j.auth.RequestToken;
+import twitter4j.conf.ConfigurationBuilder;
 
 public class TestTwitter {
 
 	 public static void main(String args[]) throws Exception{
-		    // The factory instance is re-useable and thread safe.
-		    Twitter twitter = TwitterFactory.getSingleton();
-		    twitter.setOAuthConsumer("[consumer key]", "[consumer secret]");
-		    RequestToken requestToken = twitter.getOAuthRequestToken();
-		    AccessToken accessToken = null;
-		    BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-		    while (null == accessToken) {
-		      System.out.println("Open the following URL and grant access to your account:");
-		      System.out.println(requestToken.getAuthorizationURL());
-		      System.out.print("Enter the PIN(if aviailable) or just hit enter.[PIN]:");
-		      String pin = br.readLine();
-		      try{
-		         if(pin.length() > 0){
-		           accessToken = twitter.getOAuthAccessToken(requestToken, pin);
-		         }else{
-		           accessToken = twitter.getOAuthAccessToken();
-		         }
-		      } catch (TwitterException te) {
-		        if(401 == te.getStatusCode()){
-		          System.out.println("Unable to get the access token.");
-		        }else{
-		          te.printStackTrace();
-		        }
-		      }
-		    }
-		    //persist to the accessToken for future reference.
-		    storeAccessToken((int)twitter.verifyCredentials().getId() , accessToken);
-		    Status status = twitter.updateStatus(args[0]);
-		    System.out.println("Successfully updated the status to [" + status.getText() + "].");
-		    System.exit(0);
-		  }
-		  private static void storeAccessToken(int useId, AccessToken accessToken){
-		    //store accessToken.getToken()
-		    //store accessToken.getTokenSecret()
-		  }
+		 ConfigurationBuilder cb = new ConfigurationBuilder();
+		 cb.setDebugEnabled(true)
+		   .setOAuthConsumerKey("4kQHu6tcOcF88lMQqr5LbfD7N")
+		   .setOAuthConsumerSecret("RbvavJhOFGq5PcY0C20f7ZqHSlMo3sfG7Z9IcMjVE7PKIzpcvr")
+		   .setOAuthAccessToken("1082989341423603712-etBuYJr2qvQs5WUazZXqEYUieKP8Wh")
+		   .setOAuthAccessTokenSecret("yeCHE02JJOC9wsFUh36rORG5gPzvPEO4YpJoddELBKHkB");
+		 TwitterFactory tf = new TwitterFactory(cb.build());
+		 Twitter twitter = tf.getInstance();
+		
+
+	        try {
+
+	            Query query = new Query("nasa");
+
+	            QueryResult result;
+
+	            do {
+
+	                result = twitter.search(query);
+
+	                List<Status> tweets = result.getTweets();
+
+	                for (Status tweet : tweets) {
+
+	                    System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
+
+	                }
+
+	            } while ((query = result.nextQuery()) != null);
+
+	            System.exit(0);
+
+	        } catch (TwitterException te) {
+
+	            te.printStackTrace();
+
+	            System.out.println("Failed to search tweets: " + te.getMessage());
+
+	            System.exit(-1);
+
+	        }
+	 }
 	
 }
