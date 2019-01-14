@@ -128,7 +128,7 @@ public class ModuleGui implements ListSelectionListener, ActionListener, Runnabl
 			twitterModule.start();
 		}
 		
-		if (e.getSource() == this.btnExitRik) {
+		if (e.getSource() == this.btnExitRik) { 
 			riksdagModule.exit();
 			riksdagModule.exit();
 		}

@@ -33,7 +33,7 @@ public class TwitterModule implements Runnable{
 		int sleepTime = 3600000;
 	 
 	
-		
+		 
 	 public TwitterModule(ModuleGui riksdagModuleGui) {
 		 cb = new ConfigurationBuilder();
 		 cb.setDebugEnabled(true)

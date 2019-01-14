@@ -90,6 +90,7 @@ public class RiksdagModule implements Runnable {
 	public void setTimeInterval(int timeInterva) {
 		this.sleepTime*= timeInterva;
 	}
+	
 
 	@Override
 	public void run() {
