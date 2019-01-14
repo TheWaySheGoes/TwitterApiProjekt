@@ -1,0 +1,45 @@
+{
+  "votering": {
+    "dokument": {
+      "hangar_id": "2307989",
+      "dok_id": "GT0I24",
+      "rm": "2005/06",
+      "beteckning": "24",
+      "typ": "f-lista",
+      "subtyp": null,
+      "doktyp": "f-lista",
+      "typrubrik": "Föredragningslista 2005/06:24",
+      "dokumentnamn": "Föredragningslista",
+      "debattnamn": "Föredragningslista",
+      "tempbeteckning": null,
+      "organ": null,
+      "mottagare": null,
+      "nummer": "24",
+      "slutnummer": "0",
+      "datum": "2005-11-08 00:00:00",
+      "systemdatum": "2005-11-07 16:19:26",
+      "publicerad": "2005-11-07 16:19:26",
+      "titel": "Tisdagen den 8 november 2005",
+      "subtitel": null,
+      "status": null,
+      "htmlformat": null,
+      "relaterat_id": null,
+      "source": null,
+      "sourceid": null,
+      "dokument_url_text": "http://data.riksdagen.se/dokument/GT0I24/text",
+      "dokument_url_html": "http://data.riksdagen.se/dokument/GT0I24",
+      "dokumentstatus_url_xml": "http://data.riksdagen.se/dokumentstatus/GT0I24"
+    },
+    "dokbilaga": {
+      "bilaga": {
+        "dok_id": "GT0I24",
+        "titel": "Tisdagen den 8 november 2005",
+        "subtitel": null,
+        "filnamn": "FL_200506__24__20051108.doc",
+        "filstorlek": "120832",
+        "filtyp": "doc",
+        "fil_url": "http://data.riksdagen.se/fil/56CEB683-4175-4E96-9338-60614F0225C5"
+      }
+    }
+  }
+}
