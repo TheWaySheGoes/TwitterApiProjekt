@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:05",
+    "@systemdatum": "2019-01-14 15:55:14",
     "@hits": "1",
     "person": {
       "hangar_guid": "0139137c-73f8-46ba-8a6d-af713c4bcf03",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Lantz,Gustaf",
       "iort": null,
       "parti": "S",
-      "valkrets": "Uppsala län",
-      "status": "Tjänstgörande statsrådsersättare",
+      "valkrets": "Uppsala lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande statsrÃ¥dsersÃ¤ttare",
       "person_url_xml": "http://data.riksdagen.se/person/82c56b96-b106-4b16-958c-98b153d02639",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/82c56b96-b106-4b16-958c-98b153d02639_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/82c56b96-b106-4b16-958c-98b153d02639_192.jpg",
@@ -24,9 +24,9 @@
         "uppdrag": [
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "87",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -42,9 +42,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "87",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2017-04-24",
             "tom": "2017-12-31",
@@ -137,7 +137,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "gustaf.lantz[på]riksdagen.se"
+              "gustaf.lantz[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "075747847023",

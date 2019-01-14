@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:58",
+    "@systemdatum": "2019-01-14 15:55:06",
     "@hits": "1",
     "person": {
       "hangar_guid": "e786e14a-cfe7-401c-bd63-1b7c9922b3e0",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Acketoft,Tina",
       "iort": null,
       "parti": "L",
-      "valkrets": "Skåne läns västra",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "SkÃ¥ne lÃ¤ns vÃ¤stra",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/45445eb9-01dc-4786-990e-c1864d4f7c50",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/45445eb9-01dc-4786-990e-c1864d4f7c50_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/45445eb9-01dc-4786-990e-c1864d4f7c50_192.jpg",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "259",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-26",
             "tom": "2022-09-26",
@@ -98,7 +98,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "220",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-12-19",
             "tom": "2018-09-24",
@@ -116,7 +116,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "153",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-12-21",
             "tom": "2014-09-29",
@@ -134,7 +134,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "257",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2007-01-11",
             "tom": "2010-10-04",
@@ -152,7 +152,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "162",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2002-09-30",
             "tom": "2006-10-02",
@@ -175,7 +175,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0582811195313",
             "hangar_id": "2343333",
@@ -383,7 +383,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "14",
             "status": null,
@@ -391,7 +391,7 @@
             "from": "2015-04-14",
             "tom": "2015-06-16",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0582811195313",
             "hangar_id": "2343333",
@@ -409,7 +409,7 @@
             "from": "2018-10-02",
             "tom": "2022-10-04",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0582811195313",
             "hangar_id": "2343333",
@@ -427,7 +427,7 @@
             "from": "2014-12-19",
             "tom": "2018-09-24",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0582811195313",
             "hangar_id": "2343333",
@@ -445,7 +445,7 @@
             "from": "2010-12-22",
             "tom": "2014-11-01",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0582811195313",
             "hangar_id": "2343333",
@@ -463,7 +463,7 @@
             "from": "2012-09-27",
             "tom": "2014-09-29",
             "uppgift": [
-              "Ledamotsrådet"
+              "LedamotsrÃ¥det"
             ],
             "intressent_id": "0582811195313",
             "hangar_id": "2343333",
@@ -481,7 +481,7 @@
             "from": "2007-01-11",
             "tom": "2010-10-31",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0582811195313",
             "hangar_id": "2343333",
@@ -515,16 +515,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 02-06, 07-14 och 14-. Ledamot arbetsmarknadsutskottet 02-06, utbildningsutskottet 10-14 och konstitutionsutskottet 15-. Suppleant konstitutionsutskottet 02-05 och 15-, arbetsmarknadsutskottet 07-12, sammansatta utrikes- och försvarsutskottet 15 och utrikesutskottet 15-. Ledamot ledamotsrådet 12-14 och EU-nämnden 14-. Suppleant Europarådets svenska delegation 07-14 och Riksrevisionens styrelse 09-10. Vice gruppledare Folkpartiet liberalerna 14-15 och vice gruppledare Liberalerna 15-."
+              "Riksdagsledamot 02-06, 07-14 och 14-. Ledamot arbetsmarknadsutskottet 02-06, utbildningsutskottet 10-14 och konstitutionsutskottet 15-. Suppleant konstitutionsutskottet 02-05 och 15-, arbetsmarknadsutskottet 07-12, sammansatta utrikes- och fÃ¶rsvarsutskottet 15 och utrikesutskottet 15-. Ledamot ledamotsrÃ¥det 12-14 och EU-nÃ¤mnden 14-. Suppleant EuroparÃ¥dets svenska delegation 07-14 och Riksrevisionens styrelse 09-10. Vice gruppledare Folkpartiet liberalerna 14-15 och vice gruppledare Liberalerna 15-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343333"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Egenföretagaren Gert Acketoft och sjuksköterskan Marianne Acketoft, f. Hassel."
+              "EgenfÃ¶retagaren Gert Acketoft och sjukskÃ¶terskan Marianne Acketoft, f. Hassel."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -533,16 +533,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, humanistisk linje, slutår 85. Informationslinjen, Högskolan i Växjö, slutår 89. Marknadsekonomutbildning, London 92. "
+              "Gymnasieskola, humanistisk linje, slutÃ¥r 85. Informationslinjen, HÃ¶gskolan i VÃ¤xjÃ¶, slutÃ¥r 89. Marknadsekonomutbildning, London 92. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343333"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Reklamassistent, Dynapac 87. Projektledare, MMC 93, BLÅ 00 och Fitch, Helsingborg 01-."
+              "Reklamassistent, Dynapac 87. Projektledare, MMC 93, BLÃ… 00 och Fitch, Helsingborg 01-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -551,16 +551,16 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Ledamot i Migrationsverkets insynsråd 14-. Ledamot, Utredningen om lagliga vägar för att söka asyl i EU 15-. Ledamot i den parlamentariska kommittén med uppdrag att utreda riksdagens EU-arbete 15-."
+              "Ledamot i Migrationsverkets insynsrÃ¥d 14-. Ledamot, Utredningen om lagliga vÃ¤gar fÃ¶r att sÃ¶ka asyl i EU 15-. Ledamot i den parlamentariska kommittÃ©n med uppdrag att utreda riksdagens EU-arbete 15-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343333"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Vice ordförande, Folkpartiet liberalerna, Skåne 06-14."
+              "Vice ordfÃ¶rande, Folkpartiet liberalerna, SkÃ¥ne 06-14."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -587,14 +587,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "tina.acketoft[på]riksdagen.se"
+              "tina.acketoft[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0582811195313",
             "hangar_id": "2343333"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65963"
             ],

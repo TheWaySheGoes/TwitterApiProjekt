@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:54",
+    "@systemdatum": "2019-01-14 16:02:12",
     "@hits": "1",
     "person": {
       "hangar_guid": "b5c6fa28-8aa2-4109-b697-0b9ed2434fef",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Larsson,Hillevi",
       "iort": null,
       "parti": "S",
-      "valkrets": "Malmö kommun",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "MalmÃ¶ kommun",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/d7c329b4-83e4-11d4-ae60-0050040c9b55",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c329b4-83e4-11d4-ae60-0050040c9b55_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c329b4-83e4-11d4-ae60-0050040c9b55_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "92",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "37",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "14",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2012-01-01",
             "tom": "2014-09-29",
@@ -85,7 +85,7 @@
             "from": "2011-11-01",
             "tom": "2011-12-31",
             "uppgift": [
-              "Rose-Marie Carlsson 2011-11-01 - 2011-12-31  Föräldraledighet"
+              "Rose-Marie Carlsson 2011-11-01 - 2011-12-31  FÃ¶rÃ¤ldraledighet"
             ],
             "intressent_id": "0878075468027",
             "hangar_id": "2343586",
@@ -98,7 +98,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "14",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2011-07-01",
             "tom": "2011-10-31",
@@ -121,7 +121,7 @@
             "from": "2010-12-01",
             "tom": "2011-06-30",
             "uppgift": [
-              "Luciano Astudillo 2010-12-01 - 2011-06-30  Föräldraledighet"
+              "Luciano Astudillo 2010-12-01 - 2011-06-30  FÃ¶rÃ¤ldraledighet"
             ],
             "intressent_id": "0878075468027",
             "hangar_id": "2343586",
@@ -134,7 +134,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "14",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2010-11-30",
@@ -152,7 +152,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "92",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2009-10-17",
             "tom": "2010-10-04",
@@ -188,7 +188,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "92",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2009-01-02",
             "tom": "2009-09-13",
@@ -224,7 +224,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "92",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2006-10-02",
             "tom": "2008-06-08",
@@ -242,7 +242,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "146",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2004-11-01",
             "tom": "2006-10-02",
@@ -258,9 +258,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "0",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2002-09-30",
             "tom": "2004-10-31",
@@ -276,14 +276,14 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Ersättare",
+            "roll_kod": "ErsÃ¤ttare",
             "ordningsnummer": "143",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "1998-11-23",
             "tom": "2002-09-30",
             "uppgift": [
-              "Lars-Erik Lövdén"
+              "Lars-Erik LÃ¶vdÃ©n"
             ],
             "intressent_id": "0878075468027",
             "hangar_id": "2343586",
@@ -366,7 +366,7 @@
           },
           {
             "organ_kod": "CU",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "3",
             "status": null,
             "typ": "uppdrag",
@@ -402,7 +402,7 @@
           },
           {
             "organ_kod": "CU",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "3",
             "status": null,
             "typ": "uppdrag",
@@ -571,7 +571,7 @@
             "from": "2006-10-10",
             "tom": "2009-01-14",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0878075468027",
             "hangar_id": "2343586",
@@ -589,7 +589,7 @@
             "from": "2002-10-08",
             "tom": "2006-10-10",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0878075468027",
             "hangar_id": "2343586",
@@ -605,16 +605,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 98- (statsrådsersättare 981123-041031). Ledamot lagutskottet 02-06, civilutskottet 06-15 och 16- och vice ordförande 15. Ledamot EU-nämnden 02-06. Suppleant kulturutskottet 98-02, justitieutskottet 06-10 och skatteutskottet 10-. Suppleant EU-nämnden 06-09."
+              "Riksdagsledamot 98- (statsrÃ¥dsersÃ¤ttare 981123-041031). Ledamot lagutskottet 02-06, civilutskottet 06-15 och 16- och vice ordfÃ¶rande 15. Ledamot EU-nÃ¤mnden 02-06. Suppleant kulturutskottet 98-02, justitieutskottet 06-10 och skatteutskottet 10-. Suppleant EU-nÃ¤mnden 06-09."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343586"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Yrkesinspektören Gunnar Larsson och bibliotekarien Birgitta Strandsjö."
+              "YrkesinspektÃ¶ren Gunnar Larsson och bibliotekarien Birgitta StrandsjÃ¶."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -623,16 +623,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, musikinriktning 91-92. Statsvetenskaplig-humanistisk linje, Komvux 93-94. Journalistlinjen, Skurups folkhögskola 98."
+              "Gymnasieskola, musikinriktning 91-92. Statsvetenskaplig-humanistisk linje, Komvux 93-94. Journalistlinjen, Skurups folkhÃ¶gskola 98."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343586"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "EU-informatör/debattör 94. Politisk sekreterare, Malmö kommun 96-98."
+              "EU-informatÃ¶r/debattÃ¶r 94. Politisk sekreterare, MalmÃ¶ kommun 96-98."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -641,7 +641,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Styrelseledamot, Ungdomsstyrelsen 00-02. Ledamot, EU 2004-kommittén 02-06. Ordförande, expertgruppen för miljöstudier 06-07. Styrelseledamot, Teracom 06-07. Ledamot, parlamentarisk referensgrupp till 2014 års vårdnadsutredning 15-."
+              "Styrelseledamot, Ungdomsstyrelsen 00-02. Ledamot, EU 2004-kommittÃ©n 02-06. OrdfÃ¶rande, expertgruppen fÃ¶r miljÃ¶studier 06-07. Styrelseledamot, Teracom 06-07. Ledamot, parlamentarisk referensgrupp till 2014 Ã¥rs vÃ¥rdnadsutredning 15-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -650,16 +650,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Ledamot, biblioteksnämnden, Malmö 94-95. Stadsdelsfullmäktig, Västra innerstaden 95-98."
+              "Ledamot, biblioteksnÃ¤mnden, MalmÃ¶ 94-95. StadsdelsfullmÃ¤ktig, VÃ¤stra innerstaden 95-98."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343586"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ordförande, Republikanska föreningen 05-08, valberedningen 08-10. Ordförande, S-kvinnor Malmö 08-. Ordförande, Global (s) internationella förening 05-07, suppleant 07-11. Suppleant, Malmö arbetarekommuns styrelse (Socialdemokraterna i Malmö). Suppleant, Broderskaps styrelse Malmö 09-11. Suppleant, S-kvinnors förbundsstyrelse 07-09, ledamot 09-. Tidigare ledamot, EU-utskottet och internationella utskottet, Socialdemokraterna i Skåne. Tidigare suppleant Västra innerstadens s-förening. Suppleant, ESP (Europeiska Socialdemokraters Parti) Skåne 10-. Ledamot, Radio A stödförening Malmö 09-11. Adjungerad, Fosie socialdemokratiska förening 06-. Ledamot, riksdagens hbt-grupp 98-06, suppleant 06-. Sammankallande, RRS (Riksdagens Republikanska Sällskap) 05-. Sammankallande, Riksdagens nätverk för Västsahara 98-11. Valberedningen, Avantgarde Skåne 08-. Revisor, s-kvinnoklubben KARL Malmö 08-. Revisorsersättare, Västra innerstadens s-förening 09-. Revisorsersättare, Unga sossars-förening 10-. Adjungerad, Skånes S-kvinnor 11- och vice ordförande S-kvinnor 11-. "
+              "OrdfÃ¶rande, Republikanska fÃ¶reningen 05-08, valberedningen 08-10. OrdfÃ¶rande, S-kvinnor MalmÃ¶ 08-. OrdfÃ¶rande, Global (s) internationella fÃ¶rening 05-07, suppleant 07-11. Suppleant, MalmÃ¶ arbetarekommuns styrelse (Socialdemokraterna i MalmÃ¶). Suppleant, Broderskaps styrelse MalmÃ¶ 09-11. Suppleant, S-kvinnors fÃ¶rbundsstyrelse 07-09, ledamot 09-. Tidigare ledamot, EU-utskottet och internationella utskottet, Socialdemokraterna i SkÃ¥ne. Tidigare suppleant VÃ¤stra innerstadens s-fÃ¶rening. Suppleant, ESP (Europeiska Socialdemokraters Parti) SkÃ¥ne 10-. Ledamot, Radio A stÃ¶dfÃ¶rening MalmÃ¶ 09-11. Adjungerad, Fosie socialdemokratiska fÃ¶rening 06-. Ledamot, riksdagens hbt-grupp 98-06, suppleant 06-. Sammankallande, RRS (Riksdagens Republikanska SÃ¤llskap) 05-. Sammankallande, Riksdagens nÃ¤tverk fÃ¶r VÃ¤stsahara 98-11. Valberedningen, Avantgarde SkÃ¥ne 08-. Revisor, s-kvinnoklubben KARL MalmÃ¶ 08-. RevisorsersÃ¤ttare, VÃ¤stra innerstadens s-fÃ¶rening 09-. RevisorsersÃ¤ttare, Unga sossars-fÃ¶rening 10-. Adjungerad, SkÃ¥nes S-kvinnor 11- och vice ordfÃ¶rande S-kvinnor 11-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -668,7 +668,7 @@
           {
             "kod": "Litteratur",
             "uppgift": [
-              "Riskera allt för en dröm (04), För Sverige - Nuförtiden. En antologi om Carl XVI Gustaf (06, tillsammans med andra), Eureka! vägar ut ur krisen (06, tillsammans med andra) och Oböjligt: kvinnor om reumatism (06, tillsammans med andra)."
+              "Riskera allt fÃ¶r en drÃ¶m (04), FÃ¶r Sverige - NufÃ¶rtiden. En antologi om Carl XVI Gustaf (06, tillsammans med andra), Eureka! vÃ¤gar ut ur krisen (06, tillsammans med andra) och ObÃ¶jligt: kvinnor om reumatism (06, tillsammans med andra)."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -686,14 +686,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "hillevi.larsson[på]riksdagen.se"
+              "hillevi.larsson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0878075468027",
             "hangar_id": "2343586"
           },
           {
-            "kod": "Övriga webbsidor",
+            "kod": "Ã–vriga webbsidor",
             "uppgift": [
               "http://hillevilarsson.blogspot.se/"
             ],
@@ -702,7 +702,7 @@
             "hangar_id": "2343586"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "64399"
             ],

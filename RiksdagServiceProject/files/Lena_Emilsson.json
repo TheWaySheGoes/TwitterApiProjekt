@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-23 14:25:59",
+    "@systemdatum": "2019-01-14 15:55:36",
     "@hits": "1",
     "person": {
       "hangar_guid": "41d60213-696e-4ebb-99f3-3038bfc25328",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Emilsson,Lena",
       "iort": null,
       "parti": "S",
-      "valkrets": "Skåne läns västra",
-      "status": "Tjänstgörande ersättare",
+      "valkrets": "SkÃ¥ne lÃ¤ns vÃ¤stra",
+      "status": "TjÃ¤nstgÃ¶rande ersÃ¤ttare",
       "person_url_xml": "http://data.riksdagen.se/person/8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8f8cf53f-9bd3-464a-a4bd-0976a1ec2d5a_192.jpg",
@@ -24,9 +24,9 @@
         "uppdrag": [
           {
             "organ_kod": "kam",
-            "roll_kod": "Ersättare",
+            "roll_kod": "ErsÃ¤ttare",
             "ordningsnummer": "293",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2018-11-25",
             "tom": "2019-06-24",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "292",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -77,7 +77,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "8",
             "status": null,
@@ -85,7 +85,7 @@
             "from": "2014-10-07",
             "tom": "2018-09-24",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0655028250417",
             "hangar_id": "3057238",
@@ -114,14 +114,14 @@
           },
           {
             "organ_kod": "DN",
-            "roll_kod": "Personlig ersättare",
+            "roll_kod": "Personlig ersÃ¤ttare",
             "ordningsnummer": "3",
             "status": null,
             "typ": "Riksdagsorgan",
             "from": "2015-01-01",
             "tom": "2018-12-31",
             "uppgift": [
-              "Domarnämnden"
+              "DomarnÃ¤mnden"
             ],
             "intressent_id": "0655028250417",
             "hangar_id": "3057238",
@@ -139,7 +139,7 @@
             "from": "2014-10-28",
             "tom": "2018-09-24",
             "uppgift": [
-              "Riksdagens delegation till Natos parlamentariska församling"
+              "Riksdagens delegation till Natos parlamentariska fÃ¶rsamling"
             ],
             "intressent_id": "0655028250417",
             "hangar_id": "3057238",
@@ -155,16 +155,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Suppleant försvarsutskottet 14- och utbildningsutskottet 14-. Suppleant riksdagens delegation till Natos parlamentariska församling 14- och personlig ersättare Domarnämnden 15-."
+              "Riksdagsledamot 14-. Suppleant fÃ¶rsvarsutskottet 14- och utbildningsutskottet 14-. Suppleant riksdagens delegation till Natos parlamentariska fÃ¶rsamling 14- och personlig ersÃ¤ttare DomarnÃ¤mnden 15-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057238"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Rederiinspektören Berndt Eriksson och internationella sekreteraren Elsa Emilsson, f. Wahlström. "
+              "RederiinspektÃ¶ren Berndt Eriksson och internationella sekreteraren Elsa Emilsson, f. WahlstrÃ¶m. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -173,14 +173,14 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Grundskola i Saltsjöbaden, slutår 74. Naturvetenskaplig gymnasieskola i Saltsjöbaden, slutår 76. Fil.kand. i Lund. Magisterutbildning i Lund och Umeå. "
+              "Grundskola i SaltsjÃ¶baden, slutÃ¥r 74. Naturvetenskaplig gymnasieskola i SaltsjÃ¶baden, slutÃ¥r 76. Fil.kand. i Lund. Magisterutbildning i Lund och UmeÃ¥. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057238"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
               "Tullverket."
             ],
@@ -191,7 +191,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Länsstyrelsens insynsråd 16-18."
+              "LÃ¤nsstyrelsens insynsrÃ¥d 16-18."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -200,14 +200,14 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Eslöv 92-. Kommunstyrelsens arbetsutskott ca 01-14. Ordförande, barn- och familjenämnden 01-14. Ordförande, gymnasie- och vuxenutbildningsutskottet i två år. "
+              "KommunfullmÃ¤ktig, EslÃ¶v 92-. Kommunstyrelsens arbetsutskott ca 01-14. OrdfÃ¶rande, barn- och familjenÃ¤mnden 01-14. OrdfÃ¶rande, gymnasie- och vuxenutbildningsutskottet i tvÃ¥ Ã¥r. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057238"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
               "Styrelsesuppleant, Lunds Energi/Kraftringen 10-14."
             ],
@@ -218,14 +218,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "lena.emilsson[på]riksdagen.se"
+              "lena.emilsson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0655028250417",
             "hangar_id": "3057238"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65446"
             ],
@@ -236,7 +236,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Tulltjänsteman"
+              "TulltjÃ¤nsteman"
             ],
             "typ": "titlar",
             "intressent_id": "0655028250417",

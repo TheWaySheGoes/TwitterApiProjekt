@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:13",
+    "@systemdatum": "2019-01-14 15:55:28",
     "@hits": "1",
     "person": {
       "hangar_guid": "9bfb7c4a-e9ad-4bb9-b9a9-697ca7a67928",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Finstorp,Lotta",
       "iort": null,
       "parti": "M",
-      "valkrets": "Södermanlands län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "SÃ¶dermanlands lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/61e74c12-dab8-4117-8b4e-ffd41c21dbda",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/61e74c12-dab8-4117-8b4e-ffd41c21dbda_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/61e74c12-dab8-4117-8b4e-ffd41c21dbda_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "286",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "250",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "287",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -139,7 +139,7 @@
             "from": "2014-10-07",
             "tom": "2016-11-18",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0750518623913",
             "hangar_id": "2343049",
@@ -211,7 +211,7 @@
             "from": "2018-12-05",
             "tom": "2022-09-26",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0750518623913",
             "hangar_id": "2343049",
@@ -229,7 +229,7 @@
             "from": "2018-10-10",
             "tom": "2022-10-10",
             "uppgift": [
-              "Ledamotsrådet"
+              "LedamotsrÃ¥det"
             ],
             "intressent_id": "0750518623913",
             "hangar_id": "2343049",
@@ -240,7 +240,7 @@
           },
           {
             "organ_kod": "RS",
-            "roll_kod": "Ersättare",
+            "roll_kod": "ErsÃ¤ttare",
             "ordningsnummer": "4",
             "status": null,
             "typ": "Riksdagsorgan",
@@ -265,7 +265,7 @@
             "from": "2017-03-22",
             "tom": "2018-10-10",
             "uppgift": [
-              "Ledamotsrådet"
+              "LedamotsrÃ¥det"
             ],
             "intressent_id": "0750518623913",
             "hangar_id": "2343049",
@@ -281,16 +281,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 10-. Ledamot socialförsäkringsutskottet 14-. Suppleant trafikutskottet 10- socialutskottet 10-12 och arbetsmarknadsutskottet 12-14."
+              "Riksdagsledamot 10-. Ledamot socialfÃ¶rsÃ¤kringsutskottet 14-. Suppleant trafikutskottet 10- socialutskottet 10-12 och arbetsmarknadsutskottet 12-14."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343049"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Företagare Tore Jonsson och lärare Eva Pedersén Jonsson."
+              "FÃ¶retagare Tore Jonsson och lÃ¤rare Eva PedersÃ©n Jonsson."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -299,16 +299,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, humanistisk linje, Stålhagsskolan i Hultsfred 74-77. Socialhögskolan/Örebro högskola, Örebro 79-82."
+              "Gymnasieskola, humanistisk linje, StÃ¥lhagsskolan i Hultsfred 74-77. SocialhÃ¶gskolan/Ã–rebro hÃ¶gskola, Ã–rebro 79-82."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343049"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Feriejobb och kortare anställningar som simlärare och turistvärdinna i Vimmerby kommun, badvaktmästare, lärarvikarie och ridlärare på Finntorps Gård i Flens kommun 73-82. Skolkurator, Tranås kommun 83-84. Socialsekreterare, Strängnäs kommun 84-85. Skolkurator, Katrineholms kommun 85-89. Kurator, Ungdomsmottagningen samt lärare vid Komvux i Flen 90-95. Socialsekreterare, Flens socialförvaltning 95-."
+              "Feriejobb och kortare anstÃ¤llningar som simlÃ¤rare och turistvÃ¤rdinna i Vimmerby kommun, badvaktmÃ¤stare, lÃ¤rarvikarie och ridlÃ¤rare pÃ¥ Finntorps GÃ¥rd i Flens kommun 73-82. Skolkurator, TranÃ¥s kommun 83-84. Socialsekreterare, StrÃ¤ngnÃ¤s kommun 84-85. Skolkurator, Katrineholms kommun 85-89. Kurator, Ungdomsmottagningen samt lÃ¤rare vid Komvux i Flen 90-95. Socialsekreterare, Flens socialfÃ¶rvaltning 95-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -317,7 +317,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Styrelseledamot, Länsstyrelsen i Södermanlands län 00-02 och 05-10. Ledamot, parlamentariska socialförsäkringsutredningen 10-15. Ledamot Bostadsplaneringskommittén 13-15 och Socialstyrelsens rättsliga råd 15-. "
+              "Styrelseledamot, LÃ¤nsstyrelsen i SÃ¶dermanlands lÃ¤n 00-02 och 05-10. Ledamot, parlamentariska socialfÃ¶rsÃ¤kringsutredningen 10-15. Ledamot BostadsplaneringskommittÃ©n 13-15 och Socialstyrelsens rÃ¤ttsliga rÃ¥d 15-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -326,16 +326,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Oppositionsråd, Flens kommun 99-02 och landstinget Sörmland 8-10. Kommunfullmäktig, Flen 14-. Ordförande, kommunstyrelsen 02-06. Ordförande, landstingsstyrelsen, Sörmland 07-08. Landstingsfullmäktig, Sörmland 10-14 och ledamot, landstinget Sörmlands demokratiberedning. Vigselförrättare, utsedd av länsstyrelsen i Sörmland 01-."
+              "OppositionsrÃ¥d, Flens kommun 99-02 och landstinget SÃ¶rmland 8-10. KommunfullmÃ¤ktig, Flen 14-. OrdfÃ¶rande, kommunstyrelsen 02-06. OrdfÃ¶rande, landstingsstyrelsen, SÃ¶rmland 07-08. LandstingsfullmÃ¤ktig, SÃ¶rmland 10-14 och ledamot, landstinget SÃ¶rmlands demokratiberedning. VigselfÃ¶rrÃ¤ttare, utsedd av lÃ¤nsstyrelsen i SÃ¶rmland 01-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343049"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ledamot, Svenska Ridsportförbundets distriktsstyrelse, Sörmland 92-93. Ledamot samt 2:e vice ordförande, Moderata förbundsstyrelsen i Södermanlands län 95-11, adjungerad 11-. Ordförande, Flens Moderatförening 04-06. Ledamot, Flens Golfklubb 10-12. Ordförande Flens Hockeyklubb 00-02. Suppleant, Civilförsvarsförbundets förbundsstyrelse 14-15. Ordförande, Svenska Ridsportförbundets dressyrkommitté 12-16. Ledamot, Svensk-bosniska, Svensk-engelska och Svensk- japanska parlamentarikerföreningen."
+              "Ledamot, Svenska RidsportfÃ¶rbundets distriktsstyrelse, SÃ¶rmland 92-93. Ledamot samt 2:e vice ordfÃ¶rande, Moderata fÃ¶rbundsstyrelsen i SÃ¶dermanlands lÃ¤n 95-11, adjungerad 11-. OrdfÃ¶rande, Flens ModeratfÃ¶rening 04-06. Ledamot, Flens Golfklubb 10-12. OrdfÃ¶rande Flens Hockeyklubb 00-02. Suppleant, CivilfÃ¶rsvarsfÃ¶rbundets fÃ¶rbundsstyrelse 14-15. OrdfÃ¶rande, Svenska RidsportfÃ¶rbundets dressyrkommittÃ© 12-16. Ledamot, Svensk-bosniska, Svensk-engelska och Svensk- japanska parlamentarikerfÃ¶reningen."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -344,7 +344,7 @@
           {
             "kod": "Bostadsort",
             "uppgift": [
-              "Mellösa"
+              "MellÃ¶sa"
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -353,14 +353,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "lotta.finstorp[på]riksdagen.se"
+              "lotta.finstorp[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0750518623913",
             "hangar_id": "2343049"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "66292"
             ],

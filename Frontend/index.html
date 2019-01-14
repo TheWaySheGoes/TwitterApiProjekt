@@ -11,11 +11,11 @@
 			overflow:scroll;
 			-webkit-overflow-scrolling: touch;
 		}
-		#memberSearchField {
+		#memberSearchField, #votesSearchField {
 			border-bottom-left-radius: 0;
 			border-bottom-right-radius: 0;
 		}
-		#membersList > .list-group-item:first-of-type {
+		#membersList, #votesSearchField > .list-group-item:first-of-type {
 			border-top-right-radius: 0;
 			border-top-left-radius: 0;
 		}
@@ -82,6 +82,7 @@
 
 			<div class="col-md-4">
 				<h3>Voteringar</h3>
+				<input class="form-control my-0 shadow-none py-1 rounded-top" id="votesSearchField" type="text" placeholder="Sök efter votering" aria-label="Search">
 				<div class="list-group" id="votesList">
 					<!--<a href="votering.html?id=12345" class="list-group-item">Title</a>-->
 				</div>
@@ -138,13 +139,33 @@
 		}
 	});
 
+	var votesTitles = [];
 	let votesUrl = "http://localhost:5000/votes";
 	$.getJSON(votesUrl, function(data){
 		for (var index in data) {
 			let vote = data[index];
-			let id = vote["votering_id"];
+			let id = vote["id"];
+			let title = vote["title"];
 			//<a href="votering.html?id=12345" class="list-group-item">Title</a>
-			$("#votesList").append("<a href=\"votering.html?id=" + id + "\" class=\"list-group-item\">" + id + "</a>");
+			$("#votesList").append("<a href=\"votering.html?id=" + id + "\" id='" + id + "' class=\"list-group-item\">" + title + "</a>");
+			votesTitles.push(title);
+		}
+	});
+
+	$("#votesSearchField").bind("change keyup input",function() {
+		let input = $("#votesSearchField").val();
+		$("#votesList").children().hide();
+
+		if(input){
+			$.each([votesTitles], function(index, value){
+				$.each(value, function(key, cell){
+					if ((cell.toLowerCase()).includes(input.toLowerCase())){
+						$("#" + $("#votesList a:nth-child(" + (key+1)  + ")").attr("id")).show();
+					}
+				});
+			});
+		} else {
+			$("#votesList").children().show();
 		}
 	});
 

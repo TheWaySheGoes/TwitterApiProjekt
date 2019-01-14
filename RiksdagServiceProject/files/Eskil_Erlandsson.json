@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:11",
+    "@systemdatum": "2019-01-14 15:55:26",
     "@hits": "1",
     "person": {
       "hangar_guid": "b32c06af-e27c-4b49-b952-b80089515461",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Erlandsson,Eskil",
       "iort": null,
       "parti": "C",
-      "valkrets": "Kronobergs län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Kronobergs lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/d7c32246-83e4-11d4-ae60-0050040c9b55",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32246-83e4-11d4-ae60-0050040c9b55_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32246-83e4-11d4-ae60-0050040c9b55_192.jpg",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "90",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "182",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-10-04",
             "tom": "2018-09-24",
@@ -85,7 +85,7 @@
             "from": "2014-09-29",
             "tom": "2014-10-03",
             "uppgift": [
-              "Karin Nilsson 2014-09-29 - 2014-10-03  Statsråd"
+              "Karin Nilsson 2014-09-29 - 2014-10-03  StatsrÃ¥d"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -103,7 +103,7 @@
             "from": "2010-10-04",
             "tom": "2014-09-29",
             "uppgift": [
-              "Karin Nilsson 2010-10-04 - 2014-09-29  Statsråd"
+              "Karin Nilsson 2010-10-04 - 2014-09-29  StatsrÃ¥d"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -134,7 +134,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "182",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2006-10-02",
             "tom": "2006-10-05",
@@ -152,7 +152,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "123",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2002-09-30",
             "tom": "2006-10-02",
@@ -170,7 +170,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "120",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "1998-10-05",
             "tom": "2002-09-30",
@@ -188,7 +188,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "119",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "1994-10-03",
             "tom": "1998-10-05",
@@ -229,7 +229,7 @@
             "from": "2014-10-14",
             "tom": "2018-09-24",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -239,15 +239,15 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
-            "roll_kod": "Ordförande",
+            "organ_kod": "FÃ¶U",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
             "from": "2002-10-08",
             "tom": "2006-10-02",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -265,7 +265,7 @@
             "from": "2002-10-08",
             "tom": "2006-10-02",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -283,7 +283,7 @@
             "from": "1998-10-13",
             "tom": "2002-09-30",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -301,7 +301,7 @@
             "from": "1998-12-18",
             "tom": "2002-09-30",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -347,15 +347,15 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
-            "roll_kod": "Ordförande",
+            "organ_kod": "UFÃ¶U",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
             "from": "2006-05-18",
             "tom": "2006-06-14",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -365,15 +365,15 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
-            "roll_kod": "Vice ordförande",
+            "organ_kod": "UFÃ¶U",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
             "from": "2005-11-22",
             "tom": "2005-12-07",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -383,15 +383,15 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
-            "roll_kod": "Vice ordförande",
+            "organ_kod": "UFÃ¶U",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
             "from": "2004-10-19",
             "tom": "2004-12-15",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -401,15 +401,15 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
-            "roll_kod": "Vice ordförande",
+            "organ_kod": "UFÃ¶U",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
             "from": "2004-05-11",
             "tom": "2004-05-26",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -419,15 +419,15 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
-            "roll_kod": "Ordförande",
+            "organ_kod": "UFÃ¶U",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
             "from": "2004-02-05",
             "tom": "2004-02-18",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -437,15 +437,15 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
-            "roll_kod": "Vice ordförande",
+            "organ_kod": "UFÃ¶U",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
             "from": "2003-06-11",
             "tom": "2003-06-12",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -455,15 +455,15 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
-            "roll_kod": "Ordförande",
+            "organ_kod": "UFÃ¶U",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "uppdrag",
             "from": "2002-12-03",
             "tom": "2002-12-18",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -492,14 +492,14 @@
           },
           {
             "organ_kod": "EUN",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "7",
             "status": null,
             "typ": "uppdrag",
             "from": "2018-10-03",
             "tom": "2022-10-04",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -517,7 +517,7 @@
             "from": "2018-10-02",
             "tom": "2018-10-03",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -528,14 +528,14 @@
           },
           {
             "organ_kod": "EUN",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "9",
             "status": null,
             "typ": "uppdrag",
             "from": "2014-10-08",
             "tom": "2018-10-02",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -553,7 +553,7 @@
             "from": "2014-10-07",
             "tom": "2014-10-08",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -571,7 +571,7 @@
             "from": "2002-10-08",
             "tom": "2006-10-10",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -625,7 +625,7 @@
             "from": "1998-10-13",
             "tom": "2000-06-30",
             "uppgift": [
-              "Riksdagens förvaltningskontor"
+              "Riksdagens fÃ¶rvaltningskontor"
             ],
             "intressent_id": "0465398691116",
             "hangar_id": "2342961",
@@ -659,14 +659,14 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 94-. Ledamot miljö- och jordbruksutskottet 98-02. Ordförande försvarsutskottet 02-06 och sammansatta utrikes- och försvarsutskottet 02, 04 och 06. Vice ordförande sammansatta utrikes- och försvarsutskottet 03, 04 och 05. Suppleant skatteutskottet 94-02, bostadsutskottet 94-98, näringsutskottet 98-02 och miljö- och jordbruksutskottet 02-06 och 14-. Suppleant OSSE-delegationen 96-98 och EU-nämnden 02-06. Ledamot riksdagens förvaltningsstyrelse 98-00, riksdagsgruppens förtroenderåd 02-06 och vice ordförande EU-nämnden 14- . Statsråd och chef (jordbruksminister), Jordbruksdepartementet 061006-101231. Statsråd och chef (landsbygdsminister), Landsbygdsdepartementet 110101-141003."
+              "Riksdagsledamot 94-. Ledamot miljÃ¶- och jordbruksutskottet 98-02. OrdfÃ¶rande fÃ¶rsvarsutskottet 02-06 och sammansatta utrikes- och fÃ¶rsvarsutskottet 02, 04 och 06. Vice ordfÃ¶rande sammansatta utrikes- och fÃ¶rsvarsutskottet 03, 04 och 05. Suppleant skatteutskottet 94-02, bostadsutskottet 94-98, nÃ¤ringsutskottet 98-02 och miljÃ¶- och jordbruksutskottet 02-06 och 14-. Suppleant OSSE-delegationen 96-98 och EU-nÃ¤mnden 02-06. Ledamot riksdagens fÃ¶rvaltningsstyrelse 98-00, riksdagsgruppens fÃ¶rtroenderÃ¥d 02-06 och vice ordfÃ¶rande EU-nÃ¤mnden 14- . StatsrÃ¥d och chef (jordbruksminister), Jordbruksdepartementet 061006-101231. StatsrÃ¥d och chef (landsbygdsminister), Landsbygdsdepartementet 110101-141003."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2342961"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
               "Kamreraren Arne Erlandsson och lantbrukaren Inga Erlandsson, f. Johansson."
             ],
@@ -677,16 +677,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, Sunnerboskolan, slutår 76. Jordbruksutbildning, Stora Segerstad 78-79. Lantmästarexamen 81. Högskolestudier, Växjö 89 och 92."
+              "Gymnasieskola, Sunnerboskolan, slutÃ¥r 76. Jordbruksutbildning, Stora Segerstad 78-79. LantmÃ¤starexamen 81. HÃ¶gskolestudier, VÃ¤xjÃ¶ 89 och 92."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2342961"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Lant- och skogsarbetare t.o.m. 77. Ombudsman 79 och 82. Kommunalråd, Ljungby 83-94."
+              "Lant- och skogsarbetare t.o.m. 77. Ombudsman 79 och 82. KommunalrÃ¥d, Ljungby 83-94."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -695,7 +695,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Styrelseledamot, Länsstyrelsen i Kronobergs län 95-06, Statens naturvårdsverk 95-98, Statens jordbruksverk 96-98 och Statens energimyndighet 99-06. Ledamot, Gentekniknämnden 00-04. Ledamot, Skatteflyktskommittén 95-97, Förmånsrättskommittén 97-99, kommittén om översyn av polisväsendets ledningsorganisation 97-98, utredningen om den framtida regionalpolitiken 99-00 och Folkrättsdelegationen 02-06. Ledamot, referensgruppen, plan- och byggutredningen 95-96."
+              "Styrelseledamot, LÃ¤nsstyrelsen i Kronobergs lÃ¤n 95-06, Statens naturvÃ¥rdsverk 95-98, Statens jordbruksverk 96-98 och Statens energimyndighet 99-06. Ledamot, GentekniknÃ¤mnden 00-04. Ledamot, SkatteflyktskommittÃ©n 95-97, FÃ¶rmÃ¥nsrÃ¤ttskommittÃ©n 97-99, kommittÃ©n om Ã¶versyn av polisvÃ¤sendets ledningsorganisation 97-98, utredningen om den framtida regionalpolitiken 99-00 och FolkrÃ¤ttsdelegationen 02-06. Ledamot, referensgruppen, plan- och byggutredningen 95-96."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -704,16 +704,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Ljungby 77-98. Ledamot, kommunstyrelsen 79-94, ordförande 83-94. Ledamot, arbetsutskottet 80-94, ordförande 83-94. Ledamot, skolstyrelsen 77-79, valberedningen 79-82, plannämnden 86-96, ordförande 86-94, vice ordförande 95-96 och polisstyrelsen 88-95, ordförande 89-95. Styrelseledamot, Ljungby Fjärrvärmeverk AB 79-86, ordförande 83-86, Ljungby Bostäder AB 80-95, ordförande 80-82, Ljungby Industrilokaler AB, ordförande 83-95, Ljungby Energi AB, ordförande 87-95, vice ordförande 94-95 och Ljungby Elnät AB, vice ordförande 95-99. Ombud, Svenska Kommunförbundets länsavdelning, Kronobergs län 80-94. Borgerlig vigselförrättare 85-."
+              "KommunfullmÃ¤ktig, Ljungby 77-98. Ledamot, kommunstyrelsen 79-94, ordfÃ¶rande 83-94. Ledamot, arbetsutskottet 80-94, ordfÃ¶rande 83-94. Ledamot, skolstyrelsen 77-79, valberedningen 79-82, plannÃ¤mnden 86-96, ordfÃ¶rande 86-94, vice ordfÃ¶rande 95-96 och polisstyrelsen 88-95, ordfÃ¶rande 89-95. Styrelseledamot, Ljungby FjÃ¤rrvÃ¤rmeverk AB 79-86, ordfÃ¶rande 83-86, Ljungby BostÃ¤der AB 80-95, ordfÃ¶rande 80-82, Ljungby Industrilokaler AB, ordfÃ¶rande 83-95, Ljungby Energi AB, ordfÃ¶rande 87-95, vice ordfÃ¶rande 94-95 och Ljungby ElnÃ¤t AB, vice ordfÃ¶rande 95-99. Ombud, Svenska KommunfÃ¶rbundets lÃ¤nsavdelning, Kronobergs lÃ¤n 80-94. Borgerlig vigselfÃ¶rrÃ¤ttare 85-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2342961"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Styrelseledamot, CUF i Kronobergs län 74-82, ordförande 80-81. Styrelseledamot, Centerpartiet i Torpa 79-, ordförande 85-. Styrelseledamot, Centerpartiet i Kronobergs län, vice ordförande 92-07. Ledamot, Centerpartiets partistyrelse 99-15 och verkställande utskott 00-15. Styrelseledamot, Hallands Föreningsbank 85-92, Föreningsbankerna, Västra regionen 92-95 och Föreningsbanken/Föreningssparbanken Ljungby, ordförande 95-98, vice ordförande 98-02. Ordförande, Svenska Hästavelsförbundet 01-07. Styrelseledamot, Nationella stiftelsen för hästhållningens främjande 01-06.  "
+              "Styrelseledamot, CUF i Kronobergs lÃ¤n 74-82, ordfÃ¶rande 80-81. Styrelseledamot, Centerpartiet i Torpa 79-, ordfÃ¶rande 85-. Styrelseledamot, Centerpartiet i Kronobergs lÃ¤n, vice ordfÃ¶rande 92-07. Ledamot, Centerpartiets partistyrelse 99-15 och verkstÃ¤llande utskott 00-15. Styrelseledamot, Hallands FÃ¶reningsbank 85-92, FÃ¶reningsbankerna, VÃ¤stra regionen 92-95 och FÃ¶reningsbanken/FÃ¶reningssparbanken Ljungby, ordfÃ¶rande 95-98, vice ordfÃ¶rande 98-02. OrdfÃ¶rande, Svenska HÃ¤stavelsfÃ¶rbundet 01-07. Styrelseledamot, Nationella stiftelsen fÃ¶r hÃ¤sthÃ¥llningens frÃ¤mjande 01-06.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -722,14 +722,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "eskil.erlandsson[på]riksdagen.se"
+              "eskil.erlandsson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0465398691116",
             "hangar_id": "2342961"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65683"
             ],
@@ -740,7 +740,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Lantmästare."
+              "LantmÃ¤stare."
             ],
             "typ": "titlar",
             "intressent_id": "0465398691116",

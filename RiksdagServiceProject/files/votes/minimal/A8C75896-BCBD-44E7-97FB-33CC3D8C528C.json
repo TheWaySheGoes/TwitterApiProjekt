@@ -1,6 +1,11 @@
 {
  "date": "2018-11-16 00:00:00",
+ "no": "20",
+ "refrains": "70",
  "pdfFile": "data.riksdagen.se/fil/A8C75896-BCBD-44E7-97FB-33CC3D8C528C",
+ "yes": "230",
  "docId": "H601UbU3",
+ "absent": "29",
+ "id": "A8C75896-BCBD-44E7-97FB-33CC3D8C528C",
  "title": "En strategi för svensk rymdverksamhet"
 }

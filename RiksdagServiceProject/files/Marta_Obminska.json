@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:03",
+    "@systemdatum": "2019-01-14 15:55:12",
     "@hits": "1",
     "person": {
       "hangar_guid": "e72e793b-627f-42b8-8451-0e9b1239e229",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Obminska,Marta",
       "iort": null,
       "parti": "M",
-      "valkrets": "Uppsala l‰n",
-      "status": "Tj‰nstgˆrande riksdagsledamot",
+      "valkrets": "Uppsala l√§n",
+      "status": "Tj√§nstg√∂rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/c994a157-6301-46d2-a111-abe58ec220f4",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c994a157-6301-46d2-a111-abe58ec220f4_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c994a157-6301-46d2-a111-abe58ec220f4_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "86",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "6",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2015-08-27",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "147",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2013-01-01",
             "tom": "2014-09-29",
@@ -98,7 +98,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "147",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2011-08-25",
             "tom": "2011-12-12",
@@ -121,7 +121,7 @@
             "from": "2011-06-07",
             "tom": "2011-08-24",
             "uppgift": [
-              "Hannes Beckman 2011-06-07 - 2011-08-24  Fˆr‰ldraledighet"
+              "Hannes Beckman 2011-06-07 - 2011-08-24  F√∂r√§ldraledighet"
             ],
             "intressent_id": "0732677378827",
             "hangar_id": "2369316",
@@ -134,7 +134,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "147",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2011-06-06",
@@ -150,7 +150,7 @@
           },
           {
             "organ_kod": "KU",
-            "roll_kod": "Vice ordfˆrande",
+            "roll_kod": "Vice ordf√∂rande",
             "ordningsnummer": "2",
             "status": null,
             "typ": "uppdrag",
@@ -301,7 +301,7 @@
             "from": "2010-10-12",
             "tom": "2012-12-02",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0732677378827",
             "hangar_id": "2369316",
@@ -335,16 +335,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 10-14 och 15-. Ledamot EU-n‰mnden 10-12 och civilutskottet 12-14. Suppleant arbetsmarknadsutskottet 11-14 och konstitutionsutskottet 15-. "
+              "Riksdagsledamot 10-14 och 15-. Ledamot EU-n√§mnden 10-12 och civilutskottet 12-14. Suppleant arbetsmarknadsutskottet 11-14 och konstitutionsutskottet 15-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2369316"
           },
           {
-            "kod": "Fˆr‰ldrar",
+            "kod": "F√∂r√§ldrar",
             "uppgift": [
-              "Civilingenjˆren P. Obminski och civilingenjˆren J. Obminska, f. Baranowska."
+              "Civilingenj√∂ren P. Obminski och civilingenj√∂ren J. Obminska, f. Baranowska."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -353,16 +353,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Samh‰llsvetenskapligt program i Classe FranÁaise, Katedralskolan Uppsala 98. Projektledarexamen, IdÈkraft, Uppsala 00. Jur.kand., Uppsala universitet 06."
+              "Samh√§llsvetenskapligt program i Classe Fran√ßaise, Katedralskolan Uppsala 98. Projektledarexamen, Id√©kraft, Uppsala 00. Jur.kand., Uppsala universitet 06."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2369316"
           },
           {
-            "kod": "Anst‰llningar",
+            "kod": "Anst√§llningar",
             "uppgift": [
-              "Politisk handl‰ggare (Europa- och socialpolitik), Moderata Riksorganisationen/Riksdagen 07-. Politiskt sakkunnig/landstingsrÂdssekreterare, Moderaternas kansli, Stockholms l‰ns landsting 08-09. Politiskt sakkunnig, StatsrÂdsberedningen. Samordningskansliet 08. Trainee/jurist, MAQS Law Firm AdvokatbyrÂ KB/AB, Stockholm 05 och april 06-07. Jurist, AdvokatbyrÂn Linklaters, Warszawa, Polen 04 (feriearbete). Projektledare, Campus Venture AB 02-03 (deltid). Workshopledare, Baltic Sea Youth Forum 00. M‰lardalsrÂdet 00 (1-2 dagar). Kampanjcoach, MUF i Stockholms l‰n 99-00 (deltid). Medarbetare, McDonalds Forumgallerian 97-99 (deltid). Praktik som innes‰ljare och receptionist, TV4 Uppland 98-99."
+              "Politisk handl√§ggare (Europa- och socialpolitik), Moderata Riksorganisationen/Riksdagen 07-. Politiskt sakkunnig/landstingsr√•dssekreterare, Moderaternas kansli, Stockholms l√§ns landsting 08-09. Politiskt sakkunnig, Statsr√•dsberedningen. Samordningskansliet 08. Trainee/jurist, MAQS Law Firm Advokatbyr√• KB/AB, Stockholm 05 och april 06-07. Jurist, Advokatbyr√•n Linklaters, Warszawa, Polen 04 (feriearbete). Projektledare, Campus Venture AB 02-03 (deltid). Workshopledare, Baltic Sea Youth Forum 00. M√§lardalsr√•det 00 (1-2 dagar). Kampanjcoach, MUF i Stockholms l√§n 99-00 (deltid). Medarbetare, McDonalds Forumgallerian 97-99 (deltid). Praktik som innes√§ljare och receptionist, TV4 Uppland 98-99."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -371,7 +371,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Skatten‰mndsledamot, Skatteverket i Uppsala 02-05. Presstˆdsn‰mnden 16-. Datainspektionens insynsrÂd 16-. Referensgrupp till 2015 Ârs vallagsutredning 16-. "
+              "Skatten√§mndsledamot, Skatteverket i Uppsala 02-05. Presst√∂dsn√§mnden 16-. Datainspektionens insynsr√•d 16-. Referensgrupp till 2015 √•rs vallagsutredning 16-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -380,16 +380,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullm‰ktig, Uppsala 06-, ers‰ttare 02-06, ers‰ttare, valberedningen 06-10. Ledamot, kommunstyrelsen 06-10 och 14-15, ers‰ttare 06. Ledamot, krisledningsn‰mnden 06-10 och 14-15. Ledamot, n‰mnden fˆr vuxna med funktionshinder 03-06. Ers‰ttare, Eriksbergs KDN 00-03. Ledamot, Uppsala Stadshus AB 06-10 och 14-15, suppleant 06. Uppsala l‰ns landsting 02-05."
+              "Kommunfullm√§ktig, Uppsala 06-, ers√§ttare 02-06, ers√§ttare, valberedningen 06-10. Ledamot, kommunstyrelsen 06-10 och 14-15, ers√§ttare 06. Ledamot, krisledningsn√§mnden 06-10 och 14-15. Ledamot, n√§mnden f√∂r vuxna med funktionshinder 03-06. Ers√§ttare, Eriksbergs KDN 00-03. Ledamot, Uppsala Stadshus AB 06-10 och 14-15, suppleant 06. Uppsala l√§ns landsting 02-05."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2369316"
           },
           {
-            "kod": "Uppdrag inom fˆrenings- och n‰ringsliv",
+            "kod": "Uppdrag inom f√∂renings- och n√§ringsliv",
             "uppgift": [
-              "Ledamot, Uppsala l‰ns fˆrbundsstyrelse, Moderaterna 07-12. Aktion MKF. Kvalificerad utbildning fˆr moderata kvinnor, Moderatkvinnorna 07-09. Styrelseledamot, Uppsala Katedralskolas Alumnifˆrening 04-06. Ledamot, valberedningen, Uppsala l‰ns fˆrbundsstyrelse, Moderaterna 03-06. Ledamot, kretsstyrelsen i Uppsala kommun, Moderaterna 02-07. Ledningsgruppsledamot, kampanjsekreterare, organisationssekreterare och ledamot, valberedningen, Fˆreningen Heimdal 00-03. Ledningsgruppsledamot och informationsansvarig, Uppsala Juniorhandelskammare 01. Ledamot, kÂrfullm‰ktige, Uppsala studentkÂr, VT 01-HT 02, ers‰ttare HT 99-VT 01. Ers‰ttare, UBBO bostadsstiftelse, Uppsala studentkÂr, VT 01-VT 02. Styrelseledamot, Fria Studenter, VT 01-VT 02. Skattm‰stare, Fˆreningen Heimdal 00-01. Sekreterare, kÂrfullm‰ktige, Uppsala studentkÂr VT 00. Ledamot, Tidningsstyrelsen (ERGO), Uppsala studentkÂr VT 00. Ers‰ttare, kÂrstyrelsen, Stockholms universitets studentkÂr VT 00-HT 00. Ledamot, kÂrfullm‰ktige, Stockholms universitets studentkÂr VT 00-HT 00. Styrelseledamot, V‰stra Moderater, Moderaterna 00-11. N‰rradiofˆrman, Sˆdermanland-Nerikes nation HT 99. Valn‰mndsledamot, FˆrsamlingsrÂdet. Vice sekreterare och sekreterare, ungdomsfˆreningen, S:t Lars fˆrsamling 93-97.  "
+              "Ledamot, Uppsala l√§ns f√∂rbundsstyrelse, Moderaterna 07-12. Aktion MKF. Kvalificerad utbildning f√∂r moderata kvinnor, Moderatkvinnorna 07-09. Styrelseledamot, Uppsala Katedralskolas Alumnif√∂rening 04-06. Ledamot, valberedningen, Uppsala l√§ns f√∂rbundsstyrelse, Moderaterna 03-06. Ledamot, kretsstyrelsen i Uppsala kommun, Moderaterna 02-07. Ledningsgruppsledamot, kampanjsekreterare, organisationssekreterare och ledamot, valberedningen, F√∂reningen Heimdal 00-03. Ledningsgruppsledamot och informationsansvarig, Uppsala Juniorhandelskammare 01. Ledamot, k√•rfullm√§ktige, Uppsala studentk√•r, VT 01-HT 02, ers√§ttare HT 99-VT 01. Ers√§ttare, UBBO bostadsstiftelse, Uppsala studentk√•r, VT 01-VT 02. Styrelseledamot, Fria Studenter, VT 01-VT 02. Skattm√§stare, F√∂reningen Heimdal 00-01. Sekreterare, k√•rfullm√§ktige, Uppsala studentk√•r VT 00. Ledamot, Tidningsstyrelsen (ERGO), Uppsala studentk√•r VT 00. Ers√§ttare, k√•rstyrelsen, Stockholms universitets studentk√•r VT 00-HT 00. Ledamot, k√•rfullm√§ktige, Stockholms universitets studentk√•r VT 00-HT 00. Styrelseledamot, V√§stra Moderater, Moderaterna 00-11. N√§rradiof√∂rman, S√∂dermanland-Nerikes nation HT 99. Valn√§mndsledamot, F√∂rsamlingsr√•det. Vice sekreterare och sekreterare, ungdomsf√∂reningen, S:t Lars f√∂rsamling 93-97.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -398,14 +398,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "marta.obminska[pÂ]riksdagen.se"
+              "marta.obminska[p√•]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0732677378827",
             "hangar_id": "2369316"
           },
           {
-            "kod": "Tj‰nstetelefon",
+            "kod": "Tj√§nstetelefon",
             "uppgift": [
               "64407"
             ],

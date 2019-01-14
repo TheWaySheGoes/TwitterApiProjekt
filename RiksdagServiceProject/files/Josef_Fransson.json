@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:49",
+    "@systemdatum": "2019-01-14 16:02:09",
     "@hits": "1",
     "person": {
       "hangar_guid": "b120b866-535f-4189-a70b-41bf29806aa9",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Fransson,Josef",
       "iort": null,
       "parti": "SD",
-      "valkrets": "Västra Götalands läns östra",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "VÃ¤stra GÃ¶talands lÃ¤ns Ã¶stra",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/2131f2eb-348c-4b92-8e76-52c134d79919",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2131f2eb-348c-4b92-8e76-52c134d79919_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2131f2eb-348c-4b92-8e76-52c134d79919_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "269",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "86",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "92",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -77,7 +77,7 @@
             "uppdrag_statussortering": "10"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Ledamot",
             "ordningsnummer": "10",
             "status": null,
@@ -85,7 +85,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0211757295524",
             "hangar_id": "2369331",
@@ -103,7 +103,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0211757295524",
             "hangar_id": "2369331",
@@ -121,7 +121,7 @@
             "from": "2014-10-07",
             "tom": "2018-09-24",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0211757295524",
             "hangar_id": "2369331",
@@ -139,7 +139,7 @@
             "from": "2014-10-14",
             "tom": "2018-09-24",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0211757295524",
             "hangar_id": "2369331",
@@ -157,7 +157,7 @@
             "from": "2010-10-12",
             "tom": "2014-09-29",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0211757295524",
             "hangar_id": "2369331",
@@ -175,7 +175,7 @@
             "from": "2012-01-25",
             "tom": "2014-09-29",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0211757295524",
             "hangar_id": "2369331",
@@ -221,7 +221,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "10",
             "status": null,
@@ -229,7 +229,7 @@
             "from": "2018-11-15",
             "tom": "2018-12-05",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "0211757295524",
             "hangar_id": "2369331",
@@ -247,7 +247,7 @@
             "from": "2018-10-09",
             "tom": "2022-10-04",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0211757295524",
             "hangar_id": "2369331",
@@ -265,7 +265,7 @@
             "from": "2018-10-09",
             "tom": "2022-10-09",
             "uppgift": [
-              "Riksbanksfullmäktige"
+              "RiksbanksfullmÃ¤ktige"
             ],
             "intressent_id": "0211757295524",
             "hangar_id": "2369331",
@@ -281,16 +281,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 10-. Ledamot miljö- och jordbruksutskottet 10-14 och näringsutskottet 14-. Suppleant kulturutskottet 10-13, trafikutskottet 10-13 näringsutskottet 12-14 och miljö- och jordbruksutskottet 14-. "
+              "Riksdagsledamot 10-. Ledamot miljÃ¶- och jordbruksutskottet 10-14 och nÃ¤ringsutskottet 14-. Suppleant kulturutskottet 10-13, trafikutskottet 10-13 nÃ¤ringsutskottet 12-14 och miljÃ¶- och jordbruksutskottet 14-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2369331"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Mekanikern Lars Erik Johansson och undersköterskan Ewa Fransson."
+              "Mekanikern Lars Erik Johansson och underskÃ¶terskan Ewa Fransson."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -299,7 +299,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Ledamot, Gentekniknämnden 10-."
+              "Ledamot, GentekniknÃ¤mnden 10-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -308,7 +308,7 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Skövde 10-.  "
+              "KommunfullmÃ¤ktig, SkÃ¶vde 10-.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -317,7 +317,7 @@
           {
             "kod": "Bostadsort",
             "uppgift": [
-              "Skövde"
+              "SkÃ¶vde"
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -326,14 +326,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "josef.fransson[på]riksdagen.se"
+              "josef.fransson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0211757295524",
             "hangar_id": "2369331"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "66362"
             ],
@@ -344,7 +344,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Högskoleingenjör."
+              "HÃ¶gskoleingenjÃ¶r."
             ],
             "typ": "titlar",
             "intressent_id": "0211757295524",

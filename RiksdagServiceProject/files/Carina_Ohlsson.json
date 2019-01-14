@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:12",
+    "@systemdatum": "2019-01-14 15:55:27",
     "@hits": "1",
     "person": {
       "hangar_guid": "c670bbeb-a77a-4240-b7c1-7f84b1c2a390",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Ohlsson,Carina",
       "iort": null,
       "parti": "S",
-      "valkrets": "Västra Götalands läns östra",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "VÃ¤stra GÃ¶talands lÃ¤ns Ã¶stra",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/d7c3279d-83e4-11d4-ae60-0050040c9b55",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3279d-83e4-11d4-ae60-0050040c9b55_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3279d-83e4-11d4-ae60-0050040c9b55_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "196",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "41",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "70",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "100",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2006-10-02",
             "tom": "2010-10-04",
@@ -98,7 +98,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "255",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2002-09-30",
             "tom": "2006-10-02",
@@ -116,7 +116,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "255",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "1998-10-05",
             "tom": "2002-09-30",
@@ -139,7 +139,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -157,7 +157,7 @@
             "from": "2014-10-07",
             "tom": "2018-09-24",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -211,7 +211,7 @@
             "from": "2010-10-19",
             "tom": "2014-09-29",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -222,7 +222,7 @@
           },
           {
             "organ_kod": "CU",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "4",
             "status": null,
             "typ": "uppdrag",
@@ -283,7 +283,7 @@
             "from": "2007-09-18",
             "tom": "2010-10-04",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -294,14 +294,14 @@
           },
           {
             "organ_kod": "MJU",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "4",
             "status": null,
             "typ": "uppdrag",
             "from": "2007-03-22",
             "tom": "2007-09-17",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -319,7 +319,7 @@
             "from": "2006-10-10",
             "tom": "2007-03-21",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -337,7 +337,7 @@
             "from": "2002-10-08",
             "tom": "2006-10-02",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -373,7 +373,7 @@
             "from": "1998-10-13",
             "tom": "2002-09-30",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -391,7 +391,7 @@
             "from": "2003-02-18",
             "tom": "2003-05-21",
             "uppgift": [
-              "Sammansatta utrikes-, miljö- och jordbruksutskottet"
+              "Sammansatta utrikes-, miljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -409,7 +409,7 @@
             "from": "2010-10-19",
             "tom": "2013-05-22",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -427,7 +427,7 @@
             "from": "2006-10-10",
             "tom": "2010-10-12",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -438,14 +438,14 @@
           },
           {
             "organ_kod": "ER",
-            "roll_kod": "Vice ordförande",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "1",
             "status": null,
             "typ": "Riksdagsorgan",
             "from": "2018-11-07",
             "tom": "2022-10-31",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -481,7 +481,7 @@
             "from": "2018-11-01",
             "tom": "2018-11-07",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -499,7 +499,7 @@
             "from": "2014-11-01",
             "tom": "2018-10-31",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -535,7 +535,7 @@
             "from": "2010-11-01",
             "tom": "2014-11-01",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -545,7 +545,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "ÖN",
+            "organ_kod": "Ã–N",
             "roll_kod": "Suppleant",
             "ordningsnummer": "4",
             "status": null,
@@ -553,7 +553,7 @@
             "from": "2010-10-19",
             "tom": "2014-10-14",
             "uppgift": [
-              "Riksdagens överklagandenämnd"
+              "Riksdagens Ã¶verklagandenÃ¤mnd"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -589,7 +589,7 @@
             "from": "2006-11-01",
             "tom": "2010-10-31",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -618,14 +618,14 @@
           },
           {
             "organ_kod": "ER",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "0",
             "status": null,
             "typ": "Riksdagsorgan",
             "from": "2005-01-24",
             "tom": "2006-10-31",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -661,7 +661,7 @@
             "from": "2003-01-01",
             "tom": "2005-01-24",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0859968278117",
             "hangar_id": "2342985",
@@ -677,16 +677,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 98-. Ledamot miljö- och jordbruksutskottet 02-10 och ordförande 07. Ledamot sammansatta utrikes-, miljö- och jordbruksutskottet 03, EU-nämnden 06-13, civilutskottet 10-14 och ordförande civilutskottet 11. Ledamot socialförsäkringsutskottet 14-. Suppleant miljö- och jordbruksutskottet 98-02 och 10-14, justitieutskottet 02-06 och 14- och trafikutskottet 10. Ledamot riksdagens valberedning 02- och Europarådets svenska delegation 03-05 och 06-, ordförande 05-06.  Suppleant OSSE-delegationen 02-06 och riksdagens överklagandenämnd 10-14. "
+              "Riksdagsledamot 98-. Ledamot miljÃ¶- och jordbruksutskottet 02-10 och ordfÃ¶rande 07. Ledamot sammansatta utrikes-, miljÃ¶- och jordbruksutskottet 03, EU-nÃ¤mnden 06-13, civilutskottet 10-14 och ordfÃ¶rande civilutskottet 11. Ledamot socialfÃ¶rsÃ¤kringsutskottet 14-. Suppleant miljÃ¶- och jordbruksutskottet 98-02 och 10-14, justitieutskottet 02-06 och 14- och trafikutskottet 10. Ledamot riksdagens valberedning 02- och EuroparÃ¥dets svenska delegation 03-05 och 06-, ordfÃ¶rande 05-06.  Suppleant OSSE-delegationen 02-06 och riksdagens Ã¶verklagandenÃ¤mnd 10-14. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2342985"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Arbetsledaren Runo Ohlsson och lokalvårdaren Gunnel Johansson."
+              "Arbetsledaren Runo Ohlsson och lokalvÃ¥rdaren Gunnel Johansson."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -695,16 +695,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, naturvetenskaplig linje, slutår 76. Fil.kand. i kemi, biologi, fysik och geovetenskap 80. Ämneslärarexamen 81."
+              "Gymnasieskola, naturvetenskaplig linje, slutÃ¥r 76. Fil.kand. i kemi, biologi, fysik och geovetenskap 80. Ã„mneslÃ¤rarexamen 81."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2342985"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Ämneslärare, Fornängsskolan och Götene komvux 82-."
+              "Ã„mneslÃ¤rare, FornÃ¤ngsskolan och GÃ¶tene komvux 82-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -713,7 +713,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Nämndeman, Lidköpings tingsrätt 91-94 och Göta hovrätt 95-98. Styrelseledamot, Kemikalieinspektionen 99-06 och Högskolan i Skövde 01-07. Ledamot, Centrala försöksdjursnämnden 02-05. Ledamot, Miljöbalkskommittén 00-05 och Nationalkommittén för genomförande och vidareutveckling av Agenda 21. Ledamot, Habitatagendan 00-02 och Jämställdhetsrådet 01-. Boverkets insynsråd 10-14. Migrationsverkets insynsråd 14-. Länsstyrelsen Västra Götalands insynsråd 16-. "
+              "NÃ¤mndeman, LidkÃ¶pings tingsrÃ¤tt 91-94 och GÃ¶ta hovrÃ¤tt 95-98. Styrelseledamot, Kemikalieinspektionen 99-06 och HÃ¶gskolan i SkÃ¶vde 01-07. Ledamot, Centrala fÃ¶rsÃ¶ksdjursnÃ¤mnden 02-05. Ledamot, MiljÃ¶balkskommittÃ©n 00-05 och NationalkommittÃ©n fÃ¶r genomfÃ¶rande och vidareutveckling av Agenda 21. Ledamot, Habitatagendan 00-02 och JÃ¤mstÃ¤lldhetsrÃ¥det 01-. Boverkets insynsrÃ¥d 10-14. Migrationsverkets insynsrÃ¥d 14-. LÃ¤nsstyrelsen VÃ¤stra GÃ¶talands insynsrÃ¥d 16-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -722,16 +722,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Lidköping 91-, 1:e vice ordförande 98-13, ordförande 13-. Ledamot, kommunstyrelsen 94-98 och valberedningen 94-98. Ledamot, park- och fritidsnämnden 90-94 och miljö- och hälsoskyddsnämnden 91-98, vice ordförande 92-94, ordförande 95-98. Ombud, Svenska Kommunförbundets länsavdelning, Skaraborgs län 94-98."
+              "KommunfullmÃ¤ktig, LidkÃ¶ping 91-, 1:e vice ordfÃ¶rande 98-13, ordfÃ¶rande 13-. Ledamot, kommunstyrelsen 94-98 och valberedningen 94-98. Ledamot, park- och fritidsnÃ¤mnden 90-94 och miljÃ¶- och hÃ¤lsoskyddsnÃ¤mnden 91-98, vice ordfÃ¶rande 92-94, ordfÃ¶rande 95-98. Ombud, Svenska KommunfÃ¶rbundets lÃ¤nsavdelning, Skaraborgs lÃ¤n 94-98."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2342985"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Styrelseledamot, Lidköpings socialdemokratiska kvinnoklubb, ordförande 95-, Skaraborgs läns socialdemokratiska kvinnodistrikt, ordförande 96-05 och Sveriges socialdemokratiska kvinnoförbund 01-. Studieorganisatör, Lidköpings arbetarekommun 91-14 och Skaraborgs läns distrikt av Socialdemokraterna 97-, vice ordförande 15-. Styrelseledamot, ABF Västra Götaland, vice ordförande 91-02, ordförande 02-. Huvudman, Sparbanken Lidköping/Stiftelsen Lidköpings Sparbank 96-. Styrelseledamot, Sveriges kvinnojourers riksförbund 01-02, ordförande 02-14. Styrelsesuppleant, Axevalla folkhögskola 95-98 och Lidan-Nossans vattenvårdsförbund 95-98. Vice ordförande, Socialdemokratiska kvinnoförbundet 09-13, ordförande 13-. Ordförande, FAH kommunerna och miljö 07-14. Styrelseledamot Män för jämställdhet 11-14. Styrelseledamot, Forum för frivilligt socialt arbete 08-16. Vice ordförande, Somaya kvinno- och tjejjour 15-16, ordförande 16-. Ordförande, Lidköpings idrottsförening 08-13. Ordförande, Lidköpings fotbollsklubb 13-. "
+              "Styrelseledamot, LidkÃ¶pings socialdemokratiska kvinnoklubb, ordfÃ¶rande 95-, Skaraborgs lÃ¤ns socialdemokratiska kvinnodistrikt, ordfÃ¶rande 96-05 och Sveriges socialdemokratiska kvinnofÃ¶rbund 01-. StudieorganisatÃ¶r, LidkÃ¶pings arbetarekommun 91-14 och Skaraborgs lÃ¤ns distrikt av Socialdemokraterna 97-, vice ordfÃ¶rande 15-. Styrelseledamot, ABF VÃ¤stra GÃ¶taland, vice ordfÃ¶rande 91-02, ordfÃ¶rande 02-. Huvudman, Sparbanken LidkÃ¶ping/Stiftelsen LidkÃ¶pings Sparbank 96-. Styrelseledamot, Sveriges kvinnojourers riksfÃ¶rbund 01-02, ordfÃ¶rande 02-14. Styrelsesuppleant, Axevalla folkhÃ¶gskola 95-98 och Lidan-Nossans vattenvÃ¥rdsfÃ¶rbund 95-98. Vice ordfÃ¶rande, Socialdemokratiska kvinnofÃ¶rbundet 09-13, ordfÃ¶rande 13-. OrdfÃ¶rande, FAH kommunerna och miljÃ¶ 07-14. Styrelseledamot MÃ¤n fÃ¶r jÃ¤mstÃ¤lldhet 11-14. Styrelseledamot, Forum fÃ¶r frivilligt socialt arbete 08-16. Vice ordfÃ¶rande, Somaya kvinno- och tjejjour 15-16, ordfÃ¶rande 16-. OrdfÃ¶rande, LidkÃ¶pings idrottsfÃ¶rening 08-13. OrdfÃ¶rande, LidkÃ¶pings fotbollsklubb 13-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -740,7 +740,7 @@
           {
             "kod": "Bostadsort",
             "uppgift": [
-              "Lidköping"
+              "LidkÃ¶ping"
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -758,14 +758,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "carina.ohlsson[på]riksdagen.se"
+              "carina.ohlsson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0859968278117",
             "hangar_id": "2342985"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "64296"
             ],

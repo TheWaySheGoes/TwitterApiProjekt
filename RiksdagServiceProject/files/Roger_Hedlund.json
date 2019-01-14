@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:15",
+    "@systemdatum": "2019-01-14 15:55:31",
     "@hits": "1",
     "person": {
       "hangar_guid": "59922ea3-65b5-46c1-b028-2e76b8419d00",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Hedlund,Roger",
       "iort": null,
       "parti": "SD",
-      "valkrets": "G‰vleborgs l‰n",
-      "status": "Tj‰nstgˆrande riksdagsledamot",
+      "valkrets": "G√§vleborgs l√§n",
+      "status": "Tj√§nstg√∂rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/dd0d47ea-5e71-4ec9-b987-3261320ac857",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd0d47ea-5e71-4ec9-b987-3261320ac857_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd0d47ea-5e71-4ec9-b987-3261320ac857_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "310",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "284",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -139,7 +139,7 @@
             "from": "2018-10-02",
             "tom": "2022-10-04",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0773497241728",
             "hangar_id": "3057125",
@@ -157,7 +157,7 @@
             "from": "2017-05-04",
             "tom": "2018-10-02",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0773497241728",
             "hangar_id": "3057125",
@@ -175,7 +175,7 @@
             "from": "2016-06-14",
             "tom": "2017-05-04",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0773497241728",
             "hangar_id": "3057125",
@@ -193,7 +193,7 @@
             "from": "2015-11-03",
             "tom": "2016-06-13",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0773497241728",
             "hangar_id": "3057125",
@@ -209,16 +209,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Ledamot civilutskottet 14-. Suppleant konstitutionsutskottet 14-. Suppleant EU-n‰mnden 15-."
+              "Riksdagsledamot 14-. Ledamot civilutskottet 14-. Suppleant konstitutionsutskottet 14-. Suppleant EU-n√§mnden 15-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057125"
           },
           {
-            "kod": "Fˆr‰ldrar",
+            "kod": "F√∂r√§ldrar",
             "uppgift": [
-              "Ingenjˆren Sam Hedlund och kontoristen Berit Hedlund, f. Larsson. "
+              "Ingenj√∂ren Sam Hedlund och kontoristen Berit Hedlund, f. Larsson. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -234,9 +234,9 @@
             "hangar_id": "3057125"
           },
           {
-            "kod": "Anst‰llningar",
+            "kod": "Anst√§llningar",
             "uppgift": [
-              "Industrirobotoperatˆr, Sandvik AB, Sandviken 98-10 och 12-13. Politisk sekreterare, Riksdagen, Stockholm 10-11. Politisk sekreterare, Landstinget G‰vleborg, G‰vle 13-14.  "
+              "Industrirobotoperat√∂r, Sandvik AB, Sandviken 98-10 och 12-13. Politisk sekreterare, Riksdagen, Stockholm 10-11. Politisk sekreterare, Landstinget G√§vleborg, G√§vle 13-14.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -245,7 +245,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Ledamot, BostadsplaneringskommittÈn 14-15.  "
+              "Ledamot, Bostadsplaneringskommitt√©n 14-15.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -254,16 +254,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullm‰ktig, G‰vle 06-. Landstingsfullm‰ktig, 10-14. N‰mndeman, G‰vle tingsr‰tt  07-10. Ledamot, Skatten‰mnden i G‰vle 11-12. Regionfullm‰ktig, G‰vleborg 07-14. Ledamot, Region G‰vleborg 14-. Ledamot, G‰vlefastigheter, G‰vle 15-."
+              "Kommunfullm√§ktig, G√§vle 06-. Landstingsfullm√§ktig, 10-14. N√§mndeman, G√§vle tingsr√§tt  07-10. Ledamot, Skatten√§mnden i G√§vle 11-12. Regionfullm√§ktig, G√§vleborg 07-14. Ledamot, Region G√§vleborg 14-. Ledamot, G√§vlefastigheter, G√§vle 15-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057125"
           },
           {
-            "kod": "Uppdrag inom fˆrenings- och n‰ringsliv",
+            "kod": "Uppdrag inom f√∂renings- och n√§ringsliv",
             "uppgift": [
-              "Ordfˆrande, Sverigedemokraterna i G‰vle 02-11. Ordfˆrande, Sverigedemokraterna i G‰vleborg 03-. Ledamot, valberedningen Sverigedemokraterna riks 04-05, ordfˆrande 06-09. Vice ordfˆrande, Sverigedemokraternas medlemsutskott 13-. Suppleant, partistyrelsen Sverigedemokraterna 13-15, ledamot 15-. "
+              "Ordf√∂rande, Sverigedemokraterna i G√§vle 02-11. Ordf√∂rande, Sverigedemokraterna i G√§vleborg 03-. Ledamot, valberedningen Sverigedemokraterna riks 04-05, ordf√∂rande 06-09. Vice ordf√∂rande, Sverigedemokraternas medlemsutskott 13-. Suppleant, partistyrelsen Sverigedemokraterna 13-15, ledamot 15-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -272,14 +272,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "roger.hedlund[pÂ]riksdagen.se"
+              "roger.hedlund[p√•]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0773497241728",
             "hangar_id": "3057125"
           },
           {
-            "kod": "Tj‰nstetelefon",
+            "kod": "Tj√§nstetelefon",
             "uppgift": [
               "64364"
             ],
@@ -290,7 +290,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Industrirobotoperatˆr."
+              "Industrirobotoperat√∂r."
             ],
             "typ": "titlar",
             "intressent_id": "0773497241728",

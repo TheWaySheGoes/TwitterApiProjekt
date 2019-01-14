@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:02",
+    "@systemdatum": "2019-01-14 15:55:10",
     "@hits": "1",
     "person": {
       "hangar_guid": "4a38b5e5-1ea8-4284-9fb4-74fe4ed1e04f",
@@ -15,7 +15,7 @@
       "iort": null,
       "parti": "S",
       "valkrets": "Stockholms kommun",
-      "status": "Tjänstgörande statsrådsersättare",
+      "status": "TjÃ¤nstgÃ¶rande statsrÃ¥dsersÃ¤ttare",
       "person_url_xml": "http://data.riksdagen.se/person/50277320-fb16-40ba-82aa-8093fbb3126e",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/50277320-fb16-40ba-82aa-8093fbb3126e_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/50277320-fb16-40ba-82aa-8093fbb3126e_192.jpg",
@@ -24,14 +24,14 @@
         "uppdrag": [
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "281",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
             "uppgift": [
-              "Annika Strandhäll"
+              "Annika StrandhÃ¤ll"
             ],
             "intressent_id": "0962410717322",
             "hangar_id": "3057120",
@@ -42,9 +42,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Ersättare",
+            "roll_kod": "ErsÃ¤ttare",
             "ordningsnummer": "173",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2017-09-25",
             "tom": "2018-09-24",
@@ -60,9 +60,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "81",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2017-05-29",
             "tom": "2017-09-25",
@@ -78,9 +78,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Ersättare",
+            "roll_kod": "ErsÃ¤ttare",
             "ordningsnummer": "173",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2017-03-02",
             "tom": "2017-05-28",
@@ -191,7 +191,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "sultan.kayhan[på]riksdagen.se"
+              "sultan.kayhan[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0962410717322",

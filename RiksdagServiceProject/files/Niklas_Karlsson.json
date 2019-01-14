@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-23 14:25:59",
+    "@systemdatum": "2019-01-14 15:55:36",
     "@hits": "1",
     "person": {
       "hangar_guid": "bbf312fa-8bc2-47b4-b70a-877bad8ba6b5",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Karlsson,Niklas",
       "iort": null,
       "parti": "S",
-      "valkrets": "Skåne läns västra",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "SkÃ¥ne lÃ¤ns vÃ¤stra",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/b20fb574-b44c-42af-ae93-064dfabbffaf",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b20fb574-b44c-42af-ae93-064dfabbffaf_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b20fb574-b44c-42af-ae93-064dfabbffaf_192.jpg",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "292",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "329",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -95,15 +95,15 @@
             "uppdrag_statussortering": "10"
           },
           {
-            "organ_kod": "FöU",
-            "roll_kod": "Ordförande",
+            "organ_kod": "FÃ¶U",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "1",
             "status": null,
             "typ": "uppdrag",
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "065105536026",
             "hangar_id": "3057239",
@@ -113,7 +113,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FöU",
+            "organ_kod": "FÃ¶U",
             "roll_kod": "Ledamot",
             "ordningsnummer": "1",
             "status": null,
@@ -121,7 +121,7 @@
             "from": "2018-10-02",
             "tom": "2018-10-02",
             "uppgift": [
-              "Försvarsutskottet"
+              "FÃ¶rsvarsutskottet"
             ],
             "intressent_id": "065105536026",
             "hangar_id": "3057239",
@@ -167,15 +167,15 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
-            "roll_kod": "Vice ordförande",
+            "organ_kod": "UFÃ¶U",
+            "roll_kod": "Vice ordfÃ¶rande",
             "ordningsnummer": "3",
             "status": null,
             "typ": "uppdrag",
             "from": "2018-11-15",
             "tom": "2018-12-05",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "065105536026",
             "hangar_id": "3057239",
@@ -185,7 +185,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "UFöU",
+            "organ_kod": "UFÃ¶U",
             "roll_kod": "Deputerad",
             "ordningsnummer": "3",
             "status": null,
@@ -193,7 +193,7 @@
             "from": "2018-11-15",
             "tom": "2018-11-15",
             "uppgift": [
-              "Sammansatta utrikes- och försvarsutskottet"
+              "Sammansatta utrikes- och fÃ¶rsvarsutskottet"
             ],
             "intressent_id": "065105536026",
             "hangar_id": "3057239",
@@ -229,7 +229,7 @@
             "from": "2018-10-02",
             "tom": "2022-10-02",
             "uppgift": [
-              "Utrikesnämnden"
+              "UtrikesnÃ¤mnden"
             ],
             "intressent_id": "065105536026",
             "hangar_id": "3057239",
@@ -265,7 +265,7 @@
             "from": "2014-11-01",
             "tom": "2018-10-31",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "065105536026",
             "hangar_id": "3057239",
@@ -281,16 +281,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Ledamot finansutskottet 16-. Suppleant finansutskottet 14-16. Ledamot Europarådets svenska delegation 14-. "
+              "Riksdagsledamot 14-. Ledamot finansutskottet 16-. Suppleant finansutskottet 14-16. Ledamot EuroparÃ¥dets svenska delegation 14-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057239"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Vvs-montören Anders Karlsson och måltidsbiträdet Inga-Lill Karlsson, f. Sandberg."
+              "Vvs-montÃ¶ren Anders Karlsson och mÃ¥ltidsbitrÃ¤det Inga-Lill Karlsson, f. Sandberg."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -299,14 +299,14 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, Landskrona, slutår 93. Sergeant, Kungl. Wendes Artilleriregemente, A3, Lunds universitet 93-94 ."
+              "Gymnasieskola, Landskrona, slutÃ¥r 93. Sergeant, Kungl. Wendes Artilleriregemente, A3, Lunds universitet 93-94 ."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057239"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
               "Landskrona kommun, Socialdemokraterna i Landskrona. "
             ],
@@ -326,16 +326,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Landskrona 94-. Ledamot, kommunstyrelsen 94-98. Ordförande 02-06 och vice ordförande, kommunstyrelsen 06-12. Kommunalråd 02-12. Ordförande, barn-och utbildningsnämnden 99-02. Kommuninvests ekonomiska förening 07-. Vice ordförande, servicenämnden, Region Skåne 10-14. "
+              "KommunfullmÃ¤ktig, Landskrona 94-. Ledamot, kommunstyrelsen 94-98. OrdfÃ¶rande 02-06 och vice ordfÃ¶rande, kommunstyrelsen 06-12. KommunalrÃ¥d 02-12. OrdfÃ¶rande, barn-och utbildningsnÃ¤mnden 99-02. Kommuninvests ekonomiska fÃ¶rening 07-. Vice ordfÃ¶rande, servicenÃ¤mnden, Region SkÃ¥ne 10-14. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057239"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ordförande, Lunds socialdemokratiska studentklubb 97. Styrelsen, Socialdemokraterna, Landskrona. Partistyrelsen, Socialdemokraterna 05-. Ordförande, Socialdemokraterna i Skåne 13-. "
+              "OrdfÃ¶rande, Lunds socialdemokratiska studentklubb 97. Styrelsen, Socialdemokraterna, Landskrona. Partistyrelsen, Socialdemokraterna 05-. OrdfÃ¶rande, Socialdemokraterna i SkÃ¥ne 13-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -344,7 +344,7 @@
           {
             "kod": "Litteratur",
             "uppgift": [
-              "De radikala idéernas Lund (97, red. Magnus Wennerhag)."
+              "De radikala idÃ©ernas Lund (97, red. Magnus Wennerhag)."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -353,14 +353,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "niklas.karlsson[på]riksdagen.se"
+              "niklas.karlsson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "065105536026",
             "hangar_id": "3057239"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65136"
             ],

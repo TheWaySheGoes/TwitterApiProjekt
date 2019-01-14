@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:59",
+    "@systemdatum": "2019-01-14 15:55:07",
     "@hits": "1",
     "person": {
       "hangar_guid": "e823cbea-c9e2-43a0-ae9e-8bcc71dfa21a",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Ericson,Jan",
       "iort": null,
       "parti": "M",
-      "valkrets": "Västra Götalands läns södra",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "VÃ¤stra GÃ¶talands lÃ¤ns sÃ¶dra",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/5c11ef9b-d56d-4e85-8cc6-800f0257548a",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5c11ef9b-d56d-4e85-8cc6-800f0257548a_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5c11ef9b-d56d-4e85-8cc6-800f0257548a_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "20",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "304",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "338",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "339",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2006-10-02",
             "tom": "2010-10-04",
@@ -211,7 +211,7 @@
             "from": "2012-11-08",
             "tom": "2014-09-29",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0940980416614",
             "hangar_id": "2343157",
@@ -229,7 +229,7 @@
             "from": "2010-10-12",
             "tom": "2012-11-07",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0940980416614",
             "hangar_id": "2343157",
@@ -283,7 +283,7 @@
             "from": "2006-10-10",
             "tom": "2010-10-04",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0940980416614",
             "hangar_id": "2343157",
@@ -301,7 +301,7 @@
             "from": "2018-10-09",
             "tom": "2022-10-09",
             "uppgift": [
-              "Riksrevisionens parlamentariska råd"
+              "Riksrevisionens parlamentariska rÃ¥d"
             ],
             "intressent_id": "0940980416614",
             "hangar_id": "2343157",
@@ -317,16 +317,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 06-. Ledamot arbetsmarknadsutskottet 06-10, utbildningsutskottet 10-14 och finansutskottet 14-. Suppleant socialförsäkringsutskottet 06-14 och arbetsmarknadsutskottet 10-14. "
+              "Riksdagsledamot 06-. Ledamot arbetsmarknadsutskottet 06-10, utbildningsutskottet 10-14 och finansutskottet 14-. Suppleant socialfÃ¶rsÃ¤kringsutskottet 06-14 och arbetsmarknadsutskottet 10-14. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343157"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Ekonomen Herbert Ericson och lågstadieläraren Marit Ericson."
+              "Ekonomen Herbert Ericson och lÃ¥gstadielÃ¤raren Marit Ericson."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -335,14 +335,14 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Jur.kand., Göteborgs universitet 93."
+              "Jur.kand., GÃ¶teborgs universitet 93."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343157"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
               "SEB 86-08."
             ],
@@ -353,16 +353,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Mark 03-06, 10 och 14. Ledamot, utbildningsnämnden 98-05, kommunstyrelsen 03-06, arbetsutskottet 03-06, räddningsnämnden och krisledningsnämnden 03-06. Ordförande, brottsförebyggande rådet, Marks kommun 03-06. Ledamot, skattenämnden, regionskattenämnden och storföretagsskattenämnden, Västra Götalands län 03-06. Ersättare, kyrkorådet och kyrkofullmäktige samt ledamot av valnämnden, Sätila församling 97-05."
+              "KommunfullmÃ¤ktig, Mark 03-06, 10 och 14. Ledamot, utbildningsnÃ¤mnden 98-05, kommunstyrelsen 03-06, arbetsutskottet 03-06, rÃ¤ddningsnÃ¤mnden och krisledningsnÃ¤mnden 03-06. OrdfÃ¶rande, brottsfÃ¶rebyggande rÃ¥det, Marks kommun 03-06. Ledamot, skattenÃ¤mnden, regionskattenÃ¤mnden och storfÃ¶retagsskattenÃ¤mnden, VÃ¤stra GÃ¶talands lÃ¤n 03-06. ErsÃ¤ttare, kyrkorÃ¥det och kyrkofullmÃ¤ktige samt ledamot av valnÃ¤mnden, SÃ¤tila fÃ¶rsamling 97-05."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343157"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Styrelseledamot, Sätila moderata partiförening 98-10. Vice ordförande, Moderaterna i Marks kommun 03-, gruppledare 03-06. Ledamot, förbundsstyrelsen, politiska utskottet och valledningen, Moderaterna i Södra Älvsborgs län 03-07. Vice ordförande, Saco-föreningen, SEB Västra Sverige 99-07. Styrelseledamot, Saco:s koncernfackstyrelse inom SEB Sverige 02-06. Styrelseledamot och kassör, Föräldrakooperativet Bybarna ekonomiska förening 96-01.  "
+              "Styrelseledamot, SÃ¤tila moderata partifÃ¶rening 98-10. Vice ordfÃ¶rande, Moderaterna i Marks kommun 03-, gruppledare 03-06. Ledamot, fÃ¶rbundsstyrelsen, politiska utskottet och valledningen, Moderaterna i SÃ¶dra Ã„lvsborgs lÃ¤n 03-07. Vice ordfÃ¶rande, Saco-fÃ¶reningen, SEB VÃ¤stra Sverige 99-07. Styrelseledamot, Saco:s koncernfackstyrelse inom SEB Sverige 02-06. Styrelseledamot och kassÃ¶r, FÃ¶rÃ¤ldrakooperativet Bybarna ekonomiska fÃ¶rening 96-01.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -389,14 +389,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "jan.ericson[på]riksdagen.se"
+              "jan.ericson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0940980416614",
             "hangar_id": "2343157"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "66693"
             ],

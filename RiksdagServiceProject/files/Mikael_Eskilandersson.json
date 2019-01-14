@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:09",
+    "@systemdatum": "2019-01-14 15:55:22",
     "@hits": "1",
     "person": {
       "hangar_guid": "cb8335ed-3ad5-4c50-ab0a-18dc68b5d3f3",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Eskilandersson,Mikael",
       "iort": null,
       "parti": "SD",
-      "valkrets": "Skåne läns norra och östra",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "SkÃ¥ne lÃ¤ns norra och Ã¶stra",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/cf98df89-2103-40cc-8524-b2df33125a3f",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cf98df89-2103-40cc-8524-b2df33125a3f_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cf98df89-2103-40cc-8524-b2df33125a3f_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "296",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "107",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -103,7 +103,7 @@
             "from": "2014-10-14",
             "tom": "2018-09-24",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0468956880528",
             "hangar_id": "2858134",
@@ -139,7 +139,7 @@
             "from": "2018-10-09",
             "tom": "2022-10-09",
             "uppgift": [
-              "Riksbanksfullmäktige"
+              "RiksbanksfullmÃ¤ktige"
             ],
             "intressent_id": "0468956880528",
             "hangar_id": "2858134",
@@ -157,7 +157,7 @@
             "from": "2017-01-11",
             "tom": "2018-10-09",
             "uppgift": [
-              "Riksbanksfullmäktige"
+              "RiksbanksfullmÃ¤ktige"
             ],
             "intressent_id": "0468956880528",
             "hangar_id": "2858134",
@@ -173,14 +173,14 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Ledamot civilutskottet 14-. Suppleant miljö-och jordbruksutskottet 14-. Suppleant Riksbanksfullmäktige 17-."
+              "Riksdagsledamot 14-. Ledamot civilutskottet 14-. Suppleant miljÃ¶-och jordbruksutskottet 14-. Suppleant RiksbanksfullmÃ¤ktige 17-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2858134"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
               "Lantbrukaren Evald Eskilandersson och lantbrukaren Laila Eskilandersson, f. Johansson."
             ],
@@ -191,16 +191,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Naturbruksgymnasium, Osby slutår 96. Skoglig maskinförarutbildning, Värnamo 97. PC-tekniker/Webbdesign, Klippan 98.  "
+              "Naturbruksgymnasium, Osby slutÃ¥r 96. Skoglig maskinfÃ¶rarutbildning, VÃ¤rnamo 97. PC-tekniker/Webbdesign, Klippan 98.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2858134"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Skogsmaskinsförare, Åsbo skogsentreprenad 96-00. Skogsmaskinsförare/övrigt skogsarbete, Göran Långström 00-13. Valsamordnare, Sverigedemokraterna Syd, 13-14.  "
+              "SkogsmaskinsfÃ¶rare, Ã…sbo skogsentreprenad 96-00. SkogsmaskinsfÃ¶rare/Ã¶vrigt skogsarbete, GÃ¶ran LÃ¥ngstrÃ¶m 00-13. Valsamordnare, Sverigedemokraterna Syd, 13-14.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -209,7 +209,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Sverigedemokraternas representant i politisk referensgrupp för Vårdnadsutredningen. "
+              "Sverigedemokraternas representant i politisk referensgrupp fÃ¶r VÃ¥rdnadsutredningen. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -218,16 +218,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Örkelljunga 10-. Ordinarie ledamot, kommunstyrelsen, Örkelljunga 10-14. Ersättare, utbildningsnämnden, Örkelljunga 10-14. Ersättare, regionala tillväxtnämnden, Skåne 08-14. Ersättare, regionfullmäktig Skåne 10-14."
+              "KommunfullmÃ¤ktig, Ã–rkelljunga 10-. Ordinarie ledamot, kommunstyrelsen, Ã–rkelljunga 10-14. ErsÃ¤ttare, utbildningsnÃ¤mnden, Ã–rkelljunga 10-14. ErsÃ¤ttare, regionala tillvÃ¤xtnÃ¤mnden, SkÃ¥ne 08-14. ErsÃ¤ttare, regionfullmÃ¤ktig SkÃ¥ne 10-14."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2858134"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ordförande, SD Örkelljunga 08-. Valberedningen, SD distrikt Syd 15-. Ordförande, SD distrikt Syd 11-15. Gruppledare, kommunfullmäktige för SD Örkelljunga 10-14. Sekreterare, SD distrikt Syd, 10-11. Ledamot, SD distrikt Syd 08-10. "
+              "OrdfÃ¶rande, SD Ã–rkelljunga 08-. Valberedningen, SD distrikt Syd 15-. OrdfÃ¶rande, SD distrikt Syd 11-15. Gruppledare, kommunfullmÃ¤ktige fÃ¶r SD Ã–rkelljunga 10-14. Sekreterare, SD distrikt Syd, 10-11. Ledamot, SD distrikt Syd 08-10. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -236,7 +236,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "mikael.eskilandersson[på]riksdagen.se"
+              "mikael.eskilandersson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0468956880528",
@@ -254,7 +254,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Skogsmaskinsförare."
+              "SkogsmaskinsfÃ¶rare."
             ],
             "typ": "titlar",
             "intressent_id": "0468956880528",

@@ -1,0 +1,339 @@
+{
+  "personlista": {
+    "@systemdatum": "2019-01-11 22:00:17",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "88d5e653-7ca8-4ce9-914c-d3bf892be16f",
+      "sourceid": "7ef75999-90a2-41af-a083-6dfd70e8e3e8",
+      "intressent_id": "0482689573825",
+      "hangar_id": "3057443",
+      "fodd_ar": "1983",
+      "kon": "man",
+      "efternamn": "Wiechel",
+      "tilltalsnamn": "Björn",
+      "sorteringsnamn": "Wiechel,Björn",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Västerbottens län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/7ef75999-90a2-41af-a083-6dfd70e8e3e8",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ef75999-90a2-41af-a083-6dfd70e8e3e8_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ef75999-90a2-41af-a083-6dfd70e8e3e8_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ef75999-90a2-41af-a083-6dfd70e8e3e8_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "203",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2019-01-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "203",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2018-12-01",
+            "tom": "2019-01-01",
+            "uppgift": [
+              "Fredrik Stenberg 2018-12-01 - 2019-01-01  Föräldraledighet"
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "203",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2018-11-30",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "204",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2017-04-02",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "204",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2016-10-01",
+            "tom": "2017-04-01",
+            "uppgift": [
+              "Marie-Louise Rönnmark 2016-10-01 - 2017-04-01  Föräldraledighet"
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "204",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2016-09-30",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "1",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-10-13",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2017-10-13",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "26",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-11-25",
+            "tom": "2017-10-13",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-10-04",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-10-18",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 14-. Ledamot kulturutskottet 14- och finansutskottet 14-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057443"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Journalisten Hans Wiechel och medicine doktor Susanne Waldau. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057443"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, Umeå, slutår 02. Pol.mag. kulturgeografi, Umeå universitet 05-09. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057443"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Butiksbiträde, Clas Ohlson, Umeå 01-12. Bartender, Lottas Krog, Umeå 08-11. Gymnasielärare, Umeå Waldorfskola 09-11. Politisk sekreterare, Västerbottens läns landsting, 12-14. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057443"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Ersättare, Presstödsnämnden 15. Trossamfundsrådet 16. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057443"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Ledamot, socialnämnden, Umeå 07-14. Ledamot, nämnden för funktionshinder och habilitering, Västerbottens läns landsting 11-14. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "3057443"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "bjorn.wiechel[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Samhällsvetare/Butiksbiträde/Politisk sekreterare."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0482689573825",
+            "hangar_id": "3057443"
+          }
+        ]
+      }
+    }
+  }
+}

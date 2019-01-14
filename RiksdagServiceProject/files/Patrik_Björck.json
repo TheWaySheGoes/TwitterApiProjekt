@@ -1,6 +1,474 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:12",
-    "@hits": "0"
+    "@systemdatum": "2019-01-14 15:55:27",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "8c728d00-d4f6-4818-bae5-46b6b28d4872",
+      "sourceid": "8a5b8260-f6d5-4d17-af0b-a339cd40470e",
+      "intressent_id": "0516528386117",
+      "hangar_id": "2342981",
+      "fodd_ar": "1957",
+      "kon": "man",
+      "efternamn": "Björck",
+      "tilltalsnamn": "Patrik",
+      "sorteringsnamn": "Björck,Patrik",
+      "iort": null,
+      "parti": "S",
+      "valkrets": "Västra Götalands läns östra",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/8a5b8260-f6d5-4d17-af0b-a339cd40470e",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a5b8260-f6d5-4d17-af0b-a339cd40470e_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a5b8260-f6d5-4d17-af0b-a339cd40470e_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a5b8260-f6d5-4d17-af0b-a339cd40470e_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "232",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "43",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "130",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "161",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-02",
+            "tom": "2010-10-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "3",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2017-05-08",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2017-05-07",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-19",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SkU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "8",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Skatteutskottet"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "2",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "SfU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Socialförsäkringsutskottet"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "20",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2015-09-10",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "12",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2013-06-17",
+            "tom": "2014-10-07",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "30",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "EUN",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "10",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-19",
+            "tom": "2013-06-16",
+            "uppgift": [
+              "EU-nämnden"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "50",
+            "organ_sortering": "170",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2019-10-31",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 06-. Ledamot arbetsmarknadsutskottet 10-. Suppleant socialförsäkringsutskottet 06-, arbetsmarknadsutskottet 06-10 och skatteutskottet 10-14 . Ledamot EU-nämnden 13-14. Suppleant EU-nämnden 10-13 och 15-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Arkitekten Folke Björck och socionomen Helena Björck, f. Nolin."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Grundskola (9-årig), Göteborg. Gymnasieskola, samhällsvetenskaplig linje, Göteborg (ej fullständig)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Livsmedelsarbetare, Arla, Göteborg 75. Bryggeriarbetare, Pripps 78. Busschaufför, Göteborgs spårvägar 79. Sjukvårdsbiträde, Vasa sjukhus, Göteborg 80. Träindustriarbetare, Kinnarps kontorsmöbler, Falköping 85. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Falköping 98-, ordförande 10-. Suppleant, kommunstyrelsen 98-06 och byggnadsnämnden 96-98. Ledamot, barn- och utbildningsnämnden 98-06, 2:e vice ordförande 98-06. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Styrelseledamot, Falköpings arbetarekommun, adjungerad styrelseledamot 07-16. Ledamot, distriktsstyrelsen och verkställande utskottet, Socialdemokraterna i Skaraborg 05-. Ledamot, klubbstyrelsen Kinnarps AB 88-06, ordförande 91-06. Sekreterare, Hem och Skola, Åsarp 90-98. Ledamot, bolagsstyrelsen Kinnarps AB 91-06. Styrelseledamot, Skogs- och träfacket, avdelning Skaraborg 91-07, ordförande 98-07. Ledamot, Skogs- och träfacket, förbundsstyrelsen 03-06. Ordförande i Västra Sveriges Arbetares Folkhögskola 10-12. Ordförande, Socialdemokraterna i Skaraborg 15-.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Åsarp"
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.socialdemokraterna.se/patrikbjorck"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "patrik.bjorck[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "65957"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Träindustriarbetare."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0516528386117",
+            "hangar_id": "2342981"
+          }
+        ]
+      }
+    }
   }
 }

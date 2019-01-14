@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:18",
+    "@systemdatum": "2019-01-14 15:55:34",
     "@hits": "1",
     "person": {
       "hangar_guid": "fcbbc40a-bf87-41b0-b5b7-b30d2810f685",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Haider,Monica",
       "iort": null,
       "parti": "S",
-      "valkrets": "Kronobergs län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Kronobergs lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/6f818cd1-9a97-412f-bc59-1d1e8a2ceb19",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6f818cd1-9a97-412f-bc59-1d1e8a2ceb19_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6f818cd1-9a97-412f-bc59-1d1e8a2ceb19_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "182",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "255",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -67,7 +67,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0760500234712",
             "hangar_id": "3057202",
@@ -103,7 +103,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0760500234712",
             "hangar_id": "3057202",
@@ -121,7 +121,7 @@
             "from": "2014-10-07",
             "tom": "2018-09-24",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0760500234712",
             "hangar_id": "3057202",
@@ -157,7 +157,7 @@
             "from": "2018-11-01",
             "tom": "2022-10-31",
             "uppgift": [
-              "Styrelsen för Stiftelsen Riksbankens Jubileumsfond"
+              "Styrelsen fÃ¶r Stiftelsen Riksbankens Jubileumsfond"
             ],
             "intressent_id": "0760500234712",
             "hangar_id": "3057202",
@@ -175,7 +175,7 @@
             "from": "2017-10-13",
             "tom": "2018-10-31",
             "uppgift": [
-              "Styrelsen för Stiftelsen Riksbankens Jubileumsfond"
+              "Styrelsen fÃ¶r Stiftelsen Riksbankens Jubileumsfond"
             ],
             "intressent_id": "0760500234712",
             "hangar_id": "3057202",
@@ -193,7 +193,7 @@
             "from": "2014-11-01",
             "tom": "2015-11-12",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0760500234712",
             "hangar_id": "3057202",
@@ -209,14 +209,14 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Ledamot miljö-och jordbruksutskottet 14-. Suppleant kulturutskottet 14-. Suppleant Europarådets svenska delegation 14-15."
+              "Riksdagsledamot 14-. Ledamot miljÃ¶-och jordbruksutskottet 14-. Suppleant kulturutskottet 14-. Suppleant EuroparÃ¥dets svenska delegation 14-15."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057202"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
               "Lantbrukaren/metallarbetaren Allan Bengtsson och verksamhetsledaren Kerstin Bengtsson, f. Dahl."
             ],
@@ -227,16 +227,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Nioårig grundskola. Gymnasieingenjör maskin, Hässleholms tekniska 88-90. Statskunskap, Lunds universitet 97-01."
+              "NioÃ¥rig grundskola. GymnasieingenjÃ¶r maskin, HÃ¤ssleholms tekniska 88-90. Statskunskap, Lunds universitet 97-01."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057202"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Sömmerska, Petris AB, Vislanda 79-86. Au pair, Chicago 83-84. Metallarbetare, Proton Cartec/EVAB, Eneryda 86-90. Instruktör, Samhall Dacke AB 90-97."
+              "SÃ¶mmerska, Petris AB, Vislanda 79-86. Au pair, Chicago 83-84. Metallarbetare, Proton Cartec/EVAB, Eneryda 86-90. InstruktÃ¶r, Samhall Dacke AB 90-97."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -245,7 +245,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Insynsråd, Länsstyrelsen Kronoberg 16-19. Insynsråd, Jordbruksverket 16-. Parlamentariska landsbygdskommittén 15-17. Viltförvaltningsdelegationen Kronoberg."
+              "InsynsrÃ¥d, LÃ¤nsstyrelsen Kronoberg 16-19. InsynsrÃ¥d, Jordbruksverket 16-. Parlamentariska landsbygdskommittÃ©n 15-17. ViltfÃ¶rvaltningsdelegationen Kronoberg."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -254,16 +254,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Kronoberg."
+              "KommunfullmÃ¤ktig, Kronoberg."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057202"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Partidistriktsordförande, Kronoberg 09-. Ersättare, partistyrelsen Socialdemokraterna. "
+              "PartidistriktsordfÃ¶rande, Kronoberg 09-. ErsÃ¤ttare, partistyrelsen Socialdemokraterna. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -272,7 +272,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "monica.haider[på]riksdagen.se"
+              "monica.haider[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0760500234712",

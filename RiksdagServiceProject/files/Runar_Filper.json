@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:17",
+    "@systemdatum": "2019-01-14 15:55:33",
     "@hits": "1",
     "person": {
       "hangar_guid": "b98f7539-4822-40bc-ad67-00ee11fff771",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Filper,Runar",
       "iort": null,
       "parti": "SD",
-      "valkrets": "Värmlands län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "VÃ¤rmlands lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/49cb272f-9347-407a-bac0-06403fbec5b5",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49cb272f-9347-407a-bac0-06403fbec5b5_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/49cb272f-9347-407a-bac0-06403fbec5b5_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "72",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "118",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -67,7 +67,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "065701062615",
             "hangar_id": "3057175",
@@ -85,7 +85,7 @@
             "from": "2017-06-07",
             "tom": "2018-09-24",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "065701062615",
             "hangar_id": "3057175",
@@ -139,7 +139,7 @@
             "from": "2017-03-03",
             "tom": "2017-06-07",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "065701062615",
             "hangar_id": "3057175",
@@ -175,7 +175,7 @@
             "from": "2014-10-07",
             "tom": "2017-03-02",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "065701062615",
             "hangar_id": "3057175",
@@ -191,7 +191,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Suppleant justitieutskottet 14-, kulturutskottet 14- och miljö- och jordbruksutskottet 14-."
+              "Riksdagsledamot 14-. Suppleant justitieutskottet 14-, kulturutskottet 14- och miljÃ¶- och jordbruksutskottet 14-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -200,14 +200,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "runar.filper[på]riksdagen.se"
+              "runar.filper[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "065701062615",
             "hangar_id": "3057175"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65125"
             ],

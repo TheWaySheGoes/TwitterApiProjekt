@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:04",
+    "@systemdatum": "2019-01-14 16:02:23",
     "@hits": "1",
     "person": {
       "hangar_guid": "f02851a3-72ce-4826-b59b-b8701ce8a2ef",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Westerholm,Barbro",
       "iort": null,
       "parti": "L",
-      "valkrets": "Stockholms län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Stockholms lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/e7e41401-b4df-11d5-8079-0040ca16072a",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e41401-b4df-11d5-8079-0040ca16072a_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e41401-b4df-11d5-8079-0040ca16072a_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "6",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "25",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "110",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "84",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2006-10-02",
             "tom": "2010-10-04",
@@ -98,7 +98,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "3",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "1998-10-05",
             "tom": "1999-10-01",
@@ -116,7 +116,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "12",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "1994-10-03",
             "tom": "1998-10-05",
@@ -134,7 +134,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "17",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "1991-09-30",
             "tom": "1994-10-03",
@@ -152,7 +152,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "25",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "1988-10-03",
             "tom": "1991-09-30",
@@ -175,7 +175,7 @@
             "from": "2018-10-09",
             "tom": "2022-09-26",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0363228965800",
             "hangar_id": "2341833",
@@ -229,7 +229,7 @@
             "from": "2014-10-07",
             "tom": "2018-09-24",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0363228965800",
             "hangar_id": "2341833",
@@ -319,7 +319,7 @@
             "from": "2006-10-10",
             "tom": "2010-10-04",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0363228965800",
             "hangar_id": "2341833",
@@ -391,7 +391,7 @@
             "from": "1998-10-13",
             "tom": "1999-10-01",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0363228965800",
             "hangar_id": "2341833",
@@ -445,7 +445,7 @@
             "from": "1994-10-11",
             "tom": "1995-01-15",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0363228965800",
             "hangar_id": "2341833",
@@ -535,7 +535,7 @@
             "from": "2018-11-15",
             "tom": "2022-09-26",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0363228965800",
             "hangar_id": "2341833",
@@ -553,7 +553,7 @@
             "from": "2014-11-05",
             "tom": "2018-10-02",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0363228965800",
             "hangar_id": "2341833",
@@ -605,16 +605,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 88-99 och 06-. Ledamot socialutskottet 94-98, 09-12 och 14- och utbildningsutskottet 98-99. Suppleant socialutskottet 88-94, 06-09 och 12-14, socialförsäkringsutskottet 94-95, 98-99, 06-10 och 14-, utbildningsutskottet 88-91, 98 och 14-16, konstitutionsutskottet 98-99, sammansatta justitie- och socialutskottet 08 och EU-nämnden 14-. Suppleant riksdagens valberedning 06-10 och 14-."
+              "Riksdagsledamot 88-99 och 06-. Ledamot socialutskottet 94-98, 09-12 och 14- och utbildningsutskottet 98-99. Suppleant socialutskottet 88-94, 06-09 och 12-14, socialfÃ¶rsÃ¤kringsutskottet 94-95, 98-99, 06-10 och 14-, utbildningsutskottet 88-91, 98 och 14-16, konstitutionsutskottet 98-99, sammansatta justitie- och socialutskottet 08 och EU-nÃ¤mnden 14-. Suppleant riksdagens valberedning 06-10 och 14-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2341833"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Försäkringsaktuarien Helge Lagergren och kansliskrivaren Gunhild Lagergren, f. Werner."
+              "FÃ¶rsÃ¤kringsaktuarien Helge Lagergren och kansliskrivaren Gunhild Lagergren, f. Werner."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -623,16 +623,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Studentexamen 53. Med.kand., Karolinska Institutet 55. Med.lic. 59. Med.dr 65. Docent 66. Hedersdoktor, farmaceutiska fakulteten, Uppsala universitet 07. Jubeldoktor, Karolinska Institutet 15. Hedersdoktor, odontologiska fakulteten, Malmö högskola 16."
+              "Studentexamen 53. Med.kand., Karolinska Institutet 55. Med.lic. 59. Med.dr 65. Docent 66. Hedersdoktor, farmaceutiska fakulteten, Uppsala universitet 07. Jubeldoktor, Karolinska Institutet 15. Hedersdoktor, odontologiska fakulteten, MalmÃ¶ hÃ¶gskola 16."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2341833"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Amanuens, assistent och lärare vid farmakologiska institutionen, Karolinska Institutet 56-65 och doktorand 59-63. Stipendiat, London Toxicology Research Unit 66-67. Föredragande, Medicinalstyrelsen 63-66. Sekreterare, Läkemedelsbiverkningsnämnden 65-70. Medicinalråd, Socialstyrelsen 71-74. Medicinsk expert, Apoteksbolaget AB 74-79. Generaldirektör, Socialstyrelsen 79-85. Medicinsk chef, Apoteksbolaget AB 85-93. Sakkunnig, Socialdepartementet 85-88. Adjungerad professor i läkemedelsepidemiologi, Karolinska Institutet 86-89."
+              "Amanuens, assistent och lÃ¤rare vid farmakologiska institutionen, Karolinska Institutet 56-65 och doktorand 59-63. Stipendiat, London Toxicology Research Unit 66-67. FÃ¶redragande, Medicinalstyrelsen 63-66. Sekreterare, LÃ¤kemedelsbiverkningsnÃ¤mnden 65-70. MedicinalrÃ¥d, Socialstyrelsen 71-74. Medicinsk expert, Apoteksbolaget AB 74-79. GeneraldirektÃ¶r, Socialstyrelsen 79-85. Medicinsk chef, Apoteksbolaget AB 85-93. Sakkunnig, Socialdepartementet 85-88. Adjungerad professor i lÃ¤kemedelsepidemiologi, Karolinska Institutet 86-89."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -641,7 +641,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Styrelseledamot, Datainspektionen 74-79, Statshälsan 83-85, Statistiska centralbyrån 87-90, Världshälsoorganisationen 87-88, vice ordförande 88, Folkhälsoinstitutet 92-00, Prioriteringscentrum, Linköping 00-06 och Socialstyrelsens epidemiologiska centrum 04-. Ordförande, Statens institut för psykosocial miljömedicin 83-85, styrelsen för Växjö universitet 01-04. Ledamot, Medicinska forskningsrådet 76-85, Socialdepartementets sjukvårdsdelegation 79-83, Försvarsrådet 79-85, chefsnämnden 79-85, Naturvårdsverkets forskningsnämnd 79-85, Delegationen för social forskning 79-81, Nationalkommittén för de svenska förberedelserna inför Europarådets stadsförnyelsekampanj 79-82, Organisationskommittén för Socialstyrelsen 79-81, Rådgivande nämnden Livsmedelsverket 79-85, Sjukvårdens och socialvårdens planerings- och rationaliseringsinstitut 79-85, Statens miljömedicinska laboratorium 80-85, Socialstyrelsens barnomsorgsdelegation 80-81, Samordningsorganet för alkoholfrågor 80-82, Regionalpolitiska rådet 83-84, Hälso- och sjukvårdsberedningen 83-85, Aids-delegationen 85, Socialstyrelsens läkemedelsbiverkningskommitté 86-87, Statens livsmedelsverks vetenskapliga råd 86-96, Läkemedelsinformationsrådet 86-87 och Tema-rådet, Linköpings universitet 87-90, Uppsala universitets konsistorium 88-92, Jämställdhetsrådet 89-98, Genteknikberedningen 90-92, pensionsarbetsgruppen 91-94, Forskningsrådsnämnden 92-, vice ordförande 93-, Kommittén för förberedelser inför 1995 års världskvinnokonferens 93-95, Husläkardelegationen 93-94, Nationalkommittén för FN:s 50-årsjubileum 94-96, Gentekniknämnden 94-97, Pensionärskommittén 99-05, Nationellt råd för kvinnofrid 00-03, Socialstyrelsens forskningsetiska råd 04-07, Statens medicinsk-etiska råd 06- och Socialstyrelsens brukarråd (IMS) 06-07. Vice ordförande, Stiftelsen Institutet för framtidsstudier 87-97. Ordförande, Socialstyrelsens nämnd för hälsoupplysning 79-80, Partnerskapskommittén 91-93, Kommittén om forskningsetik 97-99, Forskningsrådsnämndens källagrupp 99-02 och Äldreboendedelegationen 06-08. Expert, Brottsförebyggande rådet 79-82 och Jämställdhetskommittén 79-80, Statistikutredningen 81-83. Ensamutredare i utredningen om jämställdhet som biståndsmål 95. Förbundsordförande Sveriges Pensionärsförbund 99-05. Konsument- och brukarråd, European Medicines Agency 09-. Senior Advisor, WHO:s Task Group on social determinants and the health divide in the WHO European Region.  Rättsmedicinalverkets insynsråd 09-16. Ledamot, referensgruppen, utredningen Olika vägar till föräldraskap 16. Ledamot, parlamentariska referensgruppen Utredningen om nationell kvalitetsplan för äldreomsorgen."
+              "Styrelseledamot, Datainspektionen 74-79, StatshÃ¤lsan 83-85, Statistiska centralbyrÃ¥n 87-90, VÃ¤rldshÃ¤lsoorganisationen 87-88, vice ordfÃ¶rande 88, FolkhÃ¤lsoinstitutet 92-00, Prioriteringscentrum, LinkÃ¶ping 00-06 och Socialstyrelsens epidemiologiska centrum 04-. OrdfÃ¶rande, Statens institut fÃ¶r psykosocial miljÃ¶medicin 83-85, styrelsen fÃ¶r VÃ¤xjÃ¶ universitet 01-04. Ledamot, Medicinska forskningsrÃ¥det 76-85, Socialdepartementets sjukvÃ¥rdsdelegation 79-83, FÃ¶rsvarsrÃ¥det 79-85, chefsnÃ¤mnden 79-85, NaturvÃ¥rdsverkets forskningsnÃ¤mnd 79-85, Delegationen fÃ¶r social forskning 79-81, NationalkommittÃ©n fÃ¶r de svenska fÃ¶rberedelserna infÃ¶r EuroparÃ¥dets stadsfÃ¶rnyelsekampanj 79-82, OrganisationskommittÃ©n fÃ¶r Socialstyrelsen 79-81, RÃ¥dgivande nÃ¤mnden Livsmedelsverket 79-85, SjukvÃ¥rdens och socialvÃ¥rdens planerings- och rationaliseringsinstitut 79-85, Statens miljÃ¶medicinska laboratorium 80-85, Socialstyrelsens barnomsorgsdelegation 80-81, Samordningsorganet fÃ¶r alkoholfrÃ¥gor 80-82, Regionalpolitiska rÃ¥det 83-84, HÃ¤lso- och sjukvÃ¥rdsberedningen 83-85, Aids-delegationen 85, Socialstyrelsens lÃ¤kemedelsbiverkningskommittÃ© 86-87, Statens livsmedelsverks vetenskapliga rÃ¥d 86-96, LÃ¤kemedelsinformationsrÃ¥det 86-87 och Tema-rÃ¥det, LinkÃ¶pings universitet 87-90, Uppsala universitets konsistorium 88-92, JÃ¤mstÃ¤lldhetsrÃ¥det 89-98, Genteknikberedningen 90-92, pensionsarbetsgruppen 91-94, ForskningsrÃ¥dsnÃ¤mnden 92-, vice ordfÃ¶rande 93-, KommittÃ©n fÃ¶r fÃ¶rberedelser infÃ¶r 1995 Ã¥rs vÃ¤rldskvinnokonferens 93-95, HuslÃ¤kardelegationen 93-94, NationalkommittÃ©n fÃ¶r FN:s 50-Ã¥rsjubileum 94-96, GentekniknÃ¤mnden 94-97, PensionÃ¤rskommittÃ©n 99-05, Nationellt rÃ¥d fÃ¶r kvinnofrid 00-03, Socialstyrelsens forskningsetiska rÃ¥d 04-07, Statens medicinsk-etiska rÃ¥d 06- och Socialstyrelsens brukarrÃ¥d (IMS) 06-07. Vice ordfÃ¶rande, Stiftelsen Institutet fÃ¶r framtidsstudier 87-97. OrdfÃ¶rande, Socialstyrelsens nÃ¤mnd fÃ¶r hÃ¤lsoupplysning 79-80, PartnerskapskommittÃ©n 91-93, KommittÃ©n om forskningsetik 97-99, ForskningsrÃ¥dsnÃ¤mndens kÃ¤llagrupp 99-02 och Ã„ldreboendedelegationen 06-08. Expert, BrottsfÃ¶rebyggande rÃ¥det 79-82 och JÃ¤mstÃ¤lldhetskommittÃ©n 79-80, Statistikutredningen 81-83. Ensamutredare i utredningen om jÃ¤mstÃ¤lldhet som bistÃ¥ndsmÃ¥l 95. FÃ¶rbundsordfÃ¶rande Sveriges PensionÃ¤rsfÃ¶rbund 99-05. Konsument- och brukarrÃ¥d, European Medicines Agency 09-. Senior Advisor, WHO:s Task Group on social determinants and the health divide in the WHO European Region.  RÃ¤ttsmedicinalverkets insynsrÃ¥d 09-16. Ledamot, referensgruppen, utredningen Olika vÃ¤gar till fÃ¶rÃ¤ldraskap 16. Ledamot, parlamentariska referensgruppen Utredningen om nationell kvalitetsplan fÃ¶r Ã¤ldreomsorgen."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -657,9 +657,9 @@
             "hangar_id": "2341833"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ordförande, Folkpartiets kvinnoförbund 89-98. Ledamot, Folkpartiets partistyrelse 89-93 och 05-, adjungerad ledamot 93-98. Styrelseledamot, Svenska Handelsbanken 79, Noaks Ark 91-94 och Hälsoinvest 92-94. Ledamot, Stiftelsen WHO Collaborating Centre for International Drug Monitoring 85-86, Apoteksbolagets nämnd för rationell läkemedelssamverkan 87, Volvo Medical Advisory Board 87-89, rådgivande nämnden till Axel och Margaret A:son Johnsons Stiftelse för allmänna nyttiga ändamål 92-95, Ingenjörsvetenskapsakademien 90-, Samfundet äldre läkare 00- och Cancerfonden 04-. Vice ordförande, AGE - Older People's Platform 02-. Ordförande, Apoteksbolagets nämnd för information och statistik 80-86, Friluftsfrämjandet 86-92, Läkare mot Aids 87-90, Sveriges Pensionärsförbund 99-05, programstyrelsen för Ljudlandskap för bättre hälsa, Stiftelsen för miljöstrategisk forskning Mistra 99-, forskningsfonden Duchennes muskeldystrofi 00-, Trafikmedicinska forskningsfonden 03-06 och Börje Olhagens forskningsfond 03-. Huvudman, Nationalföreningen mot hjärt- och lungsjukdomar 79-82, Konung Gustaf V:s 80-årsfond 84-, Konung Oscar II:s jubileumsfond 84- och Stockholms sjukhem 89-. Vice ordförande Samfundet Äldre läkare 01-07, ordförande 07-11. Ordförande, nätverket Liberala Seniorer 05-."
+              "OrdfÃ¶rande, Folkpartiets kvinnofÃ¶rbund 89-98. Ledamot, Folkpartiets partistyrelse 89-93 och 05-, adjungerad ledamot 93-98. Styrelseledamot, Svenska Handelsbanken 79, Noaks Ark 91-94 och HÃ¤lsoinvest 92-94. Ledamot, Stiftelsen WHO Collaborating Centre for International Drug Monitoring 85-86, Apoteksbolagets nÃ¤mnd fÃ¶r rationell lÃ¤kemedelssamverkan 87, Volvo Medical Advisory Board 87-89, rÃ¥dgivande nÃ¤mnden till Axel och Margaret A:son Johnsons Stiftelse fÃ¶r allmÃ¤nna nyttiga Ã¤ndamÃ¥l 92-95, IngenjÃ¶rsvetenskapsakademien 90-, Samfundet Ã¤ldre lÃ¤kare 00- och Cancerfonden 04-. Vice ordfÃ¶rande, AGE - Older People's Platform 02-. OrdfÃ¶rande, Apoteksbolagets nÃ¤mnd fÃ¶r information och statistik 80-86, FriluftsfrÃ¤mjandet 86-92, LÃ¤kare mot Aids 87-90, Sveriges PensionÃ¤rsfÃ¶rbund 99-05, programstyrelsen fÃ¶r Ljudlandskap fÃ¶r bÃ¤ttre hÃ¤lsa, Stiftelsen fÃ¶r miljÃ¶strategisk forskning Mistra 99-, forskningsfonden Duchennes muskeldystrofi 00-, Trafikmedicinska forskningsfonden 03-06 och BÃ¶rje Olhagens forskningsfond 03-. Huvudman, NationalfÃ¶reningen mot hjÃ¤rt- och lungsjukdomar 79-82, Konung Gustaf V:s 80-Ã¥rsfond 84-, Konung Oscar II:s jubileumsfond 84- och Stockholms sjukhem 89-. Vice ordfÃ¶rande Samfundet Ã„ldre lÃ¤kare 01-07, ordfÃ¶rande 07-11. OrdfÃ¶rande, nÃ¤tverket Liberala Seniorer 05-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -668,7 +668,7 @@
           {
             "kod": "Litteratur",
             "uppgift": [
-              "Frisättning av histamin och 5-hyroxtryptamin in vitro - En djurexperimentell studie (64, doktorsavhandling), Etik i politiken (93) och Läkemedelsanvändning (94, tillsammans med andra). Dessutom artiklar i farmakologi och epidemiologi samt debattartiklar i olika hälsofrågor, jämställdhet, forskning, utbildning, etik i politiken och äldrefrågor."
+              "FrisÃ¤ttning av histamin och 5-hyroxtryptamin in vitro - En djurexperimentell studie (64, doktorsavhandling), Etik i politiken (93) och LÃ¤kemedelsanvÃ¤ndning (94, tillsammans med andra). Dessutom artiklar i farmakologi och epidemiologi samt debattartiklar i olika hÃ¤lsofrÃ¥gor, jÃ¤mstÃ¤lldhet, forskning, utbildning, etik i politiken och Ã¤ldrefrÃ¥gor."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -684,7 +684,7 @@
             "hangar_id": "2341833"
           },
           {
-            "kod": "Övriga webbsidor",
+            "kod": "Ã–vriga webbsidor",
             "uppgift": [
               "http://westerholmbarbro.blogspot.com/"
             ],
@@ -693,7 +693,7 @@
             "hangar_id": "2341833"
           },
           {
-            "kod": "Övriga webbsidor",
+            "kod": "Ã–vriga webbsidor",
             "uppgift": [
               "http://www.facebook.com/people/barbro-westerholm/659447529"
             ],
@@ -704,14 +704,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "barbro.westerholm[på]riksdagen.se"
+              "barbro.westerholm[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0363228965800",
             "hangar_id": "2341833"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "64581"
             ],
@@ -722,7 +722,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Leg. läkare/Docent/adjungerad Professor emerita."
+              "Leg. lÃ¤kare/Docent/adjungerad Professor emerita."
             ],
             "typ": "titlar",
             "intressent_id": "0363228965800",

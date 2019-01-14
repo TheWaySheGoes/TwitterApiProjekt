@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:01",
+    "@systemdatum": "2019-01-14 15:55:09",
     "@hits": "1",
     "person": {
       "hangar_guid": "b1038f9a-3aba-4e6d-a88c-9b8e5fc543e9",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Reslow,Patrick",
       "iort": null,
       "parti": "SD",
-      "valkrets": "Värmlands län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "VÃ¤rmlands lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/6aa5f2eb-568a-4853-a925-65fee736b037",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6aa5f2eb-568a-4853-a925-65fee736b037_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6aa5f2eb-568a-4853-a925-65fee736b037_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "45",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "93",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "63",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -234,9 +234,9 @@
             "hangar_id": "2343453"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Inköpschefen Bert Jönsson och kanslisten Elsie Jönsson, f. Nilsson."
+              "InkÃ¶pschefen Bert JÃ¶nsson och kanslisten Elsie JÃ¶nsson, f. Nilsson."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -245,16 +245,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, Ystad 86-90. Wooster High School, Ohio, USA 87-88. Jur.kand., Lunds universitet, 96. Erasmusstudier, Universität Trier, Tyskland 95. Pol.mag., Lunds universitet 97. Master of European Affairs, Lunds universitet 98."
+              "Gymnasieskola, Ystad 86-90. Wooster High School, Ohio, USA 87-88. Jur.kand., Lunds universitet, 96. Erasmusstudier, UniversitÃ¤t Trier, Tyskland 95. Pol.mag., Lunds universitet 97. Master of European Affairs, Lunds universitet 98."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343453"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Forskarstuderande, Lunds universitet 00-. Eslövs folkhögskola 02-10. Politisk sekreterare, Malmö kommun 06-10."
+              "Forskarstuderande, Lunds universitet 00-. EslÃ¶vs folkhÃ¶gskola 02-10. Politisk sekreterare, MalmÃ¶ kommun 06-10."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -263,16 +263,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Burlöv 98-00. Kommunfullmäktig, Malmö 02-. Ersättare, kommunstyrelsen, Malmö 02-10 och Södra innerstadens stadsdelsnämnd 00-02. Ledamot, barn- och utbildningsnämnden, Burlöv 94-00 och vice ordförande 97-98. 1:e vice ordförande, utbildningsnämnden, Malmö 02-10. Ledamot, Malmöhus läns landsting 91-98. Ledamot, utbildningsnämnden, Malmöhus läns landsting 91-98. 2.e vice ordförande, arbetsmarknads-, gymnasie- och vuxenutbildningsnämnden, Malmö stad 14-. Ersättare, Skolstyrelsen Sjöbo 88-90. "
+              "KommunfullmÃ¤ktig, BurlÃ¶v 98-00. KommunfullmÃ¤ktig, MalmÃ¶ 02-. ErsÃ¤ttare, kommunstyrelsen, MalmÃ¶ 02-10 och SÃ¶dra innerstadens stadsdelsnÃ¤mnd 00-02. Ledamot, barn- och utbildningsnÃ¤mnden, BurlÃ¶v 94-00 och vice ordfÃ¶rande 97-98. 1:e vice ordfÃ¶rande, utbildningsnÃ¤mnden, MalmÃ¶ 02-10. Ledamot, MalmÃ¶hus lÃ¤ns landsting 91-98. Ledamot, utbildningsnÃ¤mnden, MalmÃ¶hus lÃ¤ns landsting 91-98. 2.e vice ordfÃ¶rande, arbetsmarknads-, gymnasie- och vuxenutbildningsnÃ¤mnden, MalmÃ¶ stad 14-. ErsÃ¤ttare, Skolstyrelsen SjÃ¶bo 88-90. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343453"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ledamot, Moderata ungdomsförbund, Sjöbo 85-87. Ordförande, Moderata ungdomsförbund Sjöbo 87-92, 94-99. Vice ordförande, Moderata ungdomsförbund, Malmö 92-94, 99. Ledamot, Moderata ungdomsförbundets distriktsstyrelse, Malmöhus 90-92, 98-99, 1:e vice ordförande, Moderata ungdomsförbundets distriktsstyrelse, Malmöhus 92-94. Ordförande, Moderata ungdomsförbund Malmö 99-01. Vice ordförande, Lunds doktorandkår 03-04. Ordförande, Lunds doktorandkår 04-05. Ledamot, förbundsstyrelsen, Moderaterna i Skåne 09-13. Ordförande, Moderaterna i Malmö 13-. Ordförande, Samfällighetsföreningen Skytteltrafiken, Klagshamn 12-.  "
+              "Ledamot, Moderata ungdomsfÃ¶rbund, SjÃ¶bo 85-87. OrdfÃ¶rande, Moderata ungdomsfÃ¶rbund SjÃ¶bo 87-92, 94-99. Vice ordfÃ¶rande, Moderata ungdomsfÃ¶rbund, MalmÃ¶ 92-94, 99. Ledamot, Moderata ungdomsfÃ¶rbundets distriktsstyrelse, MalmÃ¶hus 90-92, 98-99, 1:e vice ordfÃ¶rande, Moderata ungdomsfÃ¶rbundets distriktsstyrelse, MalmÃ¶hus 92-94. OrdfÃ¶rande, Moderata ungdomsfÃ¶rbund MalmÃ¶ 99-01. Vice ordfÃ¶rande, Lunds doktorandkÃ¥r 03-04. OrdfÃ¶rande, Lunds doktorandkÃ¥r 04-05. Ledamot, fÃ¶rbundsstyrelsen, Moderaterna i SkÃ¥ne 09-13. OrdfÃ¶rande, Moderaterna i MalmÃ¶ 13-. OrdfÃ¶rande, SamfÃ¤llighetsfÃ¶reningen Skytteltrafiken, Klagshamn 12-.  "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -281,7 +281,7 @@
           {
             "kod": "Litteratur",
             "uppgift": [
-              "\"Rättspolitik och judiciell kontroll\" i: Rättslig integration och pluralism. Nordisk rättskultur i omvandling. Rättshistoriska skrifter. Tredje bandet. Stockholm (01). \"Juridik och politik i tidigmodern tid. En komparativ analys av revisionsinstitutet\" i: Patrick Reslow & Elsa Trolle Önnerfors (red.): Från Schlyters lustgård. Rättshistoriska uppsatser (01). \"Konfederation eller federation. Några historiska reflektioner kring den pågående diskussionen om Europas framtid\" : Patrick Reslow (red.), Från Schlyters lustgård. Rättshistoriska uppsatser (02). \"Centralisering och effektivisering. Några betraktelser rörande den tidigmoderna statsapparaten och dess organisation av den högsta domsmakten\" i: Ivo Asmus, Heiko Droste & Jens E. Olesen (Hg.), Gemeinsame Bekannte. Schweden und Deutschland in der frühen Neuzeit. Münster (03). \"Die Visitation des Tribunals\" i: Nils Jörn, Bernhard Distelkamp & Kjell Å Modéer (Hg.), Integration durch Recht: das Wismarer Tribunal (1653-1806). Böhlau (03)."
+              "\"RÃ¤ttspolitik och judiciell kontroll\" i: RÃ¤ttslig integration och pluralism. Nordisk rÃ¤ttskultur i omvandling. RÃ¤ttshistoriska skrifter. Tredje bandet. Stockholm (01). \"Juridik och politik i tidigmodern tid. En komparativ analys av revisionsinstitutet\" i: Patrick Reslow & Elsa Trolle Ã–nnerfors (red.): FrÃ¥n Schlyters lustgÃ¥rd. RÃ¤ttshistoriska uppsatser (01). \"Konfederation eller federation. NÃ¥gra historiska reflektioner kring den pÃ¥gÃ¥ende diskussionen om Europas framtid\" : Patrick Reslow (red.), FrÃ¥n Schlyters lustgÃ¥rd. RÃ¤ttshistoriska uppsatser (02). \"Centralisering och effektivisering. NÃ¥gra betraktelser rÃ¶rande den tidigmoderna statsapparaten och dess organisation av den hÃ¶gsta domsmakten\" i: Ivo Asmus, Heiko Droste & Jens E. Olesen (Hg.), Gemeinsame Bekannte. Schweden und Deutschland in der frÃ¼hen Neuzeit. MÃ¼nster (03). \"Die Visitation des Tribunals\" i: Nils JÃ¶rn, Bernhard Distelkamp & Kjell Ã… ModÃ©er (Hg.), Integration durch Recht: das Wismarer Tribunal (1653-1806). BÃ¶hlau (03)."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -290,14 +290,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "patrick.reslow[på]riksdagen.se"
+              "patrick.reslow[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0545733815610",
             "hangar_id": "2343453"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "66434"
             ],

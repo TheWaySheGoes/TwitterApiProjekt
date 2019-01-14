@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:53",
+    "@systemdatum": "2019-01-14 16:02:11",
     "@hits": "1",
     "person": {
       "hangar_guid": "b6e0ec58-ec51-4dc9-b132-8427284b5363",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Ernkrans,Matilda",
       "iort": null,
       "parti": "S",
-      "valkrets": "Örebro län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Ã–rebro lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/8166bd73-bf10-4ef8-8e01-1975ca921c12",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8166bd73-bf10-4ef8-8e01-1975ca921c12_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8166bd73-bf10-4ef8-8e01-1975ca921c12_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "164",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "198",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "233",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "304",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2007-08-29",
             "tom": "2010-10-04",
@@ -134,7 +134,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "269",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2006-02-21",
             "tom": "2006-10-02",
@@ -150,9 +150,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "0",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2002-09-30",
             "tom": "2006-02-20",
@@ -168,7 +168,7 @@
           },
           {
             "organ_kod": "UbU",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "1",
             "status": null,
             "typ": "uppdrag",
@@ -204,7 +204,7 @@
           },
           {
             "organ_kod": "UbU",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "1",
             "status": null,
             "typ": "uppdrag",
@@ -229,7 +229,7 @@
             "from": "2014-11-25",
             "tom": "2018-09-24",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0983984918111",
             "hangar_id": "2343543",
@@ -258,14 +258,14 @@
           },
           {
             "organ_kod": "MJU",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "1",
             "status": null,
             "typ": "uppdrag",
             "from": "2014-10-07",
             "tom": "2018-03-22",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0983984918111",
             "hangar_id": "2343543",
@@ -276,14 +276,14 @@
           },
           {
             "organ_kod": "MJU",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "2",
             "status": null,
             "typ": "uppdrag",
             "from": "2010-10-12",
             "tom": "2014-09-29",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0983984918111",
             "hangar_id": "2343543",
@@ -301,7 +301,7 @@
             "from": "2010-10-12",
             "tom": "2010-10-12",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "0983984918111",
             "hangar_id": "2343543",
@@ -319,7 +319,7 @@
             "from": "2006-10-10",
             "tom": "2010-10-04",
             "uppgift": [
-              "Socialförsäkringsutskottet"
+              "SocialfÃ¶rsÃ¤kringsutskottet"
             ],
             "intressent_id": "0983984918111",
             "hangar_id": "2343543",
@@ -479,16 +479,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 02- (statsrådsersättare 020930-060220). Ledamot kulturutskottet 04-06, socialförsäkringsutskottet 06-10 och ordförande miljö- och jordbruksutskottet  10-. Suppleant kulturutskottet 02-04, arbetsmarknadsutskottet 02 och 07-10, bostadsutskottet 03-06 och näringsutskottet 14-. Ledamot krigsdelegationen 10-."
+              "Riksdagsledamot 02- (statsrÃ¥dsersÃ¤ttare 020930-060220). Ledamot kulturutskottet 04-06, socialfÃ¶rsÃ¤kringsutskottet 06-10 och ordfÃ¶rande miljÃ¶- och jordbruksutskottet  10-. Suppleant kulturutskottet 02-04, arbetsmarknadsutskottet 02 och 07-10, bostadsutskottet 03-06 och nÃ¤ringsutskottet 14-. Ledamot krigsdelegationen 10-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343543"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Kommuntjänstemannen Jan Karlsson och undersköterskan Carita Ernkrans."
+              "KommuntjÃ¤nstemannen Jan Karlsson och underskÃ¶terskan Carita Ernkrans."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -497,16 +497,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, samhällsvetenskaplig linje, slutår 92. Högskole-/universitetsstudier i statsvetenskap, nationalekonomi och sociologi 95-02."
+              "Gymnasieskola, samhÃ¤llsvetenskaplig linje, slutÃ¥r 92. HÃ¶gskole-/universitetsstudier i statsvetenskap, nationalekonomi och sociologi 95-02."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343543"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Köksbiträde, Hallsbergs kommun 91-93. Arbetsförmedlare, Hallsberg 93-. Vårdbiträde, Hallsbergs kommun 97. Politisk sekreterare, Örebro läns landsting 98."
+              "KÃ¶ksbitrÃ¤de, Hallsbergs kommun 91-93. ArbetsfÃ¶rmedlare, Hallsberg 93-. VÃ¥rdbitrÃ¤de, Hallsbergs kommun 97. Politisk sekreterare, Ã–rebro lÃ¤ns landsting 98."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -515,16 +515,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Hallsbergs kommun 95-07 och 10-, vice ordförande 03-07. Ledamot, kommunstyrelsen 94-02. Ledamot, kultur- och fritidsnämnden 94-98 och fastighetsnämnden, vice ordförande 98-02. Ledamot, myndighetsnämnden 03-07. Ledamot, hälso- och sjukvårdsberedningen, Örebro läns landsting 98-02. Styrelseledamot, Hallsbergs bostadsstiftelse, vice ordförande 98-02. Ledamot, Sydnärkes utbildningsförbund 01-02."
+              "KommunfullmÃ¤ktig, Hallsbergs kommun 95-07 och 10-, vice ordfÃ¶rande 03-07. Ledamot, kommunstyrelsen 94-02. Ledamot, kultur- och fritidsnÃ¤mnden 94-98 och fastighetsnÃ¤mnden, vice ordfÃ¶rande 98-02. Ledamot, myndighetsnÃ¤mnden 03-07. Ledamot, hÃ¤lso- och sjukvÃ¥rdsberedningen, Ã–rebro lÃ¤ns landsting 98-02. Styrelseledamot, Hallsbergs bostadsstiftelse, vice ordfÃ¶rande 98-02. Ledamot, SydnÃ¤rkes utbildningsfÃ¶rbund 01-02."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343543"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Styrelseledamot, SSU Hallsberg 91-, ordförande 95-99. Styrelseledamot, Långängens socialdemokratiska förening 91-94 och Kårstahults socialdemokratiska förening 94-07. Styrelseledamot, Hallsbergs arbetarekommun 95-, ordförande 07-11. Styrelseledamot, Rallarrosen (socialdemokratisk kvinnoklubb) 01-. Ordförande, Nya (s), socialdemokratisk förening 05-. Ledamot, partidistriktets styrelse 07-. Ersättare, partistyrelsen 11-. "
+              "Styrelseledamot, SSU Hallsberg 91-, ordfÃ¶rande 95-99. Styrelseledamot, LÃ¥ngÃ¤ngens socialdemokratiska fÃ¶rening 91-94 och KÃ¥rstahults socialdemokratiska fÃ¶rening 94-07. Styrelseledamot, Hallsbergs arbetarekommun 95-, ordfÃ¶rande 07-11. Styrelseledamot, Rallarrosen (socialdemokratisk kvinnoklubb) 01-. OrdfÃ¶rande, Nya (s), socialdemokratisk fÃ¶rening 05-. Ledamot, partidistriktets styrelse 07-. ErsÃ¤ttare, partistyrelsen 11-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -551,14 +551,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "matilda.ernkrans[på]riksdagen.se"
+              "matilda.ernkrans[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0983984918111",
             "hangar_id": "2343543"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65042"
             ],
@@ -569,7 +569,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Arbetsförmedlare."
+              "ArbetsfÃ¶rmedlare."
             ],
             "typ": "titlar",
             "intressent_id": "0983984918111",

@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:48",
+    "@systemdatum": "2019-01-14 16:02:08",
     "@hits": "1",
     "person": {
       "hangar_guid": "abae3465-b872-42c4-9b51-2ab53422ed78",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Hultberg,Johan",
       "iort": null,
       "parti": "M",
-      "valkrets": "Västra Götalands läns norra",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "VÃ¤stra GÃ¶talands lÃ¤ns norra",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/31ae8846-ad0b-4ff2-aaf7-72b398d1fb5a",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/31ae8846-ad0b-4ff2-aaf7-72b398d1fb5a_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/31ae8846-ad0b-4ff2-aaf7-72b398d1fb5a_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "130",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "254",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2017-02-27",
             "tom": "2018-09-24",
@@ -67,7 +67,7 @@
             "from": "2016-09-12",
             "tom": "2017-02-26",
             "uppgift": [
-              "Roland Gustbée 2016-09-12 - 2017-02-26  Föräldraledighet"
+              "Roland GustbÃ©e 2016-09-12 - 2017-02-26  FÃ¶rÃ¤ldraledighet"
             ],
             "intressent_id": "069309987221",
             "hangar_id": "2369328",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "254",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2016-09-11",
@@ -98,7 +98,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "330",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -139,7 +139,7 @@
             "from": "2014-10-07",
             "tom": "2018-09-24",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "069309987221",
             "hangar_id": "2369328",
@@ -157,7 +157,7 @@
             "from": "2013-09-27",
             "tom": "2014-09-29",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "069309987221",
             "hangar_id": "2369328",
@@ -175,7 +175,7 @@
             "from": "2010-10-12",
             "tom": "2013-09-26",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "069309987221",
             "hangar_id": "2369328",
@@ -193,7 +193,7 @@
             "from": "2018-10-02",
             "tom": "2022-10-04",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "069309987221",
             "hangar_id": "2369328",
@@ -211,7 +211,7 @@
             "from": "2017-12-19",
             "tom": "2018-10-02",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "069309987221",
             "hangar_id": "2369328",
@@ -229,7 +229,7 @@
             "from": "2014-10-07",
             "tom": "2017-12-19",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "069309987221",
             "hangar_id": "2369328",
@@ -247,7 +247,7 @@
             "from": "2013-10-04",
             "tom": "2014-10-07",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "069309987221",
             "hangar_id": "2369328",
@@ -263,16 +263,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 10-. Ledamot miljö- och jordbruksutskottet 10- och EU-nämnden 14-. Suppleant EU-nämnden 13-14."
+              "Riksdagsledamot 10-. Ledamot miljÃ¶- och jordbruksutskottet 10- och EU-nÃ¤mnden 14-. Suppleant EU-nÃ¤mnden 13-14."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2369328"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Tjänstemannen Lars Hultberg och utvecklingsledaren AnneMarie Hultberg, f. Andrésen."
+              "TjÃ¤nstemannen Lars Hultberg och utvecklingsledaren AnneMarie Hultberg, f. AndrÃ©sen."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -281,7 +281,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Ersättare, Gentekniknämnden 10-18. Ledamot, Gentekniknämnden 18-.\r\nLedamot, miljömålsberedningen och Naturvårdsverkets insynsråd t.o.m. 18."
+              "ErsÃ¤ttare, GentekniknÃ¤mnden 10-18. Ledamot, GentekniknÃ¤mnden 18-.\r\nLedamot, miljÃ¶mÃ¥lsberedningen och NaturvÃ¥rdsverkets insynsrÃ¥d t.o.m. 18."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -290,7 +290,7 @@
           {
             "kod": "Bostadsort",
             "uppgift": [
-              "Fjällbacka (Tanums kommun)"
+              "FjÃ¤llbacka (Tanums kommun)"
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -299,7 +299,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "johan.hultberg[på]riksdagen.se"
+              "johan.hultberg[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "069309987221",
@@ -315,7 +315,7 @@
             "hangar_id": "2369328"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "66108"
             ],
