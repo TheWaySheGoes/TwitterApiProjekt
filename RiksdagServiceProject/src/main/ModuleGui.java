@@ -18,9 +18,9 @@ import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 import javax.swing.text.DefaultCaret;
 
-import main.Main.DataType;
+import main.RiksdagModule.DataType;
 
-public class RiksdagModuleGui implements ListSelectionListener, ActionListener, Runnable{
+public class ModuleGui implements ListSelectionListener, ActionListener, Runnable{
 	private JFrame frame; // The Main window
 	private JTextField txtInput;
 	private JButton btnStart;
@@ -31,7 +31,8 @@ public class RiksdagModuleGui implements ListSelectionListener, ActionListener, 
 	private JScrollPane txtScroll;
 	private Border border = BorderFactory.createLineBorder(Color.BLACK, 1);
 	private JList<String> tableList;
-	private Main main;
+	private RiksdagModule riksdagModule;
+	private TwitterModule twitterModule;
 	
 	
 	//master branch test 1
@@ -43,7 +44,7 @@ public class RiksdagModuleGui implements ListSelectionListener, ActionListener, 
 
 	
 	private void initializeGUI() {
-		main=new Main(DataType.JUMBO,this,1);
+		riksdagModule=new RiksdagModule(DataType.JUMBO,this,1);
 
 		tableList = new JList<String>();
 		tableList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
@@ -120,28 +121,30 @@ public class RiksdagModuleGui implements ListSelectionListener, ActionListener, 
 	public void actionPerformed(ActionEvent e) {
 
 		if (e.getSource() == this.btnSetInterval) {
-			main.setTimeInterval(Integer.parseInt(txtInput.getText()));
+			riksdagModule.setTimeInterval(Integer.parseInt(txtInput.getText()));
 
 		}
 		
 		if (e.getSource() == this.btnStart) {
-			main.start();
-			
+			riksdagModule.start();
+			twitterModule.start();
 		}
 		
 		if (e.getSource() == this.btnExit) {
-			main.exit();
+			riksdagModule.exit();
+			riksdagModule.exit();
 		}
 		
 		
 		if (e.getSource() == this.btnStop) {
-			main.stop();
+			riksdagModule.stop();
+			twitterModule.stop();
 		}
 	
 	}
 
 	public static void main(String[] args) {
-		RiksdagModuleGui rmg = new RiksdagModuleGui();
+		ModuleGui rmg = new ModuleGui();
 		SwingUtilities.invokeLater(rmg);
 	}
 

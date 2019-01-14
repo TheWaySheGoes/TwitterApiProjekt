@@ -31,17 +31,16 @@ import org.json.JSONObject;
  * @author lukas
  *
  */
-public class Main implements Runnable {
+public class RiksdagModule implements Runnable {
 	boolean isRunning = true;
 	String host = "data.riksdagen.se/personlista/?";
 	int port = 80;
 	InetAddress addr;
 	Socket socket;
-	int waitTime = 3600;
 	String filesFolder = "files";
 	Thread T = null;
-	RiksdagModuleGui riksdagModuleGui;
-	int sleepTime = 3600;
+	ModuleGui riksdagModuleGui;
+	int sleepTime = 3600000;
 
 	public enum DataType {
 		JUMBO, BULK
@@ -49,17 +48,17 @@ public class Main implements Runnable {
 
 	private DataType command;
 
-	public Main(DataType command, int timeIntervalHours, String saveFolder) {
+	public RiksdagModule(DataType command, int timeIntervalHours, String saveFolder) {
 		this.command = command;
-		this.waitTime *= timeIntervalHours;
+		this.sleepTime *= timeIntervalHours;
 		this.filesFolder = saveFolder;
 	}
 
-	public Main(DataType command) {
+	public RiksdagModule(DataType command) {
 		this.command = command;
 	}
 
-	public Main(DataType jumbo, RiksdagModuleGui riksdagModuleGui, int sleepTime) {
+	public RiksdagModule(DataType jumbo, ModuleGui riksdagModuleGui, int sleepTime) {
 		this.command = jumbo;
 		this.riksdagModuleGui = riksdagModuleGui;
 		this.sleepTime *= sleepTime;
@@ -74,21 +73,21 @@ public class Main implements Runnable {
 	public static void main(String[] args) {
 		System.out.println("arg:  DataType.[ JUMBO | BULK ]");
 		if (args.length == 0) {
-			Thread jumboThread = new Thread(new Main(DataType.JUMBO));
+			Thread jumboThread = new Thread(new RiksdagModule(DataType.JUMBO));
 			jumboThread.start();
-			Thread bulkThread = new Thread(new Main(DataType.BULK));
+			Thread bulkThread = new Thread(new RiksdagModule(DataType.BULK));
 			bulkThread.start();
 		} else if (args[0] == "JUMBO") {
-			Thread jumboThread = new Thread(new Main(DataType.JUMBO));
+			Thread jumboThread = new Thread(new RiksdagModule(DataType.JUMBO));
 			jumboThread.start();
 		} else if (args[0] == "BULK") {
-			Thread bulkThread = new Thread(new Main(DataType.BULK));
+			Thread bulkThread = new Thread(new RiksdagModule(DataType.BULK));
 			bulkThread.start();
 		}
 	}
 
 	public void setTimeInterval(int timeInterva) {
-		this.sleepTime = timeInterva;
+		this.sleepTime*= timeInterva;
 	}
 
 	@Override
@@ -360,9 +359,5 @@ public class Main implements Runnable {
 
 	}
 
-	public void setInterval(int parseInt) {
-		// TODO Auto-generated method stub
-
-	}
 
 }
