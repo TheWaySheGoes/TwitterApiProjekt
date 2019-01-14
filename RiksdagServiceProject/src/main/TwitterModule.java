@@ -14,22 +14,32 @@ import twitter4j.auth.AccessToken;
 import twitter4j.auth.RequestToken;
 import twitter4j.conf.ConfigurationBuilder;
 
-public class TestTwitter {
-
-	 public static void main(String args[]) throws Exception{
-		 ConfigurationBuilder cb = new ConfigurationBuilder();
+public class TwitterModule {
+	ConfigurationBuilder cb;
+	TwitterFactory tf;
+	 Twitter twitter;
+	
+	 public TwitterModule() {
+		 cb = new ConfigurationBuilder();
 		 cb.setDebugEnabled(true)
 		   .setOAuthConsumerKey("4kQHu6tcOcF88lMQqr5LbfD7N")
 		   .setOAuthConsumerSecret("RbvavJhOFGq5PcY0C20f7ZqHSlMo3sfG7Z9IcMjVE7PKIzpcvr")
 		   .setOAuthAccessToken("1082989341423603712-etBuYJr2qvQs5WUazZXqEYUieKP8Wh")
 		   .setOAuthAccessTokenSecret("yeCHE02JJOC9wsFUh36rORG5gPzvPEO4YpJoddELBKHkB");
-		 TwitterFactory tf = new TwitterFactory(cb.build());
-		 Twitter twitter = tf.getInstance();
+		tf = new TwitterFactory(cb.build());
+		  twitter = tf.getInstance();
+	 
+	 }
+	
+	
+	public  List<Status> getTwitts(String searchQuery) {
+		 List<Status> tweets=null; 
+		 
 		
 
 	        try {
 
-	            Query query = new Query("nasa");
+	            Query query = new Query(searchQuery);
 
 	            QueryResult result;
 
@@ -37,7 +47,7 @@ public class TestTwitter {
 
 	                result = twitter.search(query);
 
-	                List<Status> tweets = result.getTweets();
+	                tweets = result.getTweets();
 
 	                for (Status tweet : tweets) {
 
@@ -58,6 +68,9 @@ public class TestTwitter {
 	            System.exit(-1);
 
 	        }
-	 }
+	        
+		return tweets;
+	}
 	
+
 }
