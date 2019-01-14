@@ -1,9 +1,14 @@
 {
- "firstName": "Lars",
  "lastName": "Hjälmered",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4cc89ee3-f5bd-4009-a13f-d86a40caff16_max.jpg",
+ "tweets": 4335,
+ "firstName": "Lars",
+ "createdAt": "Thu Dec 01 20:13:59 +0000 2011",
+ "twitter": "larshjalmered",
+ "followers": 3579,
  "constituency": "Göteborgs kommun",
  "birthYear": "1977",
+ "following": 2828,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0980316377627",
  "party": "M",
  "email": "lars.hjalmered@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2611
 }

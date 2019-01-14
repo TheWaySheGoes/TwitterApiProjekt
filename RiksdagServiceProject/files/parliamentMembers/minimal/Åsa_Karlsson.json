@@ -1,9 +1,14 @@
 {
- "firstName": "Åsa",
  "lastName": "Karlsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/317c6cc9-dcd5-4dcc-b275-9e17d973da4c_max.jpg",
+ "tweets": 304,
+ "firstName": "Åsa",
+ "createdAt": "Mon Jan 13 08:45:04 +0000 2014",
+ "twitter": "kimasa62",
+ "followers": 125,
  "constituency": "Västerbottens län",
  "birthYear": "1973",
+ "following": 199,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0648224557612",
  "party": "S",
  "email": "asa.karlsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 490
 }

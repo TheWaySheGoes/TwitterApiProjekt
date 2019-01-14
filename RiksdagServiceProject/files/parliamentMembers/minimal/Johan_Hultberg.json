@@ -1,9 +1,14 @@
 {
- "firstName": "Johan",
  "lastName": "Hultberg",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/31ae8846-ad0b-4ff2-aaf7-72b398d1fb5a_max.jpg",
+ "tweets": 9092,
+ "firstName": "Johan",
+ "createdAt": "Tue May 22 07:07:10 +0000 2012",
+ "twitter": "HultbergJohan",
+ "followers": 2764,
  "constituency": "Västra Götalands läns norra",
  "birthYear": "1985",
+ "following": 1728,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "069309987221",
  "party": "M",
  "email": "johan.hultberg@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1228
 }

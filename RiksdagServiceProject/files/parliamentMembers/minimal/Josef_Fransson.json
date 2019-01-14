@@ -1,9 +1,14 @@
 {
- "firstName": "Josef",
  "lastName": "Fransson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2131f2eb-348c-4b92-8e76-52c134d79919_max.jpg",
+ "tweets": 7618,
+ "firstName": "Josef",
+ "createdAt": "Fri Oct 28 10:58:37 +0000 2011",
+ "twitter": "JosefFranssonSD",
+ "followers": 3604,
  "constituency": "Västra Götalands läns östra",
  "birthYear": "1978",
+ "following": 690,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0211757295524",
  "party": "SD",
  "email": "josef.fransson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2798
 }

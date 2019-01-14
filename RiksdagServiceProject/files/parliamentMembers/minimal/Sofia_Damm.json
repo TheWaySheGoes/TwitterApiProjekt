@@ -1,9 +1,14 @@
 {
- "firstName": "Sofia",
  "lastName": "Damm",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a6a33386-bc67-4702-aa8c-331ffe7e2f9c_max.jpg",
+ "tweets": 1679,
+ "firstName": "Sofia",
+ "createdAt": "Tue Oct 29 20:49:31 +0000 2013",
+ "twitter": "SofiaDammKD",
+ "followers": 1257,
  "constituency": "Skåne läns södra",
  "birthYear": "1977",
+ "following": 869,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0306286538528",
  "party": "KD",
  "email": "sofia.damm@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5485
 }

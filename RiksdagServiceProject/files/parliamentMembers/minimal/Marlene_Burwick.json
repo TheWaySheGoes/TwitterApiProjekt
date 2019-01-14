@@ -1,9 +1,14 @@
 {
- "firstName": "Marlene",
  "lastName": "Burwick",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cec8b2f1-f56f-4b7e-974f-eefa299c89cb_max.jpg",
+ "tweets": 5044,
+ "firstName": "Marlene",
+ "createdAt": "Thu Nov 26 21:39:16 +0000 2009",
+ "twitter": "MarleneBurwick",
+ "followers": 1813,
  "constituency": "Uppsala län",
  "birthYear": "1971",
+ "following": 1767,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0853204119514",
  "party": "S",
  "email": "marlene.burwick@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5128
 }

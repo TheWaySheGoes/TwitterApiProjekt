@@ -1,9 +1,14 @@
 {
- "firstName": "Ingemar",
  "lastName": "Nilsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4746c2a4-172a-4092-a3d3-08144cd1f0be_max.jpg",
+ "tweets": 4275,
+ "firstName": "Ingemar",
+ "createdAt": "Mon Aug 26 09:48:18 +0000 2013",
+ "twitter": "IngemarNilsson_",
+ "followers": 1372,
  "constituency": "Västernorrlands län",
  "birthYear": "1956",
+ "following": 1132,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0208558695314",
  "party": "S",
  "email": "ingemar.nilsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5273
 }

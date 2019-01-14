@@ -1,9 +1,14 @@
 {
- "firstName": "Jessika",
  "lastName": "Roswall",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5e09bf12-6f96-4a96-ac0c-27203aef4d2f_max.jpg",
+ "tweets": 159,
+ "firstName": "Jessika",
+ "createdAt": "Thu Jan 13 09:17:51 +0000 2011",
+ "twitter": "jessikavilhelm",
+ "followers": 678,
  "constituency": "Uppsala län",
  "birthYear": "1972",
+ "following": 307,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0718034011110",
  "party": "M",
  "email": "jessika.roswall@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 123
 }

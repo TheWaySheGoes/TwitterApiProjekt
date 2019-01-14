@@ -1,9 +1,14 @@
 {
- "firstName": "Jonas",
  "lastName": "Sjöstedt",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b4bf17ad-b37d-44ee-bf62-eaf4942a2a43_max.jpg",
+ "tweets": 16177,
+ "firstName": "Jonas",
+ "createdAt": "Tue Dec 13 14:28:08 +0000 2011",
+ "twitter": "jsjostedt",
+ "followers": 102204,
  "constituency": "Västerbottens län",
  "birthYear": "1964",
+ "following": 1871,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0383111552218",
  "party": "V",
  "email": "jonas.sjostedt@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 994
 }

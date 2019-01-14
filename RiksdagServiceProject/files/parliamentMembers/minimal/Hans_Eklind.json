@@ -1,9 +1,14 @@
 {
- "firstName": "Hans",
  "lastName": "Eklind",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f270f5c5-c28f-4267-8dff-0bead595f631_max.jpg",
+ "tweets": 2188,
+ "firstName": "Hans",
+ "createdAt": "Thu Feb 16 09:41:02 +0000 2012",
+ "twitter": "bandyprasten",
+ "followers": 295,
  "constituency": "Örebro län",
  "birthYear": "1966",
+ "following": 299,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0494242537816",
  "party": "KD",
  "email": "hans.eklind@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3400
 }

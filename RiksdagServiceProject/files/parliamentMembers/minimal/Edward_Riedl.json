@@ -1,9 +1,14 @@
 {
- "firstName": "Edward",
  "lastName": "Riedl",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eaa4ca85-20f4-4375-8b76-61febbcf37f6_max.jpg",
+ "tweets": 810,
+ "firstName": "Edward",
+ "createdAt": "Fri Mar 15 09:37:47 +0000 2013",
+ "twitter": "EdwardRiedl",
+ "followers": 1308,
  "constituency": "Västerbottens län",
  "birthYear": "1976",
+ "following": 1132,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0273506284025",
  "party": "M",
  "email": "edward.riedl@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 778
 }

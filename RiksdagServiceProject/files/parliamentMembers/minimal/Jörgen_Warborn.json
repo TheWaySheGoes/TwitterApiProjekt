@@ -1,9 +1,14 @@
 {
- "firstName": "Jörgen",
  "lastName": "Warborn",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/15ab245f-6634-4e11-88eb-3d9533e87d18_max.jpg",
+ "tweets": 4418,
+ "firstName": "Jörgen",
+ "createdAt": "Fri Jan 16 20:59:49 +0000 2009",
+ "twitter": "jorgenwarborn",
+ "followers": 1837,
  "constituency": "Hallands län",
  "birthYear": "1969",
+ "following": 1901,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0117203219614",
  "party": "M",
  "email": "jorgen.warborn@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1964
 }

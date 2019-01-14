@@ -1,9 +1,14 @@
 {
- "firstName": "Erik",
  "lastName": "Ottoson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0f90ef03-a652-45a1-b697-39a33b32e512_max.jpg",
+ "tweets": 3718,
+ "firstName": "Erik",
+ "createdAt": "Sun Mar 08 13:45:51 +0000 2009",
+ "twitter": "ErikOttoson",
+ "followers": 751,
  "constituency": "Stockholms län",
  "birthYear": "1989",
+ "following": 745,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0832311880029",
  "party": "M",
  "email": "erik.ottoson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 476
 }

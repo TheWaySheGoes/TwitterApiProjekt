@@ -1,9 +1,14 @@
 {
- "firstName": "Lawen",
  "lastName": "Redar",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/285a3d5f-cb32-4958-9b7c-1545b2faff18_max.jpg",
+ "tweets": 7413,
+ "firstName": "Lawen",
+ "createdAt": "Fri Nov 02 19:46:55 +0000 2012",
+ "twitter": "LawenRedar",
+ "followers": 2984,
  "constituency": "Stockholms kommun",
  "birthYear": "1989",
+ "following": 801,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "037561614928",
  "party": "S",
  "email": "lawen.redar@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5696
 }

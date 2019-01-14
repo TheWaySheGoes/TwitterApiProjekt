@@ -1,9 +1,14 @@
 {
- "firstName": "Jonas",
  "lastName": "Andersson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c5e9daf0-868f-4c8e-9a69-671c7b22855a_max.jpg",
+ "tweets": 231,
+ "firstName": "Jonas",
+ "createdAt": "Sun Feb 19 21:48:00 +0000 2012",
+ "twitter": "JonAndSD",
+ "followers": 1302,
  "constituency": "Västerbottens län",
  "birthYear": "1972",
+ "following": 742,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0538494048717",
  "party": "SD",
  "email": "jonas.m.andersson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 254
 }

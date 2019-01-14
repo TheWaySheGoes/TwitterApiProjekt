@@ -1,9 +1,14 @@
 {
- "firstName": "Mattias",
  "lastName": "Ottosson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df8c5ae3-43e8-4d8a-bf64-67b9a78fef66_max.jpg",
+ "tweets": 284,
+ "firstName": "Mattias",
+ "createdAt": "Wed Apr 10 13:30:28 +0000 2013",
+ "twitter": "MattiasOtto1",
+ "followers": 389,
  "constituency": "Östergötlands län",
  "birthYear": "1971",
+ "following": 343,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0860364634014",
  "party": "S",
  "email": "mattias.ottosson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 13
 }

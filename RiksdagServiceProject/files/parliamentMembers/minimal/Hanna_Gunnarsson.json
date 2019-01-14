@@ -1,9 +1,14 @@
 {
- "firstName": "Hanna",
  "lastName": "Gunnarsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8880da78-8ec1-41f7-96c7-f007375352ac_max.jpg",
+ "tweets": 51689,
+ "firstName": "Hanna",
+ "createdAt": "Fri Mar 05 16:31:42 +0000 2010",
+ "twitter": "gunnarssonhanna",
+ "followers": 1574,
  "constituency": "Skåne läns södra",
  "birthYear": "1983",
+ "following": 1377,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0411459873625",
  "party": "V",
  "email": "hanna.gunnarsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2568
 }

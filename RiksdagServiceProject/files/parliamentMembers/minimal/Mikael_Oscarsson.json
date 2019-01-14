@@ -1,9 +1,14 @@
 {
- "firstName": "Mikael",
  "lastName": "Oscarsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3256b-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 970,
+ "firstName": "Mikael",
+ "createdAt": "Thu Jan 14 21:48:49 +0000 2010",
+ "twitter": "MikaelOscarsson",
+ "followers": 2435,
  "constituency": "Uppsala län",
  "birthYear": "1967",
+ "following": 84,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0973782197017",
  "party": "KD",
  "email": "mikael.oscarsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 784
 }

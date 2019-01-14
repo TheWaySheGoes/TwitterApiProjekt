@@ -1,9 +1,14 @@
 {
- "firstName": "Per",
  "lastName": "Lodenius",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/66c12cfb-4888-443a-9e31-f64671296908_max.jpg",
+ "tweets": 1613,
+ "firstName": "Per",
+ "createdAt": "Wed May 30 19:38:40 +0000 2012",
+ "twitter": "PerLodenius",
+ "followers": 1141,
  "constituency": "Stockholms län",
  "birthYear": "1966",
+ "following": 151,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0363721826713",
  "party": "C",
  "email": "per.lodenius@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 826
 }

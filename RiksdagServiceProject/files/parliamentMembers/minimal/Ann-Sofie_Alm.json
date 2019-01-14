@@ -1,9 +1,14 @@
 {
- "firstName": "Ann-Sofie",
  "lastName": "Alm",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f91f6a86-591c-449c-b3dd-1fdaa86338cd_max.jpg",
+ "tweets": 5200,
+ "firstName": "Ann-Sofie",
+ "createdAt": "Wed Sep 05 17:47:51 +0000 2012",
+ "twitter": "annsofiealm",
+ "followers": 888,
  "constituency": "Västra Götalands läns norra",
  "birthYear": "1971",
+ "following": 1100,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "028954589415",
  "party": "M",
  "email": "ann-sofie.alm@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3384
 }

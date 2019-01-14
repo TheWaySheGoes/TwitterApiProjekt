@@ -1,9 +1,14 @@
 {
- "firstName": "Pyry",
  "lastName": "Niemi",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f0303245-c279-46dc-bffb-549d300db73a_max.jpg",
+ "tweets": 249,
+ "firstName": "Pyry",
+ "createdAt": "Tue Apr 07 06:55:19 +0000 2009",
+ "twitter": "pyryniemi",
+ "followers": 803,
  "constituency": "Uppsala län",
  "birthYear": "1965",
+ "following": 43,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0752691002718",
  "party": "S",
  "email": "pyry.niemi@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 15
 }

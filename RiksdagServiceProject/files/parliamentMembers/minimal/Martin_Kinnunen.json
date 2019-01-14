@@ -1,9 +1,14 @@
 {
- "firstName": "Martin",
  "lastName": "Kinnunen",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/57cbe134-829b-4fb8-9cc1-ce2f1cd02f3b_max.jpg",
+ "tweets": 6568,
+ "firstName": "Martin",
+ "createdAt": "Mon Jul 30 11:45:02 +0000 2012",
+ "twitter": "Martin_Kinnunen",
+ "followers": 5198,
  "constituency": "Stockholms län",
  "birthYear": "1983",
+ "following": 568,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0294138886823",
  "party": "SD",
  "email": "martin.kinnunen@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 621
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Mattias",
  "lastName": "Jonsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9ae916dd-799d-4d2b-80c4-f00bc5a7344d_max.jpg",
+ "tweets": 1562,
+ "firstName": "Mattias",
+ "createdAt": "Tue Jun 21 18:16:12 +0000 2011",
+ "twitter": "riksdagsmattias",
+ "followers": 1172,
  "constituency": "Göteborgs kommun",
  "birthYear": "1974",
+ "following": 789,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0499755198526",
  "party": "S",
  "email": "mattias.jonsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2639
 }

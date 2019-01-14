@@ -1,9 +1,14 @@
 {
- "firstName": "Elin",
  "lastName": "Lundgren",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a6beb479-16a2-443e-b0ea-e9c14639064c_max.jpg",
+ "tweets": 38837,
+ "firstName": "Elin",
+ "createdAt": "Fri Aug 26 07:08:32 +0000 2011",
+ "twitter": "ElinLudis",
+ "followers": 2581,
  "constituency": "Gävleborgs län",
  "birthYear": "1978",
+ "following": 1454,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "089246126523",
  "party": "S",
  "email": "elin.lundgren@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 9276
 }

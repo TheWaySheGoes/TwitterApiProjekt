@@ -1,9 +1,14 @@
 {
- "firstName": "Anna",
  "lastName": "Sibinska",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/214d9393-c01e-497c-8580-d033b9f57705_max.jpg",
+ "tweets": 859,
+ "firstName": "Anna",
+ "createdAt": "Fri Jul 05 18:11:11 +0000 2013",
+ "twitter": "AnnaSibinska",
+ "followers": 418,
  "constituency": "Göteborgs kommun",
  "birthYear": "1963",
+ "following": 1035,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "051870309210",
  "party": "MP",
  "email": "anna.sibinska@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 279
 }

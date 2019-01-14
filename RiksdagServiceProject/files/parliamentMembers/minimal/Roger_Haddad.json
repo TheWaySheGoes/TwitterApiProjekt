@@ -1,9 +1,14 @@
 {
- "firstName": "Roger",
  "lastName": "Haddad",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/521898f1-51de-46ff-8701-d28b8a0e651d_max.jpg",
+ "tweets": 34289,
+ "firstName": "Roger",
+ "createdAt": "Sat Oct 13 17:21:39 +0000 2012",
+ "twitter": "RogerHaddadLib",
+ "followers": 6105,
  "constituency": "Västmanlands län",
  "birthYear": "1978",
+ "following": 2411,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0308306375022",
  "party": "L",
  "email": "roger.haddad@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 14496
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Ebba",
  "lastName": "Hermansson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/109831a1-4305-4376-a3cf-ecc173855d65_max.jpg",
+ "tweets": 828,
+ "firstName": "Ebba",
+ "createdAt": "Sun Nov 20 18:12:09 +0000 2016",
+ "twitter": "HermanssonEbba",
+ "followers": 2976,
  "constituency": "Skåne läns västra",
  "birthYear": "1996",
+ "following": 313,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "055824190225",
  "party": "SD",
  "email": "ebba.hermansson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1057
 }

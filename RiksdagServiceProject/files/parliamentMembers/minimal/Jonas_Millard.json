@@ -1,9 +1,14 @@
 {
- "firstName": "Jonas",
  "lastName": "Millard",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9f5ae9ae-d5de-4253-8e8b-bb455a9f792e_max.jpg",
+ "tweets": 151,
+ "firstName": "Jonas",
+ "createdAt": "Thu Jan 06 16:30:59 +0000 2011",
+ "twitter": "JMillard81",
+ "followers": 185,
  "constituency": "Örebro län",
  "birthYear": "1981",
+ "following": 147,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0387358739126",
  "party": "SD",
  "email": "jonas.millard@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 19
 }

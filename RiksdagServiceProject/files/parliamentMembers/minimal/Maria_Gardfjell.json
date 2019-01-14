@@ -1,9 +1,14 @@
 {
- "firstName": "Maria",
  "lastName": "Gardfjell",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d9a13d2e-85ec-4c59-af10-773ff99b8eb1_max.jpg",
+ "tweets": 4149,
+ "firstName": "Maria",
+ "createdAt": "Fri Mar 13 08:14:22 +0000 2009",
+ "twitter": "MariaGardfjell",
+ "followers": 1709,
  "constituency": "Uppsala län",
  "birthYear": "1965",
+ "following": 1296,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "064711971110",
  "party": "MP",
  "email": "maria.gardfjell@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1588
 }

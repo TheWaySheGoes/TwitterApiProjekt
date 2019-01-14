@@ -1,9 +1,14 @@
 {
- "firstName": "Louise",
  "lastName": "Meijer",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/88e092fa-1769-43c7-bfef-9d260811c982_max.jpg",
+ "tweets": 6858,
+ "firstName": "Louise",
+ "createdAt": "Sat May 08 14:41:52 +0000 2010",
+ "twitter": "meijerlouise",
+ "followers": 3903,
  "constituency": "Skåne läns södra",
  "birthYear": "1990",
+ "following": 1597,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0616721755222",
  "party": "M",
  "email": "louise.meijer@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5384
 }

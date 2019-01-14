@@ -1,9 +1,14 @@
 {
- "firstName": "Johan",
  "lastName": "Hedin",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6014c0f6-d3b6-4ed4-ae63-ace3af71dc86_max.jpg",
+ "tweets": 9903,
+ "firstName": "Johan",
+ "createdAt": "Wed Jan 07 13:20:45 +0000 2009",
+ "twitter": "JohanHedin_PLC",
+ "followers": 2295,
  "constituency": "Stockholms kommun",
  "birthYear": "1969",
+ "following": 1674,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0204443909416",
  "party": "C",
  "email": "johan.hedin@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 4819
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Adam",
  "lastName": "Marttinen",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db2ca6ff-5620-4ece-8d31-97777f2efb48_max.jpg",
+ "tweets": 1234,
+ "firstName": "Adam",
+ "createdAt": "Wed Jul 13 13:49:18 +0000 2011",
+ "twitter": "AdamMarttinen",
+ "followers": 1777,
  "constituency": "Södermanlands län",
  "birthYear": "1983",
+ "following": 158,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0831039938224",
  "party": "SD",
  "email": "adam.marttinen@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 292
 }

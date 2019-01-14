@@ -1,9 +1,14 @@
 {
- "firstName": "Jimmy",
  "lastName": "Loord",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df3faccf-0ebc-4cae-b824-d18e1d3d0d92_max.jpg",
+ "tweets": 206,
+ "firstName": "Jimmy",
+ "createdAt": "Sun May 07 06:31:21 +0000 2017",
+ "twitter": "KdLoord",
+ "followers": 214,
  "constituency": "Kalmar län",
  "birthYear": "1980",
+ "following": 461,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0736867676621",
  "party": "KD",
  "email": "jimmy.loord@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 160
 }

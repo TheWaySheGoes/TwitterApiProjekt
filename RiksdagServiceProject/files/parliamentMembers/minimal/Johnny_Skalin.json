@@ -1,9 +1,14 @@
 {
- "firstName": "Johnny",
  "lastName": "Skalin",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/88b7893a-c9f3-4278-a486-353a1d77a96c_max.jpg",
+ "tweets": 420,
+ "firstName": "Johnny",
+ "createdAt": "Wed Apr 21 13:02:19 +0000 2010",
+ "twitter": "JohnnySkalin",
+ "followers": 2225,
  "constituency": "Västernorrlands län",
  "birthYear": "1978",
+ "following": 85,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0455086201022",
  "party": "SD",
  "email": "johnny.skalin@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 30
 }

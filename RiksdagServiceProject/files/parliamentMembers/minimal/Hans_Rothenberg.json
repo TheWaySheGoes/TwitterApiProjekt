@@ -1,9 +1,14 @@
 {
- "firstName": "Hans",
  "lastName": "Rothenberg",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/eec523be-f85c-43d5-83b0-e734e43905d1_max.jpg",
+ "tweets": 3326,
+ "firstName": "Hans",
+ "createdAt": "Sat May 01 16:40:51 +0000 2010",
+ "twitter": "hansrothenberg",
+ "followers": 2339,
  "constituency": "Göteborgs kommun",
  "birthYear": "1961",
+ "following": 1683,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0409540163215",
  "party": "M",
  "email": "hans.rothenberg@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1735
 }

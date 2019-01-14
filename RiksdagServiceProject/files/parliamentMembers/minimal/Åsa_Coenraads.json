@@ -1,9 +1,14 @@
 {
- "firstName": "Åsa",
  "lastName": "Coenraads",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d07b112d-3095-4283-bf67-806499587845_max.jpg",
+ "tweets": 2181,
+ "firstName": "Åsa",
+ "createdAt": "Sat Oct 02 15:30:23 +0000 2010",
+ "twitter": "AsaCoenraads",
+ "followers": 2078,
  "constituency": "Västmanlands län",
  "birthYear": "1978",
+ "following": 299,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0564126739422",
  "party": "M",
  "email": "asa.coenraads@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 261
 }

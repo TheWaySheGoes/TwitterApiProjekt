@@ -1,6 +1,7 @@
 package main;
 
 
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -23,6 +24,9 @@ import org.xml.sax.helpers.XMLReaderFactory;
 import org.xml.sax.Attributes;
 import org.xml.sax.helpers.DefaultHandler;
 
+import java.time.LocalDate;
+import java.time.temporal.ChronoUnit;
+
 /**
  * Handles JSON- and XML-files from riksdagens API and removes unneeded data,
  * divides them to smaller & more manageable sorted files.
@@ -37,7 +41,8 @@ public class ManageJson {
 		//jsonHandler.getParliamentVotes();
 		//jsonHandler.createParliamentMembersList();
 		//jsonHandler.getAllVotes();
-		jsonHandler.createParliamentMemberFiles();
+		//jsonHandler.createParliamentMemberFiles();
+		jsonHandler.addTwitterInfo();
 	}
 
 	/*
@@ -198,6 +203,30 @@ public class ManageJson {
 			String id = memberList.getJSONObject(i).getString("id");
 			JSONObject parliamentMember = parliamentMembers.getJSONObject(id);
 			writeFile("parliamentMembers/minimal/" + parliamentMember.getString("firstName") + "_" + parliamentMember.getString("lastName"), parliamentMember.toString(INDENT_FACTOR));
+		}
+	}
+	
+	public void addTwitterInfo() {
+		JSONArray twitterProfiles = new JSONObject(readFile("files/twitter/twitterUsers.json")).getJSONArray("users");
+		
+		int count = 0;
+		for(int i = 0; i < twitterProfiles.length(); i++) {
+			JSONObject profile = twitterProfiles.getJSONObject(i);
+			String name = profile.getString("name");
+			name = name.replace(" ", "_");
+			
+			String path = "files/parliamentMembers/minimal/" + name + ".json";			
+			if((new File(path).exists())){
+				JSONObject memberFile = new JSONObject(readFile(path));
+				memberFile.put("twitter", profile.get("screen_name"));
+				memberFile.put("followers", profile.get("followers_count"));
+				memberFile.put("following", profile.get("friends_count"));
+				memberFile.put("likes", profile.get("favourites_count"));
+				memberFile.put("tweets", profile.get("statuses_count"));
+				memberFile.put("createdAt", profile.get("created_at"));				
+				writeFile("parliamentMembers/minimal/" + name, memberFile.toString(INDENT_FACTOR));
+			}
+			
 		}
 	}
 

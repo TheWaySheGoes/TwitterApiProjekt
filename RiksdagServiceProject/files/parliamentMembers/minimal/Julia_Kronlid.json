@@ -1,9 +1,14 @@
 {
- "firstName": "Julia",
  "lastName": "Kronlid",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/04727b66-64cd-4880-be85-dc8fe873bf8d_max.jpg",
+ "tweets": 223,
+ "firstName": "Julia",
+ "createdAt": "Mon Jun 09 21:00:27 +0000 2014",
+ "twitter": "JuliaKronlid",
+ "followers": 2783,
  "constituency": "Stockholms län",
  "birthYear": "1980",
+ "following": 135,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0638497389621",
  "party": "SD",
  "email": "julia.kronlid@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 26
 }

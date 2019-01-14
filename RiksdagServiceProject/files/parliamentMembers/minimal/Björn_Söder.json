@@ -1,9 +1,14 @@
 {
- "firstName": "Björn",
  "lastName": "Söder",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/06d7c195-c170-4103-bcc6-1d9c0d43b169_max.jpg",
+ "tweets": 975,
+ "firstName": "Björn",
+ "createdAt": "Thu Apr 23 21:54:18 +0000 2009",
+ "twitter": "bjornsoder",
+ "followers": 5150,
  "constituency": "Skåne läns norra och östra",
  "birthYear": "1976",
+ "following": 36,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0452755722723",
  "party": "SD",
  "email": "bjorn.soder@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1
 }

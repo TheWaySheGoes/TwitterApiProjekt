@@ -1,9 +1,14 @@
 {
- "firstName": "Sten",
  "lastName": "Bergheden",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/641344b2-dc65-4282-b308-8fca005983a1_max.jpg",
+ "tweets": 1742,
+ "firstName": "Sten",
+ "createdAt": "Tue Mar 25 20:22:54 +0000 2014",
+ "twitter": "StenBergheden",
+ "followers": 1182,
  "constituency": "Västra Götalands läns östra",
  "birthYear": "1965",
+ "following": 702,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0828721176319",
  "party": "M",
  "email": "sten.bergheden@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1652
 }

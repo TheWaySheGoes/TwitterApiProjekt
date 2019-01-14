@@ -1,9 +1,14 @@
 {
- "firstName": "Betty",
  "lastName": "Malmberg",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e32075e3-a115-4add-8652-4993f2f8d8ab_max.jpg",
+ "tweets": 736,
+ "firstName": "Betty",
+ "createdAt": "Sun Aug 10 18:27:04 +0000 2014",
+ "twitter": "BettyMalmberg",
+ "followers": 843,
  "constituency": "Östergötlands län",
  "birthYear": "1958",
+ "following": 642,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0547818628111",
  "party": "M",
  "email": "betty.malmberg@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1913
 }

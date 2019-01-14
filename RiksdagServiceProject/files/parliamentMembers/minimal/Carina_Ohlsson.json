@@ -1,9 +1,14 @@
 {
- "firstName": "Carina",
  "lastName": "Ohlsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3279d-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 2763,
+ "firstName": "Carina",
+ "createdAt": "Thu May 30 10:18:23 +0000 2013",
+ "twitter": "carinagohlsson",
+ "followers": 1143,
  "constituency": "Västra Götalands läns östra",
  "birthYear": "1957",
+ "following": 810,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0859968278117",
  "party": "S",
  "email": "carina.ohlsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3932
 }

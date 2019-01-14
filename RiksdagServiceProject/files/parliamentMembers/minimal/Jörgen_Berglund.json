@@ -1,9 +1,14 @@
 {
- "firstName": "Jörgen",
  "lastName": "Berglund",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fe6f437b-729a-4943-8e41-f43d39a5605f_max.jpg",
+ "tweets": 2495,
+ "firstName": "Jörgen",
+ "createdAt": "Sun Apr 07 19:18:10 +0000 2013",
+ "twitter": "jorgen_berglund",
+ "followers": 826,
  "constituency": "Västernorrlands län",
  "birthYear": "1974",
+ "following": 357,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0628005785225",
  "party": "M",
  "email": "jorgen.berglund@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1457
 }

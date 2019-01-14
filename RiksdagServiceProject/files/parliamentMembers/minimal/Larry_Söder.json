@@ -1,9 +1,14 @@
 {
- "firstName": "Larry",
  "lastName": "Söder",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e238e06a-acac-4fae-829c-1773ee851878_max.jpg",
+ "tweets": 4354,
+ "firstName": "Larry",
+ "createdAt": "Sun Feb 01 16:18:24 +0000 2009",
+ "twitter": "larrysoder",
+ "followers": 476,
  "constituency": "Hallands län",
  "birthYear": "1969",
+ "following": 140,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0992473266516",
  "party": "KD",
  "email": "larry.soder@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 130
 }

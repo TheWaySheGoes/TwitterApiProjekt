@@ -1,9 +1,14 @@
 {
- "firstName": "Carina",
  "lastName": "Ödebrink",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/10b75fcf-dbac-4fba-9773-7e8889c237b2_max.jpg",
+ "tweets": 1236,
+ "firstName": "Carina",
+ "createdAt": "Sat Oct 20 17:09:35 +0000 2012",
+ "twitter": "carinaodebrink",
+ "followers": 332,
  "constituency": "Jönköpings län",
  "birthYear": "1961",
+ "following": 346,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "02910042914",
  "party": "S",
  "email": "carina.odebrink@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1963
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Karin",
  "lastName": "Enström",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32504-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 0,
+ "firstName": "Karin",
+ "createdAt": "Mon Aug 01 21:10:07 +0000 2011",
+ "twitter": "KarinEnstrm",
+ "followers": 308,
  "constituency": "Stockholms län",
  "birthYear": "1966",
+ "following": 7,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0607691439013",
  "party": "M",
  "email": "karin.enstrom@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 0
 }

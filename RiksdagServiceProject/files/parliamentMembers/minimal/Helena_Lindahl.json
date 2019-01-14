@@ -1,9 +1,14 @@
 {
- "firstName": "Helena",
  "lastName": "Lindahl",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6cca7c48-b127-4d65-8052-ac3588a50dbd_max.jpg",
+ "tweets": 10,
+ "firstName": "Helena",
+ "createdAt": "Wed Aug 10 16:03:13 +0000 2011",
+ "twitter": "HelenaLindahl",
+ "followers": 110,
  "constituency": "Västerbottens län",
  "birthYear": "1972",
+ "following": 27,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "084624777218",
  "party": "C",
  "email": "helena.lindahl@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 18
 }

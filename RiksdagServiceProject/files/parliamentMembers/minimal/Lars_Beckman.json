@@ -1,9 +1,14 @@
 {
- "firstName": "Lars",
  "lastName": "Beckman",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/db90fc94-9496-4748-9b84-bcfadc24af74_max.jpg",
+ "tweets": 270092,
+ "firstName": "Lars",
+ "createdAt": "Sat May 14 21:19:24 +0000 2011",
+ "twitter": "beckmansasikter",
+ "followers": 13606,
  "constituency": "Gävleborgs län",
  "birthYear": "1967",
+ "following": 14965,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0588282566419",
  "party": "M",
  "email": "lars.beckman@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 154606
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Tobias",
  "lastName": "Billström",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0918737e-5224-47aa-a86b-d64f6d820618_max.jpg",
+ "tweets": 3952,
+ "firstName": "Tobias",
+ "createdAt": "Wed Feb 11 15:30:33 +0000 2009",
+ "twitter": "TobiasBillstrom",
+ "followers": 8474,
  "constituency": "Malmö kommun",
  "birthYear": "1973",
+ "following": 162,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0956595590924",
  "party": "M",
  "email": "tobias.billstrom@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5533
 }

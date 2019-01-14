@@ -1,9 +1,14 @@
 {
- "firstName": "Heléne",
  "lastName": "Björklund",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a4581b8d-78fd-41c1-a55d-7fe9ed93c878_max.jpg",
+ "tweets": 7281,
+ "firstName": "Heléne",
+ "createdAt": "Sat Sep 17 13:34:39 +0000 2011",
+ "twitter": "helenebjorklund",
+ "followers": 1308,
  "constituency": "Blekinge län",
  "birthYear": "1972",
+ "following": 889,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0926214745119",
  "party": "S",
  "email": "helene.bjorklund@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2309
 }

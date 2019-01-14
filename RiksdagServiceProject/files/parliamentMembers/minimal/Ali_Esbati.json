@@ -1,9 +1,14 @@
 {
- "firstName": "Ali",
  "lastName": "Esbati",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/979e9852-69ed-4077-8140-52ab99414a6c_max.jpg",
+ "tweets": 65053,
+ "firstName": "Ali",
+ "createdAt": "Thu Jul 30 13:01:59 +0000 2009",
+ "twitter": "aliesbati",
+ "followers": 33421,
  "constituency": "Stockholms kommun",
  "birthYear": "1976",
+ "following": 1336,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "014386615025",
  "party": "V",
  "email": "ali.esbati@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 18325
 }

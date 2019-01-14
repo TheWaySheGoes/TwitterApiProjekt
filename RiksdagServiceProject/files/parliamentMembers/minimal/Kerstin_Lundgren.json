@@ -1,9 +1,14 @@
 {
- "firstName": "Kerstin",
  "lastName": "Lundgren",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4a514760-f0a7-47a7-8a51-91bd46693df7_max.jpg",
+ "tweets": 13884,
+ "firstName": "Kerstin",
+ "createdAt": "Fri Mar 13 22:06:53 +0000 2009",
+ "twitter": "KerstinLundgren",
+ "followers": 2927,
  "constituency": "Stockholms län",
  "birthYear": "1955",
+ "following": 1112,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0155487380917",
  "party": "C",
  "email": "kerstin.lundgren@riksdagen.se",
- "status": "Tredje vice talman (tjänstgörande riksdagsledamot)"
+ "status": "Tredje vice talman (tjänstgörande riksdagsledamot)",
+ "likes": 3153
 }

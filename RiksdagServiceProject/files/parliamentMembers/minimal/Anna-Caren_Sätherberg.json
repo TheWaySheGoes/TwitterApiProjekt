@@ -1,9 +1,14 @@
 {
- "firstName": "Anna-Caren",
  "lastName": "Sätherberg",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c2917e84-a1f8-4de8-9c71-a492eee1f43f_max.jpg",
+ "tweets": 5723,
+ "firstName": "Anna-Caren",
+ "createdAt": "Fri Oct 26 14:19:46 +0000 2012",
+ "twitter": "AnnaCarenS",
+ "followers": 1372,
  "constituency": "Jämtlands län",
  "birthYear": "1964",
+ "following": 1215,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0407081382317",
  "party": "S",
  "email": "anna-caren.satherberg@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2451
 }

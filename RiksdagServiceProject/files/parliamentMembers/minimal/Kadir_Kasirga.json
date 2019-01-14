@@ -1,9 +1,14 @@
 {
- "firstName": "Kadir",
  "lastName": "Kasirga",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/81e7b3dd-c260-45d1-89a7-ddd6cbe6582d_max.jpg",
+ "tweets": 131,
+ "firstName": "Kadir",
+ "createdAt": "Sat Aug 01 02:34:02 +0000 2015",
+ "twitter": "kasirga_kadir",
+ "followers": 140,
  "constituency": "Stockholms kommun",
  "birthYear": "1975",
+ "following": 260,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0425115010020",
  "party": "S",
  "email": "kadir.kasirga@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 171
 }

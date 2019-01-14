@@ -1,9 +1,14 @@
 {
- "firstName": "Laila",
  "lastName": "Naraghi",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f65cb6f1-7001-4e8e-8d32-89d534577ab0_max.jpg",
+ "tweets": 3232,
+ "firstName": "Laila",
+ "createdAt": "Fri Apr 15 20:37:32 +0000 2011",
+ "twitter": "lailanaraghi",
+ "followers": 1235,
  "constituency": "Kalmar län",
  "birthYear": "1982",
+ "following": 531,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0619928872229",
  "party": "S",
  "email": "laila.naraghi@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5932
 }

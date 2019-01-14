@@ -1,9 +1,14 @@
 {
- "firstName": "Clara",
  "lastName": "Aranda",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6977f22f-363b-40fb-8f8f-8163b4492345_max.jpg",
+ "tweets": 43,
+ "firstName": "Clara",
+ "createdAt": "Tue Jul 31 16:44:11 +0000 2012",
+ "twitter": "aranda_clara",
+ "followers": 152,
  "constituency": "Skåne läns södra",
  "birthYear": "1988",
+ "following": 74,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0130640724922",
  "party": "SD",
  "email": "clara.aranda@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 87
 }

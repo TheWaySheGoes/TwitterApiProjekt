@@ -1,9 +1,14 @@
 {
- "firstName": "Lotta",
  "lastName": "Olsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acbfe365-7ddb-44db-b076-105b2b9b689a_max.jpg",
+ "tweets": 4003,
+ "firstName": "Lotta",
+ "createdAt": "Tue Jan 12 18:07:36 +0000 2010",
+ "twitter": "LottaAOlsson",
+ "followers": 1124,
  "constituency": "Örebro län",
  "birthYear": "1960",
+ "following": 885,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "066769783310",
  "party": "M",
  "email": "charlotta.olsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1963
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Jens",
  "lastName": "Holm",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5b7ac02c-0819-426d-bc5d-41b8c21ca4dd_max.jpg",
+ "tweets": 10157,
+ "firstName": "Jens",
+ "createdAt": "Tue Apr 14 07:43:42 +0000 2009",
+ "twitter": "holmjens",
+ "followers": 6078,
  "constituency": "Stockholms kommun",
  "birthYear": "1971",
+ "following": 743,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0216534495014",
  "party": "V",
  "email": "jens.holm@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 8251
 }

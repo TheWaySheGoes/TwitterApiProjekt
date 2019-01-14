@@ -1,9 +1,14 @@
 {
- "firstName": "Camilla",
  "lastName": "Brodin",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/86c365a5-452c-4bca-8871-45bf67a44645_max.jpg",
+ "tweets": 52,
+ "firstName": "Camilla",
+ "createdAt": "Mon Jun 18 19:27:09 +0000 2012",
+ "twitter": "CamillaBrodin",
+ "followers": 223,
  "constituency": "Stockholms län",
  "birthYear": "1979",
+ "following": 187,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0378597308227",
  "party": "KD",
  "email": "camilla.brodin@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 385
 }

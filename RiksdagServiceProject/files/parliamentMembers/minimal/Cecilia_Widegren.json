@@ -1,9 +1,14 @@
 {
- "firstName": "Cecilia",
  "lastName": "Widegren",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a611e75-37ca-434d-9767-9fb3b60ea82f_max.jpg",
+ "tweets": 8257,
+ "firstName": "Cecilia",
+ "createdAt": "Wed Jul 20 16:09:17 +0000 2011",
+ "twitter": "WidegrenCecilia",
+ "followers": 3326,
  "constituency": "Västra Götalands läns östra",
  "birthYear": "1973",
+ "following": 1415,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0893004490313",
  "party": "M",
  "email": "cecilia.widegren@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 4273
 }

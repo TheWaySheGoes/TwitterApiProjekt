@@ -1,9 +1,14 @@
 {
- "firstName": "Ulla",
  "lastName": "Andersson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a9eff036-3d8c-487e-9325-e3bece8df1e4_max.jpg",
+ "tweets": 35924,
+ "firstName": "Ulla",
+ "createdAt": "Wed Jun 16 18:11:18 +0000 2010",
+ "twitter": "AnderssonUlla",
+ "followers": 8751,
  "constituency": "Gävleborgs län",
  "birthYear": "1963",
+ "following": 1069,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0628190530410",
  "party": "V",
  "email": "ulla.andersson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 13294
 }

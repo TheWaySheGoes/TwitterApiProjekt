@@ -1,9 +1,14 @@
 {
- "firstName": "Helena",
  "lastName": "Vilhelmsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bcf8f6dc-7be4-46d3-bb3e-df793b2c5256_max.jpg",
+ "tweets": 4438,
+ "firstName": "Helena",
+ "createdAt": "Fri Mar 21 12:32:07 +0000 2014",
+ "twitter": "centerhelena",
+ "followers": 435,
  "constituency": "Örebro län",
  "birthYear": "1965",
+ "following": 317,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0903081277919",
  "party": "C",
  "email": "helena.vilhelmsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 7891
 }

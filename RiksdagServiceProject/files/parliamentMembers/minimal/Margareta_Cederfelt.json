@@ -1,9 +1,14 @@
 {
- "firstName": "Margareta",
  "lastName": "Cederfelt",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c329da-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 6101,
+ "firstName": "Margareta",
+ "createdAt": "Wed Oct 10 12:15:16 +0000 2012",
+ "twitter": "MCederfelt",
+ "followers": 2135,
  "constituency": "Stockholms kommun",
  "birthYear": "1959",
+ "following": 1503,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0970259744617",
  "party": "M",
  "email": "margareta.cederfelt@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 4035
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Jonas",
  "lastName": "Eriksson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a38e0ebf-a2df-4cba-81eb-81d6fcf342cd_max.jpg",
+ "tweets": 451,
+ "firstName": "Jonas",
+ "createdAt": "Fri Apr 24 12:04:48 +0000 2009",
+ "twitter": "Jonas_Eriksson",
+ "followers": 957,
  "constituency": "Örebro län",
  "birthYear": "1967",
+ "following": 36,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0157062733618",
  "party": "MP",
  "email": "jonas.eriksson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 54
 }

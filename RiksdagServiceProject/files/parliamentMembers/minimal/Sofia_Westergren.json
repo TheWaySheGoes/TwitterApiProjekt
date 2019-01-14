@@ -1,9 +1,14 @@
 {
- "firstName": "Sofia",
  "lastName": "Westergren",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1ee04f4d-e5a6-4aab-8461-f5baa7d2a2da_max.jpg",
+ "tweets": 581,
+ "firstName": "Sofia",
+ "createdAt": "Wed Nov 27 13:27:55 +0000 2013",
+ "twitter": "WestergrenSofia",
+ "followers": 264,
  "constituency": "Västra Götalands läns västra",
  "birthYear": "1974",
+ "following": 198,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "022805994927",
  "party": "M",
  "email": "sofia.westergren@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 479
 }

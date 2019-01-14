@@ -1,9 +1,14 @@
 {
- "firstName": "Ida",
  "lastName": "Karkiainen",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7891a68a-bcbd-43a3-bd8b-90bdbb040f45_max.jpg",
+ "tweets": 9,
+ "firstName": "Ida",
+ "createdAt": "Wed Feb 13 12:14:09 +0000 2013",
+ "twitter": "IdaKarkiainen",
+ "followers": 137,
  "constituency": "Norrbottens län",
  "birthYear": "1988",
+ "following": 25,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0509830681123",
  "party": "S",
  "email": "ida.karkiainen@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 50
 }

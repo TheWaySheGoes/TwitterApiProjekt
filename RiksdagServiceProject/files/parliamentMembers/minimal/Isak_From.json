@@ -1,9 +1,14 @@
 {
- "firstName": "Isak",
  "lastName": "From",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cebc9890-55f1-41ff-acc7-af2de3e4320e_max.jpg",
+ "tweets": 2764,
+ "firstName": "Isak",
+ "createdAt": "Tue Jul 02 22:52:25 +0000 2013",
+ "twitter": "FromIsak",
+ "followers": 623,
  "constituency": "Västerbottens län",
  "birthYear": "1967",
+ "following": 755,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0506482805418",
  "party": "S",
  "email": "isak.from@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2534
 }

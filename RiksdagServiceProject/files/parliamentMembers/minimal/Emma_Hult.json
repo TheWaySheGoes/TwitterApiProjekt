@@ -1,9 +1,14 @@
 {
- "firstName": "Emma",
  "lastName": "Hult",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae37cc33-2580-4221-aa93-4dd4621ecb98_max.jpg",
+ "tweets": 6193,
+ "firstName": "Emma",
+ "createdAt": "Sun Feb 10 20:36:12 +0000 2013",
+ "twitter": "emma_hult",
+ "followers": 1604,
  "constituency": "Jönköpings län",
  "birthYear": "1988",
+ "following": 1139,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0628870165823",
  "party": "MP",
  "email": "emma.hult@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3677
 }

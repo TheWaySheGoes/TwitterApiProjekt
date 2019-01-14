@@ -1,9 +1,14 @@
 {
- "firstName": "Per",
  "lastName": "Ramhorn",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e9375099-ca5f-4aac-a0ab-de8e3ed1ee99_max.jpg",
+ "tweets": 1,
+ "firstName": "Per",
+ "createdAt": "Tue Nov 08 19:16:53 +0000 2016",
+ "twitter": "PerRamhorn",
+ "followers": 28,
  "constituency": "Malmö kommun",
  "birthYear": "1967",
+ "following": 19,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0925652297119",
  "party": "SD",
  "email": "per.ramhorn@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 0
 }

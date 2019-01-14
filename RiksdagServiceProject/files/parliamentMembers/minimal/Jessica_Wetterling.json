@@ -1,9 +1,14 @@
 {
- "firstName": "Jessica",
  "lastName": "Wetterling",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dc0c1e6e-450b-4763-be41-c3f810d50b72_max.jpg",
+ "tweets": 227,
+ "firstName": "Jessica",
+ "createdAt": "Sun Sep 07 12:07:57 +0000 2014",
+ "twitter": "jes_wet",
+ "followers": 305,
  "constituency": "Västra Götalands läns västra",
  "birthYear": "1986",
+ "following": 658,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0481460392727",
  "party": "V",
  "email": "jessica.wetterling@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 493
 }

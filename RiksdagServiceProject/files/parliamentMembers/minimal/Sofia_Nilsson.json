@@ -1,9 +1,14 @@
 {
- "firstName": "Sofia",
  "lastName": "Nilsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/560c0817-1b91-478a-b273-87a82888328e_max.jpg",
+ "tweets": 1905,
+ "firstName": "Sofia",
+ "createdAt": "Fri May 08 17:10:38 +0000 2009",
+ "twitter": "SofiaNBroby",
+ "followers": 331,
  "constituency": "Skåne läns norra och östra",
  "birthYear": "1982",
+ "following": 338,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0454698803028",
  "party": "C",
  "email": "sofia.nilsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1300
 }

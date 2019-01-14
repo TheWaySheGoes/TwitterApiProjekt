@@ -1,9 +1,14 @@
 {
- "firstName": "Maria",
  "lastName": "Ferm",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f7506cc9-0867-4ec3-a0ba-8a1a127060f8_max.jpg",
+ "tweets": 15168,
+ "firstName": "Maria",
+ "createdAt": "Sat Jul 12 09:48:13 +0000 2008",
+ "twitter": "MariaFerm",
+ "followers": 15359,
  "constituency": "Stockholms kommun",
  "birthYear": "1985",
+ "following": 1015,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0462699892622",
  "party": "MP",
  "email": "maria.ferm@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1990
 }

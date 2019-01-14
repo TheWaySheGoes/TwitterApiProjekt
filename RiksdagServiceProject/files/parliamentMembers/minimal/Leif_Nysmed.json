@@ -1,9 +1,14 @@
 {
- "firstName": "Leif",
  "lastName": "Nysmed",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bdd26f21-dca7-4e7c-af32-131937aa539b_max.jpg",
+ "tweets": 4265,
+ "firstName": "Leif",
+ "createdAt": "Wed Feb 29 08:31:31 +0000 2012",
+ "twitter": "LeifNysmed",
+ "followers": 885,
  "constituency": "Stockholms län",
  "birthYear": "1970",
+ "following": 733,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0376353897112",
  "party": "S",
  "email": "leif.nysmed@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3459
 }

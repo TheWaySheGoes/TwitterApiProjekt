@@ -1,9 +1,14 @@
 {
- "firstName": "Fredrik",
  "lastName": "Malm",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cf017275-5272-4506-a686-4e1d8edc5ab6_max.jpg",
+ "tweets": 10861,
+ "firstName": "Fredrik",
+ "createdAt": "Wed Feb 04 16:51:13 +0000 2009",
+ "twitter": "FredrikMalm",
+ "followers": 8547,
  "constituency": "Stockholms kommun",
  "birthYear": "1977",
+ "following": 755,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0766496753128",
  "party": "L",
  "email": "fredrik.malm@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3098
 }

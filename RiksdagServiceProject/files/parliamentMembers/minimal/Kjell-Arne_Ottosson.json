@@ -1,9 +1,14 @@
 {
- "firstName": "Kjell-Arne",
  "lastName": "Ottosson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/708eae46-00f3-433c-ba07-7129def782fb_max.jpg",
+ "tweets": 951,
+ "firstName": "Kjell-Arne",
+ "createdAt": "Wed Jan 25 12:58:35 +0000 2012",
+ "twitter": "KAO_KD",
+ "followers": 453,
  "constituency": "Värmlands län",
  "birthYear": "1975",
+ "following": 843,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0509415296421",
  "party": "KD",
  "email": "kjell-arne.ottosson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 662
 }

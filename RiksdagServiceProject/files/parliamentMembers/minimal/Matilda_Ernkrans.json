@@ -1,9 +1,14 @@
 {
- "firstName": "Matilda",
  "lastName": "Ernkrans",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8166bd73-bf10-4ef8-8e01-1975ca921c12_max.jpg",
+ "tweets": 5783,
+ "firstName": "Matilda",
+ "createdAt": "Fri Jul 06 19:35:26 +0000 2012",
+ "twitter": "ernkrans",
+ "followers": 3849,
  "constituency": "Örebro län",
  "birthYear": "1973",
+ "following": 2074,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0983984918111",
  "party": "S",
  "email": "matilda.ernkrans@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1962
 }

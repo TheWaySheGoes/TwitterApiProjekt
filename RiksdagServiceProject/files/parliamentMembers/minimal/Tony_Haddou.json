@@ -1,9 +1,14 @@
 {
- "firstName": "Tony",
  "lastName": "Haddou",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8e21a563-23d4-46cd-a901-acf5839d72d9_max.jpg",
+ "tweets": 1967,
+ "firstName": "Tony",
+ "createdAt": "Sun Nov 23 18:29:10 +0000 2014",
+ "twitter": "TonyHaddou",
+ "followers": 417,
  "constituency": "Göteborgs kommun",
  "birthYear": "1989",
+ "following": 93,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0920901966627",
  "party": "V",
  "email": "tony.haddou@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1536
 }

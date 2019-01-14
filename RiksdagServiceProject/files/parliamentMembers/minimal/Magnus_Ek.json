@@ -1,9 +1,14 @@
 {
- "firstName": "Magnus",
  "lastName": "Ek",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/529ac523-d10b-444b-8441-56a24a66ef5b_max.jpg",
+ "tweets": 7887,
+ "firstName": "Magnus",
+ "createdAt": "Wed May 23 07:16:38 +0000 2012",
+ "twitter": "magnusaek",
+ "followers": 2619,
  "constituency": "Östergötlands län",
  "birthYear": "1994",
+ "following": 1177,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "057993099726",
  "party": "C",
  "email": "magnus.ek@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 8954
 }

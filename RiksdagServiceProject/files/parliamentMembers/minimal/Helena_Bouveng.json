@@ -1,9 +1,14 @@
 {
- "firstName": "Helena",
  "lastName": "Bouveng",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a65ace9d-bbae-43cd-8a21-119c8b3b0bfb_max.jpg",
+ "tweets": 1224,
+ "firstName": "Helena",
+ "createdAt": "Wed Apr 06 13:42:28 +0000 2011",
+ "twitter": "helenabouveng",
+ "followers": 1635,
  "constituency": "Jönköpings län",
  "birthYear": "1962",
+ "following": 330,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0729710260118",
  "party": "M",
  "email": "helena.bouveng@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1716
 }

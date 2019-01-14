@@ -1,9 +1,14 @@
 {
- "firstName": "Roger",
  "lastName": "Hedlund",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/dd0d47ea-5e71-4ec9-b987-3261320ac857_max.jpg",
+ "tweets": 2657,
+ "firstName": "Roger",
+ "createdAt": "Thu Jan 14 11:24:04 +0000 2010",
+ "twitter": "rogerhedlund",
+ "followers": 1284,
  "constituency": "Gävleborgs län",
  "birthYear": "1979",
+ "following": 404,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0773497241728",
  "party": "SD",
  "email": "roger.hedlund@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 33
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Yasmine",
  "lastName": "Posio",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3b9b4858-4b06-4e43-b452-a0dc9d730e9a_max.jpg",
+ "tweets": 451,
+ "firstName": "Yasmine",
+ "createdAt": "Thu Sep 03 07:09:12 +0000 2015",
+ "twitter": "YasPosio",
+ "followers": 292,
  "constituency": "Göteborgs kommun",
  "birthYear": "1974",
+ "following": 95,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0468765214727",
  "party": "V",
  "email": "yasmine.posio@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1828
 }

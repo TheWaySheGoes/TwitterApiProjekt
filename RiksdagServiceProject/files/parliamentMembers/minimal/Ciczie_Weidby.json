@@ -1,9 +1,14 @@
 {
- "firstName": "Ciczie",
  "lastName": "Weidby",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b34f05f5-d73a-428c-88a1-4e112c650498_max.jpg",
+ "tweets": 1200,
+ "firstName": "Ciczie",
+ "createdAt": "Sun Mar 29 19:42:55 +0000 2009",
+ "twitter": "ciczie",
+ "followers": 157,
  "constituency": "Jönköpings län",
  "birthYear": "1974",
+ "following": 154,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0776705932527",
  "party": "V",
  "email": "ciczie.weidby@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1885
 }

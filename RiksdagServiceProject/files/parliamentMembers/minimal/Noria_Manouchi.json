@@ -1,9 +1,14 @@
 {
- "firstName": "Noria",
  "lastName": "Manouchi",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d211f58-34b9-44c9-b2f0-def45ed3e03c_max.jpg",
+ "tweets": 104,
+ "firstName": "Noria",
+ "createdAt": "Sun May 09 09:57:26 +0000 2010",
+ "twitter": "NoriaManouchi",
+ "followers": 385,
  "constituency": "Malmö kommun",
  "birthYear": "1991",
+ "following": 599,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0793372891224",
  "party": "M",
  "email": "noria.manouchi@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 62
 }

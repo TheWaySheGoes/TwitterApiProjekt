@@ -1,9 +1,14 @@
 {
- "firstName": "Håkan",
  "lastName": "Svenneling",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/de1f77c9-338c-4547-a223-9898cd8ed084_max.jpg",
+ "tweets": 8476,
+ "firstName": "Håkan",
+ "createdAt": "Thu Apr 16 17:37:05 +0000 2009",
+ "twitter": "hsvenneling",
+ "followers": 1627,
  "constituency": "Värmlands län",
  "birthYear": "1985",
+ "following": 1767,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0682989845822",
  "party": "V",
  "email": "hakan.svenneling@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 9181
 }

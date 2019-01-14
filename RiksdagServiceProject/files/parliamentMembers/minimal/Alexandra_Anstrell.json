@@ -1,9 +1,14 @@
 {
- "firstName": "Alexandra",
  "lastName": "Anstrell",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8310e472-996b-4c8a-bce5-4d09fb20a66a_max.jpg",
+ "tweets": 95,
+ "firstName": "Alexandra",
+ "createdAt": "Sat Mar 03 06:55:27 +0000 2012",
+ "twitter": "aanstrell",
+ "followers": 163,
  "constituency": "Stockholms län",
  "birthYear": "1974",
+ "following": 67,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0866055333028",
  "party": "M",
  "email": "alexandra.anstrell@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 82
 }

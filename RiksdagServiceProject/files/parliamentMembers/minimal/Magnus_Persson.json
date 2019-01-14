@@ -1,9 +1,14 @@
 {
- "firstName": "Magnus",
  "lastName": "Persson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/de52ae16-706b-4138-a194-aec42fd28aab_max.jpg",
+ "tweets": 1160,
+ "firstName": "Magnus",
+ "createdAt": "Fri Jul 20 07:25:27 +0000 2012",
+ "twitter": "MangePersson",
+ "followers": 412,
  "constituency": "Dalarnas län",
  "birthYear": "1970",
+ "following": 152,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0641953830512",
  "party": "SD",
  "email": "magnus.persson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 39
 }

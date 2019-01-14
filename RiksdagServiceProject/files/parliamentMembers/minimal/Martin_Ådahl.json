@@ -1,9 +1,14 @@
 {
- "firstName": "Martin",
  "lastName": "Ådahl",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1e70f7df-dd11-410b-941a-bcac14e919a8_max.jpg",
+ "tweets": 1724,
+ "firstName": "Martin",
+ "createdAt": "Tue Apr 16 12:37:04 +0000 2013",
+ "twitter": "MartinAadahl",
+ "followers": 4449,
  "constituency": "Stockholms kommun",
  "birthYear": "1969",
+ "following": 81,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0494843794418",
  "party": "C",
  "email": "martin.adahl@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 576
 }

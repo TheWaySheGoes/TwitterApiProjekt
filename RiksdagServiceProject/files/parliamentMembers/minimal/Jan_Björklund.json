@@ -1,9 +1,14 @@
 {
- "firstName": "Jan",
  "lastName": "Björklund",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fb860100-9be3-4365-b84c-24fe53434882_max.jpg",
+ "tweets": 3864,
+ "firstName": "Jan",
+ "createdAt": "Mon Nov 24 14:53:49 +0000 2014",
+ "twitter": "bjorklundjan",
+ "followers": 64355,
  "constituency": "Stockholms län",
  "birthYear": "1962",
+ "following": 462,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0603490586517",
  "party": "L",
  "email": "jan.bjorklund@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 555
 }

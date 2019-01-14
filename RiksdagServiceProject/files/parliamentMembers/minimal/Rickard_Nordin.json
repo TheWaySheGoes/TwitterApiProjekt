@@ -1,9 +1,14 @@
 {
- "firstName": "Rickard",
  "lastName": "Nordin",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a57d39bb-9f60-4def-ab90-97791ec56447_max.jpg",
+ "tweets": 13459,
+ "firstName": "Rickard",
+ "createdAt": "Wed Mar 31 09:51:35 +0000 2010",
+ "twitter": "rickardnordin",
+ "followers": 3896,
  "constituency": "Göteborgs kommun",
  "birthYear": "1983",
+ "following": 1523,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0132818093422",
  "party": "C",
  "email": "rickard.nordin@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 16767
 }

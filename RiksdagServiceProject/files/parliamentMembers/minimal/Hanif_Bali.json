@@ -1,9 +1,14 @@
 {
- "firstName": "Hanif",
  "lastName": "Bali",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b86c28d2-48d1-41a6-bea3-b3317cdfeec8_max.jpg",
+ "tweets": 52917,
+ "firstName": "Hanif",
+ "createdAt": "Thu Jan 14 10:56:59 +0000 2010",
+ "twitter": "hanifbali",
+ "followers": 99751,
  "constituency": "Stockholms län",
  "birthYear": "1987",
+ "following": 859,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0166790812128",
  "party": "M",
  "email": "hanif.bali@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5628
 }

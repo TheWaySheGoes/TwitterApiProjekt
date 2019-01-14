@@ -1,9 +1,14 @@
 {
- "firstName": "Mathias",
  "lastName": "Tegnér",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2091e357-e195-430b-8dab-7e13732ffa41_max.jpg",
+ "tweets": 614,
+ "firstName": "Mathias",
+ "createdAt": "Fri Mar 02 20:11:04 +0000 2012",
+ "twitter": "tegnr",
+ "followers": 626,
  "constituency": "Stockholms län",
  "birthYear": "1979",
+ "following": 1607,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0613297818326",
  "party": "S",
  "email": "mathias.tegner@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 268
 }

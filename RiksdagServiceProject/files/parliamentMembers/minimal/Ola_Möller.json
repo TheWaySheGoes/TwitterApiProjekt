@@ -1,9 +1,14 @@
 {
- "firstName": "Ola",
  "lastName": "Möller",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/002ed7e8-1202-46df-a87c-8585e5b92012_max.jpg",
+ "tweets": 17255,
+ "firstName": "Ola",
+ "createdAt": "Tue Nov 15 09:35:54 +0000 2011",
+ "twitter": "Socdemola",
+ "followers": 756,
  "constituency": "Skåne läns västra",
  "birthYear": "1983",
+ "following": 673,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0271338654822",
  "party": "S",
  "email": "ola.moller@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 6115
 }

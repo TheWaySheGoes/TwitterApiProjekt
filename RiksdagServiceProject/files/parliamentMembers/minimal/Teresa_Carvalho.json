@@ -1,9 +1,14 @@
 {
- "firstName": "Teresa",
  "lastName": "Carvalho",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3d764cf6-705b-460b-8226-df8f1226b27b_max.jpg",
+ "tweets": 1777,
+ "firstName": "Teresa",
+ "createdAt": "Fri Feb 27 16:51:04 +0000 2009",
+ "twitter": "TeresaCarvalho",
+ "followers": 795,
  "constituency": "Östergötlands län",
  "birthYear": "1984",
+ "following": 456,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0315499690028",
  "party": "S",
  "email": "teresa.carvalho@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 168
 }
