@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:12",
+    "@systemdatum": "2019-01-14 15:55:28",
     "@hits": "1",
     "person": {
       "hangar_guid": "7edfcc60-9f1c-482d-8280-3f3f7b990050",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Andersson,Ulla",
       "iort": null,
       "parti": "V",
-      "valkrets": "G‰vleborgs l‰n",
-      "status": "Tj‰nstgˆrande riksdagsledamot",
+      "valkrets": "G√§vleborgs l√§n",
+      "status": "Tj√§nstg√∂rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/a9eff036-3d8c-487e-9325-e3bece8df1e4",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a9eff036-3d8c-487e-9325-e3bece8df1e4_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a9eff036-3d8c-487e-9325-e3bece8df1e4_192.jpg",
@@ -31,7 +31,7 @@
             "from": "2010-10-05",
             "tom": "2012-02-13",
             "uppgift": [
-              "V‰nsterpartiet"
+              "V√§nsterpartiet"
             ],
             "intressent_id": "0628190530410",
             "hangar_id": "2343212",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "238",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "48",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "107",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -98,7 +98,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "200",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2006-10-02",
             "tom": "2010-10-04",
@@ -211,7 +211,7 @@
             "from": "2006-10-24",
             "tom": "2010-10-04",
             "uppgift": [
-              "Miljˆ- och jordbruksutskottet"
+              "Milj√∂- och jordbruksutskottet"
             ],
             "intressent_id": "0628190530410",
             "hangar_id": "2343212",
@@ -229,7 +229,7 @@
             "from": "2018-11-01",
             "tom": "2022-10-31",
             "uppgift": [
-              "Styrelsen fˆr Stiftelsen Riksbankens Jubileumsfond"
+              "Styrelsen f√∂r Stiftelsen Riksbankens Jubileumsfond"
             ],
             "intressent_id": "0628190530410",
             "hangar_id": "2343212",
@@ -247,7 +247,7 @@
             "from": "2010-10-13",
             "tom": "2012-06-13",
             "uppgift": [
-              "LedamotsrÂdet"
+              "Ledamotsr√•det"
             ],
             "intressent_id": "0628190530410",
             "hangar_id": "2343212",
@@ -263,7 +263,7 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullm‰ktig 91-06. Ledamot, kommunstyrelsen 97-06. Ledamot, fritidsn‰mnden 94-98 och omvÂrdnadsn‰mnden 98-00. Styrelseledamot, Stadshus AB 97-00."
+              "Kommunfullm√§ktig 91-06. Ledamot, kommunstyrelsen 97-06. Ledamot, fritidsn√§mnden 94-98 och omv√•rdnadsn√§mnden 98-00. Styrelseledamot, Stadshus AB 97-00."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -272,7 +272,7 @@
           {
             "kod": "Litteratur",
             "uppgift": [
-              "V‰nsterpartister som arbetsgivare och Ekonomipolicy (tillsammans med andra). Ett antal rapporter om kommunernas ekonomi och en rapport om finansmarknaden."
+              "V√§nsterpartister som arbetsgivare och Ekonomipolicy (tillsammans med andra). Ett antal rapporter om kommunernas ekonomi och en rapport om finansmarknaden."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -281,7 +281,7 @@
           {
             "kod": "Bostadsort",
             "uppgift": [
-              "G‰vle"
+              "G√§vle"
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -290,7 +290,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 06-. Ledamot finansutskottet 06-. Ledamot rÂdet fˆr ledamotsn‰ra frÂgor 10-12. Suppleant miljˆ- och jordbruksutskottet 06-10 och skatteutskottet 14-. Vice gruppledare V‰nsterpartiet 10-12. "
+              "Riksdagsledamot 06-. Ledamot finansutskottet 06-. Ledamot r√•det f√∂r ledamotsn√§ra fr√•gor 10-12. Suppleant milj√∂- och jordbruksutskottet 06-10 och skatteutskottet 14-. Vice gruppledare V√§nsterpartiet 10-12. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -299,16 +299,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Fˆrskoll‰rarutbildning (50 p), genusteori (5 p), Hˆgskolan i G‰vle. "
+              "F√∂rskoll√§rarutbildning (50 p), genusteori (5 p), H√∂gskolan i G√§vle. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343212"
           },
           {
-            "kod": "Anst‰llningar",
+            "kod": "Anst√§llningar",
             "uppgift": [
-              "Egenfˆretagare, Bolln‰s 80-83. Butiksanst‰lld, Bolln‰s 83-85. Beredskapsarbetare pÂ daghem, G‰vle 86. Vikarie, hemtj‰nsten 86-88. Barnskˆtare 88-99, fˆrskoll‰rare, G‰vle kommun 99-. KommunalrÂd 00-02 och 05-06. OppositionsrÂd 02-04."
+              "Egenf√∂retagare, Bolln√§s 80-83. Butiksanst√§lld, Bolln√§s 83-85. Beredskapsarbetare p√• daghem, G√§vle 86. Vikarie, hemtj√§nsten 86-88. Barnsk√∂tare 88-99, f√∂rskoll√§rare, G√§vle kommun 99-. Kommunalr√•d 00-02 och 05-06. Oppositionsr√•d 02-04."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -317,7 +317,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "ulla.andersson[pÂ]riksdagen.se"
+              "ulla.andersson[p√•]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0628190530410",
@@ -333,7 +333,7 @@
             "hangar_id": "2343212"
           },
           {
-            "kod": "Tj‰nstetelefon",
+            "kod": "Tj√§nstetelefon",
             "uppgift": [
               "64659"
             ],

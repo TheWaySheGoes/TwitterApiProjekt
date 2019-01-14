@@ -1,6 +1,582 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:03",
-    "@hits": "0"
+    "@systemdatum": "2019-01-14 16:02:20",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "65d1c11c-0501-4c85-b771-9bf67e347cad",
+      "sourceid": "e234524d-e04b-448a-b609-05926a0a8b36",
+      "intressent_id": "0862868280923",
+      "hangar_id": "2343722",
+      "fodd_ar": "1983",
+      "kon": "kvinna",
+      "efternamn": "Lööf",
+      "tilltalsnamn": "Annie",
+      "sorteringsnamn": "Lööf,Annie",
+      "iort": null,
+      "parti": "C",
+      "valkrets": "Jönköpings län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/e234524d-e04b-448a-b609-05926a0a8b36",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e234524d-e04b-448a-b609-05926a0a8b36_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e234524d-e04b-448a-b609-05926a0a8b36_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e234524d-e04b-448a-b609-05926a0a8b36_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "N",
+            "roll_kod": "Näringsminister",
+            "ordningsnummer": "21",
+            "status": null,
+            "typ": "Departement",
+            "from": "2011-09-29",
+            "tom": "2014-10-03",
+            "uppgift": [
+              "Näringsdepartementet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "50",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "C",
+            "roll_kod": "Vice gruppledare",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2010-10-19",
+            "tom": "2011-09-28",
+            "uppgift": [
+              "Centerpartiet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "30",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "C",
+            "roll_kod": "Partiledare",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "partiuppdrag",
+            "from": "2011-09-23",
+            "tom": null,
+            "uppgift": [
+              "Centerpartiet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "20",
+            "organ_sortering": null,
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "218",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "253",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2016-04-01",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "253",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2015-09-11",
+            "tom": "2016-03-31",
+            "uppgift": [
+              "Göran Lindell 2015-09-11 - 2016-03-31  Föräldraledighet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "253",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-10-04",
+            "tom": "2015-09-10",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "253",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2014-10-03",
+            "uppgift": [
+              "Göran Lindell 2014-09-29 - 2014-10-03  Statsråd"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "324",
+            "status": "Ledig",
+            "typ": "kammaruppdrag",
+            "from": "2011-09-29",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Göran Lindell 2011-09-30 - 2014-09-29  Statsråd"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "30"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "324",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2011-09-28",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "327",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-02",
+            "tom": "2010-10-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "FiU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2011-09-28",
+            "uppgift": [
+              "Finansutskottet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "20",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-19",
+            "tom": "2011-09-28",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "16",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Konstitutionsutskottet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "AU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "27",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2009-09-24",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Arbetsmarknadsutskottet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "JuU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "19",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-24",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Justitieutskottet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KUU",
+            "roll_kod": "Deputerad",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2007-03-27",
+            "tom": "2009-05-06",
+            "uppgift": [
+              "Sammansatta konstitutions- och utrikesutskottet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "40",
+            "organ_sortering": "160",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-09",
+            "tom": "2022-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-10-02",
+            "tom": "2022-10-02",
+            "uppgift": [
+              "Utrikesnämnden"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-14",
+            "tom": "2018-10-09",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2016-04-04",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "Utrikesnämnden"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UN",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-07",
+            "tom": "2015-09-17",
+            "uppgift": [
+              "Utrikesnämnden"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "27",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-10-19",
+            "tom": "2014-10-14",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LR",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-10-13",
+            "tom": "2011-09-28",
+            "uppgift": [
+              "Ledamotsrådet"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "NR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "0",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2006-10-17",
+            "tom": "2008-09-16",
+            "uppgift": [
+              "Nordiska rådets svenska delegation"
+            ],
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 06-. Ledamot konstitutionsutskottet 06-10, sammansatta konstitutions- och utrikesutskottet 07-09 och finansutskottet 10-11. Suppleant justitieutskottet 06-11 och arbetsmarknadsutskottet 09-10. Ledamot rådet för ledamotsnära frågor 10-11, krigsdelegationen 10- och Utrikesnämnden 14-15 och 16-. Suppleant Nordiska rådets svenska delegation 06-08. Vice gruppledare Centerpartiet 10-11. Partiledare Centerpartiet 11-. Statsråd och chef (näringsminister), Näringsdepartementet 110929-141003."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343722"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Närpolischefen och kommunalrådet Hans-Göran Johansson och bankrådgivaren Rose-Marie Johansson, f. Jönsson."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343722"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola, samhällsvetenskapligt program, Värnamo. Jur. kand., Lunds universitet."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343722"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Valombudsman, CUF i Jönköping 02. Barista, Coffee Republic, London 03. Assistent, Föreningssparbanken Juristbyrån, Värnamo sommaren 05 och 06. Butiksförsäljare, Old Macs, Värnamo 00-06 (deltid)."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343722"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Värnamo 06-07, ersättare 02-04 och 10. Ledamot, medborgarnämnden 02-04."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343722"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Vice förbundsordförande, CUF 04-07. Ledamot, Centerpartiets partistyrelse 09-, adjungerad ledamot i Centerpartiets avdelnings- krets- och distriktsstyrelse 06-. Ledamot, Stiftelsehögskolan i Jönköpings styrelse 10-. Ledamot, Coompanion Sveriges styrelse 09-11. Partiordförande, Centerpartiet 11-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343722"
+          },
+          {
+            "kod": "Webbsida",
+            "uppgift": [
+              "http://www.annieloof.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "annie.loof[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Jurist."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0862868280923",
+            "hangar_id": "2343722"
+          }
+        ]
+      }
+    }
   }
 }

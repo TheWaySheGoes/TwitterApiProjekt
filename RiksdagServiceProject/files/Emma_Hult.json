@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:18",
+    "@systemdatum": "2019-01-14 15:55:33",
     "@hits": "1",
     "person": {
       "hangar_guid": "5e3c59ac-ebca-47d6-8ea9-41d7f1fa94c3",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Hult,Emma",
       "iort": null,
       "parti": "MP",
-      "valkrets": "Jönköpings län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "JÃ¶nkÃ¶pings lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/ae37cc33-2580-4221-aa93-4dd4621ecb98",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae37cc33-2580-4221-aa93-4dd4621ecb98_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae37cc33-2580-4221-aa93-4dd4621ecb98_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "289",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "327",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -60,7 +60,7 @@
           },
           {
             "organ_kod": "CU",
-            "roll_kod": "Ordförande",
+            "roll_kod": "OrdfÃ¶rande",
             "ordningsnummer": "16",
             "status": null,
             "typ": "uppdrag",
@@ -218,16 +218,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, teknikprogrammet, Söderslättsgymnasiet i Trelleborg 04-07. Kandidatexamen/Högskoleingenjör, byggteknik, Tekniska högskolan i Jönköping 07-11. Arkitektur, Deakin University 10."
+              "Gymnasieskola, teknikprogrammet, SÃ¶derslÃ¤ttsgymnasiet i Trelleborg 04-07. Kandidatexamen/HÃ¶gskoleingenjÃ¶r, byggteknik, Tekniska hÃ¶gskolan i JÃ¶nkÃ¶ping 07-11. Arkitektur, Deakin University 10."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057192"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Bygglovshandläggare, Halmstad kommun 11. Bygglovshandläggare, Mullsjö Kommun 11-12. Utvecklingsingenjör, Jönköpings kommun 12-14. "
+              "BygglovshandlÃ¤ggare, Halmstad kommun 11. BygglovshandlÃ¤ggare, MullsjÃ¶ Kommun 11-12. UtvecklingsingenjÃ¶r, JÃ¶nkÃ¶pings kommun 12-14. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -236,16 +236,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Ledamot, stadsbyggnadsnämnden, Jönköping 10-14."
+              "Ledamot, stadsbyggnadsnÃ¤mnden, JÃ¶nkÃ¶ping 10-14."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057192"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Språkrör, Gröna Studenter, Miljöpartiets studentförbund 13-15. Distriktsordförande, Miljöpartiet de gröna i Jönköpings län 14."
+              "SprÃ¥krÃ¶r, GrÃ¶na Studenter, MiljÃ¶partiets studentfÃ¶rbund 13-15. DistriktsordfÃ¶rande, MiljÃ¶partiet de grÃ¶na i JÃ¶nkÃ¶pings lÃ¤n 14."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -254,7 +254,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "emma.hult[på]riksdagen.se"
+              "emma.hult[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0628870165823",
@@ -263,7 +263,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Byggnadsingenjör."
+              "ByggnadsingenjÃ¶r."
             ],
             "typ": "titlar",
             "intressent_id": "0628870165823",

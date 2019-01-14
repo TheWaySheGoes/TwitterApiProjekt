@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:18",
+    "@systemdatum": "2019-01-14 15:55:34",
     "@hits": "1",
     "person": {
       "hangar_guid": "4abf996f-a331-4149-b180-b58e1db33e1a",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Manhammar,Magnus",
       "iort": null,
       "parti": "S",
-      "valkrets": "Blekinge län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Blekinge lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/639da251-c800-4b3d-a8c5-6626094c9035",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/639da251-c800-4b3d-a8c5-6626094c9035_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/639da251-c800-4b3d-a8c5-6626094c9035_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "62",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "14",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -67,7 +67,7 @@
             "from": "2018-10-02",
             "tom": "2022-09-26",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "025967059622",
             "hangar_id": "2343699",
@@ -121,7 +121,7 @@
             "from": "2014-11-25",
             "tom": "2018-09-24",
             "uppgift": [
-              "Miljö- och jordbruksutskottet"
+              "MiljÃ¶- och jordbruksutskottet"
             ],
             "intressent_id": "025967059622",
             "hangar_id": "2343699",
@@ -137,7 +137,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Suppleant miljö- och jordbruksutskottet 14- och arbetsmarknadsutskottet 14-."
+              "Riksdagsledamot 14-. Suppleant miljÃ¶- och jordbruksutskottet 14- och arbetsmarknadsutskottet 14-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -146,7 +146,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "magnus.manhammar[på]riksdagen.se"
+              "magnus.manhammar[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "025967059622",

@@ -18,20 +18,21 @@ import javax.swing.event.ListSelectionEvent;
 import javax.swing.event.ListSelectionListener;
 import javax.swing.text.DefaultCaret;
 
-import main.Main.DataType;
+import main.RiksdagModule.DataType;
 
-public class RiksdagModuleGui implements ListSelectionListener, ActionListener, Runnable{
+public class ModuleGui implements ListSelectionListener, ActionListener, Runnable{
 	private JFrame frame; // The Main window
 	private JTextField txtInput;
-	private JButton btnStart;
-	private JButton btnStop;
-	private JButton btnSetInterval;
-	private JButton btnExit;
+	private JButton btnStartRik;
+	private JButton btnStopRik;
+	private JButton btnSetIntervalRik;
+	private JButton btnExitRik;
 	private JTextArea txtOutput;
 	private JScrollPane txtScroll;
 	private Border border = BorderFactory.createLineBorder(Color.BLACK, 1);
 	private JList<String> tableList;
-	private Main main;
+	private RiksdagModule riksdagModule;
+	private TwitterModule twitterModule;
 	
 	
 	//master branch test 1
@@ -43,18 +44,13 @@ public class RiksdagModuleGui implements ListSelectionListener, ActionListener, 
 
 	
 	private void initializeGUI() {
+		riksdagModule=new RiksdagModule(DataType.JUMBO,this,1);
 		
 
-		tableList = new JList<String>();
-		tableList.setSelectionMode(ListSelectionModel.SINGLE_SELECTION);
-		tableList.addListSelectionListener(this);
-		tableListScroll = new JScrollPane(tableList);
-		tableListScroll.setBounds(20, 20, 100, 130);
-		frame.add(tableListScroll);
 		
 		info =new JTextArea();
-		info.setEditable(false);
-		info.setBounds(140, 20, 600, 130);
+		info.setEditable(true);
+		info.setBounds(20, 20, 760, 130);
 		frame.add(info);
 		
 		this.txtInput = new JTextField("");
@@ -62,22 +58,22 @@ public class RiksdagModuleGui implements ListSelectionListener, ActionListener, 
 		this.txtInput.setBorder(border);
 		frame.add(txtInput);
 
-		this.btnStart = new JButton("START");
-		this.btnStart.setBounds(150, 180, 100, 20);
-		this.btnStart.addActionListener(this);
-		frame.add(btnStart);
-		this.btnStop = new JButton("STOP");
-		this.btnStop.setBounds(250, 180, 100, 20);
-		this.btnStop.addActionListener(this);
-		frame.add(btnStop);
-		this.btnSetInterval = new JButton("SET INTERVAL");
-		this.btnSetInterval.setBounds(350, 180, 100, 20);
-		this.btnSetInterval.addActionListener(this);
-		frame.add(btnSetInterval);
-		this.btnExit = new JButton("EXIT");
-		this.btnExit.setBounds(450, 180, 100, 20);
-		this.btnExit.addActionListener(this);
-		frame.add(btnExit);
+		this.btnStartRik = new JButton("START");
+		this.btnStartRik.setBounds(150, 180, 100, 20);
+		this.btnStartRik.addActionListener(this);
+		frame.add(btnStartRik);
+		this.btnStopRik = new JButton("STOP");
+		this.btnStopRik.setBounds(270, 180, 100, 20);
+		this.btnStopRik.addActionListener(this);
+		frame.add(btnStopRik);
+		this.btnSetIntervalRik = new JButton("SET INTERVAL");
+		this.btnSetIntervalRik.setBounds(380, 180, 100, 20);
+		this.btnSetIntervalRik.addActionListener(this);
+		frame.add(btnSetIntervalRik);
+		this.btnExitRik = new JButton("EXIT");
+		this.btnExitRik.setBounds(490, 180, 100, 20);
+		this.btnExitRik.addActionListener(this);
+		frame.add(btnExitRik);
 
 		this.txtOutput = new JTextArea("*******----JAVA RIKSDAG MODULE----*******");
 		this.txtOutput.setTabSize(0);
@@ -92,9 +88,13 @@ public class RiksdagModuleGui implements ListSelectionListener, ActionListener, 
 		this.txtScroll.setBorder(border);
 		frame.add(txtScroll);
 
-		info.setText("iNFO BOX ......");
+		info.setText("\nSTART - startar Module for getting data from Riksdag and Twitter APIs\n"
+				+ "STOP - soft stop after running one time\n"
+				+ "EXIT - Hard stop \n"
+				+ "SET INTERVAL - Sets how often data gets updated \n" );
 	}
 
+	
 	@Override
 	public void run() {
 		frame = new JFrame();
@@ -107,41 +107,43 @@ public class RiksdagModuleGui implements ListSelectionListener, ActionListener, 
 		frame.setResizable(false);
 		frame.setLocationRelativeTo(null);
 		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
-		main=new Main(DataType.JUMBO,this);
+		
 		
 	
 }
-
+	
 		
 	public void displayTxt(String txt) {
-		txtOutput.setText(txtOutput.getText()+"\n"+txt);
+		txtOutput.setText(txtOutput.getText()+"\n"+txt+"\n");
 	}
 	@Override
 	public void actionPerformed(ActionEvent e) {
 
-		if (e.getSource() == this.btnSetInterval) {
-			main.setInterval(Integer.parseInt(txtInput.getText()));
-
+		if (e.getSource() == this.btnSetIntervalRik) {
+			riksdagModule.setTimeInterval(Integer.parseInt(txtInput.getText()));
+			twitterModule.setTimeInterval(Integer.parseInt(txtInput.getText()));
 		}
 		
-		if (e.getSource() == this.btnStart) {
-			main.start();
-			
+		if (e.getSource() == this.btnStartRik) {
+			riksdagModule.start();
+			twitterModule.start();
 		}
 		
-		if (e.getSource() == this.btnExit) {
-			main.exit();
+		if (e.getSource() == this.btnExitRik) { 
+			riksdagModule.exit();
+			riksdagModule.exit();
 		}
 		
 		
-		if (e.getSource() == this.btnStop) {
-			main.stop();
+		if (e.getSource() == this.btnStopRik) {
+			riksdagModule.stop();
+			twitterModule.stop();
 		}
 	
 	}
 
 	public static void main(String[] args) {
-		RiksdagModuleGui rmg = new RiksdagModuleGui();
+		ModuleGui rmg = new ModuleGui();
 		SwingUtilities.invokeLater(rmg);
 	}
 

@@ -1,6 +1,474 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:12",
-    "@hits": "0"
+    "@systemdatum": "2019-01-14 15:55:28",
+    "@hits": "1",
+    "person": {
+      "hangar_guid": "239ae102-9aed-466a-8fdf-187d69686eb7",
+      "sourceid": "48144b97-5799-422d-9ede-8b2dd360ca19",
+      "intressent_id": "0677738818613",
+      "hangar_id": "2343047",
+      "fodd_ar": "1958",
+      "kon": "man",
+      "efternamn": "Åkesson",
+      "tilltalsnamn": "Anders",
+      "sorteringsnamn": "Åkesson,Anders",
+      "iort": null,
+      "parti": "C",
+      "valkrets": "Kalmar län",
+      "status": "Tjänstgörande riksdagsledamot",
+      "person_url_xml": "http://data.riksdagen.se/person/48144b97-5799-422d-9ede-8b2dd360ca19",
+      "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/48144b97-5799-422d-9ede-8b2dd360ca19_80.jpg",
+      "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/48144b97-5799-422d-9ede-8b2dd360ca19_192.jpg",
+      "bild_url_max": "http://data.riksdagen.se/filarkiv/bilder/ledamot/48144b97-5799-422d-9ede-8b2dd360ca19_max.jpg",
+      "personuppdrag": {
+        "uppdrag": [
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "11",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "90",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "183",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "kam",
+            "roll_kod": "Riksdagsledamot",
+            "ordningsnummer": "120",
+            "status": "Tjänstgörande",
+            "typ": "kammaruppdrag",
+            "from": "2006-10-02",
+            "tom": "2010-10-04",
+            "uppgift": [
+              {}
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "10",
+            "organ_sortering": "10",
+            "uppdrag_rollsortering": "60",
+            "uppdrag_statussortering": "10"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Vice ordförande",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "20",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "7",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2018-10-02",
+            "tom": "2018-10-02",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "9",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-07",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "21",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2014-10-14",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "TU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "11",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2010-10-12",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Trafikutskottet"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "CU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "23",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2012-09-19",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Civilutskottet"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "26",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2011-04-15",
+            "tom": "2012-09-12",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KrU",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Kulturutskottet"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "30",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "UU",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "6",
+            "status": null,
+            "typ": "uppdrag",
+            "from": "2006-10-10",
+            "tom": "2010-10-04",
+            "uppgift": [
+              "Utrikesutskottet"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "50",
+            "organ_sortering": "150",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "4",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2018-09-24",
+            "tom": "2022-09-26",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "LR",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-10-15",
+            "tom": "2018-10-10",
+            "uppgift": [
+              "Ledamotsrådet"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2014-09-29",
+            "tom": "2018-09-24",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "KD",
+            "roll_kod": "Ledamot",
+            "ordningsnummer": "41",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-10-19",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Krigsdelegationen"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "30",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          },
+          {
+            "organ_kod": "VB",
+            "roll_kod": "Suppleant",
+            "ordningsnummer": "5",
+            "status": null,
+            "typ": "Riksdagsorgan",
+            "from": "2010-10-04",
+            "tom": "2014-09-29",
+            "uppgift": [
+              "Valberedningen"
+            ],
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047",
+            "sortering": "50",
+            "organ_sortering": "300",
+            "uppdrag_rollsortering": "90",
+            "uppdrag_statussortering": "90"
+          }
+        ]
+      },
+      "personuppgift": {
+        "uppgift": [
+          {
+            "kod": "Uppdrag inom riksdag och regering",
+            "uppgift": [
+              "Riksdagsledamot 06-. Ledamot kulturutskottet 06-10 och trafikutskottet 10-. Suppleant utrikesutskottet 06-10, kulturutskottet 11-12 och 14- och civilutskottet 12-14. Ledamot krigsdelegationen 10-14. Suppleant riksdagens valberedning 10- och ledamotsrådet 14-. "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "Föräldrar",
+            "uppgift": [
+              "Kyrkovaktmästaren Åke Johansson och kyrkovaktmästaren Ulla-Britt Johansson, f. Karlsson."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "Utbildning",
+            "uppgift": [
+              "Gymnasieskola i Kalmar, slutår 79. Massmedia kommunikation, Högskolan i Kalmar, slutår 01."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "Anställningar",
+            "uppgift": [
+              "Ombudsman, CUF 80-82. Kyrkovaktmästare 82-89. Ombudsman, Centerpartiet 89-00. Ombudsman, Företagarnas Riksorganisation 00. Utbildningsledare, Studieförbundet Vuxenskolan 00-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "Uppdrag inom statliga myndigheter m.m.",
+            "uppgift": [
+              "Styrelsen för Medieinstitutet Fojo, Linnéuniversitetet 07-12, ordförande 11-12.  "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "Kommunala uppdrag",
+            "uppgift": [
+              "Kommunfullmäktig, Kalmar 85-02. Ledamot, kommunstyrelsen 91-94, fritidsnämnden 85-88 och byggnadsnämnden 88-02. Landstingsfullmäktig, Kalmar läns landsting 02-10. Ledamot, Regionförbundet i Kalmar län, fullmäktig 97-02, styrelsen 97-06, arbetsutskottet 97-06. Vice ordförande, Regionförbundet i Kalmar län 98-02, ordförande 02-06. Ledamot, lokalt kyrkoråd, samfällighetsfullmäktige, Svenska kyrkan i Kalmar. Ordförande, kyrkogårds- och fastighetsnämnden, Kalmar kyrkliga samfällighet 82-13. Ordförande i samfällighetens fastighetsutskott 13-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "Uppdrag inom förenings- och näringsliv",
+            "uppgift": [
+              "Ordförande, Centerpartiets lokalavdelning i Kalmar 85-12. Ledamot, Centerpartiets kommunkrets 82-14, distriktsstyrelsen 97- och partistyrelsen 04-. Styrelseledamot, Företagarna i Kalmar 01-. Centerpartiet, Kalmar läns styrelse 97-. Centerpartiets nationella styrelse 04-. Studieförbundet Vuxenskolans förbundsstyrelse 05-12. Ordförande, Bygdegårdarnas Riksförbund 06-11. Styrelseledamot, Eccocom AB 13-."
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "Bostadsort",
+            "uppgift": [
+              "Kalmar "
+            ],
+            "typ": "biografi",
+            "intressent_id": null,
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "Officiell e-postadress",
+            "uppgift": [
+              "anders.akesson[på]riksdagen.se"
+            ],
+            "typ": "eadress",
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "Tjänstetelefon",
+            "uppgift": [
+              "65009"
+            ],
+            "typ": "telefonnummer",
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "sv",
+            "uppgift": [
+              "Utbildningsledare."
+            ],
+            "typ": "titlar",
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "en",
+            "uppgift": [
+              {}
+            ],
+            "typ": "titlar",
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047"
+          },
+          {
+            "kod": "KandiderarINastaVal",
+            "uppgift": [
+              "true"
+            ],
+            "typ": "val",
+            "intressent_id": "0677738818613",
+            "hangar_id": "2343047"
+          }
+        ]
+      }
+    }
   }
 }

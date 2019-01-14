@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-23 14:25:59",
+    "@systemdatum": "2019-01-14 15:55:35",
     "@hits": "1",
     "person": {
       "hangar_guid": "d4ed6294-0a1c-490c-ae48-6f8260123430",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Wallentheim,Anna",
       "iort": null,
       "parti": "S",
-      "valkrets": "Skåne läns norra och östra",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "SkÃ¥ne lÃ¤ns norra och Ã¶stra",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/200035cd-228a-4afa-8849-844f2c1e35fb",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/200035cd-228a-4afa-8849-844f2c1e35fb_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/200035cd-228a-4afa-8849-844f2c1e35fb_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "332",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "126",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2017-03-06",
             "tom": "2018-09-24",
@@ -67,7 +67,7 @@
             "from": "2016-07-01",
             "tom": "2017-03-05",
             "uppgift": [
-              "Christer Adelsbo 2016-07-01 - 2017-03-05  Föräldraledighet"
+              "Christer Adelsbo 2016-07-01 - 2017-03-05  FÃ¶rÃ¤ldraledighet"
             ],
             "intressent_id": "0111479807829",
             "hangar_id": "3057264",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "126",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2016-06-30",
@@ -203,7 +203,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "ÖN",
+            "organ_kod": "Ã–N",
             "roll_kod": "Ledamot",
             "ordningsnummer": "1",
             "status": null,
@@ -211,7 +211,7 @@
             "from": "2018-10-09",
             "tom": "2022-10-09",
             "uppgift": [
-              "Riksdagens överklagandenämnd"
+              "Riksdagens Ã¶verklagandenÃ¤mnd"
             ],
             "intressent_id": "0111479807829",
             "hangar_id": "3057264",
@@ -221,7 +221,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "ÖN",
+            "organ_kod": "Ã–N",
             "roll_kod": "Ledamot",
             "ordningsnummer": "1",
             "status": null,
@@ -229,7 +229,7 @@
             "from": "2018-05-24",
             "tom": "2018-10-09",
             "uppgift": [
-              "Riksdagens överklagandenämnd"
+              "Riksdagens Ã¶verklagandenÃ¤mnd"
             ],
             "intressent_id": "0111479807829",
             "hangar_id": "3057264",
@@ -239,7 +239,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "ÖN",
+            "organ_kod": "Ã–N",
             "roll_kod": "Suppleant",
             "ordningsnummer": "3",
             "status": null,
@@ -247,7 +247,7 @@
             "from": "2014-10-14",
             "tom": "2018-05-24",
             "uppgift": [
-              "Riksdagens överklagandenämnd"
+              "Riksdagens Ã¶verklagandenÃ¤mnd"
             ],
             "intressent_id": "0111479807829",
             "hangar_id": "3057264",
@@ -263,16 +263,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14-. Ledamot kulturutskottet 14-. Suppleant socialutskottet 14-. Suppleant Riksdagens överklagandenämnd 14-."
+              "Riksdagsledamot 14-. Ledamot kulturutskottet 14-. Suppleant socialutskottet 14-. Suppleant Riksdagens Ã¶verklagandenÃ¤mnd 14-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057264"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Vårdaren Andres Wallentheim och kommunalrådet Lena Wallentheim."
+              "VÃ¥rdaren Andres Wallentheim och kommunalrÃ¥det Lena Wallentheim."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -281,16 +281,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Hässleholms tekniska skola, slutår 04. Lärarutbildningen för äldre barn och unga, Högskolan Kristianstad, lärarexamen 11. "
+              "HÃ¤ssleholms tekniska skola, slutÃ¥r 04. LÃ¤rarutbildningen fÃ¶r Ã¤ldre barn och unga, HÃ¶gskolan Kristianstad, lÃ¤rarexamen 11. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057264"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Lokalvårdare, Solhem, Vittsjö 04-06. Lärare, T4-skolan 4-6, Hässleholm 11-12. Lärare, Västerskolan 7-9, Hässleholm 13-14. "
+              "LokalvÃ¥rdare, Solhem, VittsjÃ¶ 04-06. LÃ¤rare, T4-skolan 4-6, HÃ¤ssleholm 11-12. LÃ¤rare, VÃ¤sterskolan 7-9, HÃ¤ssleholm 13-14. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -299,16 +299,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullmäktig, Hässleholm 10-. Ersättare, fritidsnämnden, Hässleholm, 06-10 och ledamot 10-14. Ledamot, Hässlehem (kommunalt bolag), Hässleholm 10-14. "
+              "KommunfullmÃ¤ktig, HÃ¤ssleholm 10-. ErsÃ¤ttare, fritidsnÃ¤mnden, HÃ¤ssleholm, 06-10 och ledamot 10-14. Ledamot, HÃ¤sslehem (kommunalt bolag), HÃ¤ssleholm 10-14. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057264"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Styrelseledamot, Svenska Hemslöjdsföreningarnas Riksförbund 15-."
+              "Styrelseledamot, Svenska HemslÃ¶jdsfÃ¶reningarnas RiksfÃ¶rbund 15-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -317,7 +317,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "anna.wallentheim[på]riksdagen.se"
+              "anna.wallentheim[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0111479807829",
@@ -326,7 +326,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Gymnasielärare"
+              "GymnasielÃ¤rare"
             ],
             "typ": "titlar",
             "intressent_id": "0111479807829",

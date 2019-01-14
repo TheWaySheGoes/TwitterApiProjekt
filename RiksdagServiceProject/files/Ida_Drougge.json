@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:15",
+    "@systemdatum": "2019-01-14 15:55:31",
     "@hits": "1",
     "person": {
       "hangar_guid": "40a036e0-5b82-4441-b5e8-96e8e4928a85",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Drougge,Ida",
       "iort": null,
       "parti": "M",
-      "valkrets": "Stockholms län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Stockholms lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/e8a2c04d-a186-421b-b1fd-a401f0917673",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e8a2c04d-a186-421b-b1fd-a401f0917673_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e8a2c04d-a186-421b-b1fd-a401f0917673_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "175",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2019-09-10",
             "tom": "2022-09-26",
@@ -49,7 +49,7 @@
             "from": "2019-02-11",
             "tom": "2019-09-09",
             "uppgift": [
-              "Fredrik Schulte 2019-02-11 - 2019-09-09  Föräldraledighet"
+              "Fredrik Schulte 2019-02-11 - 2019-09-09  FÃ¶rÃ¤ldraledighet"
             ],
             "intressent_id": "0604811710522",
             "hangar_id": "3057128",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "175",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2019-02-10",
@@ -80,7 +80,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "320",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2017-02-01",
             "tom": "2018-09-24",
@@ -103,7 +103,7 @@
             "from": "2016-08-01",
             "tom": "2017-01-31",
             "uppgift": [
-              "Alexandra Anstrell 2016-08-01 - 2017-01-31  Föräldraledighet"
+              "Alexandra Anstrell 2016-08-01 - 2017-01-31  FÃ¶rÃ¤ldraledighet"
             ],
             "intressent_id": "0604811710522",
             "hangar_id": "3057128",
@@ -116,7 +116,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "320",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2016-07-31",
@@ -200,14 +200,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "ida.drougge[på]riksdagen.se"
+              "ida.drougge[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0604811710522",
             "hangar_id": "3057128"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65448"
             ],

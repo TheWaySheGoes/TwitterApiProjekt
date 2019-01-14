@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2019-01-14 11:03:04",
+    "@systemdatum": "2019-01-14 16:02:10",
     "@hits": "2",
     "person": [
       {
@@ -15,8 +15,8 @@
         "sorteringsnamn": "Karlsson,Mattias",
         "iort": "Norrhult",
         "parti": "SD",
-        "valkrets": "Kronobergs l‰n",
-        "status": "Tj‰nstgˆrande riksdagsledamot",
+        "valkrets": "Kronobergs l√§n",
+        "status": "Tj√§nstg√∂rande riksdagsledamot",
         "person_url_xml": "http://data.riksdagen.se/person/727e2213-ac97-4ceb-bfab-f228debd8074",
         "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/727e2213-ac97-4ceb-bfab-f228debd8074_80.jpg",
         "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/727e2213-ac97-4ceb-bfab-f228debd8074_192.jpg",
@@ -32,7 +32,7 @@
               "from": "2018-10-24",
               "tom": "2018-10-24",
               "uppgift": [
-                "Riksdagens delegation till parlamentariska ÷stersjˆkonferensen"
+                "Riksdagens delegation till parlamentariska √ñstersj√∂konferensen"
               ],
               "intressent_id": "0831636664429",
               "hangar_id": "2369340",
@@ -81,7 +81,7 @@
               "organ_kod": "kam",
               "roll_kod": "Riksdagsledamot",
               "ordningsnummer": "151",
-              "status": "Tj‰nstgˆrande",
+              "status": "Tj√§nstg√∂rande",
               "typ": "kammaruppdrag",
               "from": "2018-09-24",
               "tom": "2022-09-26",
@@ -99,7 +99,7 @@
               "organ_kod": "kam",
               "roll_kod": "Riksdagsledamot",
               "ordningsnummer": "103",
-              "status": "Tj‰nstgˆrande",
+              "status": "Tj√§nstg√∂rande",
               "typ": "kammaruppdrag",
               "from": "2014-09-29",
               "tom": "2018-09-24",
@@ -117,7 +117,7 @@
               "organ_kod": "kam",
               "roll_kod": "Riksdagsledamot",
               "ordningsnummer": "125",
-              "status": "Tj‰nstgˆrande",
+              "status": "Tj√§nstg√∂rande",
               "typ": "kammaruppdrag",
               "from": "2010-10-04",
               "tom": "2014-09-29",
@@ -374,7 +374,7 @@
               "from": "2015-10-01",
               "tom": "2016-09-29",
               "uppgift": [
-                "Nordiska rÂdets svenska delegation"
+                "Nordiska r√•dets svenska delegation"
               ],
               "intressent_id": "0831636664429",
               "hangar_id": "2369340",
@@ -392,7 +392,7 @@
               "from": "2014-10-07",
               "tom": "2015-10-01",
               "uppgift": [
-                "Nordiska rÂdets svenska delegation"
+                "Nordiska r√•dets svenska delegation"
               ],
               "intressent_id": "0831636664429",
               "hangar_id": "2369340",
@@ -410,7 +410,7 @@
               "from": "2013-09-17",
               "tom": "2014-09-29",
               "uppgift": [
-                "Nordiska rÂdets svenska delegation"
+                "Nordiska r√•dets svenska delegation"
               ],
               "intressent_id": "0831636664429",
               "hangar_id": "2369340",
@@ -428,7 +428,7 @@
               "from": "2012-10-04",
               "tom": "2013-09-16",
               "uppgift": [
-                "Nordiska rÂdets svenska delegation"
+                "Nordiska r√•dets svenska delegation"
               ],
               "intressent_id": "0831636664429",
               "hangar_id": "2369340",
@@ -446,7 +446,7 @@
               "from": "2011-10-12",
               "tom": "2012-09-18",
               "uppgift": [
-                "Nordiska rÂdets svenska delegation"
+                "Nordiska r√•dets svenska delegation"
               ],
               "intressent_id": "0831636664429",
               "hangar_id": "2369340",
@@ -464,7 +464,7 @@
               "from": "2010-10-19",
               "tom": "2011-09-15",
               "uppgift": [
-                "Nordiska rÂdets svenska delegation"
+                "Nordiska r√•dets svenska delegation"
               ],
               "intressent_id": "0831636664429",
               "hangar_id": "2369340",
@@ -480,7 +480,7 @@
             {
               "kod": "Uppdrag inom riksdag och regering",
               "uppgift": [
-                "Riksdagsledamot 10-. Ledamot kulturutskottet 10-12 och arbetsmarknadsutskottet 12-14. Suppleant utbildningsutskottet 11-, arbetsmarknadsutskottet 14- och kulturutskottet 13-. Ledamot krigsdelegationen 14-. Suppleant Nordiska rÂdets svenska delegation 10-16. Gruppledare, Sverigedemokraterna 14- och vice gruppledare 12-14."
+                "Riksdagsledamot 10-. Ledamot kulturutskottet 10-12 och arbetsmarknadsutskottet 12-14. Suppleant utbildningsutskottet 11-, arbetsmarknadsutskottet 14- och kulturutskottet 13-. Ledamot krigsdelegationen 14-. Suppleant Nordiska r√•dets svenska delegation 10-16. Gruppledare, Sverigedemokraterna 14- och vice gruppledare 12-14."
               ],
               "typ": "biografi",
               "intressent_id": null,
@@ -489,7 +489,7 @@
             {
               "kod": "Officiell e-postadress",
               "uppgift": [
-                "mattias.karlsson[pÂ]riksdagen.se"
+                "mattias.karlsson[p√•]riksdagen.se"
               ],
               "typ": "eadress",
               "intressent_id": "0831636664429",
@@ -505,7 +505,7 @@
               "hangar_id": "2369340"
             },
             {
-              "kod": "Tj‰nstetelefon",
+              "kod": "Tj√§nstetelefon",
               "uppgift": [
                 "66400"
               ],
@@ -535,10 +535,10 @@
         "efternamn": "Karlsson",
         "tilltalsnamn": "Mattias",
         "sorteringsnamn": "Karlsson,Mattias",
-        "iort": "LuleÂ",
+        "iort": "Lule√•",
         "parti": "M",
-        "valkrets": "Norrbottens l‰n",
-        "status": "Tj‰nstgˆrande riksdagsledamot",
+        "valkrets": "Norrbottens l√§n",
+        "status": "Tj√§nstg√∂rande riksdagsledamot",
         "person_url_xml": "http://data.riksdagen.se/person/951f7039-b277-4696-ab49-7f0df0f39d1a",
         "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/951f7039-b277-4696-ab49-7f0df0f39d1a_80.jpg",
         "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/951f7039-b277-4696-ab49-7f0df0f39d1a_192.jpg",
@@ -547,7 +547,7 @@
           "uppdrag": [
             {
               "organ_kod": "CPAR",
-              "roll_kod": "Ordfˆrande",
+              "roll_kod": "Ordf√∂rande",
               "ordningsnummer": "2",
               "status": null,
               "typ": "Riksdagsorgan",
@@ -567,7 +567,7 @@
               "organ_kod": "kam",
               "roll_kod": "Riksdagsledamot",
               "ordningsnummer": "348",
-              "status": "Tj‰nstgˆrande",
+              "status": "Tj√§nstg√∂rande",
               "typ": "kammaruppdrag",
               "from": "2018-09-24",
               "tom": "2022-09-26",
@@ -626,7 +626,7 @@
               "from": "2018-10-09",
               "tom": "2019-10-31",
               "uppgift": [
-                "Nordiska rÂdets svenska delegation"
+                "Nordiska r√•dets svenska delegation"
               ],
               "intressent_id": "0522054204918",
               "hangar_id": "2343517",
@@ -642,7 +642,7 @@
             {
               "kod": "Officiell e-postadress",
               "uppgift": [
-                "mattias.j.karlsson[pÂ]riksdagen.se"
+                "mattias.j.karlsson[p√•]riksdagen.se"
               ],
               "typ": "eadress",
               "intressent_id": "0522054204918",

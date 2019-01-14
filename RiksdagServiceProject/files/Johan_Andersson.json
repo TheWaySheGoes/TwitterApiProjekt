@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:59",
+    "@systemdatum": "2019-01-14 16:02:16",
     "@hits": "1",
     "person": {
       "hangar_guid": "c1ffa305-73d1-4a84-bd77-78d7dca108b5",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Andersson,Johan",
       "iort": null,
       "parti": "S",
-      "valkrets": "Östergötlands län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Ã–stergÃ¶tlands lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/fff74c6c-fae3-4977-a472-cfe2b6ae257a",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fff74c6c-fae3-4977-a472-cfe2b6ae257a_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fff74c6c-fae3-4977-a472-cfe2b6ae257a_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "32",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "59",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "148",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -211,7 +211,7 @@
             "from": "2018-10-09",
             "tom": "2022-10-04",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0964730940415",
             "hangar_id": "2343166",
@@ -229,7 +229,7 @@
             "from": "2016-03-31",
             "tom": "2017-12-31",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "0964730940415",
             "hangar_id": "2343166",
@@ -265,7 +265,7 @@
             "from": "2018-10-09",
             "tom": "2019-10-31",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0964730940415",
             "hangar_id": "2343166",
@@ -283,7 +283,7 @@
             "from": "2017-09-28",
             "tom": "2018-10-09",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0964730940415",
             "hangar_id": "2343166",
@@ -301,7 +301,7 @@
             "from": "2016-09-29",
             "tom": "2017-09-28",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0964730940415",
             "hangar_id": "2343166",
@@ -319,7 +319,7 @@
             "from": "2015-10-01",
             "tom": "2016-09-29",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0964730940415",
             "hangar_id": "2343166",
@@ -337,7 +337,7 @@
             "from": "2014-10-07",
             "tom": "2015-10-01",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "0964730940415",
             "hangar_id": "2343166",
@@ -353,16 +353,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 10-. Ledamot arbetsmarknadsutskottet 10-14 och trafikutskottet 14-. Suppleant trafikutskottet 10-14, arbetsmarknadsutskottet 14-, EU-nämnden 16- och Nordiska rådets svenska delegation 14-16. "
+              "Riksdagsledamot 10-. Ledamot arbetsmarknadsutskottet 10-14 och trafikutskottet 14-. Suppleant trafikutskottet 10-14, arbetsmarknadsutskottet 14-, EU-nÃ¤mnden 16- och Nordiska rÃ¥dets svenska delegation 14-16. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343166"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Arbetsledaren Sture Andersson och leg. sjuksköterskan Dagmar Waller-Andersson, f. Waller."
+              "Arbetsledaren Sture Andersson och leg. sjukskÃ¶terskan Dagmar Waller-Andersson, f. Waller."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -371,16 +371,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Grundskola, Skolgårda skola i Motala, slutår 78. Gymnasieskola, 2-årig vårdlinje, Vätternskolan i Motala, slutår 80. Ett flertal fackliga utbildningar inom LO och Kommunalarbetareförbundet under åren 85-96. "
+              "Grundskola, SkolgÃ¥rda skola i Motala, slutÃ¥r 78. Gymnasieskola, 2-Ã¥rig vÃ¥rdlinje, VÃ¤tternskolan i Motala, slutÃ¥r 80. Ett flertal fackliga utbildningar inom LO och KommunalarbetarefÃ¶rbundet under Ã¥ren 85-96. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343166"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Underskötare, Lasarettet i Motala 80-. "
+              "UnderskÃ¶tare, Lasarettet i Motala 80-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -389,7 +389,7 @@
           {
             "kod": "Uppdrag inom statliga myndigheter m.m.",
             "uppgift": [
-              "Styrelseledamot, Länsstyrelsen i Östergötlands län 98. Ordförande, arbetsmarknadsrådet, Motala 01. Suppleant, socialförsäkringsnämnden 95. "
+              "Styrelseledamot, LÃ¤nsstyrelsen i Ã–stergÃ¶tlands lÃ¤n 98. OrdfÃ¶rande, arbetsmarknadsrÃ¥det, Motala 01. Suppleant, socialfÃ¶rsÃ¤kringsnÃ¤mnden 95. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -398,16 +398,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Ordförande, kommunstyrelsen, Motala 96-06. Ledamot, regionförbundet Östsam 98-10. Ordförande revisionsberedning, Motala kommun."
+              "OrdfÃ¶rande, kommunstyrelsen, Motala 96-06. Ledamot, regionfÃ¶rbundet Ã–stsam 98-10. OrdfÃ¶rande revisionsberedning, Motala kommun."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343166"
           },
           {
-            "kod": "Uppdrag inom förenings- och näringsliv",
+            "kod": "Uppdrag inom fÃ¶renings- och nÃ¤ringsliv",
             "uppgift": [
-              "Ordförande, Motala Fontänhus. Ledamot Stiftelsen Medevi Brunns framtid. Ordförande, Motala Allmänna Idrottsförening."
+              "OrdfÃ¶rande, Motala FontÃ¤nhus. Ledamot Stiftelsen Medevi Brunns framtid. OrdfÃ¶rande, Motala AllmÃ¤nna IdrottsfÃ¶rening."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -434,7 +434,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "johan.andersson[på]riksdagen.se"
+              "johan.andersson[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0964730940415",
@@ -450,7 +450,7 @@
             "hangar_id": "2343166"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65315"
             ],
@@ -461,7 +461,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Underskötare"
+              "UnderskÃ¶tare"
             ],
             "typ": "titlar",
             "intressent_id": "0964730940415",

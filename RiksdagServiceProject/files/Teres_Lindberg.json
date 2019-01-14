@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:46:54",
+    "@systemdatum": "2019-01-14 16:02:12",
     "@hits": "1",
     "person": {
       "hangar_guid": "5d467ce1-5e8b-44ca-b902-1d2b2852d0ad",
@@ -15,7 +15,7 @@
       "iort": null,
       "parti": "S",
       "valkrets": "Stockholms kommun",
-      "status": "Tj‰nstgˆrande riksdagsledamot",
+      "status": "Tj√§nstg√∂rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/2d7334ea-9a6f-4381-b6ec-3c46d744cb9a",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d7334ea-9a6f-4381-b6ec-3c46d744cb9a_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d7334ea-9a6f-4381-b6ec-3c46d744cb9a_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "170",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "278",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2017-09-25",
             "tom": "2018-09-24",
@@ -60,14 +60,14 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "StatsrÂdsers‰ttare",
+            "roll_kod": "Statsr√•dsers√§ttare",
             "ordningsnummer": "280",
-            "status": "Ers‰ttare",
+            "status": "Ers√§ttare",
             "typ": "kammaruppdrag",
             "from": "2017-05-29",
             "tom": "2017-09-24",
             "uppgift": [
-              "Stefan Lˆfven"
+              "Stefan L√∂fven"
             ],
             "intressent_id": "0559925283228",
             "hangar_id": "2343590",
@@ -78,9 +78,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "StatsrÂdsers‰ttare",
+            "roll_kod": "Statsr√•dsers√§ttare",
             "ordningsnummer": "50",
-            "status": "Ers‰ttare",
+            "status": "Ers√§ttare",
             "typ": "kammaruppdrag",
             "from": "2015-10-01",
             "tom": "2017-05-28",
@@ -96,9 +96,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "StatsrÂdsers‰ttare",
+            "roll_kod": "Statsr√•dsers√§ttare",
             "ordningsnummer": "81",
-            "status": "Ers‰ttare",
+            "status": "Ers√§ttare",
             "typ": "kammaruppdrag",
             "from": "2014-10-03",
             "tom": "2015-09-30",
@@ -116,7 +116,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "24",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2013-01-01",
             "tom": "2014-09-29",
@@ -139,7 +139,7 @@
             "from": "2012-07-15",
             "tom": "2012-12-31",
             "uppgift": [
-              "Sven Britton 2012-07-15 - 2012-12-31  Fˆr‰ldraledighet"
+              "Sven Britton 2012-07-15 - 2012-12-31  F√∂r√§ldraledighet"
             ],
             "intressent_id": "0559925283228",
             "hangar_id": "2343590",
@@ -152,7 +152,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "24",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2011-04-01",
             "tom": "2012-07-14",
@@ -203,7 +203,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "FˆU",
+            "organ_kod": "F√∂U",
             "roll_kod": "Suppleant",
             "ordningsnummer": "5",
             "status": null,
@@ -211,7 +211,7 @@
             "from": "2016-06-09",
             "tom": "2018-09-24",
             "uppgift": [
-              "Fˆrsvarsutskottet"
+              "F√∂rsvarsutskottet"
             ],
             "intressent_id": "0559925283228",
             "hangar_id": "2343590",
@@ -283,7 +283,7 @@
             "from": "2018-10-09",
             "tom": "2022-10-04",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0559925283228",
             "hangar_id": "2343590",
@@ -301,7 +301,7 @@
             "from": "2018-01-01",
             "tom": "2018-01-01",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0559925283228",
             "hangar_id": "2343590",
@@ -319,7 +319,7 @@
             "from": "2013-01-16",
             "tom": "2014-09-29",
             "uppgift": [
-              "EU-n‰mnden"
+              "EU-n√§mnden"
             ],
             "intressent_id": "0559925283228",
             "hangar_id": "2343590",
@@ -371,7 +371,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 11- (statsrÂdsers‰ttare 141003-). Suppleant socialutskottet 11-12, skatteutskottet 12-14, EU-n‰mnden 13-14, trafikutskottet 14- och fˆrsvarsutskottet 16-. Ledamot riksdagens delegation till Interparlamentariska unionen 14-.   "
+              "Riksdagsledamot 11- (statsr√•dsers√§ttare 141003-). Suppleant socialutskottet 11-12, skatteutskottet 12-14, EU-n√§mnden 13-14, trafikutskottet 14- och f√∂rsvarsutskottet 16-. Ledamot riksdagens delegation till Interparlamentariska unionen 14-.   "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -380,16 +380,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Runˆ folkhˆgskola 95-96. Arbetsmarknadskunskap, Stockholms universitet 98-99."
+              "Run√∂ folkh√∂gskola 95-96. Arbetsmarknadskunskap, Stockholms universitet 98-99."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343590"
           },
           {
-            "kod": "Anst‰llningar",
+            "kod": "Anst√§llningar",
             "uppgift": [
-              "Paketsorterare, Posten 92-02. Samordnare, Seko Stockholm 96-97. Projektledare, SSU-fˆrbundet 97-98. Projektledare, Seko 00-01. "
+              "Paketsorterare, Posten 92-02. Samordnare, Seko Stockholm 96-97. Projektledare, SSU-f√∂rbundet 97-98. Projektledare, Seko 00-01. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -398,16 +398,16 @@
           {
             "kod": "Kommunala uppdrag",
             "uppgift": [
-              "Kommunfullm‰ktig, Stockholm 99-10, ers‰ttare 98-99 och 10-11. Ledamot, kommunstyrelsen 06-10 och ers‰ttare 05-06. Ers‰ttare, kommunstyrelsens ekonomiutskott 05-06. Styrelseledamot, Stockholm Entreprenad 96-98 och Sk‰rgÂrdsstiftelsen i Stockholms l‰n 99-02. Ledamot, gatu- och fastighetsn‰mnden 00-02. BorgarrÂd, Stockholms kommun 02-06. Ordfˆrande integrationsn‰mnden 02-04. Suppleant, Stockholms Stadshus AB 03-11. Ordfˆrande, arbetsmarknadsn‰mnden i Stockholm 03-05. Ordfˆrande, styrelsen fˆr Stockholms Stads Bostadsfˆrmedling AB 03-05. Ordfˆrande, arbetsmarknads- och integrationsberedning 03-06.Ordfˆrande, AB Svenska Bost‰der 05-06. Ordfˆrande, AB Stadsholmen 05-06. Ledamot, personal- och j‰mst‰lldhetsutskottet 06-10. Vice ordfˆrande, AB Svenska Bost‰der 06-11. Vice ordfˆrande, AB Stadsholmen 06-11. Vice ordfˆrande, stadsbyggnadsn‰mnden 07-10. Ers‰ttare, miljˆ- och h‰lsoskyddsn‰mnden 11. "
+              "Kommunfullm√§ktig, Stockholm 99-10, ers√§ttare 98-99 och 10-11. Ledamot, kommunstyrelsen 06-10 och ers√§ttare 05-06. Ers√§ttare, kommunstyrelsens ekonomiutskott 05-06. Styrelseledamot, Stockholm Entreprenad 96-98 och Sk√§rg√•rdsstiftelsen i Stockholms l√§n 99-02. Ledamot, gatu- och fastighetsn√§mnden 00-02. Borgarr√•d, Stockholms kommun 02-06. Ordf√∂rande integrationsn√§mnden 02-04. Suppleant, Stockholms Stadshus AB 03-11. Ordf√∂rande, arbetsmarknadsn√§mnden i Stockholm 03-05. Ordf√∂rande, styrelsen f√∂r Stockholms Stads Bostadsf√∂rmedling AB 03-05. Ordf√∂rande, arbetsmarknads- och integrationsberedning 03-06.Ordf√∂rande, AB Svenska Bost√§der 05-06. Ordf√∂rande, AB Stadsholmen 05-06. Ledamot, personal- och j√§mst√§lldhetsutskottet 06-10. Vice ordf√∂rande, AB Svenska Bost√§der 06-11. Vice ordf√∂rande, AB Stadsholmen 06-11. Vice ordf√∂rande, stadsbyggnadsn√§mnden 07-10. Ers√§ttare, milj√∂- och h√§lsoskyddsn√§mnden 11. "
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2343590"
           },
           {
-            "kod": "Uppdrag inom fˆrenings- och n‰ringsliv",
+            "kod": "Uppdrag inom f√∂renings- och n√§ringsliv",
             "uppgift": [
-              "Ledamot, Stockholms arbetarekommun 98-14. Vice ordfˆrande, Stockholms arbetarekommun 11-14. Ordfˆrande, ABF Stockholm 11-. Ordfˆrande, ABF Stockholms l‰n 12-. Ledamot, ABF fˆrbundsstyrelse 14-. "
+              "Ledamot, Stockholms arbetarekommun 98-14. Vice ordf√∂rande, Stockholms arbetarekommun 11-14. Ordf√∂rande, ABF Stockholm 11-. Ordf√∂rande, ABF Stockholms l√§n 12-. Ledamot, ABF f√∂rbundsstyrelse 14-. "
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -416,14 +416,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "teres.lindberg[pÂ]riksdagen.se"
+              "teres.lindberg[p√•]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0559925283228",
             "hangar_id": "2343590"
           },
           {
-            "kod": "Tj‰nstetelefon",
+            "kod": "Tj√§nstetelefon",
             "uppgift": [
               "64645"
             ],

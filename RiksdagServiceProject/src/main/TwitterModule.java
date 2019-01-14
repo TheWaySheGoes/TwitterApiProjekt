@@ -20,15 +20,21 @@ import twitter4j.auth.AccessToken;
 import twitter4j.auth.RequestToken;
 import twitter4j.conf.ConfigurationBuilder;
 
-public class TwitterModule {
+public class TwitterModule implements Runnable{
 	ConfigurationBuilder cb;
 	TwitterFactory tf;
 	 Twitter twitter;
 	 String filesFolder="files/twitter";
 	 String[] people= {"Annie_Lööf.json", "Ebba_BuschThor.json","Jan_Björklund.json","Ulf_Kristersson.json"
 			 ,"Jonas_Sjöstedt.json"};
+	 boolean isRunning=true;
+	 Thread T = null;
+		ModuleGui riksdagModuleGui;
+		int sleepTime = 3600000;
+	 
 	
-	 public TwitterModule() {
+		 
+	 public TwitterModule(ModuleGui riksdagModuleGui) {
 		 cb = new ConfigurationBuilder();
 		 cb.setDebugEnabled(true)
 		   .setOAuthConsumerKey("4kQHu6tcOcF88lMQqr5LbfD7N")
@@ -37,9 +43,13 @@ public class TwitterModule {
 		   .setOAuthAccessTokenSecret("yeCHE02JJOC9wsFUh36rORG5gPzvPEO4YpJoddELBKHkB");
 		tf = new TwitterFactory(cb.build());
 		  twitter = tf.getInstance();
-	 
+	 this.riksdagModuleGui=riksdagModuleGui;
 	 }
 	
+		public void setTimeInterval(int timeInterva) {
+			this.sleepTime*= timeInterva;
+		}
+	 
 		/**
 		 * reads json file to a string
 		 * 
@@ -68,7 +78,7 @@ public class TwitterModule {
 			return tempStr.toString();
 
 		}
-	 
+
 	 public void modifyPersonalFile(String pers,String key,Object value){
 		 JSONObject jsonObj = new JSONObject(readFile(filesFolder+"/"+pers));
 		 jsonObj.append(key, value);
@@ -129,7 +139,8 @@ public class TwitterModule {
 
 	                for (Status tweet : tweets) {
 	                	returnString.append("{"+"@" + tweet.getUser().getScreenName() + " - " + tweet.getText() +"},");
-	                    System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
+	                   riksdagModuleGui.displayTxt("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
+	                	System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
 	                    
 	                }
 	                returnString.deleteCharAt(returnString.length()-1);
@@ -153,13 +164,56 @@ public class TwitterModule {
 	}
 	
 	public void run() {
+		while(isRunning) {
 		String backString =getTwitts("Jan + Björklund");
 		writePersonalFile("Jan", "Björklund", backString);
+		
+		backString =getTwitts("Annie + Lööf");
+		writePersonalFile("Annie", "Lööf", backString);
+		
+		backString =getTwitts("Ebba + Busch + Thor");
+		writePersonalFile("Ebba", "BuschThor", backString);
+		
+		backString =getTwitts("Ulf + Kristersson");
+		writePersonalFile("Ulf", "Kristersson", backString);
+		
+		backString =getTwitts("Jonas + Sjöstedt");
+		writePersonalFile("Jonas", "Sjöstedt", backString);
+		try {
+			Thread.sleep(sleepTime); // must sleep to for riksdagens server not to crush
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		}
+	}
+	
+	public void stop() {
+		if (T != null) {
+			isRunning = false;
+		}
+
+	}
+
+	public void exit() {
+		if (T != null) {
+			T.interrupt();
+			isRunning = false;
+		}
+	}
+
+	public void start() {
+		if (T == null) {
+			T = new Thread(this);
+			T.start();
+			isRunning = true;
+
+		}
+
 	}
 	
 	public static void main(String[] args) {
-		TwitterModule tm = new TwitterModule();
-		tm.run();
+		//TwitterModule tm = new TwitterModule();
+	//	tm.run();
 	}
 
 }

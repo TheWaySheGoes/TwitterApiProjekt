@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:08",
+    "@systemdatum": "2019-01-14 15:55:18",
     "@hits": "1",
     "person": {
       "hangar_guid": "8c9a4aa9-99e8-423c-bcc6-0e051f3d65e3",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "El-Haj,Jamal",
       "iort": null,
       "parti": "S",
-      "valkrets": "Malmˆ kommun",
-      "status": "Tj‰nstgˆrande riksdagsledamot",
+      "valkrets": "Malm√∂ kommun",
+      "status": "Tj√§nstg√∂rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/6a1b02dd-bdc4-4019-ab3e-dfeb133018ed",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6a1b02dd-bdc4-4019-ab3e-dfeb133018ed_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6a1b02dd-bdc4-4019-ab3e-dfeb133018ed_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "184",
-            "status": "Tj‰nstgˆrande",
+            "status": "Tj√§nstg√∂rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -42,9 +42,9 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Ers‰ttare",
+            "roll_kod": "Ers√§ttare",
             "ordningsnummer": "36",
-            "status": "Ers‰ttare",
+            "status": "Ers√§ttare",
             "typ": "kammaruppdrag",
             "from": "2016-06-15",
             "tom": "2018-09-24",
@@ -101,7 +101,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 16- (ers‰ttare 160615-). Suppleant skatteutskottet 16-."
+              "Riksdagsledamot 16- (ers√§ttare 160615-). Suppleant skatteutskottet 16-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -110,7 +110,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "jamal.el-haj[pÂ]riksdagen.se"
+              "jamal.el-haj[p√•]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0121939297619",

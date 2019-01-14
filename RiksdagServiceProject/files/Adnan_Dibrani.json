@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2019-01-14 11:03:04",
+    "@systemdatum": "2019-01-14 16:02:10",
     "@hits": "1",
     "person": {
       "hangar_guid": "986115f7-2380-4ecd-959f-98b52011fc0f",
@@ -14,8 +14,8 @@
       "sorteringsnamn": "Dibrani,Adnan",
       "iort": null,
       "parti": "S",
-      "valkrets": "Hallands län",
-      "status": "Tjänstgörande riksdagsledamot",
+      "valkrets": "Hallands lÃ¤n",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/2eb5b5ce-2e8c-4063-a2c2-d03b50ff4c5d",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2eb5b5ce-2e8c-4063-a2c2-d03b50ff4c5d_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2eb5b5ce-2e8c-4063-a2c2-d03b50ff4c5d_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "40",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "296",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2014-09-29",
             "tom": "2018-09-24",
@@ -62,7 +62,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "191",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2010-10-04",
             "tom": "2014-09-29",
@@ -229,7 +229,7 @@
             "from": "2010-10-12",
             "tom": "2013-10-03",
             "uppgift": [
-              "Näringsutskottet"
+              "NÃ¤ringsutskottet"
             ],
             "intressent_id": "0442629549320",
             "hangar_id": "2369343",
@@ -247,7 +247,7 @@
             "from": "2018-11-01",
             "tom": "2022-10-31",
             "uppgift": [
-              "Europarådets svenska delegation"
+              "EuroparÃ¥dets svenska delegation"
             ],
             "intressent_id": "0442629549320",
             "hangar_id": "2369343",
@@ -265,7 +265,7 @@
             "from": "2014-10-28",
             "tom": "2018-10-28",
             "uppgift": [
-              "Riksdagens delegation till den parlamentariska församlingen för Unionen för Medelhavet"
+              "Riksdagens delegation till den parlamentariska fÃ¶rsamlingen fÃ¶r Unionen fÃ¶r Medelhavet"
             ],
             "intressent_id": "0442629549320",
             "hangar_id": "2369343",
@@ -275,7 +275,7 @@
             "uppdrag_statussortering": "90"
           },
           {
-            "organ_kod": "ÖN",
+            "organ_kod": "Ã–N",
             "roll_kod": "Suppleant",
             "ordningsnummer": "1",
             "status": null,
@@ -283,7 +283,7 @@
             "from": "2015-01-13",
             "tom": "2018-10-09",
             "uppgift": [
-              "Riksdagens överklagandenämnd"
+              "Riksdagens Ã¶verklagandenÃ¤mnd"
             ],
             "intressent_id": "0442629549320",
             "hangar_id": "2369343",
@@ -299,7 +299,7 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 10-. Ledamot skatteutskottet 14-. Suppleant utbildningsutskottet 10-14, näringsutskottet 10-13, finansutskottet 12- och utrikesutskottet 12-14. Suppleant riksdagens delegation till den parlamentariska församlingen för unionen i Medelhavet 14- och riksdagens överklagandenämnd 15-."
+              "Riksdagsledamot 10-. Ledamot skatteutskottet 14-. Suppleant utbildningsutskottet 10-14, nÃ¤ringsutskottet 10-13, finansutskottet 12- och utrikesutskottet 12-14. Suppleant riksdagens delegation till den parlamentariska fÃ¶rsamlingen fÃ¶r unionen i Medelhavet 14- och riksdagens Ã¶verklagandenÃ¤mnd 15-."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -308,16 +308,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Gymnasieskola, Peder Skrivares skola i Varberg, slutår 04. Ekonomi/politik, Internationella Handelshögskolan i Jönköping."
+              "Gymnasieskola, Peder Skrivares skola i Varberg, slutÃ¥r 04. Ekonomi/politik, Internationella HandelshÃ¶gskolan i JÃ¶nkÃ¶ping."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "2369343"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Kundtjänst/Kassa, Swedbank 07. Privatrådgivare, Varbergs Sparbank 08."
+              "KundtjÃ¤nst/Kassa, Swedbank 07. PrivatrÃ¥dgivare, Varbergs Sparbank 08."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -344,14 +344,14 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "adnan.dibrani[på]riksdagen.se"
+              "adnan.dibrani[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "0442629549320",
             "hangar_id": "2369343"
           },
           {
-            "kod": "Tjänstetelefon",
+            "kod": "TjÃ¤nstetelefon",
             "uppgift": [
               "65907"
             ],
@@ -362,7 +362,7 @@
           {
             "kod": "sv",
             "uppgift": [
-              "Banktjänsteman."
+              "BanktjÃ¤nsteman."
             ],
             "typ": "titlar",
             "intressent_id": "0442629549320",

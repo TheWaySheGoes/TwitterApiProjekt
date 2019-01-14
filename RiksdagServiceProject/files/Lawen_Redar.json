@@ -1,6 +1,6 @@
 {
   "personlista": {
-    "@systemdatum": "2018-12-30 15:47:08",
+    "@systemdatum": "2019-01-14 15:55:21",
     "@hits": "1",
     "person": {
       "hangar_guid": "42fc6274-3c50-497e-ae1f-9ab85c3c0f29",
@@ -15,7 +15,7 @@
       "iort": null,
       "parti": "S",
       "valkrets": "Stockholms kommun",
-      "status": "Tjänstgörande riksdagsledamot",
+      "status": "TjÃ¤nstgÃ¶rande riksdagsledamot",
       "person_url_xml": "http://data.riksdagen.se/person/285a3d5f-cb32-4958-9b7c-1545b2faff18",
       "bild_url_80": "http://data.riksdagen.se/filarkiv/bilder/ledamot/285a3d5f-cb32-4958-9b7c-1545b2faff18_80.jpg",
       "bild_url_192": "http://data.riksdagen.se/filarkiv/bilder/ledamot/285a3d5f-cb32-4958-9b7c-1545b2faff18_192.jpg",
@@ -26,7 +26,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "208",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2018-09-24",
             "tom": "2022-09-26",
@@ -44,7 +44,7 @@
             "organ_kod": "kam",
             "roll_kod": "Riksdagsledamot",
             "ordningsnummer": "51",
-            "status": "Tjänstgörande",
+            "status": "TjÃ¤nstgÃ¶rande",
             "typ": "kammaruppdrag",
             "from": "2015-10-01",
             "tom": "2018-09-24",
@@ -60,14 +60,14 @@
           },
           {
             "organ_kod": "kam",
-            "roll_kod": "Statsrådsersättare",
+            "roll_kod": "StatsrÃ¥dsersÃ¤ttare",
             "ordningsnummer": "280",
-            "status": "Ersättare",
+            "status": "ErsÃ¤ttare",
             "typ": "kammaruppdrag",
             "from": "2014-10-03",
             "tom": "2015-09-30",
             "uppgift": [
-              "Stefan Löfven"
+              "Stefan LÃ¶fven"
             ],
             "intressent_id": "037561614928",
             "hangar_id": "3057110",
@@ -175,7 +175,7 @@
             "from": "2014-10-07",
             "tom": "2018-10-02",
             "uppgift": [
-              "EU-nämnden"
+              "EU-nÃ¤mnden"
             ],
             "intressent_id": "037561614928",
             "hangar_id": "3057110",
@@ -193,7 +193,7 @@
             "from": "2017-09-28",
             "tom": "2018-10-09",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "037561614928",
             "hangar_id": "3057110",
@@ -211,7 +211,7 @@
             "from": "2016-09-29",
             "tom": "2017-09-28",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "037561614928",
             "hangar_id": "3057110",
@@ -229,7 +229,7 @@
             "from": "2015-10-01",
             "tom": "2016-09-29",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "037561614928",
             "hangar_id": "3057110",
@@ -247,7 +247,7 @@
             "from": "2014-10-07",
             "tom": "2015-10-01",
             "uppgift": [
-              "Nordiska rådets svenska delegation"
+              "Nordiska rÃ¥dets svenska delegation"
             ],
             "intressent_id": "037561614928",
             "hangar_id": "3057110",
@@ -263,16 +263,16 @@
           {
             "kod": "Uppdrag inom riksdag och regering",
             "uppgift": [
-              "Riksdagsledamot 14- (statsrådsersättare 141003-150930). Ledamot justitieutskottet 14- och EU-nämnden 14-. Suppleant konstitutionsutskottet 14- och skatteutskottet 14-16. Suppleant Nordiska rådets svenska delegation 14-."
+              "Riksdagsledamot 14- (statsrÃ¥dsersÃ¤ttare 141003-150930). Ledamot justitieutskottet 14- och EU-nÃ¤mnden 14-. Suppleant konstitutionsutskottet 14- och skatteutskottet 14-16. Suppleant Nordiska rÃ¥dets svenska delegation 14-."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057110"
           },
           {
-            "kod": "Föräldrar",
+            "kod": "FÃ¶rÃ¤ldrar",
             "uppgift": [
-              "Fastighetsförvaltaren Nasradin Redar och undersjuksköterskan Farangiz Rezaii."
+              "FastighetsfÃ¶rvaltaren Nasradin Redar och undersjukskÃ¶terskan Farangiz Rezaii."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -281,16 +281,16 @@
           {
             "kod": "Utbildning",
             "uppgift": [
-              "Stockholms Fria Gymnasium, slutår 08. Jur.kand., Stockholms Universitet 17."
+              "Stockholms Fria Gymnasium, slutÃ¥r 08. Jur.kand., Stockholms Universitet 17."
             ],
             "typ": "biografi",
             "intressent_id": null,
             "hangar_id": "3057110"
           },
           {
-            "kod": "Anställningar",
+            "kod": "AnstÃ¤llningar",
             "uppgift": [
-              "Fritidsledare, Stockholms Stadsmission 10-11. Projektledare, Stockholms Stadsmission 11. Projektledare, Rädda Barnen 12-13."
+              "Fritidsledare, Stockholms Stadsmission 10-11. Projektledare, Stockholms Stadsmission 11. Projektledare, RÃ¤dda Barnen 12-13."
             ],
             "typ": "biografi",
             "intressent_id": null,
@@ -299,7 +299,7 @@
           {
             "kod": "Officiell e-postadress",
             "uppgift": [
-              "lawen.redar[på]riksdagen.se"
+              "lawen.redar[pÃ¥]riksdagen.se"
             ],
             "typ": "eadress",
             "intressent_id": "037561614928",
