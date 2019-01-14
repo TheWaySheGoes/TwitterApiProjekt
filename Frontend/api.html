@@ -4,6 +4,182 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Riksdagsledamöter</title>
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+  <style type="text/css">
+    body {
+      font-family: Trebuchet MS, sans-serif;
+      font-size: 15px;
+      color: #444;
+      margin-right: 24px;
+    }
+
+    h1	{
+      font-size: 25px;
+    }
+    h2	{
+      font-size: 20px;
+    }
+    h3	{
+      font-size: 16px;
+      font-weight: bold;
+    }
+    hr	{
+      height: 1px;
+      border: 0;
+      color: #ddd;
+      background-color: #ddd;
+    }
+
+    .app-desc {
+      clear: both;
+      margin-left: 20px;
+    }
+    .param-name {
+      width: 100%;
+    }
+    .license-info {
+      margin-left: 20px;
+    }
+
+    .license-url {
+      margin-left: 20px;
+    }
+
+    .model {
+      margin: 0 0 0px 20px;
+    }
+
+    .method {
+      margin-left: 20px;
+    }
+
+    .method-notes	{
+      margin: 10px 0 20px 0;
+      font-size: 90%;
+      color: #555;
+    }
+
+    pre {
+      padding: 10px;
+      margin-bottom: 2px;
+    }
+
+    .http-method {
+     text-transform: uppercase;
+    }
+
+    pre.get {
+      background-color: #0f6ab4;
+    }
+
+    pre.post {
+      background-color: #10a54a;
+    }
+
+    pre.put {
+      background-color: #c5862b;
+    }
+
+    pre.delete {
+      background-color: #a41e22;
+    }
+
+    .huge	{
+      color: #fff;
+    }
+
+    pre.example {
+      background-color: #f3f3f3;
+      padding: 10px;
+      border: 1px solid #ddd;
+    }
+
+    code {
+      white-space: pre;
+    }
+
+    .nickname {
+      font-weight: bold;
+    }
+
+    .method-path {
+      font-size: 1.5em;
+      background-color: #0f6ab4;
+    }
+
+    .up {
+      float:right;
+    }
+
+    .parameter {
+      width: 500px;
+    }
+
+    .param {
+      width: 500px;
+      padding: 10px 0 0 20px;
+      font-weight: bold;
+    }
+
+    .param-desc {
+      width: 700px;
+      padding: 0 0 0 20px;
+      color: #777;
+    }
+
+    .param-type {
+      font-style: italic;
+    }
+
+    .param-enum-header {
+    width: 700px;
+    padding: 0 0 0 60px;
+    color: #777;
+    font-weight: bold;
+    }
+
+    .param-enum {
+    width: 700px;
+    padding: 0 0 0 80px;
+    color: #777;
+    font-style: italic;
+    }
+
+    .field-label {
+      padding: 0;
+      margin: 0;
+      clear: both;
+    }
+
+    .field-items	{
+      padding: 0 0 15px 0;
+      margin-bottom: 15px;
+    }
+
+    .return-type {
+      clear: both;
+      padding-bottom: 10px;
+    }
+
+    .param-header {
+      font-weight: bold;
+    }
+
+    .method-tags {
+      text-align: right;
+    }
+
+    .method-tag {
+      background: none repeat scroll 0% 0% #24A600;
+      border-radius: 3px;
+      padding: 2px 10px;
+      margin: 2px;
+      color: #FFF;
+      display: inline-block;
+      text-decoration: none;
+    }
+  </style>
+
 </head>
 
 <body>
@@ -28,11 +204,453 @@
 	</nav>
 
   <div class="container">
-    <h1>API</h1>
 
-    <p>Info om vårt api</p>
+    <h1>Svea rikes riksdagsledamöter</h1>
+    <br>
+      <div class="app-desc">REST api med info om samtliga rikdsdagsledamöter</div>
+      <div class="app-desc">Datan kommer från Riksdagens öppna data och Twitter</div>
+      <br>
+      <div class="app-desc">Version: 1.0.0</div>
+      <div class="app-desc">BasePath:http://localhost:5000</div>
+      <br>
+      <div class="license-info">All rights reserved</div>
+      <div class="license-url">http://apache.org/licenses/LICENSE-2.0.html</div>
+      <br>
+    <h2>Access</h2>
 
-    <p>Dokumentationen eller en länk till dokumentationen</p>
+    <h2><a name="__Methods">Methods</a></h2>
+    [ Jump to <a href="#__Models">Models</a> ]
+
+    <h3>Table of Contents </h3>
+    <div class="method-summary"></div>
+    <h4><a href="#Default">Default</a></h4>
+    <ul>
+    <li><a href="#getLastTweets"><code><span class="http-method">get</span> /tweets/{name}</code></a></li>
+    <li><a href="#getParliamentMember"><code><span class="http-method">get</span> /parliamentMember/{id}</code></a></li>
+    <li><a href="#getParty"><code><span class="http-method">get</span> /party/{p}</code></a></li>
+    <li><a href="#getVote"><code><span class="http-method">get</span> /votes/{id}</code></a></li>
+    <li><a href="#listParliamentMembers"><code><span class="http-method">get</span> /parliamentMembers</code></a></li>
+    <li><a href="#listParliamentMembersOfParty"><code><span class="http-method">get</span> /parliamentMembers/{party}</code></a></li>
+    <li><a href="#listParties"><code><span class="http-method">get</span> /party</code></a></li>
+    <li><a href="#listVotes"><code><span class="http-method">get</span> /votes</code></a></li>
+    </ul>
+
+    <h1><a name="Default">Default</a></h1>
+    <div class="method"><a name="getLastTweets"></a>
+      <div class="method-path">
+      <a class="up" href="#__Methods">Up</a>
+      <pre class="get"><code class="huge"><span class="http-method">get</span> /tweets/{name}</code></pre></div>
+      <div class="method-summary">Returns the last N tweets (<span class="nickname">getLastTweets</span>)</div>
+      <div class="method-notes">Returns the last N tweets from any parliament member</div>
+
+      <h3 class="field-label">Path parameters</h3>
+      <div class="field-items">
+        <div class="param">name (required)</div>
+
+              <div class="param-desc"><span class="param-type">Path Parameter</span> &mdash; The name of the parliament member </div>    </div>  <!-- field-items -->
+
+
+
+
+
+
+      <h3 class="field-label">Return type</h3>
+      <div class="return-type">
+        array[<a href="#Tweet">Tweet</a>]
+
+      </div>
+
+      <!--Todo: process Response Object and its headers, schema, examples -->
+
+
+      <h3 class="field-label">Produces</h3>
+      This API call produces the following media types according to the <span class="header">Accept</span> request header;
+      the media type will be conveyed by the <span class="header">Content-Type</span> response header.
+      <ul>
+        <li><code>application/json</code></li>
+      </ul>
+
+      <h3 class="field-label">Responses</h3>
+      <h4 class="field-label">200</h4>
+      An array of tweets about the parliament member
+
+      <h4 class="field-label">404</h4>
+      Tweets not found
+          <a href="#"></a>
+    </div> <!-- method -->
+    <hr/>
+    <div class="method"><a name="getParliamentMember"></a>
+      <div class="method-path">
+      <a class="up" href="#__Methods">Up</a>
+      <pre class="get"><code class="huge"><span class="http-method">get</span> /parliamentMember/{id}</code></pre></div>
+      <div class="method-summary">Retrieves a parliament member (<span class="nickname">getParliamentMember</span>)</div>
+      <div class="method-notes">Retrieves a parliament member from the database by the given id</div>
+
+      <h3 class="field-label">Path parameters</h3>
+      <div class="field-items">
+        <div class="param">id (required)</div>
+
+              <div class="param-desc"><span class="param-type">Path Parameter</span> &mdash; ID number of the parliament member to retrieve format: int32</div>    </div>  <!-- field-items -->
+
+
+
+
+
+
+      <h3 class="field-label">Return type</h3>
+      <div class="return-type">
+        array[<a href="#ParliamentMemberFull">ParliamentMemberFull</a>]
+
+      </div>
+
+      <!--Todo: process Response Object and its headers, schema, examples -->
+
+
+      <h3 class="field-label">Produces</h3>
+      This API call produces the following media types according to the <span class="header">Accept</span> request header;
+      the media type will be conveyed by the <span class="header">Content-Type</span> response header.
+      <ul>
+        <li><code>application/json</code></li>
+      </ul>
+
+      <h3 class="field-label">Responses</h3>
+      <h4 class="field-label">200</h4>
+      Parliament member retrieved
+
+      <h4 class="field-label">404</h4>
+      Parliament member not found
+          <a href="#"></a>
+    </div> <!-- method -->
+    <hr/>
+    <div class="method"><a name="getParty"></a>
+      <div class="method-path">
+      <a class="up" href="#__Methods">Up</a>
+      <pre class="get"><code class="huge"><span class="http-method">get</span> /party/{p}</code></pre></div>
+      <div class="method-summary">Retrieves a party (<span class="nickname">getParty</span>)</div>
+      <div class="method-notes">Retrieves the specified party</div>
+
+      <h3 class="field-label">Path parameters</h3>
+      <div class="field-items">
+        <div class="param">p (required)</div>
+
+              <div class="param-desc"><span class="param-type">Path Parameter</span> &mdash; The abbreviation of the party you want </div>    </div>  <!-- field-items -->
+
+
+
+
+
+
+      <h3 class="field-label">Return type</h3>
+      <div class="return-type">
+        array[<a href="#Party">Party</a>]
+
+      </div>
+
+      <!--Todo: process Response Object and its headers, schema, examples -->
+
+
+      <h3 class="field-label">Produces</h3>
+      This API call produces the following media types according to the <span class="header">Accept</span> request header;
+      the media type will be conveyed by the <span class="header">Content-Type</span> response header.
+      <ul>
+        <li><code>application/json</code></li>
+      </ul>
+
+      <h3 class="field-label">Responses</h3>
+      <h4 class="field-label">200</h4>
+      The party
+
+      <h4 class="field-label">404</h4>
+      Party not found
+          <a href="#"></a>
+    </div> <!-- method -->
+    <hr/>
+    <div class="method"><a name="getVote"></a>
+      <div class="method-path">
+      <a class="up" href="#__Methods">Up</a>
+      <pre class="get"><code class="huge"><span class="http-method">get</span> /votes/{id}</code></pre></div>
+      <div class="method-summary">Returns all the information about a vote (<span class="nickname">getVote</span>)</div>
+      <div class="method-notes">Returns all the information about a vote</div>
+
+      <h3 class="field-label">Path parameters</h3>
+      <div class="field-items">
+        <div class="param">id (required)</div>
+
+              <div class="param-desc"><span class="param-type">Path Parameter</span> &mdash; The id of the vote you want </div>    </div>  <!-- field-items -->
+
+
+
+
+
+
+      <h3 class="field-label">Return type</h3>
+      <div class="return-type">
+        array[<a href="#VotesFull">VotesFull</a>]
+
+      </div>
+
+      <!--Todo: process Response Object and its headers, schema, examples -->
+
+
+      <h3 class="field-label">Produces</h3>
+      This API call produces the following media types according to the <span class="header">Accept</span> request header;
+      the media type will be conveyed by the <span class="header">Content-Type</span> response header.
+      <ul>
+        <li><code>application/json</code></li>
+      </ul>
+
+      <h3 class="field-label">Responses</h3>
+      <h4 class="field-label">200</h4>
+      A vote with all it&#x27;s information
+
+      <h4 class="field-label">404</h4>
+      Votes not found
+          <a href="#"></a>
+    </div> <!-- method -->
+    <hr/>
+    <div class="method"><a name="listParliamentMembers"></a>
+      <div class="method-path">
+      <a class="up" href="#__Methods">Up</a>
+      <pre class="get"><code class="huge"><span class="http-method">get</span> /parliamentMembers</code></pre></div>
+      <div class="method-summary">Lists all active parliament members (<span class="nickname">listParliamentMembers</span>)</div>
+      <div class="method-notes">Use this endpoint to parliament members</div>
+
+
+
+
+
+
+
+      <h3 class="field-label">Return type</h3>
+      <div class="return-type">
+        array[<a href="#ParliamentMember">ParliamentMember</a>]
+
+      </div>
+
+      <!--Todo: process Response Object and its headers, schema, examples -->
+
+
+      <h3 class="field-label">Produces</h3>
+      This API call produces the following media types according to the <span class="header">Accept</span> request header;
+      the media type will be conveyed by the <span class="header">Content-Type</span> response header.
+      <ul>
+        <li><code>application/json</code></li>
+      </ul>
+
+      <h3 class="field-label">Responses</h3>
+      <h4 class="field-label">200</h4>
+      List of active parliament members
+
+    </div> <!-- method -->
+    <hr/>
+    <div class="method"><a name="listParliamentMembersOfParty"></a>
+      <div class="method-path">
+      <a class="up" href="#__Methods">Up</a>
+      <pre class="get"><code class="huge"><span class="http-method">get</span> /parliamentMembers/{party}</code></pre></div>
+      <div class="method-summary">Lists all active parliament members of a specific party (<span class="nickname">listParliamentMembersOfParty</span>)</div>
+      <div class="method-notes">Retrives a list om parliament members from the given party</div>
+
+      <h3 class="field-label">Path parameters</h3>
+      <div class="field-items">
+        <div class="param">party (required)</div>
+
+              <div class="param-desc"><span class="param-type">Path Parameter</span> &mdash; The abbreviation of the party you want </div>    </div>  <!-- field-items -->
+
+
+
+
+
+
+      <h3 class="field-label">Return type</h3>
+      <div class="return-type">
+        array[<a href="#ParliamentMember">ParliamentMember</a>]
+
+      </div>
+
+      <!--Todo: process Response Object and its headers, schema, examples -->
+
+
+      <h3 class="field-label">Produces</h3>
+      This API call produces the following media types according to the <span class="header">Accept</span> request header;
+      the media type will be conveyed by the <span class="header">Content-Type</span> response header.
+      <ul>
+        <li><code>application/json</code></li>
+      </ul>
+
+      <h3 class="field-label">Responses</h3>
+      <h4 class="field-label">200</h4>
+      List of active parliament members from the party
+
+    </div> <!-- method -->
+    <hr/>
+    <div class="method"><a name="listParties"></a>
+      <div class="method-path">
+      <a class="up" href="#__Methods">Up</a>
+      <pre class="get"><code class="huge"><span class="http-method">get</span> /party</code></pre></div>
+      <div class="method-summary">Lists all of the parties currently in parliament (<span class="nickname">listParties</span>)</div>
+      <div class="method-notes">Retrieves a list of every party that&#x27;s currently in the parliament</div>
+
+
+
+
+
+
+
+      <h3 class="field-label">Return type</h3>
+      <div class="return-type">
+        array[<a href="#Party">Party</a>]
+
+      </div>
+
+      <!--Todo: process Response Object and its headers, schema, examples -->
+
+
+      <h3 class="field-label">Produces</h3>
+      This API call produces the following media types according to the <span class="header">Accept</span> request header;
+      the media type will be conveyed by the <span class="header">Content-Type</span> response header.
+      <ul>
+        <li><code>application/json</code></li>
+      </ul>
+
+      <h3 class="field-label">Responses</h3>
+      <h4 class="field-label">200</h4>
+      List of parties
+
+    </div> <!-- method -->
+    <hr/>
+    <div class="method"><a name="listVotes"></a>
+      <div class="method-path">
+      <a class="up" href="#__Methods">Up</a>
+      <pre class="get"><code class="huge"><span class="http-method">get</span> /votes</code></pre></div>
+      <div class="method-summary">Returns a list of all votes (<span class="nickname">listVotes</span>)</div>
+      <div class="method-notes">Returns a list of all votes with the results</div>
+
+
+
+
+
+
+
+      <h3 class="field-label">Return type</h3>
+      <div class="return-type">
+        array[<a href="#Votes">Votes</a>]
+
+      </div>
+
+      <!--Todo: process Response Object and its headers, schema, examples -->
+
+
+      <h3 class="field-label">Produces</h3>
+      This API call produces the following media types according to the <span class="header">Accept</span> request header;
+      the media type will be conveyed by the <span class="header">Content-Type</span> response header.
+      <ul>
+        <li><code>application/json</code></li>
+      </ul>
+
+      <h3 class="field-label">Responses</h3>
+      <h4 class="field-label">200</h4>
+      List of votes
+
+    </div> <!-- method -->
+    <hr/>
+
+    <h2><a name="__Models">Models</a></h2>
+    [ Jump to <a href="#__Methods">Methods</a> ]
+
+    <h3>Table of Contents</h3>
+    <ol>
+      <li><a href="#ParliamentMember"><code>ParliamentMember</code></a></li>
+      <li><a href="#ParliamentMemberFull"><code>ParliamentMemberFull</code></a></li>
+      <li><a href="#Party"><code>Party</code></a></li>
+      <li><a href="#Tweet"><code>Tweet</code></a></li>
+      <li><a href="#Votes"><code>Votes</code></a></li>
+      <li><a href="#VotesFull"><code>VotesFull</code></a></li>
+    </ol>
+
+    <div class="model">
+      <h3><a name="ParliamentMember"><code>ParliamentMember</code></a> <a class="up" href="#__Models">Up</a></h3>
+
+      <div class="field-items">
+        <div class="param">id </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+  <div class="param">firstName </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">lastName </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">party </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">twitter </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">image </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  format: url</div>
+      </div>  <!-- field-items -->
+    </div>
+    <div class="model">
+      <h3><a name="ParliamentMemberFull"><code>ParliamentMemberFull</code></a> <a class="up" href="#__Models">Up</a></h3>
+
+      <div class="field-items">
+        <div class="param">id </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+  <div class="param">firstName </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">lastName </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">gender </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">constituency </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">status </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">party </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">twitter </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">image </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  format: url</div>
+  <div class="param">followers </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+  <div class="param">tweets </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+  <div class="param">tweetsPerDay </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+  <div class="param">lastTweet </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">mostPopuarTweet (optional)</div><div class="param-desc"><span class="param-type"><a href="#Tweet">Tweet</a></span>  </div>
+      </div>  <!-- field-items -->
+    </div>
+    <div class="model">
+      <h3><a name="Party"><code>Party</code></a> <a class="up" href="#__Models">Up</a></h3>
+
+      <div class="field-items">
+        <div class="param">namn </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">förkortning </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">bild </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  format: url</div>
+  <div class="param">hemsida </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  format: url</div>
+  <div class="param">e-post </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  format: mail</div>
+  <div class="param">telefon </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">twitterHandle </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">twitterLink </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  format: url</div>
+  <div class="param">partiledare </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">gruppledare </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">vice gruppledare </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">partisekreterare </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">mandat </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+      </div>  <!-- field-items -->
+    </div>
+    <div class="model">
+      <h3><a name="Tweet"><code>Tweet</code></a> <a class="up" href="#__Models">Up</a></h3>
+
+      <div class="field-items">
+        <div class="param">firstName </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">lastName </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">accountName </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">textBody </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">images </div><div class="param-desc"><span class="param-type"><a href="#array">List</a></span>  format: url</div>
+  <div class="param">timeStamp </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: date-time</div>
+  <div class="param">likes </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+  <div class="param">comments </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+  <div class="param">retweets </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+      </div>  <!-- field-items -->
+    </div>
+    <div class="model">
+      <h3><a name="Votes"><code>Votes</code></a> <a class="up" href="#__Models">Up</a></h3>
+
+      <div class="field-items">
+        <div class="param">Nej </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+  <div class="param">Ja </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+  <div class="param">Avstår </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+  <div class="param">votering_id </div><div class="param-desc"><span class="param-type"><a href="#string">String</a></span>  </div>
+  <div class="param">Frånvarande </div><div class="param-desc"><span class="param-type"><a href="#integer">Integer</a></span>  format: int32</div>
+      </div>  <!-- field-items -->
+    </div>
+    <div class="model">
+      <h3><a name="VotesFull"><code>VotesFull</code></a> <a class="up" href="#__Models">Up</a></h3>
+
+      <div class="field-items">
+        <div class="param">votering </div><div class="param-desc"><span class="param-type"><a href="#object">Object</a></span>  </div>
+      </div>  <!-- field-items -->
+    </div>
   </div>
 
   <script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>

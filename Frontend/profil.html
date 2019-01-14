@@ -7,7 +7,7 @@
 	<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" integrity="sha384-gfdkjb5BdAXd+lj+gudLWI+BXq4IuLW5IT+brZEZsLFm++aCMlF1V92rMkPaX4PP" crossorigin="anonymous">
 
 	<style>
-		#votesList{
+		#votesList, #tweetList{
 			max-height: 400px;
 			overflow:scroll;
 			-webkit-overflow-scrolling: touch;
@@ -274,11 +274,28 @@
 				}
 			});
 
-			let tweetsUrl = "http://localhost:5000/tweets/" + firstName + "_" + lastName;
+			let first = firstName.replace(/\s/g, "");
+			let last = lastName.replace(/\s/g, "");
+			let tweetsUrl = "http://localhost:5000/tweets/" + first + "_" + last;
 
 			$.getJSON(tweetsUrl, function(data2) {
 
-				console.log("Tweets: " + data2);
+				let tweetArray = data2["tweetes"];
+
+				$("#tweetsAbout").append("<div class=\"card\" style=\"width: 18rem; max-height: 27rem;\">"
+				+ "<div class=\"card-header\">"
+				+ "Tweets om"
+				+ "</div>"
+				+ "<ul class=\"list-group list-group-flush\" id=\"tweetList\">"
+				+ "</ul>"
+				+ "</div>");
+
+				for (var index in tweetArray) {
+					let tweet = tweetArray[index];
+					let user = tweet["user"];
+					let text = tweet["tweet"];
+					$("#tweetList").append("<li class=\"list-group-item\">" + user + ": " + text + "</li>");
+				}
 
 				// <div class="card" style="width: 18rem; max-height: 27rem;">
 				// 	<div class="card-header">
