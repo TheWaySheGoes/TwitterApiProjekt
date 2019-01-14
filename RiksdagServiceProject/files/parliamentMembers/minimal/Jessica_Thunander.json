@@ -1,9 +1,14 @@
 {
- "firstName": "Jessica",
  "lastName": "Thunander",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9a93ac06-5af1-475e-8b9f-858c6b003ef0_max.jpg",
+ "tweets": 107,
+ "firstName": "Jessica",
+ "createdAt": "Thu Jul 16 09:44:45 +0000 2009",
+ "twitter": "jeth73",
+ "followers": 12,
  "constituency": "Västra Götalands läns östra",
  "birthYear": "1973",
+ "following": 5,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0547805254924",
  "party": "V",
  "email": "jessica.thunander@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 505
 }

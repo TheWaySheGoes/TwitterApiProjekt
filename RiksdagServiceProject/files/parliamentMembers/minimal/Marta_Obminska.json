@@ -1,9 +1,14 @@
 {
- "firstName": "Marta",
  "lastName": "Obminska",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c994a157-6301-46d2-a111-abe58ec220f4_max.jpg",
+ "tweets": 8139,
+ "firstName": "Marta",
+ "createdAt": "Fri Apr 10 11:23:23 +0000 2009",
+ "twitter": "martaobminska",
+ "followers": 1902,
  "constituency": "Uppsala län",
  "birthYear": "1979",
+ "following": 2581,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0732677378827",
  "party": "M",
  "email": "marta.obminska@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3509
 }

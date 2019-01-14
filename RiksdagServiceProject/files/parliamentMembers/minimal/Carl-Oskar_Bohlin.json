@@ -1,9 +1,14 @@
 {
- "firstName": "Carl-Oskar",
  "lastName": "Bohlin",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7223f863-4406-4833-8f54-ed21dd2ccbc3_max.jpg",
+ "tweets": 1238,
+ "firstName": "Carl-Oskar",
+ "createdAt": "Thu Mar 12 20:01:30 +0000 2009",
+ "twitter": "CarlOskar",
+ "followers": 2665,
  "constituency": "Dalarnas län",
  "birthYear": "1986",
+ "following": 757,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0108109641223",
  "party": "M",
  "email": "carl-oskar.bohlin@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 725
 }

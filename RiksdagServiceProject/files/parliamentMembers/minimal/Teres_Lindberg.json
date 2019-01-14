@@ -1,9 +1,14 @@
 {
- "firstName": "Teres",
  "lastName": "Lindberg",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2d7334ea-9a6f-4381-b6ec-3c46d744cb9a_max.jpg",
+ "tweets": 866,
+ "firstName": "Teres",
+ "createdAt": "Tue Mar 31 12:04:24 +0000 2009",
+ "twitter": "TeresLindberg",
+ "followers": 1201,
  "constituency": "Stockholms kommun",
  "birthYear": "1974",
+ "following": 989,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0559925283228",
  "party": "S",
  "email": "teres.lindberg@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 708
 }

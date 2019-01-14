@@ -1,9 +1,14 @@
 {
- "firstName": "Jennie",
  "lastName": "Nilsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4c6f215d-de3a-452d-83b5-f472b8668b7e_max.jpg",
+ "tweets": 2998,
+ "firstName": "Jennie",
+ "createdAt": "Tue Jan 20 13:16:54 +0000 2009",
+ "twitter": "jennieNilsson",
+ "followers": 2624,
  "constituency": "Hallands län",
  "birthYear": "1972",
+ "following": 635,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0339894357417",
  "party": "S",
  "email": "jennie.nilsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 517
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Jakob",
  "lastName": "Forssmed",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0ab695ba-6994-11d7-ae76-0004755038ce_max.jpg",
+ "tweets": 1894,
+ "firstName": "Jakob",
+ "createdAt": "Fri Aug 26 12:12:34 +0000 2011",
+ "twitter": "jakobforssmed",
+ "followers": 3824,
  "constituency": "Stockholms län",
  "birthYear": "1974",
+ "following": 764,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0982795248728",
  "party": "KD",
  "email": "jakob.forssmed@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3988
 }

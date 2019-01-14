@@ -1,9 +1,14 @@
 {
- "firstName": "Eva",
  "lastName": "Lindh",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee86b181-9f3b-4e03-8ef4-b96b1e79cd25_max.jpg",
+ "tweets": 973,
+ "firstName": "Eva",
+ "createdAt": "Sun Jan 29 18:53:39 +0000 2012",
+ "twitter": "Eva_Lindh",
+ "followers": 386,
  "constituency": "Östergötlands län",
  "birthYear": "1971",
+ "following": 186,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0780214960516",
  "party": "S",
  "email": "eva.lindh@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 169
 }

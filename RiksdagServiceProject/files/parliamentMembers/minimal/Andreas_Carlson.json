@@ -1,9 +1,14 @@
 {
- "firstName": "Andreas",
  "lastName": "Carlson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7f431f89-8b2f-4499-8997-f55f1b57d8ab_max.jpg",
+ "tweets": 3915,
+ "firstName": "Andreas",
+ "createdAt": "Thu May 14 09:02:19 +0000 2009",
+ "twitter": "andreas_carlson",
+ "followers": 3449,
  "constituency": "Jönköpings län",
  "birthYear": "1987",
+ "following": 1434,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0542160909628",
  "party": "KD",
  "email": "andreas.carlson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2342
 }

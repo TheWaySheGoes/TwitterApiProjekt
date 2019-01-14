@@ -1,9 +1,14 @@
 {
- "firstName": "Johanna",
  "lastName": "Haraldsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/a1d94b24-2d7f-4d84-99fb-ca161ba77f78_max.jpg",
+ "tweets": 53,
+ "firstName": "Johanna",
+ "createdAt": "Fri Mar 16 15:41:59 +0000 2012",
+ "twitter": "JoHarald",
+ "followers": 176,
  "constituency": "Jönköpings län",
  "birthYear": "1980",
+ "following": 112,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0652497579621",
  "party": "S",
  "email": "johanna.haraldsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 10
 }

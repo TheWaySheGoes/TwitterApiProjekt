@@ -1,9 +1,14 @@
 {
- "firstName": "Joar",
  "lastName": "Forssell",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1c9bf350-8e09-4e61-b337-d03d4656b86a_max.jpg",
+ "tweets": 3567,
+ "firstName": "Joar",
+ "createdAt": "Tue Nov 29 22:06:46 +0000 2011",
+ "twitter": "JoarForssell",
+ "followers": 3126,
  "constituency": "Stockholms kommun",
  "birthYear": "1993",
+ "following": 1608,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0980092192122",
  "party": "L",
  "email": "joar.forssell@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3634
 }

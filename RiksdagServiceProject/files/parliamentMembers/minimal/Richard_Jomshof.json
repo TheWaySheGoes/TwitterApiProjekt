@@ -1,9 +1,14 @@
 {
- "firstName": "Richard",
  "lastName": "Jomshof",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ea8bae0d-0db4-4c68-b59f-3ba83d5f445d_max.jpg",
+ "tweets": 10412,
+ "firstName": "Richard",
+ "createdAt": "Fri Sep 03 18:25:26 +0000 2010",
+ "twitter": "RichardJomshof",
+ "followers": 14190,
  "constituency": "Blekinge län",
  "birthYear": "1969",
+ "following": 166,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0803753212716",
  "party": "SD",
  "email": "richard.jomshof@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2877
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "David",
  "lastName": "Lång",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/1b1880b5-b042-47b6-8669-8a51e1908365_max.jpg",
+ "tweets": 8,
+ "firstName": "David",
+ "createdAt": "Sun Jun 20 00:54:03 +0000 2010",
+ "twitter": "DavidLaang",
+ "followers": 243,
  "constituency": "Örebro län",
  "birthYear": "1972",
+ "following": 19,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0494054455310",
  "party": "SD",
  "email": "david.lang@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3
 }

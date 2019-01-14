@@ -1,9 +1,14 @@
 {
- "firstName": "Emma",
  "lastName": "Berginger",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/280f9475-e1a8-495b-96bf-04b1b0497a00_max.jpg",
+ "tweets": 4937,
+ "firstName": "Emma",
+ "createdAt": "Mon Jun 14 19:49:57 +0000 2010",
+ "twitter": "emmaberginger",
+ "followers": 1322,
  "constituency": "Skåne läns södra",
  "birthYear": "1986",
+ "following": 1050,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0624040854527",
  "party": "MP",
  "email": "emma.berginger@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1276
 }

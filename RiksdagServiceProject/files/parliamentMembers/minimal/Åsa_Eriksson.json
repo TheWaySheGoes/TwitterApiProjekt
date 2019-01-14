@@ -1,9 +1,14 @@
 {
- "firstName": "Åsa",
  "lastName": "Eriksson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/473cc883-b475-42fe-8553-4f1a6bd17a54_max.jpg",
+ "tweets": 1139,
+ "firstName": "Åsa",
+ "createdAt": "Wed Feb 19 07:17:58 +0000 2014",
+ "twitter": "asainorberg",
+ "followers": 342,
  "constituency": "Västmanlands län",
  "birthYear": "1972",
+ "following": 225,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0296384583518",
  "party": "S",
  "email": "asa.eriksson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 444
 }

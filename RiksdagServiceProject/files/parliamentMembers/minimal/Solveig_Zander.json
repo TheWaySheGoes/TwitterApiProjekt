@@ -1,9 +1,14 @@
 {
- "firstName": "Solveig",
  "lastName": "Zander",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/c59974f3-9489-4b50-8a17-78378bfd7afe_max.jpg",
+ "tweets": 640,
+ "firstName": "Solveig",
+ "createdAt": "Tue Mar 17 12:33:02 +0000 2009",
+ "twitter": "solveigzander",
+ "followers": 1121,
  "constituency": "Uppsala län",
  "birthYear": "1955",
+ "following": 105,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0196077326617",
  "party": "C",
  "email": "solveig.zander@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 140
 }

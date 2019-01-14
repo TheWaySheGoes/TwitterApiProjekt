@@ -1,9 +1,14 @@
 {
- "firstName": "Björn",
  "lastName": "Wiechel",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7ef75999-90a2-41af-a083-6dfd70e8e3e8_max.jpg",
+ "tweets": 1839,
+ "firstName": "Björn",
+ "createdAt": "Thu May 19 21:55:38 +0000 2011",
+ "twitter": "Bjorg_Wiechek",
+ "followers": 201,
  "constituency": "Västerbottens län",
  "birthYear": "1983",
+ "following": 242,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -273,5 +278,6 @@
  "id": "0482689573825",
  "party": "S",
  "email": "bjorn.wiechel@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 30
 }

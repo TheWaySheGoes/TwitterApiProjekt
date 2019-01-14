@@ -1,9 +1,14 @@
 {
- "firstName": "Fredrik",
  "lastName": "Christensson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/08f0d4c3-a02f-4e08-88b2-c03d384f63fc_max.jpg",
+ "tweets": 8636,
+ "firstName": "Fredrik",
+ "createdAt": "Mon Dec 12 07:27:45 +0000 2011",
+ "twitter": "FredrikChs",
+ "followers": 1627,
  "constituency": "Västra Götalands läns norra",
  "birthYear": "1991",
+ "following": 1610,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0519542449425",
  "party": "C",
  "email": "fredrik.christensson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2466
 }

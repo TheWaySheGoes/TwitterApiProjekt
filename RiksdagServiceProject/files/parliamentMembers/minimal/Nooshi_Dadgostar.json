@@ -1,9 +1,14 @@
 {
- "firstName": "Nooshi",
  "lastName": "Dadgostar",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/78d79a96-956f-4ac3-bbf7-2b15b3d86ce7_max.jpg",
+ "tweets": 9376,
+ "firstName": "Nooshi",
+ "createdAt": "Fri Apr 15 11:39:47 +0000 2011",
+ "twitter": "nooshiit",
+ "followers": 5124,
  "constituency": "Stockholms kommun",
  "birthYear": "1985",
+ "following": 1017,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0721509806321",
  "party": "V",
  "email": "nooshi.dadgostar@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 6188
 }

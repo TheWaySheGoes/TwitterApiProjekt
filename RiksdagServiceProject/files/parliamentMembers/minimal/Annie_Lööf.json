@@ -1,9 +1,14 @@
 {
- "firstName": "Annie",
  "lastName": "Lööf",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e234524d-e04b-448a-b609-05926a0a8b36_max.jpg",
+ "tweets": 27127,
+ "firstName": "Annie",
+ "createdAt": "Mon Dec 29 10:00:58 +0000 2008",
+ "twitter": "annieloof",
+ "followers": 120163,
  "constituency": "Jönköpings län",
  "birthYear": "1983",
+ "following": 1500,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0862868280923",
  "party": "C",
  "email": "annie.loof@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 7860
 }

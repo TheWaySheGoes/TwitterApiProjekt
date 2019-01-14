@@ -1,9 +1,14 @@
 {
- "firstName": "Fredrik",
  "lastName": "Olovsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/bc5c4354-fca3-4071-8096-acd9b7b1d09a_max.jpg",
+ "tweets": 2056,
+ "firstName": "Fredrik",
+ "createdAt": "Wed Jan 21 11:42:11 +0000 2009",
+ "twitter": "fredrikolovsson",
+ "followers": 3179,
  "constituency": "Södermanlands län",
  "birthYear": "1973",
+ "following": 676,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0653904370212",
  "party": "S",
  "email": "fredrik.olovsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1208
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Per-Arne",
  "lastName": "Håkansson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0ba9f702-555f-419f-89fb-7e1234ae1171_max.jpg",
+ "tweets": 6,
+ "firstName": "Per-Arne",
+ "createdAt": "Sun Mar 02 18:39:25 +0000 2014",
+ "twitter": "1Perarne1",
+ "followers": 136,
  "constituency": "Skåne läns norra och östra",
  "birthYear": "1963",
+ "following": 69,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0630820052511",
  "party": "S",
  "email": "per-arne.hakansson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 15
 }

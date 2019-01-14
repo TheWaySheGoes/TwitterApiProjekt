@@ -1,9 +1,14 @@
 {
- "firstName": "Anna",
  "lastName": "Wallentheim",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/200035cd-228a-4afa-8849-844f2c1e35fb_max.jpg",
+ "tweets": 1939,
+ "firstName": "Anna",
+ "createdAt": "Thu Aug 23 18:13:35 +0000 2012",
+ "twitter": "walleannas",
+ "followers": 571,
  "constituency": "Skåne läns norra och östra",
  "birthYear": "1985",
+ "following": 187,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0111479807829",
  "party": "S",
  "email": "anna.wallentheim@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2561
 }

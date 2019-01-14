@@ -1,9 +1,14 @@
 {
- "firstName": "Hillevi",
  "lastName": "Larsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c329b4-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 17973,
+ "firstName": "Hillevi",
+ "createdAt": "Thu Mar 19 10:19:48 +0000 2009",
+ "twitter": "HilleviLarsson",
+ "followers": 9807,
  "constituency": "Malmö kommun",
  "birthYear": "1974",
+ "following": 8994,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0878075468027",
  "party": "S",
  "email": "hillevi.larsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 13285
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Lars",
  "lastName": "Püss",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9f5c5d35-c450-4068-923a-2d8d077223d5_max.jpg",
+ "tweets": 314,
+ "firstName": "Lars",
+ "createdAt": "Wed Feb 10 14:55:19 +0000 2010",
+ "twitter": "lassepuess",
+ "followers": 291,
  "constituency": "Hallands län",
  "birthYear": "1966",
+ "following": 530,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0227531635413",
  "party": "M",
  "email": "lars.puss@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 202
 }

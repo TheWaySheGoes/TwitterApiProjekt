@@ -1,9 +1,14 @@
 {
- "firstName": "Tobias",
  "lastName": "Andersson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5763c159-5105-47b3-82fb-9cc7dc20dc7d_max.jpg",
+ "tweets": 6535,
+ "firstName": "Tobias",
+ "createdAt": "Sat Jul 06 15:41:25 +0000 2013",
+ "twitter": "SDTobbe",
+ "followers": 4042,
  "constituency": "Västra Götalands läns östra",
  "birthYear": "1996",
+ "following": 639,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "086684470825",
  "party": "SD",
  "email": "tobias.andersson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3389
 }

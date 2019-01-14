@@ -1,9 +1,14 @@
 {
- "firstName": "Anna",
  "lastName": "Johansson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9fd034bc-17ce-471b-b78c-94e03b34f7a0_max.jpg",
+ "tweets": 10858,
+ "firstName": "Anna",
+ "createdAt": "Sat Jan 10 16:42:35 +0000 2009",
+ "twitter": "annajohansson",
+ "followers": 8706,
  "constituency": "Göteborgs kommun",
  "birthYear": "1971",
+ "following": 536,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0691264514114",
  "party": "S",
  "email": "anna.johansson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1026
 }

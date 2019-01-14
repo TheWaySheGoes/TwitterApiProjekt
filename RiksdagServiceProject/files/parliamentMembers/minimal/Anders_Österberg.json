@@ -1,9 +1,14 @@
 {
- "firstName": "Anders",
  "lastName": "Österberg",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/df3988c4-9541-465c-b02e-1410c3d31155_max.jpg",
+ "tweets": 3331,
+ "firstName": "Anders",
+ "createdAt": "Fri Mar 07 23:40:16 +0000 2014",
+ "twitter": "vastgotapower",
+ "followers": 683,
  "constituency": "Stockholms kommun",
  "birthYear": "1981",
+ "following": 484,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0277648711624",
  "party": "S",
  "email": "anders.osterberg@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3656
 }

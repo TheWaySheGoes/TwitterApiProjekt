@@ -1,9 +1,14 @@
 {
- "firstName": "Mikael",
  "lastName": "Dahlqvist",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4db15792-072c-456e-a46c-6d0cee07889e_max.jpg",
+ "tweets": 16,
+ "firstName": "Mikael",
+ "createdAt": "Sun Jan 29 16:15:34 +0000 2017",
+ "twitter": "DahlqvistMikael",
+ "followers": 77,
  "constituency": "Värmlands län",
  "birthYear": "1967",
+ "following": 60,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0554852839719",
  "party": "S",
  "email": "mikael.dahlqvist@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 178
 }

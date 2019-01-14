@@ -1,9 +1,14 @@
 {
- "firstName": "Pål",
  "lastName": "Jonson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/057d1c7b-e668-4acc-8167-5d8dc68db0af_max.jpg",
+ "tweets": 271,
+ "firstName": "Pål",
+ "createdAt": "Mon Dec 30 23:50:09 +0000 2013",
+ "twitter": "PlJonson",
+ "followers": 363,
  "constituency": "Värmlands län",
  "birthYear": "1972",
+ "following": 584,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0642224351118",
  "party": "M",
  "email": "pal.jonson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 303
 }

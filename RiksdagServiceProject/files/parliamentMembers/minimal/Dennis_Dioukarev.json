@@ -1,9 +1,14 @@
 {
- "firstName": "Dennis",
  "lastName": "Dioukarev",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/13a59e93-95fe-45fb-b7b5-a76f8181cb4f_max.jpg",
+ "tweets": 6762,
+ "firstName": "Dennis",
+ "createdAt": "Tue Aug 21 09:13:42 +0000 2012",
+ "twitter": "DennisDioukarev",
+ "followers": 1758,
  "constituency": "Göteborgs kommun",
  "birthYear": "1993",
+ "following": 239,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0344222203323",
  "party": "SD",
  "email": "dennis.dioukarev@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1318
 }

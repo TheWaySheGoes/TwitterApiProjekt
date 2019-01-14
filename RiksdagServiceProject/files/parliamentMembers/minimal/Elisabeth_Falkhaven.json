@@ -1,9 +1,14 @@
 {
- "firstName": "Elisabeth",
  "lastName": "Falkhaven",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cb53466b-8349-484e-9a7b-084561cdf8b4_max.jpg",
+ "tweets": 0,
+ "firstName": "Elisabeth",
+ "createdAt": "Thu Jan 14 17:52:08 +0000 2010",
+ "twitter": "ElisabethFalk",
+ "followers": 15,
  "constituency": "Hallands län",
  "birthYear": "1955",
+ "following": 13,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0640627133410",
  "party": "MP",
  "email": "elisabeth.falkhaven@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2
 }

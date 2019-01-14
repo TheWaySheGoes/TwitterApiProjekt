@@ -1,9 +1,14 @@
 {
- "firstName": "Christer",
  "lastName": "Nylander",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f03ff4a2-c476-11d4-ae40-006008578ce8_max.jpg",
+ "tweets": 2325,
+ "firstName": "Christer",
+ "createdAt": "Sun May 03 13:51:09 +0000 2009",
+ "twitter": "CNylander",
+ "followers": 2602,
  "constituency": "Skåne läns norra och östra",
  "birthYear": "1968",
+ "following": 281,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0731442709013",
  "party": "L",
  "email": "christer.nylander@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 752
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Mikael",
  "lastName": "Larsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/39797ca4-c136-41c6-bf6b-feb256dee6b3_max.jpg",
+ "tweets": 726,
+ "firstName": "Mikael",
+ "createdAt": "Thu May 02 18:59:32 +0000 2013",
+ "twitter": "1989_Mikael",
+ "followers": 193,
  "constituency": "Västra Götalands läns södra",
  "birthYear": "1989",
+ "following": 169,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0226631365426",
  "party": "C",
  "email": "mikael.larsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 939
 }

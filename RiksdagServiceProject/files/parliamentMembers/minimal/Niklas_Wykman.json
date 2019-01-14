@@ -1,9 +1,14 @@
 {
- "firstName": "Niklas",
  "lastName": "Wykman",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ab589436-528b-42c5-8e0c-28849b0d2294_max.jpg",
+ "tweets": 441,
+ "firstName": "Niklas",
+ "createdAt": "Wed Apr 09 15:28:44 +0000 2014",
+ "twitter": "NiklasWykman",
+ "followers": 3154,
  "constituency": "Stockholms län",
  "birthYear": "1981",
+ "following": 458,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0493288854424",
  "party": "M",
  "email": "niklas.wykman@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 188
 }

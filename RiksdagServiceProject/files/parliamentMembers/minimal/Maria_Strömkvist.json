@@ -1,9 +1,14 @@
 {
- "firstName": "Maria",
  "lastName": "Strömkvist",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/566a8a1c-0625-4f24-9beb-6b6dec928df7_max.jpg",
+ "tweets": 396,
+ "firstName": "Maria",
+ "createdAt": "Mon Jan 12 13:18:03 +0000 2009",
+ "twitter": "MariaStromkvist",
+ "followers": 513,
  "constituency": "Dalarnas län",
  "birthYear": "1964",
+ "following": 411,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0136801772915",
  "party": "S",
  "email": "maria.stromkvist@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 70
 }

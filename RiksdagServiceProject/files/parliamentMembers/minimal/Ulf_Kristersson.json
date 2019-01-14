@@ -1,9 +1,14 @@
 {
- "firstName": "Ulf",
  "lastName": "Kristersson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e7e4132a-b4df-11d5-8079-0040ca16072a_max.jpg",
+ "tweets": 0,
+ "firstName": "Ulf",
+ "createdAt": "Tue Nov 01 12:52:47 +0000 2011",
+ "twitter": "UlfKristersson",
+ "followers": 367,
  "constituency": "Stockholms kommun",
  "birthYear": "1963",
+ "following": 0,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0222691314314",
  "party": "M",
  "email": "ulf.kristersson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 0
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Peter",
  "lastName": "Helander",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3234a755-70b3-40db-b414-d5afb960ed4e_max.jpg",
+ "tweets": 2330,
+ "firstName": "Peter",
+ "createdAt": "Fri Dec 11 08:46:28 +0000 2009",
+ "twitter": "PeterHelander",
+ "followers": 430,
  "constituency": "Dalarnas län",
  "birthYear": "1961",
+ "following": 217,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0681030112815",
  "party": "C",
  "email": "peter.helander@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 130
 }

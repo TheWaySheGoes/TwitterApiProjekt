@@ -1,9 +1,14 @@
 {
- "firstName": "Johan",
  "lastName": "Andersson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/fff74c6c-fae3-4977-a472-cfe2b6ae257a_max.jpg",
+ "tweets": 570,
+ "firstName": "Johan",
+ "createdAt": "Sat Jan 17 13:47:41 +0000 2009",
+ "twitter": "joh_and",
+ "followers": 271,
  "constituency": "Östergötlands län",
  "birthYear": "1961",
+ "following": 509,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0964730940415",
  "party": "S",
  "email": "johan.andersson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 151
 }

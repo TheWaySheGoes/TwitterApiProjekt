@@ -1,9 +1,14 @@
 {
- "firstName": "Mats",
  "lastName": "Green",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d5c26045-6fd1-4c05-8f97-7195e1e324ff_max.jpg",
+ "tweets": 24,
+ "firstName": "Mats",
+ "createdAt": "Tue Oct 23 06:48:30 +0000 2012",
+ "twitter": "Mats_Green",
+ "followers": 531,
  "constituency": "Jönköpings län",
  "birthYear": "1979",
+ "following": 134,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0538387395826",
  "party": "M",
  "email": "mats.green@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 8
 }

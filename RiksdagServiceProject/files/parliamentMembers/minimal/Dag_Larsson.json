@@ -1,9 +1,14 @@
 {
- "firstName": "Dag",
  "lastName": "Larsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/56a35546-926b-4ac3-a101-a157de119e00_max.jpg",
+ "tweets": 3193,
+ "firstName": "Dag",
+ "createdAt": "Sat Jan 10 15:54:34 +0000 2009",
+ "twitter": "dagolov",
+ "followers": 1890,
  "constituency": "Stockholms kommun",
  "birthYear": "1960",
+ "following": 1753,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0685749336810",
  "party": "S",
  "email": "dag.larsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1728
 }

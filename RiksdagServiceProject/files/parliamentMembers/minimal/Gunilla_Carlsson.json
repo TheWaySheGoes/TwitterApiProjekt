@@ -1,9 +1,14 @@
 {
- "firstName": "Gunilla",
  "lastName": "Carlsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/11d950d5-e41f-4e94-af86-ae8a1996d81b_max.jpg",
+ "tweets": 577,
+ "firstName": "Gunilla",
+ "createdAt": "Fri Jul 06 19:35:38 +0000 2012",
+ "twitter": "kulturgunilla",
+ "followers": 1101,
  "constituency": "Göteborgs kommun",
  "birthYear": "1966",
+ "following": 446,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0875221317013",
  "party": "S",
  "email": "gunilla.c.carlsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 650
 }

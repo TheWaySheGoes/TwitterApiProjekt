@@ -1,9 +1,14 @@
 {
- "firstName": "Olle",
  "lastName": "Thorell",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6d1640b5-12e6-41a3-82a2-a3e91c172cda_max.jpg",
+ "tweets": 2725,
+ "firstName": "Olle",
+ "createdAt": "Sun May 02 13:45:29 +0000 2010",
+ "twitter": "Olle_Thorell",
+ "followers": 1007,
  "constituency": "Västmanlands län",
  "birthYear": "1967",
+ "following": 492,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0879782396219",
  "party": "S",
  "email": "olle.thorell@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 170
 }

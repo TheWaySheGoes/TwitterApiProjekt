@@ -1,9 +1,14 @@
 {
- "firstName": "Saila",
  "lastName": "Quicklund",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/243f0434-ae15-41b4-92b6-146a0fb0700a_max.jpg",
+ "tweets": 8585,
+ "firstName": "Saila",
+ "createdAt": "Fri Aug 24 20:34:32 +0000 2012",
+ "twitter": "SQuicklund",
+ "followers": 1667,
  "constituency": "Jämtlands län",
  "birthYear": "1961",
+ "following": 520,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0519740099915",
  "party": "M",
  "email": "saila.quicklund@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 6955
 }

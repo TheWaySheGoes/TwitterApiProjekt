@@ -1,9 +1,14 @@
 {
- "firstName": "Karin",
  "lastName": "Rågsjö",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b250135d-d424-497a-8484-36cb6c0dbf3d_max.jpg",
+ "tweets": 10706,
+ "firstName": "Karin",
+ "createdAt": "Tue May 03 13:45:19 +0000 2011",
+ "twitter": "ragsjo",
+ "followers": 3225,
  "constituency": "Stockholms kommun",
  "birthYear": "1955",
+ "following": 1794,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0246927519019",
  "party": "V",
  "email": "karin.ragsjo@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 12495
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Patrik",
  "lastName": "Björck",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8a5b8260-f6d5-4d17-af0b-a339cd40470e_max.jpg",
+ "tweets": 1651,
+ "firstName": "Patrik",
+ "createdAt": "Wed Dec 18 17:15:06 +0000 2013",
+ "twitter": "patrikbjorck",
+ "followers": 573,
  "constituency": "Västra Götalands läns östra",
  "birthYear": "1957",
+ "following": 267,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0516528386117",
  "party": "S",
  "email": "patrik.bjorck@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1984
 }

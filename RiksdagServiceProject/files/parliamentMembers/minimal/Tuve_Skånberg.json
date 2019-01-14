@@ -1,9 +1,14 @@
 {
- "firstName": "Tuve",
  "lastName": "Skånberg",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c31c8c-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 61,
+ "firstName": "Tuve",
+ "createdAt": "Tue May 05 05:54:10 +0000 2009",
+ "twitter": "tuveskanberg",
+ "followers": 445,
  "constituency": "Skåne läns norra och östra",
  "birthYear": "1956",
+ "following": 105,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0161597857912",
  "party": "KD",
  "email": "tuve.skanberg@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 112
 }

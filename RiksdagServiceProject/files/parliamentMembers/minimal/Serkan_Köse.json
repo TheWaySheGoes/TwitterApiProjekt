@@ -1,9 +1,14 @@
 {
- "firstName": "Serkan",
  "lastName": "Köse",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/f2597c6d-8286-457a-9d62-6243f260af40_max.jpg",
+ "tweets": 634,
+ "firstName": "Serkan",
+ "createdAt": "Sun Jun 14 19:32:33 +0000 2009",
+ "twitter": "Serkankose76",
+ "followers": 531,
  "constituency": "Stockholms län",
  "birthYear": "1976",
+ "following": 297,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0256716955026",
  "party": "S",
  "email": "serkan.kose@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 168
 }

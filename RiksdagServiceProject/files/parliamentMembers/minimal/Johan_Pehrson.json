@@ -1,9 +1,14 @@
 {
- "firstName": "Johan",
  "lastName": "Pehrson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c327f8-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 3454,
+ "firstName": "Johan",
+ "createdAt": "Wed Feb 25 13:45:37 +0000 2009",
+ "twitter": "JohanPehrson",
+ "followers": 1594,
  "constituency": "Örebro län",
  "birthYear": "1968",
+ "following": 399,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0224712677012",
  "party": "L",
  "email": "johan.pehrson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 6501
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Magnus",
  "lastName": "Manhammar",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/639da251-c800-4b3d-a8c5-6626094c9035_max.jpg",
+ "tweets": 24,
+ "firstName": "Magnus",
+ "createdAt": "Thu Feb 05 23:47:49 +0000 2009",
+ "twitter": "manhammar",
+ "followers": 853,
  "constituency": "Blekinge län",
  "birthYear": "1980",
+ "following": 266,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "025967059622",
  "party": "S",
  "email": "magnus.manhammar@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 0
 }

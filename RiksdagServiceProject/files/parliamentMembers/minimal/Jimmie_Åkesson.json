@@ -1,9 +1,14 @@
 {
- "firstName": "Jimmie",
  "lastName": "Åkesson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5ecb17ba-ebbe-4958-a142-a5134aff9808_max.jpg",
+ "tweets": 3543,
+ "firstName": "Jimmie",
+ "createdAt": "Thu Dec 10 20:04:19 +0000 2009",
+ "twitter": "jimmieakesson",
+ "followers": 73379,
  "constituency": "Jönköpings län",
  "birthYear": "1979",
+ "following": 40,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "051207517226",
  "party": "SD",
  "email": "jimmie.akesson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 21
 }

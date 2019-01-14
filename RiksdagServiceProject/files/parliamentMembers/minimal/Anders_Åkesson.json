@@ -1,9 +1,14 @@
 {
- "firstName": "Anders",
  "lastName": "Åkesson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/48144b97-5799-422d-9ede-8b2dd360ca19_max.jpg",
+ "tweets": 16486,
+ "firstName": "Anders",
+ "createdAt": "Thu Oct 17 08:44:05 +0000 2013",
+ "twitter": "andersaakesson",
+ "followers": 1789,
  "constituency": "Kalmar län",
  "birthYear": "1958",
+ "following": 1500,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0677738818613",
  "party": "C",
  "email": "anders.akesson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 9512
 }

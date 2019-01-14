@@ -1,9 +1,14 @@
 {
- "firstName": "Ola",
  "lastName": "Johansson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/728bd800-61df-4b9a-86ed-1fe3d8479f14_max.jpg",
+ "tweets": 6833,
+ "firstName": "Ola",
+ "createdAt": "Fri Jun 12 19:20:45 +0000 2009",
+ "twitter": "ola_johansson",
+ "followers": 1720,
  "constituency": "Hallands län",
  "birthYear": "1960",
+ "following": 1013,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0934639939611",
  "party": "C",
  "email": "ola.johansson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3628
 }

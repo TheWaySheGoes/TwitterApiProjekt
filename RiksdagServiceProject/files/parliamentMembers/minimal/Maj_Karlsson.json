@@ -1,9 +1,14 @@
 {
- "firstName": "Maj",
  "lastName": "Karlsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/9d6489d6-6fa5-4420-9224-8968abaa569c_max.jpg",
+ "tweets": 2335,
+ "firstName": "Maj",
+ "createdAt": "Tue Jul 01 13:00:30 +0000 2014",
+ "twitter": "karlsson_maj",
+ "followers": 1533,
  "constituency": "Göteborgs kommun",
  "birthYear": "1980",
+ "following": 524,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0198917587520",
  "party": "V",
  "email": "maj.karlsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1842
 }

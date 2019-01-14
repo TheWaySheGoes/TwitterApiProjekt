@@ -1,9 +1,14 @@
 {
- "firstName": "Beatrice",
  "lastName": "Ask",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c31ae1-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 911,
+ "firstName": "Beatrice",
+ "createdAt": "Wed Feb 03 12:52:01 +0000 2016",
+ "twitter": "BeatriceAsk2",
+ "followers": 2956,
  "constituency": "Stockholms kommun",
  "birthYear": "1956",
+ "following": 976,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0262017901513",
  "party": "M",
  "email": "beatrice.ask@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 547
 }

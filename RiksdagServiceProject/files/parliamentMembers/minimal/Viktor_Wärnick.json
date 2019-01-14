@@ -1,9 +1,14 @@
 {
- "firstName": "Viktor",
  "lastName": "Wärnick",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7cdc7712-4bb7-4361-8b72-8f98a111d0c5_max.jpg",
+ "tweets": 431,
+ "firstName": "Viktor",
+ "createdAt": "Thu Jul 21 20:52:38 +0000 2011",
+ "twitter": "viktorwarnick",
+ "followers": 197,
  "constituency": "Gävleborgs län",
  "birthYear": "1991",
+ "following": 200,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0796312429425",
  "party": "M",
  "email": "viktor.warnick@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 185
 }

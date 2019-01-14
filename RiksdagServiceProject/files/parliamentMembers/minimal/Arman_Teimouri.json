@@ -1,9 +1,14 @@
 {
- "firstName": "Arman",
  "lastName": "Teimouri",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/92355c36-d95d-42ed-9ad9-463bf9558767_max.jpg",
+ "tweets": 1971,
+ "firstName": "Arman",
+ "createdAt": "Thu Jan 15 22:08:25 +0000 2009",
+ "twitter": "armansweden",
+ "followers": 826,
  "constituency": "Värmlands län",
  "birthYear": "1980",
+ "following": 833,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0322827326923",
  "party": "L",
  "email": "arman.teimouri@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 421
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Johan",
  "lastName": "Forssell",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0b564224-f764-4bfc-87f6-80fcaa33fa46_max.jpg",
+ "tweets": 1444,
+ "firstName": "Johan",
+ "createdAt": "Thu Jun 10 06:55:40 +0000 2010",
+ "twitter": "JohanForssell",
+ "followers": 11587,
  "constituency": "Stockholms kommun",
  "birthYear": "1979",
+ "following": 999,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0126797549328",
  "party": "M",
  "email": "johan.forssell@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 6377
 }

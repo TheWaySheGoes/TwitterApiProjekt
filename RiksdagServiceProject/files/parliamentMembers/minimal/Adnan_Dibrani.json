@@ -1,9 +1,14 @@
 {
- "firstName": "Adnan",
  "lastName": "Dibrani",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2eb5b5ce-2e8c-4063-a2c2-d03b50ff4c5d_max.jpg",
+ "tweets": 68,
+ "firstName": "Adnan",
+ "createdAt": "Thu Sep 15 21:21:22 +0000 2011",
+ "twitter": "adnandibrani",
+ "followers": 370,
  "constituency": "Hallands län",
  "birthYear": "1985",
+ "following": 192,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0442629549320",
  "party": "S",
  "email": "adnan.dibrani@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 19
 }

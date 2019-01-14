@@ -1,9 +1,14 @@
 {
- "firstName": "Matheus",
  "lastName": "Enholm",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/8c4af927-7bb6-4012-9b46-12adb641f556_max.jpg",
+ "tweets": 1,
+ "firstName": "Matheus",
+ "createdAt": "Tue Nov 25 14:18:33 +0000 2014",
+ "twitter": "EnholmMatheus",
+ "followers": 8,
  "constituency": "Västra Götalands läns norra",
  "birthYear": "1979",
+ "following": 10,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0202577142527",
  "party": "SD",
  "email": "matheus.enholm@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 6
 }

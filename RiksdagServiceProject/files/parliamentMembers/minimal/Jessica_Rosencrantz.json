@@ -1,9 +1,14 @@
 {
- "firstName": "Jessica",
  "lastName": "Rosencrantz",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/acdaa4aa-20f2-49a0-b929-0862f4bd6826_max.jpg",
+ "tweets": 2079,
+ "firstName": "Jessica",
+ "createdAt": "Fri Apr 13 09:04:51 +0000 2012",
+ "twitter": "Rosencrantz_J",
+ "followers": 4287,
  "constituency": "Stockholms kommun",
  "birthYear": "1987",
+ "following": 1345,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0992420223820",
  "party": "M",
  "email": "jessica.rosencrantz@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 529
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Robert",
  "lastName": "Hannah",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/99a5ca75-949e-470a-9b44-e2cdbcec920b_max.jpg",
+ "tweets": 3820,
+ "firstName": "Robert",
+ "createdAt": "Sat Feb 18 15:28:10 +0000 2012",
+ "twitter": "RobertHannah85",
+ "followers": 5042,
  "constituency": "Göteborgs kommun",
  "birthYear": "1985",
+ "following": 1394,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0223069839622",
  "party": "L",
  "email": "robert.hannah@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1211
 }

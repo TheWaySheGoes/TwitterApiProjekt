@@ -1,9 +1,14 @@
 {
- "firstName": "Annicka",
  "lastName": "Engblom",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/23c1d1cc-f2a2-47f1-b144-0d52a464791a_max.jpg",
+ "tweets": 14609,
+ "firstName": "Annicka",
+ "createdAt": "Tue Feb 17 20:56:05 +0000 2009",
+ "twitter": "AnnickaEngblom",
+ "followers": 3498,
  "constituency": "Blekinge län",
  "birthYear": "1967",
+ "following": 1344,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0590042760718",
  "party": "M",
  "email": "annicka.engblom@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 11672
 }

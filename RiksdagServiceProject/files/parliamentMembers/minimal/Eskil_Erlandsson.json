@@ -1,9 +1,14 @@
 {
- "firstName": "Eskil",
  "lastName": "Erlandsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c32246-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 22,
+ "firstName": "Eskil",
+ "createdAt": "Fri Feb 13 09:49:45 +0000 2015",
+ "twitter": "ErlandssonEskil",
+ "followers": 538,
  "constituency": "Kronobergs län",
  "birthYear": "1957",
+ "following": 53,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0465398691116",
  "party": "C",
  "email": "eskil.erlandsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5
 }

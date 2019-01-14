@@ -1,9 +1,14 @@
 {
- "firstName": "Patrick",
  "lastName": "Reslow",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6aa5f2eb-568a-4853-a925-65fee736b037_max.jpg",
+ "tweets": 250,
+ "firstName": "Patrick",
+ "createdAt": "Wed Nov 24 11:38:19 +0000 2010",
+ "twitter": "patrickreslow",
+ "followers": 876,
  "constituency": "Värmlands län",
  "birthYear": "1970",
+ "following": 284,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0545733815610",
  "party": "SD",
  "email": "patrick.reslow@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 345
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Elisabeth",
  "lastName": "Svantesson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b7538868-d298-4c5f-9098-e42ea9fb13da_max.jpg",
+ "tweets": 1506,
+ "firstName": "Elisabeth",
+ "createdAt": "Wed Sep 24 12:38:19 +0000 2014",
+ "twitter": "ElisabethSvan",
+ "followers": 6112,
  "constituency": "Örebro län",
  "birthYear": "1967",
+ "following": 1012,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0899112324519",
  "party": "M",
  "email": "elisabeth.svantesson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3789
 }

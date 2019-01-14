@@ -1,9 +1,14 @@
 {
- "firstName": "Michael",
  "lastName": "Anefur",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/0e4e69c7-d657-47e6-be67-e8a3003084fd_max.jpg",
+ "tweets": 0,
+ "firstName": "Michael",
+ "createdAt": "Mon Jul 28 14:53:21 +0000 2014",
+ "twitter": "michaelanefur",
+ "followers": 28,
  "constituency": "Skåne läns västra",
  "birthYear": "1957",
+ "following": 0,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0892978334516",
  "party": "KD",
  "email": "michael.anefur@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 0
 }

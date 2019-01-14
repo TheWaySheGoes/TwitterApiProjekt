@@ -1,9 +1,14 @@
 {
- "firstName": "Sven-Olof",
  "lastName": "Sällström",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/06776272-4f62-44c7-9011-f66349279c88_max.jpg",
+ "tweets": 11566,
+ "firstName": "Sven-Olof",
+ "createdAt": "Wed May 07 12:02:59 +0000 2014",
+ "twitter": "SvenSallstrom",
+ "followers": 2513,
  "constituency": "Kronobergs län",
  "birthYear": "1968",
+ "following": 206,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0772402807013",
  "party": "SD",
  "email": "sven-olof.sallstrom@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1018
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Yasmine",
  "lastName": "Eriksson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ae22d593-d382-40dc-918c-df30916b6d9e_max.jpg",
+ "tweets": 200,
+ "firstName": "Yasmine",
+ "createdAt": "Tue Jun 28 22:44:41 +0000 2011",
+ "twitter": "YasmineEriksson",
+ "followers": 880,
  "constituency": "Stockholms kommun",
  "birthYear": "1989",
+ "following": 222,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0331791853028",
  "party": "SD",
  "email": "yasmine.eriksson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 254
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Katarina",
  "lastName": "Brännström",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/97a9cfb7-de78-4995-8e29-40891595e8d2_max.jpg",
+ "tweets": 8070,
+ "firstName": "Katarina",
+ "createdAt": "Wed Dec 03 08:35:25 +0000 2014",
+ "twitter": "brnnstrm2",
+ "followers": 1628,
  "constituency": "Kronobergs län",
  "birthYear": "1950",
+ "following": 1056,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0128805841317",
  "party": "M",
  "email": "katarina.brannstrom@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 14693
 }

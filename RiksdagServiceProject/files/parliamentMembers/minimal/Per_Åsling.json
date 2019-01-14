@@ -1,9 +1,14 @@
 {
- "firstName": "Per",
  "lastName": "Åsling",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/74c39a37-e184-44f6-9a7e-36cdb06c9dcc_max.jpg",
+ "tweets": 625,
+ "firstName": "Per",
+ "createdAt": "Wed Aug 26 10:11:16 +0000 2009",
+ "twitter": "perasling",
+ "followers": 1158,
  "constituency": "Jämtlands län",
  "birthYear": "1957",
+ "following": 1,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0679228585116",
  "party": "C",
  "email": "per.asling@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3
 }

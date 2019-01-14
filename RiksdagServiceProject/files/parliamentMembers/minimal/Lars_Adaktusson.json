@@ -1,9 +1,14 @@
 {
- "firstName": "Lars",
  "lastName": "Adaktusson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4a2cb0d8-5569-4f1b-bd0f-62c7e812a2fb_max.jpg",
+ "tweets": 2751,
+ "firstName": "Lars",
+ "createdAt": "Thu Jan 16 16:54:29 +0000 2014",
+ "twitter": "Ladaktusson",
+ "followers": 13945,
  "constituency": "Dalarnas län",
  "birthYear": "1955",
+ "following": 343,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0201207390210",
  "party": "KD",
  "email": "lars.adaktusson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2203
 }

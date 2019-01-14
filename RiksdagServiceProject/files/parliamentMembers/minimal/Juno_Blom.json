@@ -1,9 +1,14 @@
 {
- "firstName": "Juno",
  "lastName": "Blom",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/3eae18dc-594f-44eb-95a8-0e5b2b71d645_max.jpg",
+ "tweets": 0,
+ "firstName": "Juno",
+ "createdAt": "Mon Jun 09 18:39:24 +0000 2014",
+ "twitter": "BlomJuno",
+ "followers": 123,
  "constituency": "Östergötlands län",
  "birthYear": "1968",
+ "following": 115,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0719332223713",
  "party": "L",
  "email": "juno.blom@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 4
 }

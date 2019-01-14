@@ -1,9 +1,14 @@
 {
- "firstName": "Lina",
  "lastName": "Nordquist",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/87042942-c4f6-46ff-9eac-fceaf25729d5_max.jpg",
+ "tweets": 3429,
+ "firstName": "Lina",
+ "createdAt": "Tue Oct 20 07:35:29 +0000 2009",
+ "twitter": "LinaNordquist",
+ "followers": 1078,
  "constituency": "Uppsala län",
  "birthYear": "1977",
+ "following": 1212,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0161616238120",
  "party": "L",
  "email": "lina.nordquist@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3682
 }

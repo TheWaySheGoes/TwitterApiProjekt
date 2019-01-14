@@ -1,9 +1,14 @@
 {
- "firstName": "Tomas",
  "lastName": "Tobé",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e6943f96-a4d8-45f3-81f2-8ecea4f25e6b_max.jpg",
+ "tweets": 10942,
+ "firstName": "Tomas",
+ "createdAt": "Sat Jan 24 17:44:24 +0000 2009",
+ "twitter": "tomastobe",
+ "followers": 15285,
  "constituency": "Stockholms län",
  "birthYear": "1978",
+ "following": 1560,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "069436402021",
  "party": "M",
  "email": "tomas.tobe@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 4606
 }

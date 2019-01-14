@@ -1,9 +1,14 @@
 {
- "firstName": "Åsa",
  "lastName": "Westlund",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/73281fee-b276-4150-8cf0-fd3368b3c5c6_max.jpg",
+ "tweets": 13219,
+ "firstName": "Åsa",
+ "createdAt": "Sun Jan 18 23:04:31 +0000 2009",
+ "twitter": "AsaWestlund",
+ "followers": 7337,
  "constituency": "Stockholms län",
  "birthYear": "1976",
+ "following": 1246,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0802546764724",
  "party": "S",
  "email": "asa.westlund@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 10500
 }

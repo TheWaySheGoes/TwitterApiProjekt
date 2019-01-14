@@ -1,9 +1,14 @@
 {
- "firstName": "Jan",
  "lastName": "Ericson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5c11ef9b-d56d-4e85-8cc6-800f0257548a_max.jpg",
+ "tweets": 76542,
+ "firstName": "Jan",
+ "createdAt": "Wed Oct 19 07:36:14 +0000 2011",
+ "twitter": "Ericson_ubbhult",
+ "followers": 11547,
  "constituency": "Västra Götalands läns södra",
  "birthYear": "1961",
+ "following": 4951,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0940980416614",
  "party": "M",
  "email": "jan.ericson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5224
 }

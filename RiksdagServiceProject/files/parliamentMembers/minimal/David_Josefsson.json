@@ -1,9 +1,14 @@
 {
- "firstName": "David",
  "lastName": "Josefsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/5d9734c8-d757-4862-8f2e-c292824120a7_max.jpg",
+ "tweets": 113,
+ "firstName": "David",
+ "createdAt": "Tue May 17 13:07:50 +0000 2011",
+ "twitter": "david_josefsson",
+ "followers": 446,
  "constituency": "Göteborgs kommun",
  "birthYear": "1983",
+ "following": 995,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0503029811325",
  "party": "M",
  "email": "david.josefsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 193
 }

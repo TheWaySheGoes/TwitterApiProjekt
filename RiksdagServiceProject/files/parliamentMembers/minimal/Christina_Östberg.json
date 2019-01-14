@@ -1,9 +1,14 @@
 {
- "firstName": "Christina",
  "lastName": "Östberg",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/aa5e595b-e755-4a4e-a457-ea289ad1add3_max.jpg",
+ "tweets": 1,
+ "firstName": "Christina",
+ "createdAt": "Thu Jan 29 08:01:06 +0000 2015",
+ "twitter": "costberg68",
+ "followers": 23,
  "constituency": "Skåne läns norra och östra",
  "birthYear": "1968",
+ "following": 61,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0325462829512",
  "party": "SD",
  "email": "christina.ostberg@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 0
 }

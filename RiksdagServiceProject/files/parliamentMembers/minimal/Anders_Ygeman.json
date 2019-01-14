@@ -1,9 +1,14 @@
 {
- "firstName": "Anders",
  "lastName": "Ygeman",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3235d-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 9635,
+ "firstName": "Anders",
+ "createdAt": "Sun Jan 25 17:49:47 +0000 2009",
+ "twitter": "Ygeman",
+ "followers": 49905,
  "constituency": "Stockholms kommun",
  "birthYear": "1970",
+ "following": 1316,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0744993950910",
  "party": "S",
  "email": "anders.ygeman@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3594
 }

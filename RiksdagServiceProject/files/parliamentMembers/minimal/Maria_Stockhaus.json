@@ -1,9 +1,14 @@
 {
- "firstName": "Maria",
  "lastName": "Stockhaus",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/ee32e119-fdfe-4e00-b136-b2102d79b2a6_max.jpg",
+ "tweets": 9828,
+ "firstName": "Maria",
+ "createdAt": "Mon Jun 15 13:09:02 +0000 2009",
+ "twitter": "Mariastockhaus",
+ "followers": 3338,
  "constituency": "Stockholms län",
  "birthYear": "1963",
+ "following": 2615,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0932000030511",
  "party": "M",
  "email": "maria.stockhaus@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 4754
 }

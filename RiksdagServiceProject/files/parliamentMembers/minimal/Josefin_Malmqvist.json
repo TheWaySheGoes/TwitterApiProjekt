@@ -1,9 +1,14 @@
 {
- "firstName": "Josefin",
  "lastName": "Malmqvist",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/698a36fb-19f3-48cf-bfda-20a17195fbd5_max.jpg",
+ "tweets": 10846,
+ "firstName": "Josefin",
+ "createdAt": "Sun Dec 27 11:53:33 +0000 2009",
+ "twitter": "JMalmqvist",
+ "followers": 3490,
  "constituency": "Stockholms län",
  "birthYear": "1987",
+ "following": 3886,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "019430605328",
  "party": "M",
  "email": "josefin.malmqvist@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 5642
 }

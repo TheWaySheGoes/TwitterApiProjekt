@@ -1,9 +1,14 @@
 {
- "firstName": "Niklas",
  "lastName": "Karlsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/b20fb574-b44c-42af-ae93-064dfabbffaf_max.jpg",
+ "tweets": 4341,
+ "firstName": "Niklas",
+ "createdAt": "Thu Jun 17 13:30:53 +0000 2010",
+ "twitter": "niklaska",
+ "followers": 705,
  "constituency": "Skåne läns västra",
  "birthYear": "1974",
+ "following": 137,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "065105536026",
  "party": "S",
  "email": "niklas.karlsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 455
 }

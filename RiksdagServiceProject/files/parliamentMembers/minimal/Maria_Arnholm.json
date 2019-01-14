@@ -1,9 +1,14 @@
 {
- "firstName": "Maria",
  "lastName": "Arnholm",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/83345459-cc17-4d4a-b2bb-3748a0f3721c_max.jpg",
+ "tweets": 2100,
+ "firstName": "Maria",
+ "createdAt": "Wed Jan 23 09:27:57 +0000 2013",
+ "twitter": "MariaArnholm",
+ "followers": 3114,
  "constituency": "Stockholms län",
  "birthYear": "1958",
+ "following": 233,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0758652610",
  "party": "L",
  "email": "maria.arnholm@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 785
 }

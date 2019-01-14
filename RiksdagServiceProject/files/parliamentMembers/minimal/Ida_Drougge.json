@@ -1,9 +1,14 @@
 {
- "firstName": "Ida",
  "lastName": "Drougge",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/e8a2c04d-a186-421b-b1fd-a401f0917673_max.jpg",
+ "tweets": 4885,
+ "firstName": "Ida",
+ "createdAt": "Tue Mar 02 21:08:07 +0000 2010",
+ "twitter": "idadrougge",
+ "followers": 5732,
  "constituency": "Stockholms län",
  "birthYear": "1990",
+ "following": 1577,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0604811710522",
  "party": "M",
  "email": "ida.drougge@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 2241
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Erik",
  "lastName": "Bengtzboe",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/cc608c25-fcc1-4bdb-9354-4cd44532ff25_max.jpg",
+ "tweets": 8183,
+ "firstName": "Erik",
+ "createdAt": "Mon Jan 26 23:49:19 +0000 2009",
+ "twitter": "bengtzboe",
+ "followers": 5862,
  "constituency": "Södermanlands län",
  "birthYear": "1987",
+ "following": 1703,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0513020576128",
  "party": "M",
  "email": "erik.bengtzboe@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3975
 }

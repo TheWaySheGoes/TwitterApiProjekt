@@ -1,9 +1,14 @@
 {
- "firstName": "Aylin",
  "lastName": "Fazelian",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d6bcb84c-0102-4eca-b564-c21bd7cf1f4e_max.jpg",
+ "tweets": 87,
+ "firstName": "Aylin",
+ "createdAt": "Fri Feb 28 09:40:10 +0000 2014",
+ "twitter": "AylinFazelian",
+ "followers": 275,
  "constituency": "Västra Götalands läns västra",
  "birthYear": "1992",
+ "following": 146,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0523902030928",
  "party": "S",
  "email": "aylin.fazelian@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 152
 }

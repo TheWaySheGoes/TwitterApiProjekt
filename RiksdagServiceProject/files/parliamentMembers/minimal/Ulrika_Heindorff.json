@@ -1,9 +1,14 @@
 {
- "firstName": "Ulrika",
  "lastName": "Heindorff",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/7c4e35b2-f653-4746-bb03-351abbd566eb_max.jpg",
+ "tweets": 3947,
+ "firstName": "Ulrika",
+ "createdAt": "Mon Nov 01 07:49:18 +0000 2010",
+ "twitter": "UlrikaHeindorff",
+ "followers": 717,
  "constituency": "Skåne läns västra",
  "birthYear": "1983",
+ "following": 622,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0764949934324",
  "party": "M",
  "email": "ulrika.heindorff@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 600
 }

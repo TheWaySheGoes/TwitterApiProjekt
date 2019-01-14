@@ -1,9 +1,14 @@
 {
- "firstName": "Ann-Britt",
  "lastName": "Åsebol",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/71b2ece2-dcf7-4e51-aa4c-042cca81cf1e_max.jpg",
+ "tweets": 29,
+ "firstName": "Ann-Britt",
+ "createdAt": "Fri Jun 17 11:48:17 +0000 2011",
+ "twitter": "Fiastankar",
+ "followers": 74,
  "constituency": "Dalarnas län",
  "birthYear": "1947",
+ "following": 49,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0204494765606",
  "party": "M",
  "email": "ann-britt.asebol@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3
 }

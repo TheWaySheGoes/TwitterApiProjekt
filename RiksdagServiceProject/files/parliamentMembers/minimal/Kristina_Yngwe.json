@@ -1,9 +1,14 @@
 {
- "firstName": "Kristina",
  "lastName": "Yngwe",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2cfb5b7e-ac47-45e5-84f4-6c53c047cdca_max.jpg",
+ "tweets": 3905,
+ "firstName": "Kristina",
+ "createdAt": "Mon Jul 04 11:30:01 +0000 2011",
+ "twitter": "KristinaYngwe",
+ "followers": 2635,
  "constituency": "Skåne läns södra",
  "birthYear": "1983",
+ "following": 1076,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0884738092723",
  "party": "C",
  "email": "kristina.yngwe@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 649
 }

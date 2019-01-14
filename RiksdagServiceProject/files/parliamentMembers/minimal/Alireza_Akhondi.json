@@ -1,9 +1,14 @@
 {
- "firstName": "Alireza",
  "lastName": "Akhondi",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/4099ff9c-5d27-4605-b018-98fb229d94fa_max.jpg",
+ "tweets": 590,
+ "firstName": "Alireza",
+ "createdAt": "Fri Feb 18 15:30:05 +0000 2011",
+ "twitter": "AlirezaAkhondi",
+ "followers": 378,
  "constituency": "Stockholms län",
  "birthYear": "1980",
+ "following": 322,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0364687971222",
  "party": "C",
  "email": "alireza.akhondi@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 288
 }

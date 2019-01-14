@@ -1,9 +1,14 @@
 {
- "firstName": "Monica",
  "lastName": "Haider",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6f818cd1-9a97-412f-bc59-1d1e8a2ceb19_max.jpg",
+ "tweets": 1101,
+ "firstName": "Monica",
+ "createdAt": "Fri Mar 25 17:16:05 +0000 2011",
+ "twitter": "Monicahaider",
+ "followers": 637,
  "constituency": "Kronobergs län",
  "birthYear": "1963",
+ "following": 821,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0760500234712",
  "party": "S",
  "email": "monica.haider@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 12
 }

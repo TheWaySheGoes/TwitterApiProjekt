@@ -1,9 +1,14 @@
 {
- "firstName": "Arin",
  "lastName": "Karapet",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/2658d745-0315-41b7-926c-f136a7803b88_max.jpg",
+ "tweets": 1891,
+ "firstName": "Arin",
+ "createdAt": "Sun May 19 18:24:44 +0000 2013",
+ "twitter": "KarapetArin",
+ "followers": 1602,
  "constituency": "Stockholms kommun",
  "birthYear": "1988",
+ "following": 814,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0522240580423",
  "party": "M",
  "email": "arin.karapet@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 1200
 }

@@ -1,9 +1,14 @@
 {
- "firstName": "Michael",
  "lastName": "Rubbestad",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/6025366f-76b8-4664-a3ef-ea0864fc8365_max.jpg",
+ "tweets": 715,
+ "firstName": "Michael",
+ "createdAt": "Mon May 02 12:48:07 +0000 2011",
+ "twitter": "rubbestad",
+ "followers": 953,
  "constituency": "Uppsala län",
  "birthYear": "1980",
+ "following": 194,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0694917698222",
  "party": "SD",
  "email": "michael.rubbestad@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 3671
 }

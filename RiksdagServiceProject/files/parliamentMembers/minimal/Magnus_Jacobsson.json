@@ -1,9 +1,14 @@
 {
- "firstName": "Magnus",
  "lastName": "Jacobsson",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/d7c3282f-83e4-11d4-ae60-0050040c9b55_max.jpg",
+ "tweets": 2144,
+ "firstName": "Magnus",
+ "createdAt": "Sun Feb 14 20:58:19 +0000 2010",
+ "twitter": "magnusjacobsson",
+ "followers": 738,
  "constituency": "Västra Götalands läns norra",
  "birthYear": "1968",
+ "following": 444,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0977592683711",
  "party": "KD",
  "email": "magnus.jacobsson@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 12722
 }

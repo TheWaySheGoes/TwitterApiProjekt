@@ -1,9 +1,14 @@
 {
- "firstName": "Hampus",
  "lastName": "Hagman",
  "image": "http://data.riksdagen.se/filarkiv/bilder/ledamot/88438cea-b340-48cf-8fa8-230f1a8d2ea2_max.jpg",
+ "tweets": 1084,
+ "firstName": "Hampus",
+ "createdAt": "Thu Aug 18 18:43:21 +0000 2011",
+ "twitter": "hampushagman",
+ "followers": 485,
  "constituency": "Göteborgs kommun",
  "birthYear": "1987",
+ "following": 327,
  "votes": [
   {
    "date": "2018-11-21 00:00:00",
@@ -471,5 +476,6 @@
  "id": "0435740736429",
  "party": "KD",
  "email": "hampus.hagman@riksdagen.se",
- "status": "Tjänstgörande riksdagsledamot"
+ "status": "Tjänstgörande riksdagsledamot",
+ "likes": 219
 }
