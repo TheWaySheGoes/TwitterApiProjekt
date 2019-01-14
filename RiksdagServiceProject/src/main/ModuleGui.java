@@ -45,7 +45,7 @@ public class ModuleGui implements ListSelectionListener, ActionListener, Runnabl
 	
 	private void initializeGUI() {
 		riksdagModule=new RiksdagModule(DataType.JUMBO,this,1);
-		
+		twitterModule = new TwitterModule(this);
 
 		
 		info =new JTextArea();

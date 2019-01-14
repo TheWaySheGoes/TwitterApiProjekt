@@ -138,7 +138,7 @@ public class TwitterModule implements Runnable{
 	                tweets = result.getTweets();
 
 	                for (Status tweet : tweets) {
-	                	returnString.append("{"+"@" + tweet.getUser().getScreenName() + " - " + tweet.getText() +"},");
+	                	returnString.append("{"+"\"" + tweet.getUser().getScreenName() + "\": \"text\":\"" + tweet.getText() +"\"},");
 	                   riksdagModuleGui.displayTxt("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
 	                	System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
 	                    
