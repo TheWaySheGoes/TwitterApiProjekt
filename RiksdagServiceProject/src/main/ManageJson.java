@@ -236,7 +236,7 @@ public class ManageJson {
 	}
 
 	public void writeFile(String fileName, String data) {
-		System.out.println(fileName);
+		//System.out.println(fileName);
 		try {
 			FileWriter fw = new FileWriter("files/" + fileName + ".json");
 			fw.write(data);
