@@ -1,11 +1,9 @@
 package main;
 
-import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.List;
 
 import org.json.JSONObject;
@@ -16,8 +14,6 @@ import twitter4j.Status;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
-import twitter4j.auth.AccessToken;
-import twitter4j.auth.RequestToken;
 import twitter4j.conf.ConfigurationBuilder;
 
 public class TwitterModule implements Runnable{
@@ -140,7 +136,7 @@ public class TwitterModule implements Runnable{
 	                for (Status tweet : tweets) {
 	                	returnString.append("{"+"\"" + tweet.getUser().getScreenName() + "\": \"text\":\"" + tweet.getText() +"\"},");
 	                   riksdagModuleGui.displayTxt("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
-	                	System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
+	                //	System.out.println("@" + tweet.getUser().getScreenName() + " - " + tweet.getText());
 	                    
 	                }
 	                returnString.deleteCharAt(returnString.length()-1);

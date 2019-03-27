@@ -32,7 +32,7 @@ public class ModuleGui implements ListSelectionListener, ActionListener, Runnabl
 	private Border border = BorderFactory.createLineBorder(Color.BLACK, 1);
 	private JList<String> tableList;
 	private RiksdagModule riksdagModule;
-	private TwitterModule twitterModule;
+	//private TwitterModule twitterModule;
 	
 	
 	//master branch test 1
@@ -45,8 +45,7 @@ public class ModuleGui implements ListSelectionListener, ActionListener, Runnabl
 	
 	private void initializeGUI() {
 		riksdagModule=new RiksdagModule(DataType.JUMBO,this,1);
-		twitterModule = new TwitterModule(this);
-
+		//twitterModule = new TwitterModule(this);
 		
 		info =new JTextArea();
 		info.setEditable(true);
@@ -121,23 +120,22 @@ public class ModuleGui implements ListSelectionListener, ActionListener, Runnabl
 
 		if (e.getSource() == this.btnSetIntervalRik) {
 			riksdagModule.setTimeInterval(Integer.parseInt(txtInput.getText()));
-			twitterModule.setTimeInterval(Integer.parseInt(txtInput.getText()));
+			//twitterModule.setTimeInterval(Integer.parseInt(txtInput.getText()));
 		}
 		
 		if (e.getSource() == this.btnStartRik) {
 			riksdagModule.start();
-			twitterModule.start();
+			//twitterModule.start();
 		}
 		
 		if (e.getSource() == this.btnExitRik) { 
 			riksdagModule.exit();
-			riksdagModule.exit();
+			//twitterModule.exit();
 		}
-		
 		
 		if (e.getSource() == this.btnStopRik) {
 			riksdagModule.stop();
-			twitterModule.stop();
+			//twitterModule.stop();
 		}
 	
 	}
